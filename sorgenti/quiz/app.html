@@ -83,13 +83,6 @@ button:focus-visible, input:focus-visible, select:focus-visible, .opt:focus-visi
 .fact span { font-size: .8rem; color: var(--muted); }
 
 /* Selezione argomenti e controlli segmentati */
-.topics { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr)); grid-auto-rows: 1fr; gap: 8px; }
-.tbtn { display: grid; grid-template-columns: 18px minmax(0, 1fr) auto; gap: 10px; align-items: center; text-align: left; width: 100%; height: 100%; min-height: 58px; padding: 8px 12px; border: 1.5px solid var(--line); border-radius: 8px; background: var(--surface); font-size: .86rem; line-height: 1.25; }
-.tbtn:hover { border-color: var(--muted); }
-.tbtn .box { width: 18px; height: 18px; border-radius: 4px; border: 1.5px solid var(--line); display: grid; place-items: center; font-size: .72rem; font-weight: 700; color: transparent; }
-.tbtn[aria-pressed="true"] { border-color: var(--accent); background: var(--accent-soft); }
-.tbtn[aria-pressed="true"] .box { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
-.tbtn .n { color: var(--muted); font-family: var(--font-mono); font-size: .78rem; }
 .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
 .seg button { border: 0; background: var(--surface); padding: 8px 14px; min-height: 40px; font-variant-numeric: tabular-nums; }
 .seg button + button { border-left: 1px solid var(--line); }
@@ -579,13 +572,12 @@ details.topic[open] > summary::after { content: "−"; }
   // =====================================================================
   const ui = {
     view: utente ? "home" : "login",
-    topics: new Set(Object.keys(ARGOMENTI)), nPrat: 20,   // allenamento
-    allTopics: false, multiOpen: false, discardAsk: false,
+    allTopics: false, discardAsk: false,                  // allenamento
     showGrid: false, confirm: false,                      // quiz
     filter: "ko",                                         // correzione
-    hf: "all", hIdx: null, resetAsk: false,               // risultati
+    hIdx: null, resetAsk: false,               // risultati
     tk: null, tf: "auto", prev: "home",                   // scheda argomento
-    q: "", ag: "arg",                                     // archivio
+    q: "",                                                // archivio
   };
   let timerH = null;
   let onClick = null;   // gestore dei pulsanti della vista corrente (impostato da ogni render*)
@@ -723,8 +715,6 @@ details.topic[open] > summary::after { content: "−"; }
     const rows = Object.keys(ARGOMENTI).map(k => ({ k, st: ts[k], p: ts[k] ? pct(ts[k].ok, ts[k].n) : null }))
       .sort((a, b) => (a.p === null) - (b.p === null) || (a.p ?? 0) - (b.p ?? 0) || (COUNT[b.k] || 0) - (COUNT[a.k] || 0));
     const shown = ui.allTopics ? rows : rows.slice(0, 8);
-    const selCount = DOMANDE.filter(d => ui.topics.has(d.s)).length;
-    const nSel = ui.nPrat ? Math.min(ui.nPrat, selCount) : selCount;
 
     paint(`
       <header class="mast" style="border-bottom:0;padding-bottom:4px;margin-bottom:14px">
@@ -778,35 +768,13 @@ details.topic[open] > summary::after { content: "−"; }
         </div>
         ${rows.length > 8 ? `<div class="row"><button class="linkbtn small" data-act="alltopics">${ui.allTopics ? "Mostra meno" : `Mostra tutti gli argomenti (${rows.length})`}</button></div>` : ""}
 
-        <details class="topic" id="multi" ${ui.multiOpen ? "open" : ""}>
-          <summary><strong>Esercitazione su più argomenti</strong><span class="muted small">scegli argomenti e numero di domande</span></summary>
-          <div class="stack" style="padding:0 14px 14px">
-            <div class="row small"><button class="linkbtn" data-act="all">Seleziona tutti</button><button class="linkbtn" data-act="none">Deseleziona tutti</button></div>
-            <div class="topics">
-              ${Object.entries(ARGOMENTI).map(([k, a]) => `<button class="tbtn" data-topic="${k}" aria-pressed="${ui.topics.has(k)}"><span class="box" aria-hidden="true">✓</span><span>${esc(a.nome)}</span><span class="n">${COUNT[k] || 0}</span></button>`).join("")}
-            </div>
-            <div class="row">
-              <span class="small muted">Domande</span>
-              <div class="seg" role="group" aria-label="Numero di domande">
-                ${[10, 20, 30, 0].map(n => `<button data-n="${n}" aria-pressed="${ui.nPrat === n}">${n || "Tutte"}</button>`).join("")}
-              </div>
-            </div>
-            <div class="row"><button class="btn primary" data-act="practice" ${selCount ? "" : "disabled"}>Inizia esercitazione (${nSel})</button></div>
-          </div>
-        </details>
-
         <p class="footer">${tot} domande tratte dai test e dal materiale del corso${VERSIONE ? " · versione del " + VERSIONE : ""}. I risultati sono legati al tuo nome e salvati online.</p>
       </div>
       ${tabs("home")}`);
 
-    const det = document.getElementById("multi");
-    det.addEventListener("toggle", () => { ui.multiOpen = det.open; });
-
     // ridisegna la pagina mantenendo la posizione di scorrimento
     const keep = () => { const y = window.scrollY; renderHome(); window.scrollTo(0, y); };
     onClick = b => {
-      if (b.dataset.topic) { const k = b.dataset.topic; ui.topics.has(k) ? ui.topics.delete(k) : ui.topics.add(k); return keep(); }
-      if (b.dataset.n !== undefined) { ui.nPrat = +b.dataset.n; return keep(); }
       switch (b.dataset.act) {
         case "exam": return startExam();
         case "logout": return logout();
@@ -817,13 +785,7 @@ details.topic[open] > summary::after { content: "−"; }
         case "discardno": ui.discardAsk = false; return keep();
         case "discardyes": ui.discardAsk = false; db.sess = null; save(); return keep();
         case "alltopics": ui.allTopics = !ui.allTopics; return keep();
-        case "all": ui.topics = new Set(Object.keys(ARGOMENTI)); return keep();
-        case "none": ui.topics = new Set(); return keep();
         case "mix": return startPractice(shuffle(DOMANDE.map(d => d.id)).slice(0, PRATICA_ARG_N), "Esercitazione mista");
-        case "practice": {
-          const ids = shuffle(DOMANDE.filter(d => ui.topics.has(d.s)).map(d => d.id));
-          return startPractice(ui.nPrat ? ids.slice(0, ui.nPrat) : ids, "Esercitazione");
-        }
         case "wrong": return startPractice(wrongIds(), "Ripasso errori");
       }
     };
@@ -852,7 +814,7 @@ details.topic[open] > summary::after { content: "−"; }
     const flagged = s.items.filter(x => x.flag).length;
     const revealed = !exam && it.ans !== null;
     const last = s.cur === N - 1;
-    const endLabel = exam ? "Consegna" : "Termina";
+    const endLabel = exam ? "Consegna" : "Termina";   // ultima domanda
 
     // striscia di avanzamento: una tacca per domanda fino a 60, altrimenti barra continua
     const strip = N <= 60
@@ -863,11 +825,18 @@ details.topic[open] > summary::after { content: "−"; }
     // pannello in basso: conferma consegna, correzione (esercitazione) o barra comandi
     let bottom;
     if (ui.confirm) {
-      bottom = `<div class="sheet" role="alertdialog" aria-label="Conferma consegna"><div>
+      // «end» = ultima domanda; «exit» = tasto X: consegna, esci e riprendi dopo, oppure continua
+      const exit = ui.confirm === "exit";
+      const canEnd = exam || answered > 0;
+      bottom = `<div class="sheet" role="alertdialog" aria-label="${exit ? "Uscire?" : "Conferma consegna"}"><div>
         <span class="grip"></span>
-        <div class="vhead">${exam ? "Consegnare la simulazione?" : "Terminare l'esercitazione?"}</div>
-        <p class="small">${blank ? `Hai ${blank} ${blank === 1 ? "domanda" : "domande"} senza risposta${exam ? ", che contano come errate" : ""}.` : "Hai risposto a tutte le domande."}${flagged ? ` ${flagged} segnate per dopo.` : ""}</p>
-        <div class="row"><button class="btn primary grow" style="flex:1" data-act="endyes">${endLabel}</button><button class="btn ghost" style="flex:1" data-act="endno">Continua</button></div>
+        <div class="vhead">${exit ? (exam ? "Uscire dalla simulazione?" : "Uscire dall'esercitazione?") : exam ? "Consegnare la simulazione?" : "Terminare l'esercitazione?"}</div>
+        <p class="small">${exam || !exit ? (blank ? `Hai ${blank} ${blank === 1 ? "domanda" : "domande"} senza risposta${exam ? ", che contano come errate" : ""}.` : "Hai risposto a tutte le domande.") + (flagged ? ` ${flagged} segnate per dopo.` : "") : `Hai risposto a ${answered} ${answered === 1 ? "domanda" : "domande"} su ${N}.`}${exit ? ` Se esci, ${exam ? "il tempo continua a scorrere e " : ""}la ritrovi nella pagina iniziale.` : ""}</p>
+        <div class="stack" style="gap:8px">
+          ${canEnd ? `<button class="btn primary" data-act="endyes">${exam ? "Consegna ora" : "Termina e vedi la correzione"}</button>` : ""}
+          ${exit ? `<button class="btn" data-act="home">Esci e riprendi dopo</button>` : ""}
+          <button class="btn ghost" data-act="endno">Continua</button>
+        </div>
       </div></div>`;
     } else if (revealed) {
       const right = isRight(it);
@@ -897,24 +866,24 @@ details.topic[open] > summary::after { content: "−"; }
     paint(`
       <div class="qhead">
         <div class="row">
-          <button class="iconbtn" data-act="home" aria-label="Esci: la sessione resta salvata e puoi riprenderla">${icon("close")}</button>
+          <button class="iconbtn" data-act="exit" aria-label="Esci o consegna">${icon("close")}</button>
           <div class="who">
             <span class="eyebrow">${esc(s.label)}</span>
             <strong>Domanda ${s.cur + 1} di ${N}</strong>
           </div>
-          <button class="iconbtn" data-act="grid" aria-label="Elenco delle domande" aria-pressed="${ui.showGrid}">${icon("grid")}</button>
+          ${exam ? `<button class="iconbtn" data-act="grid" aria-label="Elenco delle domande" aria-pressed="${ui.showGrid}">${icon("grid")}</button>` : ""}
           ${exam ? `<span class="timer" id="timer" aria-live="off">${fmt((s.end - Date.now()) / 1000)}</span>` : ""}
         </div>
         ${strip}
       </div>
       <div class="stack">
-        ${ui.showGrid ? `<div class="panel">
+        ${exam && ui.showGrid ? `<div class="panel">
           <div class="qgrid">${s.items.map((x, i) => {
             const cls = x.ans === null ? "" : exam ? "done" : isRight(x) ? "ok" : "ko";
             return `<button class="${cls} ${x.flag ? "flagged" : ""} ${i === s.cur ? "cur" : ""}" data-go="${i}" aria-label="Domanda ${i + 1}">${i + 1}</button>`;
           }).join("")}</div>
           <div class="legend"><span><i style="background:var(--fg)"></i>Risposta data</span><span><i style="background:var(--warn)"></i>Segnata per dopo</span></div>
-          <div class="row"><span class="small muted">${answered} risposte date su ${N}</span><span class="spacer"></span><button class="linkbtn small" data-act="end">${exam ? "Consegna ora" : "Termina esercitazione"}</button></div>
+          <p class="small muted" style="margin:0">${answered} risposte date su ${N}. Tocca un numero per andare a quella domanda.</p>
         </div>` : ""}
 
         <article class="qcard">
@@ -929,7 +898,6 @@ details.topic[open] > summary::after { content: "−"; }
             }).join("")}
           </div>
         </article>
-        ${ui.showGrid ? "" : `<div class="row"><span class="spacer"></span><button class="linkbtn small" data-act="end">${exam ? "Consegna ora" : "Termina esercitazione"}</button></div>`}
       </div>
       ${bottom}`);
 
@@ -947,7 +915,8 @@ details.topic[open] > summary::after { content: "−"; }
         case "next": return move(s.cur + 1);
         case "flag": it.flag = !it.flag; save(); return renderQuiz();
         case "grid": ui.showGrid = !ui.showGrid; return renderQuiz();
-        case "end": ui.confirm = true; return renderQuiz();
+        case "end": ui.confirm = "end"; return renderQuiz();
+        case "exit": ui.confirm = "exit"; return renderQuiz();
         case "endno": ui.confirm = false; return renderQuiz();
         case "endyes": ui.confirm = false; return finish();
         case "home": ui.confirm = false; return go("home");
@@ -995,7 +964,7 @@ details.topic[open] > summary::after { content: "−"; }
           ${barsHtml(byT, v => `${v.ok}/${v.n}`)}
           <div class="row">
             ${ko + na ? `<button class="btn primary" data-act="redo">${rifai(ko + na)}</button>` : ""}
-            ${fromHist ? "" : `<button class="btn" data-act="exam">Nuova simulazione</button><button class="btn ghost" data-act="tores">Tutti i risultati</button><button class="btn ghost" data-act="home">Torna all'inizio</button>`}
+            ${fromHist ? "" : `<button class="btn" data-act="home">Torna all'inizio</button>`}
           </div>
         </section>
 
@@ -1019,8 +988,6 @@ details.topic[open] > summary::after { content: "−"; }
       if (b.dataset.f) { ui.filter = b.dataset.f; return render(); }
       switch (b.dataset.act) {
         case "redo": return startPractice(items.filter(i => !isRight(i)).map(i => i.id), "Ripasso errori");
-        case "exam": return startExam();
-        case "tores": db.sess = null; save(); return go("risultati");
         case "home": db.sess = null; save(); return go("home");
       }
     };
@@ -1030,7 +997,7 @@ details.topic[open] > summary::after { content: "−"; }
   // Vista: Risultati (storico e statistiche per argomento)
   // =====================================================================
   function renderRisultati() {
-    const rows = db.hist.map((h, i) => ({ h, i })).filter(({ h }) => ui.hf === "all" || (ui.hf === "esame") === (h.mode === "esame"));
+    const rows = db.hist.map((h, i) => ({ h, i }));
     const sims = db.hist.filter(h => h.mode === "esame");
     const media = sims.length ? Math.round(sims.reduce((a, h) => a + h.ok / h.tot, 0) / sims.length * 100) : null;
     const best = sims.length ? sims.reduce((a, h) => h.ok / h.tot > a.ok / a.tot ? h : a) : null;
@@ -1064,15 +1031,10 @@ details.topic[open] > summary::after { content: "−"; }
           </div>
         </section>
 
-        <div class="row">
-          <h2>Test fatti</h2><span class="spacer"></span>
-          <div class="seg" role="group" aria-label="Tipo di test">
-            ${[["all", "Tutti"], ["esame", "Simulazioni"], ["pratica", "Esercitazioni"]].map(([k, l]) => `<button data-hf="${k}" aria-pressed="${ui.hf === k}">${l}</button>`).join("")}
-          </div>
-        </div>
+        <h2>Test fatti</h2>
         ${rows.length
           ? `<div class="hlist">${rows.map(histRow).join("")}</div><p class="small muted">Tocca un test per rivedere domande, risposte date e correzione.</p>`
-          : `<p class="muted">${db.hist.length ? "Nessun test di questo tipo." : "Non hai ancora concluso nessun test. Le simulazioni e le esercitazioni compariranno qui."}</p>`}
+          : `<p class="muted">Non hai ancora concluso nessun test. Le simulazioni e le esercitazioni compariranno qui.</p>`}
 
         ${hasStats ? `<section class="panel">
           <h3>Risposte corrette per argomento</h3>
@@ -1085,7 +1047,6 @@ details.topic[open] > summary::after { content: "−"; }
       </div>`);
 
     onClick = b => {
-      if (b.dataset.hf) { ui.hf = b.dataset.hf; return renderRisultati(); }
       if (b.dataset.h !== undefined) { ui.hIdx = +b.dataset.h; ui.filter = "ko"; return go("dettaglio"); }
       switch (b.dataset.act) {
         case "reset": ui.resetAsk = true; return renderRisultati();
@@ -1107,7 +1068,7 @@ details.topic[open] > summary::after { content: "−"; }
     const fc = {};
     qs.forEach(d => d.f.forEach(f => { fc[f] = (fc[f] || 0) + 1; }));
     const fonti = Object.entries(fc).sort((x, y) => y[1] - x[1]);
-    const conPdf = fonti.filter(([f]) => MAT[f]), senza = fonti.filter(([f]) => !MAT[f]);
+    const conPdf = fonti.filter(([f]) => MAT[f]);
     if (ui.tf === "auto") ui.tf = errs.length ? "ko" : "all";
     const list = ui.tf === "ko" ? errs : ui.tf === "na" ? mai : qs;
     const back = { risultati: "Torna ai risultati", archivio: "Torna all'archivio", result: "Torna alla correzione", dettaglio: "Torna alla correzione", quiz: "Torna al quiz" }[ui.prev] || "Torna all'inizio";
@@ -1138,7 +1099,6 @@ details.topic[open] > summary::after { content: "−"; }
             <strong>${esc(f)}</strong><span class="small muted mono">${c} dom.</span>
             <div class="files">${sourceLinks(f)}</div>
           </div>`).join("")}</div>` : `<p class="muted small">Nessun PDF collegato a questo argomento.</p>`}
-        ${senza.length ? `<p class="small muted">Domande tratte anche da: ${senza.map(([f, c]) => `${esc(f)} (${c})`).join(", ")}.</p>` : ""}
 
         <div class="row">
           <h2>Domande</h2><span class="spacer"></span>
@@ -1169,21 +1129,11 @@ details.topic[open] > summary::after { content: "−"; }
   // =====================================================================
   function renderArchive() {
     const q = ui.q.trim().toLowerCase();
-    const byDoc = ui.ag === "doc";
     const match = d => !q || (d.q + " " + d.o.join(" ") + " " + d.f.join(" ")).toLowerCase().includes(q);
-    let groups;
-    if (byDoc) {
-      const m = {};
-      DOMANDE.forEach(d => { if (match(d)) d.f.forEach(f => (m[f] = m[f] || []).push(d)); });
-      groups = Object.entries(m).sort((x, y) => x[0].localeCompare(y[0], "it"))
-        .map(([f, qs]) => ({ title: f, qs, top: MAT[f] ? sourceLinks(f) : `<span class="small muted">Domande tratte dai test d'esempio: nessun PDF collegato.</span>` }));
-    } else {
-      groups = Object.entries(ARGOMENTI)
-        .map(([k, a]) => ({ title: a.nome, qs: DOMANDE.filter(d => d.s === k && match(d)), top: `<button class="btn" data-tv="${k}">Apri la scheda dell'argomento: materiale ed esercitazione</button>` }))
-        .filter(g => g.qs.length);
-    }
+    const groups = Object.entries(ARGOMENTI)
+      .map(([k, a]) => ({ title: a.nome, qs: DOMANDE.filter(d => d.s === k && match(d)), top: `<button class="btn" data-tv="${k}">Apri l'argomento: materiale ed esercitazione</button>` }))
+      .filter(g => g.qs.length);
     const found = groups.reduce((n, g) => n + g.qs.length, 0);
-    const nDoc = new Set(DOMANDE.flatMap(d => d.f)).size;
 
     paint(`
       <header class="mast">
@@ -1192,20 +1142,13 @@ details.topic[open] > summary::after { content: "−"; }
       </header>
       ${tabs("archivio")}
       <div class="stack">
-        <div class="row">
-          <span class="small muted">Raggruppa</span>
-          <div class="seg" role="group" aria-label="Raggruppa le domande">
-            <button data-ag="arg" aria-pressed="${!byDoc}">Per argomento</button>
-            <button data-ag="doc" aria-pressed="${byDoc}">Per documento (${nDoc})</button>
-          </div>
-        </div>
         <input class="search" id="cerca" type="search" placeholder="Cerca una parola, es. ASET, compartimento, UNI 9795" value="${esc(ui.q)}" aria-label="Cerca nelle domande">
         ${q ? `<p class="small muted">${found} domande trovate.</p>` : ""}
         ${groups.map(g => `<details class="topic" ${q ? "open" : ""}>
           <summary><strong>${esc(g.title)}</strong><span class="muted small mono">${g.qs.length}</span></summary>
           <div class="alist">
             <div class="aitem"><div class="row">${g.top}</div></div>
-            ${g.qs.map(d => `<div class="aitem">${answerBlock(d, byDoc ? { meta: esc(topicName(d.s)) } : {})}</div>`).join("")}
+            ${g.qs.map(d => `<div class="aitem">${answerBlock(d)}</div>`).join("")}
           </div>
         </details>`).join("")}
       </div>`);
@@ -1225,7 +1168,7 @@ details.topic[open] > summary::after { content: "−"; }
         try { n.setSelectionRange(pos, pos); } catch (e) { /* ignorato */ }
       }, 200);
     };
-    onClick = b => { if (b.dataset.ag) { ui.ag = b.dataset.ag; renderArchive(); } };
+    onClick = null;
   }
 
   // =====================================================================
