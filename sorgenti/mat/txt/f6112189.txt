@@ -1,0 +1,411 @@
+                Parleremo di…
+
+-Principi fondamentali
+- Struttura della Norma
+- Le principali novità
+-Scenari per soluzioni alternative
+-Allineamento al DM 18/10/2019
+                                     POST DM 3/8/2015
+
+V.4 Uffici DM                   V.6 Autorimesse                     V.8 Attività              DM
+   8/6/16                         DM 21/2/17                      commerciali DM          14/02/2020
+                                                                     23/11/18
+
+
+
+
+                 V.5 Attività                     V.7 Scuole DM                    DM
+                ricettive DM                          7/8/17
+                   9/8/16                                                      18/10/2019
+
+
+
+
+                                                                                   V.10 Locali pubblico
+                                                                                        spettacolo
+                                                                                      V.10 … V.11…
+in vigore
+   dal
+ 5 Aprile
+  2020
+                              Schema RTV
+Lo schema base su cui sono impostate le RTV è il seguente:
+
+• CAMPO DI APPLICAZIONE
+• CLASSIFICAZIONI: in funzione di parametri come numero degli
+  occupanti, quota dei piani, posti letto, ecc.;
+• VALUTAZIONE DEL RISCHIO DI INCENDIO: effettuata secondo il
+  capitolo G.2;
+• STRATEGIA ANTINCENDIO: devono essere applicate tutte le
+  misure antincendio della regola tecnica orizzontale e le
+  soluzioni complementari o sostitutive delle soluzioni conformi
+  previste dai corrispondenti livelli di prestazione della RTO
+• ALTRO: se necessario, es. scenari per FSE, ecc…
+                    Campo di applicazione
+La regola tecnica allegata al DM
+                                                    Attività 75
+21/2/2017 reca disposizioni tecniche di          dell’allegato I al
+prevenzione incendi riguardanti le                DPR 151/2011
+attività di autorimessa con superficie
+                                        a. aree coperte des5nate al
+superiore a 300 m2                      parcamento di veicoli ove ciascun
+                                             posto auto sia accessibile
+                                             dire9amente da spazio scoperto,
+                                             o con un percorso massimo
+                                             inferiore a 2 volte l’altezza del
+       Ai fini della regola tecnica          piano di parcamento;
+           verticale, non sono
+       considerate autorimesse:              b. spazi destinati all’esposizione,
+                                             alla vendita o al deposito di veicoli
+                                             provvisti di quantitativi limitati di
+                                             carburante per la semplice
+                                             movimentazione nell’area
+                    Definizioni
+              : area coperta, con servizi annessi, destinata
+al ricovero, alla sosta e alla manovra di veicoli.
+                         autorimessa il cui uso è riservato
+ad un solo utente o ad un gruppo limitato e definito di
+utenti, con titolo ad accedervi.
+                         : autorimessa la cui utilizzazione è
+aperta alla generalità degli utenti.
+                        : autorimessa situata in edificio
+esclusivamente destinato a tale uso ed eventualmente
+adiacente ad edifici destinati ad altri usi, strutturalmente
+e funzionalmente separata da questi.
+                    Deﬁnizioni
+                     : autorimessa non rientrante nella
+tipologia di autorimessa isolata.
+                       autorimessa, o suo compartimento,
+munita di aperture di smaltimento di tipo SEa (Capitolo
+S.8) di superficie utile non inferiore al 15% della
+superficie dell'autorimessa, distribuite secondo le
+prescrizioni del paragrafo V.6.5.7.
+                     : autorimessa, o suo compartimento,
+non rientrante nella tipologia di autorimessa aperta.
+                                   : autorimessa, o suo
+compartimento, priva di elementi di separazione ai fini
+dell’organizzazione dei volumi interni.
+                     Definizioni
+                                     : superficie complessiva
+dell'autorimessa misurata al netto dello spessore delle
+pareti perimetrali, comprendente anche la superficie di
+eventuali aree TM1 non compartimentate.
+           macchina munita di motore con qualsiasi
+tipologia di alimentazione destinata al trasporto di
+persone o cose, non trasportante sostanze o miscele
+pericolose (es.: autovettura, autobus, motociclo, ciclomotore, ...)
+          : volume interno ad opera da costruzione
+destinato al ricovero, alla sosta e alla manovra dei
+veicoli, eseguita esclusivamente a mezzo di monta auto
+                : apparecchio elevatore destinato al
+trasporto di veicoli.
+Classificazioni
+
+
+
+
+   Ing. Roberta LALA – CNVVF
+                       Classificazioni
+Le aree dell'attività sono classificate come segue:
+                      Classificazioni
+Le aree comunicanti con l’attività di autorimessa sono classificate
+         Necessità della
+Valutazione del rischio di incendio
+il DM 18/10/2020 dispone al G.2.6.1
+                       Profili di rischio
+        Rvita
+     attribuito ai
+        singoli
+    compartimenti
+
+
+
+
+I profili di rischio
+sono determinati
+secondo           la
+metodologia di
+cui al capitolo
+G.3.
+                                  Profili di rischio
+
+
+
+I profili di rischio sono determinati
+secondo la metodologia di cui al capitolo
+G.3.
+
+
+
+                  Rbeni ed
+                  Rambiente
+              attribuiti all’intera
+                    attività
+      Strategia antincendio
+
+
+
+
+• V.1: Aree a rischio specifico
+• V.2: Aree a rischio per atmosfere esplosive
+                    Ing. Roberta LALA – CNVVF
+S.1 – Reazione al fuoco
+                 GM3
+                 GM2       Una volta effettuata
+                 GM1       la scelta del livello di
+                               prestazione si
+                           procede rispettando
+                            quanto indicato nel
+                             capitolo S.1 per le
+                          soluzioni conformi del
+                           livello di prestazione
+                                  attribuito
+S.1 – Reazione al fuoco
+
+
+
+
+                     Per SC (autosilo)
+                      ammessi solo
+                       materiali del
+                       gruppo GM0
+S.2 – Resistenza al fuoco
+                          Una volta
+                         effettuata la
+                      scelta del livello
+                      di prestazione si
+                           procede
+                        determinando
+                      la classe minima
+                       di resistenza al
+                       fuoco secondo
+                       quanto indicato
+                       nel capitolo S.2
+S.2 – Resistenza al fuoco
+                S.2 – Resistenza al fuoco
+ Escludendo gli autosilo (SC), la resistenza al fuoco è indipendente
+ dal fatto che l’autorimessa sia privata (SA) o pubblica (SB), o abbia
+  una determinata superficie, ma è funzione solo delle quote dei
+piani e delle aperture di smaltimento (autorimesse aperte o chiuse)
+
+
+
+
+                                                Valori minimi da
+                                               confrontare con la
+                                             valutazione effettuata
+                                             secondo il capitolo S.2
+S.3 – Compartimentazione
+                            Una volta
+                       effettuata la scelta
+                           del livello di
+                          prestazione si
+                             procede
+                       rispettando quanto
+                           indicato nel
+                        capitolo S.3 per le
+                        soluzioni conformi
+                           del livello di
+                           prestazione
+                            attribuito
+  DM 21/2/2017: la regola tecnica verticale per le autorimesse
+
+
+
+
+S.3 – Compartimentazione
+S.4 – Esodo        Si
+               applicano
+                   le
+              indicazioni
+              fornite dal
+                capitolo
+                  S.4
+S.4 – Esodo
+                           S.5 Gestione della
+                                sicurezza
+                              antincendio
+
+
+
+Una volta effettuata
+la scelta del livello di
+    prestazione si
+procede rispettando
+ quanto indicato nel
+  capitolo S.5 per le
+ soluzioni conformi
+     del livello di
+     prestazione
+      attribuito
+S.5 – Gestione della sicurezza antincendio
+S.5 – Gestione della sicurezza antincendio
+                   S.6 – Controllo dell’incendio
+
+
+
+
+Per la misura antincendio
+«Controllo dell’incendio»
+i livelli di prestazione
+sono stabiliti nel DM
+14/2/2020 in funzione al
+p.to V.4.4.5 in funzione
+della tipologia dell’area e
+della quota dei piani.
+S.6 – Controllo dell’incendio
+
+
+
+
+                       Rispetto alla RTO, i livelli di
+                        prestazione richiesti dalla
+                      RTV sono superiori e legati a
+                            quote e superfici
+Funzione
+di quote e
+ superfici
+             S.6 – Controllo dell’incendio
+S.7 – Rivelazione e allarme
+S.8 – Controllo di fumi e calore
+
+
+                               Per la misura antincendio
+                               «Controllo dell’incendio»
+                               i livelli di prestazione
+                               sono stabiliti nel DM
+                               14/2/2020 in funzione al
+                               p.to V.6.5.7 in funzione
+                               della tipologia dell’area e
+                               della quota dei piani.
+S.8 – Controllo di fumi e calore
+S.9 – Operatività antincendio
+Una volta effettuata
+ la scelta del livello
+  di prestazione si
+       procede
+rispettando quanto
+     indicato nel
+ capitolo S.9 per le
+ soluzioni conformi
+     del livello di
+     prestazione
+      attribuito
+S.10 – Sicurezza degli impianti
+   tecnologici e di servizio
+S.10 – Sicurezza degli impianti tecnologici e di servizio
+M.2 – Scenari per la verifica della capacità
+       portante in caso di incendio
+M.2 – Scenari per la verifica della capacità
+       portante in caso di incendio
+CURVE HRR
+  per i tre
+ scenari di
+ progetto
+M.2 – Scenari per la verifica della capacità
+       portante in caso di incendio
+
+
+
+
+     Tempo di propagazione
+   incendio a veicoli adiacenti
+       pari a 12 MINUTI
+M.2 – Scenari per la verifica della capacità
+       portante in caso di incendio
+                     ag a zione
+                   p
+       o   d i pro eicoli
+  Temp endio a v             2
+     inc           p a r ia1
+          a c enti
+     a d i
+             MI N     UTI
+M.2 – Scenari per la verifica della capacità
+       portante in caso di incendio
+                       ga z ione
+           d i p ropa coli
+       o               ei
+  Temp endio a v              2
+     inc            p ar ia1
+          a c  enti
+     a d i
+              MI N    UTI
+M.2 – Scenari per la verifica della capacità
+                          ione
+
+  Temp o d i portante
+             p
+              io a v
+                    g
+                    e
+                     a
+               ropa coli
+                      i
+                        z
+                               in caso di incendio
+     incen
+            d
+                   ar i a 12
+         ac enti p
+     ad i
+           MI N    UTI
+    M.2 – Scenari per la verifica della capacità
+           portante in caso di incendio
+
+
+
+
+SCENARIO S3: incendio di 4 veicoli
+posti intorno a una colonna.
+L’incendio si avvia da uno di essi,
+dopo 12 minuti si propaga a 2
+veicoli, dopo ulteriori 12 minuti si
+propaga all'ultimo veicolo; uno dei
+veicoli deve essere un autoveicolo
+commerciale.
+     M.2 – Scenari per la verifica della capacità
+            portante in caso di incendio
+
+
+
+
+SCENARIO S3: incendio di 4 veicoli
+posti intorno a una colonna.
+L’incendio si avvia da uno di essi,
+dopo 12 minuti si propaga a 2
+veicoli, dopo ulteriori 12 minuti si
+propaga all'ultimo veicolo; uno dei
+veicoli deve essere un autoveicolo
+commerciale.                           Ing. Roberta LALA – CNVVF
+     M.2 – Scenari per la verifica della capacità
+            portante in caso di incendio
+
+
+
+
+SCENARIO S3: incendio di 4 veicoli
+posti intorno a una colonna.
+L’incendio si avvia da uno di essi,
+dopo 12 minuti si propaga a 2
+veicoli, dopo ulteriori 12 minuti si
+propaga all'ultimo veicolo; uno dei
+veicoli deve essere un autoveicolo
+commerciale.
+     M.2 – Scenari per la verifica della capacità
+            portante in caso di incendio
+
+
+
+
+SCENARIO S3: incendio di 4 veicoli
+posti intorno a una colonna.
+L’incendio si avvia da uno di essi,
+dopo 12 minuti si propaga a 2
+veicoli, dopo ulteriori 12 minuti si
+propaga all'ultimo veicolo; uno dei
+veicoli deve essere un autoveicolo
+commerciale.
+M.2 – Scenari per la verifica della capacità
+       portante in caso di incendio
+

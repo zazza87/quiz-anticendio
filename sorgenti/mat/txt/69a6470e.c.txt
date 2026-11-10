@@ -1,0 +1,421 @@
+ REGOLE TECNICHE VERTICALI
+Capitolo V.6 Autorimesse
+ Campo di applicazione
+ Definizioni
+ Classificazioni
+ Valutazione del rischio di incendio
+ Strategia antincendio
+ Reazione al fuoco
+ Resistenza al fuoco
+ Compartimentazione
+ Esodo
+ Gestione della sicurezza antincendio
+ Controllo dell’incendio
+ Controllo di fumi e calore
+ Sicurezza impianti tecnologici e di servizio
+ Metodi
+ Scenari per la verifica della capacità portante in caso di incendio
+ Riferimenti
+V.6.1 Campo di applicazione
+ 1. La presente regola tecnica verticale reca disposizioni di prevenzione incendi ri-
+ guardanti autorimesse di superficie complessiva superiore a 300 m2.
+V.6.2 Definizioni
+ 1. Autorimessa: area coperta, con servizi annessi e pertinenze, destinata al ricove-
+ ro, alla sosta ed alla manovra di veicoli. Non sono considerate autorimesse le
+ aree coperte destinate al ricovero, alla sosta ed alla manovra di veicoli in cui:
+ a. ciascun posto auto sia accessibile direttamente da spazio scoperto con un
+ percorso massimo inferiore a due volte l’altezza del piano di parcamento (es.
+ box a schiera, piccole tettoie, …);
+ b. il ricovero sia destinato all’esposizione, alla vendita o al deposito di veicoli
+ provvisti di quantitativi limitati di carburante per la movimentazione
+ nell’area (es. autosaloni, …).
+ Nota Per le autorimesse costituite da più compartimenti la classificazione può essere riferita anche a un
+ singolo compartimento.
+ 2. Superficie complessiva dell’autorimessa: superficie lorda dell’autorimessa al
+ netto delle pertinenze compartimentate.
+ Nota La superficie complessiva dell’autorimessa è data dalla somma delle superfici delle aree TA, TB e
+ delle aree TM1 non compartimentate.
+ 3. Autorimessa isolata: autorimessa situata in opera da costruzione esclusivamente
+ destinata a tale uso ed eventualmente adiacente ad opere da costruzione destina-
+ te ad altri usi, strutturalmente e funzionalmente separata da queste.
+ 4. In relazione alla organizzazione delle aperture di smaltimento (capitolo S.8) le
+ autorimesse possono essere definite:
+ a. aperte: munite di aperture SEa di superficie utile non inferiore al 15% della
+ superficie lorda del compartimento, distribuite secondo le prescrizioni del
+ paragrafo V.6.5.7.
+ b. chiuse: non aperte.
+ 5. Veicolo: macchina munita di motore con qualsiasi tipologia di alimentazione
+ destinata al trasporto di persone o cose.
+ 6. Posto auto: spazio destinato al parcamento del singolo veicolo.
+ 7. Autosilo: compartimento destinato al ricovero, alla sosta ed alla manovra di vei-
+ coli, esclusivamente a mezzo di sistemi automatizzati.
+ 8. Montauto: apparecchio elevatore destinato alla movimentazione dei veicoli da e
+ verso l’autorimessa.
+Capitolo V.6 Autorimesse Pagina V.6-2
+ V.6.3 Classificazioni
+ 1. Ai fini della presente regola tecnica, le autorimesse sono classificate come se-
+ gue:
+ a. in relazione alle caratteristiche prevalenti degli occupanti:
+ SA: docc = A;
+ SB: docc = B;
+ SC: autosilo.
+ b. in relazione alla superficie lorda A:
+ AA: 300 m2 < A ≤ 1000 m2;
+ AB: 1000 m2 < A ≤ 5000 m2;
+ AC: 5000 m2 < A ≤ 10000 m2;
+ AD: A > 10000 m2.
+ c. in relazione alla quota di tutti i piani h:
+ HA: -1 m ≤ h ≤ 6 m;
+ HB: -5 m ≤ h ≤ 12 m;
+ HC: -10 m ≤ h ≤ 24 m;
+ HD: tutti i casi non rientranti nelle classificazioni precedenti.
+ 2. La classificazione HB può avere limite inferiore pari a -6 m qualora i piani di
+ parcamento siano limitati a due.
+ Nota Le classificazioni sono di tipo estensivo, ovvero le classificazioni superiori comprendono quelle
+ inferiori. Ad esempio: un’autorimessa con quota di tutti i piani h compresa tra +5 m e +10 m è
+ classificata HB, così come un’autorimessa con quota di tutti i piani h compresa tra -3 m e +3 m.
+ 3. Le aree dell’autorimessa sono classificate come segue:
+ TA: aree destinate al ricovero, alla sosta ed alla manovra di veicoli;
+ TB: aree destinate ai servizi annessi all’autorimessa.
+ Nota Ad esempio: stazioni di lavaggio, stazioni di lubrificazione, stazioni di minuta manutenzione dei
+ veicoli, guardiania ed uffici, …
+ Le aree destinate a stazioni di minuta manutenzione dei veicoli devono avere
+ una superficie lorda non superiore al 30% del compartimento in cui sono inseri-
+ te e devono essere collocate a quota superiore a -6 m.
+ Le pertinenze delle autorimesse sono classificate come segue:
+ TM1: depositi di materiale combustibile, con esclusione di sostanze o miscele
+ pericolose, con carico di incendio specifico q f ≤ 300 MJ/m2 e superficie lor-
+ da ≤ 25 m2;
+ Nota Ad esempio: aree o locali destinati a cantine di civili abitazioni, deposito cicli, …
+ TM2: depositi di materiale combustibile con carico di incendio specifi-
+ co qf ≤ 1200 MJ/m2 e superficie lorda ≤ 300 m2;
+ Nota Ad esempio: aree o locali destinati a deposito di attività di vendita, …
+ TT: locali tecnici rilevanti ai fini della sicurezza antincendio;
+ Nota Ad esempio: cabine elettriche, centrali termiche, gruppi elettrogeni.
+a21 TZ: altre aree.
+ Capitolo V.6 Autorimesse Pagina V.6-3
+V.6.4 Valutazione del rischio di incendio
+ 1. La progettazione della sicurezza antincendio deve essere effettuata attuando la
+ metodologia di cui al capitolo G.2.
+ 2. Tutti i riferimenti della RTO alla quota -5 m devono intendersi sostituiti dal rife-
+ rimento alla quota -6 m qualora i piani di parcamento siano limitati a due.
+ 3. I profili di rischio sono determinati secondo la metodologia di cui al capito-
+ lo G.3.
+ 4. Le aree TZ sono trattate in base a specifica valutazione del rischio.
+V.6.5 Strategia antincendio
+ 1. Devono essere applicate tutte le misure antincendio della regola tecnica orizzon-
+ tale attribuendo i livelli di prestazione secondo i criteri in esse definiti, fermo
+ restando quanto indicato al successivo punto 4.
+ 2. Devono essere applicate le prescrizioni del capitolo V.1 in merito alle aree a ri-
+ schio specifico e le prescrizioni delle altre regole tecniche verticali, ove perti-
+ nenti.
+ 3. Nelle autorimesse progettate e gestite secondo la presente RTV è ammesso
+ omettere le valutazioni relative alle aree a rischio per atmosfere esplosive (capi-
+ tolo V.2).
+ Nota Le eventuali perdite non prevedibili di combustibile da veicoli parcati in un’autorimessa possono
+ comportare la formazione di zone in cui si ritiene trascurabile che un’atmosfera esplosiva si pre-
+ senti (zone NP). Le zone NP, in accordo al capitolo V.2, sono considerate non pericolose.
+ 4. Nei paragrafi che seguono sono riportate le indicazioni complementari o sostitu-
+ tive delle soluzioni conformi previste dai corrispondenti livelli di prestazione
+ della RTO. Sono inoltre riportati gli scenari di progetto da impiegare per le solu-
+ zioni alternative di resistenza al fuoco nei casi specifici indicati.
+V.6.5.1 Reazione al fuoco
+ 1. Nelle aree TA non è ammesso il livello di prestazione I (capitolo S.1) ad ecce-
+ zione delle pavimentazioni.
+ Nota I rivestimenti a pavimento non sono da intendersi pavimentazioni. Sono esempi di rivestimenti a
+ pavimento: parquet, laminati, mattonelle, moquette, …
+Capitolo V.6 Autorimesse Pagina V.6-4
+ V.6.5.2 Resistenza al fuoco
+ 1. La classe di resistenza al fuoco (capitolo S.2) non può essere inferiore a quanto
+ previsto in tabella V.6-1.
+ 2. Per autorimesse isolate possono non essere rispettati i valori minimi previsti in
+ tabella V.6-1.
+ Autorimessa SA; SB
+ Autorimessa
+ Aperta Chiusa
+ HA 30 [1] 60 [2]
+ HB 60 60 [2]
+ HC 60 90
+ HD 60 90
+ [1] Classe 60 in caso di altezza antincendi dell’opera da costruzione di cui fa parte l’autorimessa > 24 m
+ [2] Classe 90 in caso di altezza antincendi dell’opera da costruzione di cui fa parte l’autorimessa > 24 m
+ Tabella V.6-1: Classi minime di resistenza al fuoco per autorimesse non isolate
+ V.6.5.3 Compartimentazione
+ 1. I locali TM1, TM2, TT e SC costituiscono compartimento distinto ad eccezione
+ delle aree TM1 inserite in compartimenti SA, AB, HB.
+ 2. Le comunicazioni con l’autorimessa sono disciplinate come indicato nella tabel-
+ la V.6-2.
+ Verso le
+ Verso compartimenti Vie d’esodo comuni
+ pertinenze
+ di altre attività con altre attività
+ Tipologia dell’autorimessa
+ autorimessa In prevalenza In prevalenza In prevalenza In prevalenza
+ TM1 [1]; TM2;
+ non aperti al aperti al aperte al non aperte al
+ TT; TZ
+ pubblico pubblico pubblico pubblico
+ Protetta come da
+a21 SA, AB, HB [2] Filtro [3] [5] Filtro [4] Filtro [5]
+ paragrafo V.6.5.2
+ Come da
+ Altre Filtro [3] Filtro [4]
+ paragrafo V.6.5.2
+ Protetta come da
+ SC Filtro [3] A prova di fumo Non ammessa alcuna comunicazione
+ capitolo S.2
+ [1] Solo se l’area TM1 è inserita in compartimento distinto.
+ [2] In caso di altezza antincendi dell’opera da costruzione di cui fa parte l’autorimessa ≤ 24 m.
+ [3] Il requisito Sa per le porte non è richiesto.
+ [4] Via d’esodo a prova di fumo proveniente dall’autorimessa.
+ [5] Per autorimesse AA la comunicazione può avvenire mediante porta E 30.
+ Tabella V.6-2: Caratteristiche minime delle comunicazioni tra compartimenti
+ V.6.5.4 Esodo
+ 1. Nei compartimenti SC non è ammessa presenza di occupanti, ad esclusione di
+ quella occasionale e di breve durata di personale addetto.
+ Capitolo V.6 Autorimesse Pagina V.6-5
+ V.6.5.5 Gestione della sicurezza antincendio
+ 1. Nelle autorimesse è vietato:
+ a. fumare;
+ b. l’uso di fiamme libere o l’esecuzione di lavorazioni a caldo (es. saldatura, ta-
+ glio smerigliatura, …) e l’effettuazione di lavorazioni pericolose ai fini
+ dell’incendio;
+ c. eseguire manutenzione, riparazioni dei veicoli o prove di motori, al di fuori
+ delle aree TB;
+ d. il deposito o il travaso di fluidi infiammabili o carburante;
+ e. la presenza di sostanze o miscele pericolose in quantità significative;
+ f. il riempimento o lo svuotamento di serbatoi di carburante;
+ g. l’accesso o il parcamento di veicoli con perdite di carburante;
+ Nota Il parcamento di veicoli con emissioni strutturali di carburante prevedibili può essere ammesso a
+ seguito di specifica valutazione del rischio (es. veicoli alimentati a GNL, …).
+ h. il parcamento di veicoli trasportanti sostanze o miscele pericolose se non in
+ presenza di specifica valutazione del rischio;
+ Nota Ad esempio i veicoli che trasportano sostanze o miscele pericolose potrebbero essere parcati in
+ compartimenti distinti costituenti area a rischio specifico (capitolo V.1).
+ i. il parcamento di un numero di veicoli superiore a quello previsto;
+ j. il parcamento di veicoli alimentati a GPL privi del sistema di sicurezza con-
+ forme al regolamento ECE/ONU 67-01 ai piani interrarti;
+ k. il parcamento di veicoli alimentati a GPL muniti del sistema di sicurezza
+ conforme al regolamento ECE/ONU 67-01 ai piani a quota inferiore a -6 m;
+ l. il parcamento di veicoli con motori endotermici non in regola con gli obbli-
+ ghi di revisione periodica a meno che non siano provvisti di quantitativi li-
+ mitati di carburante.
+ 2. Nelle autorimesse è obbligatorio:
+ a. individuare i posti auto distinti per tipologia (es. auto, moto, …) indicando
+ l’eventuale presenza di infrastrutture per la ricarica di veicoli elettrici o im-
+ pianti similari;
+ b. in presenza di montauto, esporre all’esterno dell’autorimessa, in prossimità
+ del vano di caricamento, il regolamento per l’utilizzazione dell’impianto con
+ le limitazioni e le prescrizioni di esercizio.
+a21 3. Nelle autorimesse deve essere predisposta idonea segnaletica riferita agli speci-
+ fici divieti ed obblighi da osservare.
+ Capitolo V.6 Autorimesse Pagina V.6-6
+ V.6.5.6 Controllo dell’incendio
+ 1. L’attività deve essere dotata di misure di controllo dell’incendio (capitolo S.6)
+ secondo i livelli di prestazione previsti in tabella V.6-3 per ciascun comparti-
+ mento.
+ 2. Ai fini della eventuale applicazione della norma UNI 10779, devono essere
+ adottati i parametri di progettazione minimi riportati in tabella V.6-4.
+ 3. Per la progettazione dell’eventuale impianto automatico di controllo o estinzio-
+ ne dell’incendio di tipo sprinkler secondo norma UNI EN 12845, l’alimentazio-
+ ne idrica deve essere almeno di tipo singolo superiore.
+ Autorimessa
+ Autorimessa SA SB
+ SC
+ AA AB AC AD AA AB AC AD
+ HA II [1]
+a21 II III [1] IV II III III [1] IV
+ HB III IV
+ HC; HD IV IV
+ [1] Incremento di un livello di prestazione per autorimesse chiuse.
+ Tabella V.6-3: Livelli di prestazione per il controllo dell’incendio
+ Classificazione attività Caratteristiche
+ Livello di
+ Protezione esterna alimentazione idrica
+ Superficie lorda Quota dei piani pericolosità
+ (UNI EN 12845)
+ HA, HB --- --- ---
+ AA
+ HC, HD 1 Non richiesta Singola [1]
+ HA, HB, HC 1 Non richiesta Singola [1]
+ AB
+ HD 2 Non richiesta Singola superiore [2]
+ HA, HB, HC 2 Sì [3] Singola
+ AC
+ HD 2 Sì [3] Singola superiore
+ AD Qualsiasi 3 Sì [4] Singola superiore
+ [1] Per le autorimesse SA è ammessa l’alimentazione promiscua.
+ [2] Per le autorimesse SA è ammessa l’alimentazione singola.
+ [3] Protezione esterna non richiesta se si adotta livello di pericolosità 3.
+ [4] Protezione esterna non richiesta per autorimesse isolate e completamente interrate se si adotta livello di
+ pericolosità 3.
+ Tabella V.6-4: Parametri progettuali per la rete idranti secondo UNI 10779
+ V.6.5.7 Controllo di fumi e calore
+ 1. Ciascuna apertura di smaltimento deve avere superficie utile minima commisu-
+ rata alla superficie lorda del compartimento e, comunque, non inferiore
+ a 0,2 m2.
+ 2. Almeno il 10% di SE deve essere di tipo SEa, SEb o SEc. L’uniforme distribu-
+ zione di tali aperture di smaltimento può essere verificata con R offset = 30 m.
+ 3. Nel caso di autorimesse con aperture esclusivamente di tipo SEa ed aventi altez-
+ za media hm dei locali non inferiore a 3,50 m, Roffset può essere calcolato con la
+ formula Roffset = 30 + 10 · (hm - 3,50) [m], con hm ≤ 5 m.
+ 4. Se previsto, si considera soluzione conforme uno SVOF progettato ed installato
+ in conformità al Technical Specification prCEN/TS 12101-11 o equivalente.
+ Capitolo V.6 Autorimesse Pagina V.6-7
+a21 5. In presenza di box auto privi di aperture di smaltimento, gli eventuali serramenti
+ devono essere provvisti di aperture in alto e in basso di superficie utile comples-
+ siva non inferiore a 1/100 della superficie lorda in pianta del box.
+ V.6.5.8 Sicurezza impianti tecnologici e di servizio
+ 1. Se l’accesso avviene tramite montauto, l’autorimessa deve essere dotata di rive-
+ lazione ed allarme di livello di prestazione III. La funzione secondaria G
+ dell’IRAI deve essere tale da comandare il riallineamento in sicurezza del mon-
+ tauto al piano.
+ Nota I possibili piani di riallineamento in emergenza devono essere previsti in fase di progettazione in
+ funzione degli scenari di incendio ipotizzabili.
+a21 2. Se la movimentazione di veicoli con montauto avviene con occupanti a bordo,
+ devono essere garantiti i seguenti requisiti minimi:
+ a. la dimensione della cabina consenta l’apertura delle porte per l’abbandono
+ del veicolo in caso necessità ed il movimento degli occupanti, anche in rela-
+ zione alle specifiche necessità degli stessi;
+ b. presenza di sistemi di apertura automatica delle porte di cabina e di piano, in
+ caso di emergenza;
+ c. rispondenza ai requisiti di sicurezza previsti per gli ascensori per il trasporto
+ di persone (norme della serie EN 81 o equivalenti);
+ d. installazione di sistema di comunicazione bidirezionale per permettere agli
+ occupanti di segnalare la loro presenza e richiedere assistenza;
+ e. il montauto costituisca compartimento distinto oppure sia inserito in aree TA
+ provviste di misure di controllo dell’incendio con livello di prestazione IV;
+ f. il montauto sia dotato di alimentazione di sicurezza ad interruzione breve
+ (≤ 0,5 s) ed autonomia ≥ 30’.
+a21 3. La progettazione del sistema d’esodo in presenza di montauto con occupanti a
+ bordo deve essere effettuata impiegando i metodi quantitativi di cui al capito-
+ lo M.3 della RTO.
+ Nota Ad esempio il progettista tiene conto dei tempi aggiuntivi di allarme, pre-movimento e movimen -
+ to degli occupanti in relazione almeno agli scenari di incendio interno o esterno al montauto.
+ Capitolo V.6 Autorimesse Pagina V.6-8
+V.6.6 Metodi
+V.6.6.1 Scenari per la verifica della capacità portante in caso di incendio
+ 1. Ai fini dell’applicazione dei metodi dell’ingegneria della sicurezza antincendio,
+ possono essere adottate le indicazioni di seguito riportate.
+ 2. Possono essere impiegati gli scenari d’incendio di progetto (capitolo M.2) de-
+ scritti nel presente paragrafo per le autorimesse aventi le seguenti caratteristi-
+ che:
+ a. autorimesse aperte le cui aperture di smaltimento costituiscano almeno
+ il 50% della superficie complessiva della facciata su cui sono attestate;
+ b. autorimesse con compartimenti fuori terra organizzate senza box auto.
+ 3. Per la definizione degli incendi naturali di progetto, si considerano le curve
+ RHR(t) di cui alle tabelle V.6-5, V.6-6, V.6-7 in cui il tempo è riferito all’istante
+ d’innesco del veicolo.
+ 4. Con riferimento alla disposizione tipica di parcheggio all’interno di un’autori-
+ messa, il tempo di propagazione dell’incendio da un veicolo al veicolo adiacen-
+ te può essere assunto pari a 12 minuti.
+ 5. Gli scenari di incendio di progetto da impiegare (illustrazione V.6-1) sono i se-
+ guenti:
+ a. scenario S1: caratterizzato dall’incendio di un autoveicolo commerciale in
+ corrispondenza della mezzeria della trave o del solaio;
+ b. scenario S2: caratterizzato dalla propagazione simmetrica dell’incendio a
+ partire dall’autoveicolo centrale con un tempo di ritardo dell’innesco pari a
+ 12 minuti, coinvolgendo complessivamente 7 veicoli. Tra questi deve essere
+ prevista la presenza di un autoveicolo commerciale posto al centro, quindi
+ incendiato per primo, o di fianco al primo autoveicolo innescato;
+ c. scenario S3: caratterizzato dall’incendio di 4 veicoli posti intorno ad una co-
+ lonna. L’incendio si avvia da uno di essi, dopo 12 minuti si propaga a 2 vei-
+ coli, dopo ulteriori 12 minuti si propaga all’ultimo veicolo; uno dei veicoli
+ deve essere un autoveicolo commerciale.
+ 6. Gli scenari descritti sono adattati caso per caso in relazione ad eventuali confor-
+ mazioni particolari del piano di parcamento.
+ 7. Nell’illustrazione V.6-2 si riportano a titolo esemplificativo le curve RHR(t) nel
+ caso dello scenario di incendio di progetto S3, supponendo che il secondo vei-
+ colo ad incendiarsi sia un autoveicolo commerciale.
+ 8. Nel caso di adozione di modelli di incendio numerici semplificati dell’Euroco-
+ dice UNI EN 1991-1-2 rappresentativi di incendi localizzati, gli stessi vanno ap-
+ plicati con le seguenti prescrizioni, in assenza di indicazioni più precise:
+ Nota Ad esempio, un utile riferimento di dettaglio è costituito dal metodo LOCAFI.
+ a. per la determinazione della temperatura di una colonna ci si riferisce cautela-
+ tivamente al riscaldamento della trave posta sulla sua sommità;
+ a. per gli scenari S2 ed S3, nel caso di modello di incendio localizzato con
+ fiamma non impattante il soffitto, la definizione del flusso termico necessa-
+ ria per il modello di riscaldamento degli elementi strutturali è condotta cau-
+ telativamente con riferimento all’incendio con fiamma impattante il soffitto.
+Capitolo V.6 Autorimesse Pagina V.6-9
+ 9. In caso di presenza di sistemi di controllo dell’incendio di tipo automatico,
+ all’istante tx di entrata in funzione dell’impianto automatico (capitolo M.2):
+ a. le curve di progetto di cui alle tabelle V.6-5, V.6-7 possono essere ridotte fi-
+ no al 50% della potenza termica indicata, mantenendo l’analogo andamento
+ temporale;
+ b. può essere escluso l’effetto di propagazione dell’incendio ad altri autoveico-
+ li.
+ Nota A differenza degli incendi di materiali in deposito, la carrozzeria degli autoveicoli influenza l’effi-
+ cacia dei sistemi automatici di controllo dell’incendio; pertanto la curva di rilascio della potenza
+ termica non può essere limitata al valore raggiunto dall’incendio all’istante t x di attivazione degli
+ stessi sistemi ma si possono comunque ridurre percentualmente i valori della potenza termica rila-
+ sciata, conservandone lo stesso andamento nel tempo. Utili riferimenti sono acquisibili dalla nor-
+ ma prEN 12101-11.
+Capitolo V.6 Autorimesse Pagina V.6-10
+Tempo dopo l’innesco [s] 0 240 960 1440 1500 1620 2280 4200
+ RHR(t) [kW] 0 1400 1400 5500 8300 4500 1000 0
+Tabella V.6-5: Curva RHR(t) per autoveicolo (primo innesco; carico di incendio pari a 6789 MJ)
+Tempo dopo l’innesco [s] 0 60 600 960 1020 1140 1800 3720
+ RHR(t) [kW] 0 2400 2400 5500 8300 4500 1000 0
+Tabella V.6-6: Curva RHR(t) per autoveicolo (propagazione al successivo veicolo; carico di incendio
+ pari a 6747 MJ)
+Tempo dopo l’innesco [s] 0 300 900 1500
+ RHR(t) [kW] 0 18000 18000 0
+Tabella V.6-7: Curva RHR(t) per autoveicolo commerciale (primo innesco e propagazione al
+ successivo veicolo; carico di incendio pari a 18900 MJ)
+ Scenario S1
+ Scenario S3
+ Scenario S2
+Illustrazione V.6-1: Schematizzazione degli scenari di incendio di progetto
+ 20000
+ 18000
+ 16000
+ 14000
+ 12000
+ V1
+ RHR [kW]
+ 10000
+ 8000 V2
+ 6000 V3 com.
+ 4000 V4
+ 2000
+ 0
+ 10000
+ 1000
+ 2000
+ 3000
+ 4000
+ 5000
+ 6000
+ 7000
+ 8000
+ 9000
+ 0
+ tempo [s]
+Illustrazione V.6-2: Curve RHR(t) per lo scenario S3
+Capitolo V.6 Autorimesse Pagina V.6-11
+a21 V.6.7 Riferimenti
+ 1. Si indicano i seguenti riferimenti bibliografici in merito al controllo di fumi e
+ calore nelle autorimesse:
+ a. prCEN/TR 12101-11 “Smoke and heat control systems. Part 11: Indoor ve-
+ hicle parks”;
+ b. BS 7346-7:2013 “Components for smoke and heat control systems. Code of
+ practice on functional recommendations and calculation methods for smoke
+ and heat control systems for covered car parks”;
+ c. CEN TC 191 SCI WG9 prEN TS 12101-11 nineteenth draft SHVC car parks
+ 10-6-2015;
+ d. UNI 9494-2 “Sistemi per il controllo di fumo e calore - Parte 2: Progettazio-
+ ne e installazione dei Sistemi di Evacuazione Forzata di Fumo e Calore
+ (SEFFC)” Appendice H (informativa) “Requisiti dei sistemi meccanici per
+ lo smaltimento del fumo e del calore di emergenza”.
+ e. Arrêté du 9 mai 2006 “Approbation de dispositions complétant et modifiant
+ le règlement de sécurité contre les risques d’incendie et de panique dans les
+ établissements recevant du public (parcs de stationnement couverts) (ERP)”,
+ Francia;
+ f. prCEN/TS 12101-11 “Smoke and heat control systems Part 11: Horizontal
+ flow powered ventilation systems for enclosed car parks”;
+ g. Directorate-General for Research and Innovation (European Commission)
+ “Temperature assessment of a vertical steel member subjected to localised
+ fire (LOCAFI)”, 2018;
+ Capitolo V.6 Autorimesse Pagina V.6-12
+

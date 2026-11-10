@@ -1,0 +1,133 @@
+                                      TRACCIA
+• EDIFICIO ISOLATO, DUE DEPOSITI COMPARTIMENTATI
+• COMBUSTIBILI/INFIAMMABILI (4400 MQ + 350 SOPPALCO/600 MQ)
+• PILASTRI C.A. TRAVI C.A.P.
+• DISTANZA MINIMA DAL CONFINE M 20, DA ALTRO EDIFICIO M 45
+• DUE ACCESSI CARRABILI DA M 6
+• N. 8 U.E. DA mm 900
+• LUNGO LE PARETI LUNGHE APERTURE M 86X2 + LUCERNAI IN POLICARBONATO TOTALE 40X1
+• PERSONALE, 15 DEP COMB, 10 DEP INF, 30 UFFICI PIANO SOPPALCATO
+• DUE SCALE DA mm 800 DA SOPPALCO, GRADINO cm 28X17,5
+• PRESENTE IMPIANTO AD IDRANTI UNI 45 E UN IDRANTE ESTERNO UNI 70, RIV FUMO IN DEP INF
+• PRESENTE SENFC IN DEP INF
+• L’EDIFICIO E’ ALTO POCO PIU’ M 10
+          RBENI=RAMBIENTE=1
+
+
+
+S.1 REAZIONE AL FUOCO NON SIGNIFICATIVA
+                (TAB S.1-1)
+
+
+        S.2 RESISTENZA AL FUOCO
+                (TAB S.2-1)
+10/600=0,017
+45/4750=0,01
+               qf,d = δq1 · δq2 · δn · q
+Si deve garantire l’esodo degli occupanti!!!
+SI CONSIDERI:
+• L’EDIFICIO E’ ALTO POCO PIU’ M 10
+• DOVRA’ ESSERE GARANTITA UNA RESISTENZA AL FUOCO DI 30 MIN
+• S.2.8.1 Le deformazioni ed espansioni imposte o impedite dovute ai
+  cambiamenti di temperatura per effetto dell’esposizione al fuoco
+  producono sollecitazioni indirette, forze e momenti nei singoli
+  elementi strutturali, che devono essere tenuti in considerazione, ad
+  eccezione dei seguenti casi:
+• a. è riconoscibile a priori che esse sono trascurabili o favorevoli;
+• b. i requisiti di sicurezza all’incendio sono valutati in riferimento ad
+  una curva nominale d’incendio di cui al paragrafo S.2.7.
+          Rivelazione ed allarme                   0,85
+Soluzione conforme al livello III di prestazione
+ATTENZIONE:
+GLI ADDETTI ANTINCENDIO NON SONO PRESENTI H 24
+qf,d = δq1 · δq2 · δn · q
+carico d’incendio specifico di progetto
+
+Deposito combustibili
+qf,d = 306 Mj/mq
+deposito infiammabili
+qf,d = 1772 Mj/mq
+ATTENZIONE!
+DEVO GARANTIRE
+SOLO RESISTENZA AL
+FUOCO 30 MIN PER
+QUANTO      DETTO
+NELLA SCELTA DEL
+LIVELLO         DI
+PRESTAZIONE II
+
+PER LA PARETE DI
+SEPARAZIONE TRA I
+DUE       DEPOSITI
+INVECE DEVO AVERE
+REI 120
+                 DISTANZA DA UN ALTRO EDIFICIO
+Esercitiamoci!
+
+
+
+
+                                                                                           H 10,5
+
+
+
+
+                 p=(2x0,9x2 + 5x4 + 75x2)/(78-3)(10-2,5) distanza=d=αxp + β vedi tabella
+                 qf<600Mj/mq (basterebbe spazio scoperto) p 0,31 α 3,1 β 6,1  d= 7,1
+
+                 Hi = 10-2,5 = 7,5 Bi = 78 - 3 = 75
+                                       α 3,1 β 6,1
+Hi = 10-2,5 = 7,5   Bi = 78 - 3 = 75
+PARETE REI 120 COME DA qf,d
+
+COMUNICAZIONE E-Sa 120 COME
+DA S.3.7.2
+30+   ?   ?
+200
+          6 2
+
+
+          =2 2
+
+
+
+
+NON CI SONO CORRIDOI CIECHI
+4,55 X 50 = 227,50 mm
+Le scale sono da 800 mm!!!
+         30
+                   soppalco
+Non ci sono c.c.
+CONTROLLO DELL’INCENDIO S.6
+Attribuito un livello III ad
+entrambi i depositi
+SEGNALI, SIRENE..
+
+
+
+
+  Chiusura portone
+    SENFC
+  GSA
+combustibili
+
+               Infiammabili
+               SENFC
+                         Dep comb finestrature
+                         lunghe laterali + diversi
+                         lucernai in copertura
+
+
+
+
+ATTENZIONE AL R OFFSET
+20 metri in genere
+> 4400/40 = 110 mq
+ UNI 9494
+COLLEGATO AD IRAI
+Lo avevamo già deciso!!!
+Livello III operatività
+     antincendio
+Ovviamente ci sono
+anche gli altri impianti
+

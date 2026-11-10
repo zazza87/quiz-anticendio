@@ -1,0 +1,248 @@
+ associazione
+ Parte seconda
+ DECRETO 20 DICEMBRE 2012
+Regola tecnica di prevenzione incendi per gli impianti di
+protezione attiva contro l'incendio installati nelle attività
+soggette ai controlli di prevenzione incendi
+ (GU del 3/1/2013) Entrato in vigore 4 aprile 2013
+ 1
+ associazione
+Il decreto disciplina la progettazione , la costruzione, l’esercizio e la
+ manutenzione degli impianti di protezione attiva o Sistemi di
+ protezione attiva contro l’incendio.
+ La sua importanza non riguarda solo l’aspetto tecnico della realizzazione degli
+impianti antincendio, ma anche la documentazione da predisporre e presentare
+ (o tenere a disposizione) per i controlli. Sotto questo aspetto è essenziale per il
+ rispetto del DPR 151/11 e del DM 7 agosto 2012.
+ Tipologia di impianti
+ •gli impianti di rivelazione incendio e segnalazione allarme incendio;
+ • gli impianti di estinzione o controllo dell’incendio, di tipo automatico o manuale;
+ •gli impianti di controllo del fumo e del calore.
+ 2
+ associazione
+ Art. 1 - finalità
+La progettazione, la costruzione, l'esercizio e la manutenzione degli
+ impianti di protezione attiva contro l'incendio
+ 1. installati nelle attività soggette ai controlli di prevenzione
+ incendi, qualora previsti da specifiche regole tecniche in
+ materia
+ 2. richiesti dai Comandi provinciali dei vigili del fuoco
+ nell'ambito dei procedimenti di prevenzione incendi
+ 3
+ associazione
+Art. 2 - Campo di applicazione
+ 4
+ associazione
+Modifiche sostanziali: ove non diversamente definito,
+ - modifica della tipologia dell’impianto originale
+ - modifica dell’estensione della sua dimensione tipica oltre il 50%
+ dell’originale.
+Esempio: esistente – impianto rilevazione fumo con 20 rilevatori
+ ampliamento – impianto rilevazione fumo con 31 rilevatori (20+11)
+ 5
+ associazione
+ Dimensione tipica e tipologia impianto
+• Tipologia dell’impianto: natura dell’impianto o dell’agente estinguente
+ utilizzato
+• Dimensione tipica dell’impianto:
+– Per la rete idranti si rimanda a quanto riportato dalla norma UNI 10779;
+– Per i sistemi di rilevazione ed allarme incendio s’intende il numero di
+ apparecchi di rilevamento o segnalazione;
+– Per i sistemi di controllo o estinzione ad acqua tipo sprinkler, spray e
+ simili, s’intende il numero di erogatori;
+– Per i sistemi di estinzione di tipo speciale (gas, schiuma, polvere, ecc…)
+ s’intende la quantità di agente estinguente;
+– Per gli impianti di controllo del fumo e del calore si intende la superficie
+ utile totale di evacuazione per i sistemi di evacuazione naturale e la
+ portata volumetrica aspirata per i sistemi di evacuazione forzata;
+ 6
+ associazione
+ Art. 2 comma 2 - esclusioni
+• Attività D.Lgs. 105/2015 e s. m. i. (RIR)
+• edifici di interesse storico - artistico destinati a biblioteche ed
+ archivi, e quelli destinati a musei, gallerie, esposizioni e
+ mostre.
+• impianti di distribuzione stradale di G.P.L. e di metano per
+ autotrazione
+• depositi di G.P.L. fissi e depositi di G.P.L. mobili > di 5000 kg.
+• Depositi di soluzioni idroalcoliche
+ 7
+ associazione
+La regola dell’arte come definita dal
+ decreto
+ 8
+ associazione
+ LE NOVITA’
+ Il DM 20 dicembre 2012 finalmente fa chiarezza su
+ alcuni aspetti inerenti la “progettazione,
+ costruzione, l’esercizio e la manutenzione degli
+1 impianti di protezione attiva installati nelle
+ attività soggette ai controlli di prevenzione
+ incendi”
+ Il decreto di fatto sancisce l’utilizzo delle norme 2
+ tecniche di progettazione rilasciate ed emanate da
+ “Enti di normazione nazionali, europei ed
+ internazionali”, abrogando di fatto, tutte le
+ disposizioni di legge in palese contrasto con le
+ stesse 9
+ associazione
+ Elaborati tecnici da presentare ai fini della
+ valutazione dei progetti di prevenzione incendi
+Ai fini della valutazione del progetto dell’attività, gli impianti di protezione attiva
+contro l'incendio previsti nella documentazione tecnica di cui all’allegato I del
+decreto del Ministero dell’interno 7 agosto 2012, dovranno essere documentati
+come segue:
+ specifica dell'impianto che si
+ intende realizzare
+ secondo norme nazionali Realizzato secondo norme emanate da
+ o europee organismi internazionalmente riconosciute
+ A firma di tecnico
+ abilitato A firma di professionista antincendio
+ 10
+ associazione
+Tecnico abilitato: professionista iscritto in albo
+professionale che opera nell’ambito delle proprie
+competenze
+Professionista antincendio: professionista
+iscritto in albo professionale che opera
+nell’ambito delle proprie competenze e che sia
+iscritto negli appositi elenchi del Ministero
+dell'Interno di cui all’art. 16 del D.L.vo 139/2006
+ 11
+ associazione
+ NOVITA’
+Il DM fissa un importante paletto sui compiti
+consentiti ai tecnici abilitati (cioè iscritti in albo
+professionale) e quelli invece di sola competenza
+per i “professionisti antincendio”, iscritti cioè alle
+liste del ministero dell’Interno. Di fatto la
+progettazione degli impianti (e ovviamente
+trasformazione e ampliamento) fatta secondo le
+norme UNI può essere eseguita da ambedue le
+figure così distinte, lasciando però la possibilità di
+utilizzare “norme internazionalmente riconosciute”
+(es. NFPA, FM, ecc.) solo ai professionisti
+antincendio.
+ 12
+ associazione
+Quindi se da un lato il decreto apre
+chiaramente e senza alcuna possibilità di
+respingimento alle norme internazionali
+(ma solo se “seguita in ogni sua parte”),
+dall’altra richiede che ciò venga fatto
+esclusivamente da professionisti
+competenti, in grado di comprendere e
+interpretare in ogni aspetto i dettami
+normativi imposti da tali norme.
+ 13
+associazione
+ 14
+ associazione
+Elaborati tecnici
+da produrre ai fini
+della SCIA
+ 15
+ associazione
+ Documentazione tecnica impianti da presentare
+ ai fini della SCIA di prevenzione incendi
+ impianto
+ Realizzato secondo
+Realizzato secondo Installato in attività norme emanate da
+norme nazionali o per le quali si è organismi
+ europee applicato la internazionalmente
+ Fire Safety riconosciute
+ Engineering
+ (D.M. 9-5-2007)
+ 16
+ associazione
+ Realizzato secondo norme nazionali
+ o europee
+ Impianto
+ Ricadente Non Ricadente
+D.M. 37/08 D.M. 37/08
+ Eseguito dopo del
+ 4/4/2013
+ SI NO
+ MOD. PIN 2.4 – 2012 DICH. IMP. MOD. PIN 2.5 – 2012 CERT.IMP.
+ A firma di impresa installatrice A firma di professionista
+ antincendio
+ Dich . conformità
+ art. 7 D.M. 37/08
+ 17
+ Realizzato secondo norme emanate da organismi associazione
+ internazionalmente riconosciute o per le quali si è applicato
+ la Fire Safety Engineering
+ (D.M. 9-5-2007)
+ Impianto
+ Ricadente Non Ricadente
+D.M. 37/08 D.M. 37/08
+ Eseguito dopo del
+ 4/4/2013
+ si no
+ MOD. PIN 2.4 – 2012 DICH. MOD. PIN 2.5 – 2012
+ IMP. A firma di impresa CERT.IMP. A firma di
+ installatrice professionista antincendio
+ dich.conformità
+ art. 7 D.M. 37/08 18
+ associazione
+ Sull’installazione si segnala che questa dovrà avvenire
+ conformemente alla regola dell’arte specifica per l’impianto e che al
+ termine la ditta installatrice dovrà consegnare al titolare dell’attività
+tutta la documentazione di legge, quella prevista dalla regola dell’arte
+e il manuale di uso e manutenzione dell’impianto redatto in italiano.
+Si rileva che il manuale deve essere sempre predisposto anche in caso
+ di lavori su impianti esistenti.
+ 19
+ associazione
+ Rete di idranti per attività regolamentate da
+ specifiche disposizioni di prevenzione incendi
+ Per le attività regolamentate da provvedimenti emanati prima
+ della pubblicazione del decreto 20-12-12 si applica :
+• Norma UNI 10779
+• I parametri di progettazione vengono integrati
+ rispetto alla norma UNI 10779 nella tabella 1.
+ 20
+associazione
+ 21
+associazione
+ 22
+ associazione
+Analisi e Confronto - Scuole
+ 23
+ associazione
+Analisi e Confronto –Autorimesse
+ 24
+ associazione
+Alimentazioni gruppi idrici antincendio punto 9.6.1 UNI 12845 :
+Alimentazioni idriche singole
+Alimentazioni gruppi idrici antincendio punto 9.6.2 UNI 12845 :
+Alimentazioni idriche singole superiori
+Alimentazioni gruppi idrici antincendio punto 9.6.3 UNI 12845:
+Alimentazioni idriche doppie
+ 25
+ associazione
+ Rete di idranti per attività non
+ regolamentate
+ La necessità di prevedere l’installazione di una rete
+idranti, i livelli di pericolosità, le tipologie di
+protezione, nonché le caratteristiche
+dell‘alimentazione idrica, ai fini dell’applicazione
+della norma UNI 10779, sono stabiliti dal progettista
+nell’ambito della valutazione del rischio d’incendio
+ 26
+ associazione
+ Impianti sprinkler D.M. 20-12-12
+ Si applica :
+• UNI EN 12845
+• Altre norme di organismi di standardizzazione
+ internazionalmente riconosciuti nel settore
+ antincendio
+ 27
+ associazione
+Tabella 2 D.M. 20-12-12
+ 28
+ associazione
+Altri impianti di protezione attiva
+ contro gli incendi
+ 29
+

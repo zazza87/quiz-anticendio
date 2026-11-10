@@ -1,0 +1,326 @@
+Ministero dell’Interno
+Dipartimento dei Vigili del Fuoco
+del Soccorso pubblico
+e della Difesa Civile
+
+
+
+
+                           Comando VV.F.
+                             Venezia
+
+                       Ing. Alessandro Scarpa
+      CORSO BASE DI SPECIALIZZAZIONE IN
+                PREVENZIONE INCENDI
+Finalizzato all’iscrizione dei professionisti negli elenchi
+                 del Ministero dell’Interno
+ (D.M. 5 AGOSTO 2011, art. 4 – Agg. Nota DCPREV
+                  15480 del 16/10/2019)
+
+APPLICAZIONE DI SOLUZIONI ALTERNATIVE PER I
+     LIVELLI DI PRESTAZIONE SEZIONE S –
+          STRATEGIA ANTINCENDIO
+        SOLUZIONI ALTERNATIVE
+
+•Riepilogo soluzioni alternative per la sezione S – Strategia
+antincendio
+•Esempio applicativo soluzione alternativa capitolo S.2
+resistenza al fuoco;
+•Esempio applicativo soluzione alternativa capitolo S.3
+compartimentazione;
+•Esempio applicativo soluzione alternativa capitolo S.7
+rivelazione e allarme
+         SOLUZIONI ALTERNATIVE
+             G.2.6.5.2 Applicazione di soluzioni alternative
+
+•Sono proposte nei pertinenti paragrafi della Strategia
+antincendio e delle RTV, oppure è possibile proporre specifiche
+soluzioni alternative con i metodi di cui al p.to G.2.7
+•Il progettista che fa ricorso alle soluzioni alternative è tenuto a
+dimostrare il raggiungimento del collegato livello di prestazione,
+impiegando uno dei metodi di progettazione della sicurezza
+antincendio ammessi per ciascuna misura antincendio tra quelli
+del paragrafo G.2.7
+•L’impiego di soluzioni alternative è consentito solo nelle
+attività con valutazione del progetto
+          Metodi di progettazione
+    della sicurezza antincendio (G.2.7)
+Il progettista può utilizzare i metodi per la progettazione
+    antincendio per:
+
+•   verifica delle soluzioni alternative al fine di
+    dimostrare il raggiungimento del collegato livello di
+    prestazione;
+•   verifica del livello di prestazione attribuito alle misure
+    antincendio al fine di dimostrare il raggiungimento dei
+    pertinenti obiettivi di sicurezza antincendio.
+          Metodi di progettazione
+    della sicurezza antincendio (G.2.7)
+
+•    Applicazione di norme o documenti tecnici;
+
+•    Soluzioni progettuali che prevedono l’impiego di
+     prodotti o tecnologie di tipo innovativo;
+
+•    Ingegneria della sicurezza antincendio;
+
+•    Prove sperimentali condotte secondo protocolli
+     standardizzati oppure condivisi con la DCPREV.
+Argomenti
+               SOLUZIONI IN DEROGA
+                G.2.6.5.3 Applicazione di soluzioni in deroga
+1. Se non possono essere efficacemente applicate né le soluzioni
+    conformi, né le soluzioni alternative, il progettista può ricorrere
+    al procedimento di deroga secondo le procedure previste dalla
+    vigente normativa.
+2. Il progettista che sceglie le soluzioni in deroga è tenuto a
+    dimostrare il raggiungimento dei pertinenti obiettivi di
+    prevenzione incendi di cui al paragrafo G.2.5, impiegando uno
+    dei metodi di progettazione della sicurezza antincendio previsti
+    al paragrafo G.2.8.
+• 3. Tutte le disposizioni del presente documento, incluse quelle
+   definite nelle regole tecniche verticali, possono diventare oggetto
+   di procedimento di deroga.
+                SOLUZIONI IN DEROGA
+       G.2.8 Metodi aggiuntivi di progettazione della sicurezza antincendi
+
+
+1. Per la verifica di soluzioni in deroga (paragrafo G.2.6.5.3), al fine
+   di dimostrare il raggiungimento dei pertinenti obiettivi di
+   prevenzione incendi indicati al paragrafo G.2.5, il professionista
+   antincendio può impiegare i metodi per la progettazione della
+   sicurezza antincendio di cui alla tabella G.2-1 ed i metodi
+   aggiuntivi della tabella G.2-2
+               S1 REAZIONE AL FUOCO
+
+Sono ammesse soluzioni alternative per tutti i livelli di
+prestazione impiegando uno dei metodi di cui al paragrafo
+G.2.7 Ingegneria della sicurezza antincendio
+
+Es.: ridotta produzione di fumi e calore, ausilio impianti di
+protezione attiva: precoce rivelazione, rapido intervento
+              S2 RESISTENZA AL FUOCO
+
+Livello di prestazione I
+•compartimentazione rispetto ad altre costruzioni
+Soluzioni conformi o alternative livello di prestazione II della
+misura antincendio compartimentazione (Capitolo S.3);
+
+•verifica dell’assenza di danneggiamento ad altre
+costruzioni
+dimostrare analiticamente che il meccanismo di collasso
+strutturale in condizioni di incendio non arrechi danni ad altre
+costruzioni o all’esterno del confine dell’area su cui sorge
+l’attività.
+                            S2 RESISTENZA AL FUOCO
+Oggetto della soluzione                         Modalità progettuali (generalmente accettate)
+                              Si dimostri analiticamente che il meccanismo di collasso dell’opera da costruzione
+                              sia di tipo implosivo utilizzando, ad esempio, uno o più degli accorgimenti tecnici di
+                              seguito elencati che consentano di guidare la modalità di collasso:
+
+
+                              •adozione di criteri di gerarchia di resistenza al fuoco (es. assegnazione di
+                              sovraresistenza al fuoco alle strutture perimetrali dell’opera da costruzione rispetto
+ Verifica dell’assenza di     a quelle interne, …);
+  danneggiamento ad           •distribuzione spaziale dei carichi di incendio verso zone interne;
+          altre               •adozione di forme strutturali convenienti (es. con inclinazione verso
+       costruzioni            •l’interno, …);
+                              •adozione di elementi chiave in posizione opportuna;
+                              •impiego di sistemi automatici per il controllo dell’incendio a disponibilità superiore;
+                              •impilaggio piramidale dei materiali combustibili stoccati;
+                              •adozione di vincoli che agevolino il collasso implosivo.
+             S2 RESISTENZA AL FUOCO
+
+Livello di prestazione II
+•compartimentazione rispetto ad altre costruzioni
+Come livello I;
+•verifica dell’assenza di danneggiamento ad altre
+costruzioni
+Come livello I;
+•Mantenimento della capacità portante in condizioni
+d’incendio per un periodo sufficiente all’evacuazione degli
+occupanti in luogo sicuro all’esterno della costruzione.
+La capcità portante deve essere comunque tale da garantire un
+margine di sicurezza tmarg ≥ 100% RSET e comunque ≥ 15
+minuti
+Verifica in base a scenari d’incendio di progetto rappresentati
+da curve naturali d’incendio secondo il paragrafo S.2.6
+                          S2 RESISTENZA AL FUOCO
+     Livello di prestazione III
+     •Sono ammesse soluzioni alternative
+     Verifica in base a scenari d’incendio di progetto rappresentati
+     da curve naturali d’incendio secondo il paragrafo S.2.6;
+     •Capacità di compartimentazione all’interno dell’attività
+     Sono possibili soluzioni alternative, la verifica può essere
+     effettuata solo con metodi prescrittivi (tabelle, sperimentale o
+     normativo) riferiti, quindi, alle curve d’incendio nominali;
+
+     È necessario dimostrare il raggiungimento del collegato livello
+     di prestazione impiegando uno dei metodi di cui al paragrafo
+     G.2.7.
+  Oggetto della soluzione                         Modalità progettuali (generalmente accettate)
+  Verifica della capacità di     Il progettista valuta l’impiego di sistemi di controllo dell’incendio a disponibilita
+compartimentazione all’interno   superiore al fine di dimostrare la capacita di compartimentazione interna (es.
+          dell’attività          sistemi a lame d’acqua, sistemi di controllo del fumo e calore, …)
+               S2 RESISTENZA AL FUOCO
+
+Livello di prestazione IV e V
+•Sono ammesse soluzioni alternative
+Oltre alle verifiche richieste per il livello III (paragrafo S.2.4.8)
+devono essere verificati i parametri di danneggiamento e di
+funzionalita previsti dal progettista e dalla committenza (nel
+rispetto delle NTC);
+
+Si rende necessario valutare istante per istante gli stati
+deformativi e confrontarli con i limiti imposti dalle norme
+tecniche e/o dal committente.
+
+È necessario dimostrare il raggiungimento del collegato livello
+di prestazione impiegando uno dei metodi di cui al paragrafo
+G.2.7.
+           S2 RESISTENZA AL FUOCO
+
+
+
+      CIRCOLARE DCPREV 9962 24 LUGLIO 2020
+
+    Decreto 3 agosto 2015 e s.m.i. – Capitolo S.2 –
+Implementazione di soluzioni alternative di resistenza al
+       fuoco. Chiarimenti e indirizzi applicativi
+             S3 COMPARTIMENTAZIONE
+
+
+Sono ammesse soluzioni alternative per tutti i livelli
+
+È necessario dimostrare il raggiungimento del collegato livello
+di prestazione impiegando uno dei metodi di cui al paragrafo
+G.2.7.
+
+Il codice fornisce alcune modalità generalmente accettate per
+la progettazione di soluzioni alternative
+                                S3 COMPARTIMENTAZIONE
+
+    Oggetto della soluzione                             Modalità progettuali (generalmente accettate)
+Caratteristiche dello spazio           Si dimostri, anche con modelli analitici, che non avviene propagazione
+scoperto (§ S.3.5.1), del              dell’incendio e dei suoi effetti nella configurazione considerata.
+compartimento, del filtro (§
+S.3.5.3), dell’ubicazione (§
+S.3.9)
+Compartimento a prova di fumo          Si dimostri che e comunque garantita la salvaguardia della vita degli occupanti
+(§ S.3.5.2), filtro a prova di fumo    (Capitolo M.3) e, se applicabile, la protezione dei beni.
+(§ S.3.5.4), compartimentazione
+multipiano         (§      S.3.6.2),
+comunicazioni (§ S.3.10)
+
+Distanza di separazione (§             Si dimostri che è limitata la propagazione dell’incendio e dei suoi effetti. Procedura
+S.3.8) e suo calcolo (§ S.3.11)        analitica S.3.11.3, impiegando ad esempio Esoglia adeguato al bersaglio, F2-1 e
+                                       piastra radiante nella reale configurazione geometrica, E1 riferita all’incendio
+                                       naturale. Possono essere anche impiegati modelli numerici di simulazione
+                                       dell’incendio, dei suoi effluenti e dell’irraggiamento.
+                         S4 ESODO
+
+
+Sono ammesse soluzioni alternative per tutti i livelli
+
+È necessario dimostrare il raggiungimento del collegato livello
+di prestazione impiegando uno dei metodi di cui al paragrafo
+G.2.7.
+
+N.B. non sono previste soluzioni conformi per il livello II, solo
+soluzioni alternative
+
+Il codice fornisce alcune modalità generalmente accettate per
+la progettazione di soluzioni alternative
+    Oggetto della soluzione                           Modalità progettuali (generalmente accettate)
+Caratteristiche del luogo sicuro     Si dimostri che tali luoghi non siano investiti da effetti dell’incendio che
+(§ S.4.5.1)                          determinano condizioni incapacitanti per gli occupanti.
+Caratteristiche del luogo sicuro     Si dimostri che tali luoghi non siano investiti da effetti dell’incendio che
+temporaneo (§ S.4.5.2), delle        determinano condizioni incapacitanti durante l’esodo degli occupanti.
+vie d’esodo (§ S.4.5.3)
+Caratteristiche delle porte (§       Si dimostri, anche tramite descrizione, come nella specifica attività il
+S.4.5.7), numero minimo uscite       sovraffollamento localizzato alle uscite sia reso improbabiile grazie a specifiche
+indipendenti (§ S.4.8.1)             misure gestionali dell’esodo
+Disposizione dei posti a sedere      Si dimostri che la diversa disposizione consente di effettuare l’esodo in un tempo
+(§ S.4.5.11)                         non superiore a quello di riferimento e senza ostacoli
+Numero minimo vie d’esodo            Si dimostri che sia improbabile che l’esodo degli occupanti possa essere impedito
+indipendenti      (§     S.4.8.1),   dall’incendio lungo il corridoio cieco o negli ambiti collegati
+corridoio ciechi (§ S.4.8.2)
+
+Lunghezze d’esodo (§ S.4.8.3)        Si dimostri che diverse lunghezze d’esodo consentono comunque di abbandonare
+                                     il comparimento di primo innesco prima che l’incendio determini condizioni
+                                     incapacitanti per gli occupanti
+Lunghezze delle vie d’esodo          Si dimostri che diverse lunghezze delle vie d’esodo sono adeguate agli occupanti
+orizzontali (§ S.4.8.7), delle vie   che le impiegano, grazie al basso affollamento effettivo che non determina la
+d’esodo verticali (§ S.4.8.8),       formazione di code, per specifiche misure gestionali che rendano improbabili
+delle uscite finali (§ S.4.8.9)      condizioni di sovraffollamento localizzato
+Tutti i casi                         Si dimostri il raggiungimento degli obiettivi di sicurezza per gli occupanti
+                                     impiegando i metodi del capitolo M3 e le informazioni reperibili nei riferimenti (§
+                                     S.4.12.)
+         S5 GESTIONE SICUREZZA ANTINCENDIO
+ Sono ammesse soluzioni alternative per tutti i livelli
+
+ È necessario dimostrare il raggiungimento del collegato livello
+ di prestazione impiegando uno dei metodi di cui al paragrafo
+ G.2.7.
+
+ Il codice fornisce alcune modalità generalmente accettate per
+ la progettazione di soluzioni alternative
+
+Oggetto della soluzione                    Modalità progettuali (generalmente accettate)
+                          Si applichi volontariamente all’attività un sistema di gestione di salute e sicurezza
+       Qualsiasi          nei luoghi di lavoro (SGSSL) (es. secondo linee guida UNI INAIL, norma UNI ISO
+                          45001,…), nel rispetto dei livelli di prestazione.
+                            S6 CONTROLLO DELL’INCENDIO
+       Sono ammesse soluzioni alternative per tutti i livelli
+
+       È necessario dimostrare il raggiungimento del collegato livello
+       di prestazione impiegando uno dei metodi di cui al paragrafo
+       G.2.7.
+
+       Il codice fornisce alcune modalità generalmente accettate per
+       la progettazione di soluzioni alternative
+    Oggetto della soluzione                         Modalità progettuali (generalmente accettate)
+Reti di idranti (§ S.6.8)           Si descriva come gli incendi, specifici dell’ambito considerato, possano essere
+                                    controllati manualmente, impiegando altre soluzioni impiantistiche o altre
+                                    procedure operative..
+Sistemi automatici di inibizione,   Si descriva come gli incendi, specifici dell’ambito considerato, possano essere
+controllo o estinzione              inibiti, controllati o estinti automaticamente, impiegando altre soluzioni
+dell’incendio (§ S.6.9)             impiantistiche o altre procedure operative. Ad esempio, qualora si abbia una
+                                    configurazione non prevista dalla norma UNI EN 12845, il progettista può ricorrere
+                                    alla NFPA 13.
+            S7 RIVELAZIONE E ALLARME
+Sono ammesse soluzioni alternative per tutti i livelli
+È necessario dimostrare il raggiungimento del collegato livello
+di prestazione impiegando uno dei metodi di cui al paragrafo
+G.2.7.
+Il codice fornisce alcune modalità generalmente accettate per
+la progettazione di soluzioni alternative
+          S8 CONTROLLO FUMI E CALORE
+Sono ammesse soluzioni alternative per tutti i livelli
+
+È necessario dimostrare il raggiungimento del collegato livello
+di prestazione impiegando uno dei metodi di cui al paragrafo
+G.2.7.
+
+Il codice fornisce alcune modalità generalmente accettate per
+la progettazione di soluzioni alternative
+S8 CONTROLLO FUMI E CALORE
+           S9 OPERATIVITÀ ANTINCENDIO
+Sono ammesse soluzioni alternative per tutti i livelli
+
+È necessario dimostrare il raggiungimento del collegato livello
+di prestazione impiegando uno dei metodi di cui al paragrafo
+G.2.7.
+
+Il codice fornisce alcune modalità generalmente accettate per
+la progettazione di soluzioni alternative
+S9 OPERATIVITÀ ANTINCENDIO
+          S10 SICUREZZA DEGLI IMPIANTI
+Sono ammesse soluzioni alternative alle sole prescrizioni
+riportate al paragrafo S.10.6.
+
+Il progettista deve dimostrare il soddisfacimento degli obiettivi
+di sicurezza di cui al paragrafo S.10.5 impiegando uno dei
+metodi del paragrafo G.2.7
+Grazie
+

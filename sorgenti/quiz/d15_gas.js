@@ -1,0 +1,20 @@
+// Blocco 15 – Impianti di spegnimento a gas secondo UNI EN 15004 (Milan).
+const GA = "Presentazione Milan – Impianti di spegnimento a gas (UNI EN 15004)";
+D("h80","s6",[GA],"L'agente estinguente IG-541 è una miscela di:",["Azoto 52%, argon 40%, anidride carbonica 8%.","Azoto 50% e argon 50%.","Solo argon."]);
+D("h81","s6",[GA],"L'agente estinguente IG-01 è:",["Argon.","Azoto.","Una miscela azoto-argon al 50%."]);
+D("h82","s6",[GA],"L'agente estinguente IG-100 è:",["Azoto.","Argon.","Anidride carbonica."]);
+D("h83","s6",[GA],"L'agente estinguente IG-55 è:",["Una miscela di azoto 50% e argon 50%.","Azoto puro.","Argon puro."]);
+D("h84","s6",[GA],"Gli agenti estinguenti a gas inerte (IG-01, IG-55, IG-100, IG-541) hanno:",["Potenziale di riduzione dell'ozono (ODP) e di riscaldamento globale (GWP) pari a zero.","ODP elevato.","GWP superiore a quello dell'Halon 1301."]);
+D("h85","s6",[GA],"Il fluido FK-5-1-12, rispetto agli HFC, ha:",["GWP pari a 1 e vita in atmosfera di pochi giorni.","GWP di circa 3800.","ODP pari a 12."]);
+D("h86","s6",[GA],"La norma UNI EN 15004 riguarda sistemi a saturazione totale che usano gas:",["Non elettricamente conduttivi, che non lasciano residui, con efficienza e sicurezza validate da ente terzo; esclusa la CO2.","Inclusi i sistemi a CO2.","Per la soppressione delle esplosioni."]);
+D("h87","s6",[GA],"La «concentrazione di progetto» di un sistema a gas è:",["La concentrazione di spegnimento maggiorata di un fattore di sicurezza (+30%).","La concentrazione minima di spegnimento senza fattori di sicurezza.","La concentrazione raggiunta dopo lo scarico di tutto l'estinguente."]);
+D("h88","s6",[GA],"Il «tempo di mantenimento» (hold time) è:",["Il periodo in cui la concentrazione raggiunta resta superiore a quella di spegnimento per il rischio considerato.","Il tempo di scarica degli ugelli.","Il tempo tra allarme e scarica."]);
+D("h89","s6",[GA],"Il «volume netto» da proteggere è:",["Il volume racchiuso dagli elementi costruttivi, escluso il volume degli elementi costruttivi impermeabili al suo interno.","Il volume lordo del locale.","Il volume dei soli arredi."]);
+D("h90","s6",[GA],"Il NOAEL indica:",["La massima concentrazione a cui non sono stati osservati effetti avversi tossicologici o fisiologici.","La minima concentrazione con effetti avversi osservati.","La concentrazione di spegnimento."]);
+D("h91","s6",[GA],"Il LOAEL indica:",["La concentrazione minima alla quale è stato osservato un effetto tossicologico o fisiologico nocivo.","La massima concentrazione senza effetti.","La concentrazione di progetto."]);
+D("h92","s6",[GA],"Gli agenti chimici fluorurati (chemical agent), esposti all'incendio:",["Si decompongono producendo fluoruro di idrogeno.","Non si decompongono in alcun caso.","Producono solo vapore d'acqua."]);
+D("h93","s6",[GA],"Per i sistemi a gas, i calcoli idraulici si eseguono:",["Alla temperatura nominale di 20 °C, con software validato da ente terzo.","A temperatura ambiente qualsiasi, a mano.","A 0 °C."]);
+D("h94","s6",[GA],"I collettori delle bombole di un impianto a gas devono essere collaudati idraulicamente a una pressione pari a:",["1,5 volte la pressione di esercizio.","2 volte la pressione di esercizio.","La pressione di esercizio."]);
+D("h95","s6",[GA],"Secondo la presentazione, un impianto a CO2 rispetto ai gas chimici e inerti:",["Non è utilizzabile in aree occupate.","È il più indicato per aree normalmente occupate.","Non richiede ricollaudo delle bombole."]);
+D("h96","s6",[GA],"Un'«area non occupabile» ai fini dei sistemi a gas è:",["Un ambiente in cui nessun essere umano può essere presente per ragioni dimensionali o impedimenti fisici fissi.","Un ambiente occupato solo di notte.","Un ufficio chiuso a chiave."]);
+D("h97","s6",[GA],"Ogni cambiamento del volume, delle condizioni operative o del contenuto del locale protetto da un sistema a gas:",["Può modificare la concentrazione di progetto originale.","Non ha effetti sull'impianto.","Richiede solo l'aggiornamento della segnaletica."]);

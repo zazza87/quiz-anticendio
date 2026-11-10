@@ -1,0 +1,1295 @@
+IL CONTROLLO DEL FUMO E CALORE CON
+          SISTEMI FORZATI
+     NEL CODICE P.I. E NELLE NORME VOLONTARIE
+IL CONTROLLO DEL FUMO E CALORE CON
+SISTEMI ORIZZONTALI
+FORZATI (SVOF)
+NEL CODICE P.I. E
+NELLE NORME VOLONTARIE
+                          Pierenrico Varuzza
+                Technical manager – Bovema Italia Srl
+                             pier.varuzza@bovema.it
+                                02 7063 3807 int. 009
+
+
+
+
+                                                 2
+CAPITOLO S.8 (RTO) - SOLUZIONI CONFORMI
+
+
+
+
+                                          3
+CAPITOLO S.8 – LIV. PREST. II - Obiettivi
+
+
+
+
+                                            4
+CAPITOLO S.8 – LIV. PREST. II - Requisiti
+
+
+
+
+           Nessuna indicazione per
+            il dimensionamento              5
+CAPITOLO S.8 – SOLUZIONI ALTERNATIVE
+3. In tabella S.8-3 sono riportate alcune modalità generalmente accettate per la progettazione di soluzioni alternative. Il
+   progettista può comunque impiegare modalità diverse da quelle elencate.
+                 Oggetto della soluzione        Modalità progettuale
+                 Aperture di smaltimento di     Si dimostri, anche con metodi analitici, che i soccorritori possano smaltire fumo e
+                 fumo e calore d'emergenza (§   calore dell'incendio nella configurazione considerata o grazie ad un impianto di
+                 S.8.5)                         smaltimento meccanico.
+
+                                                Possono essere impiegati i metodi di progettazione descritti nell'Appendice G
+                                                "Smaltimento di fumo e calore di emergenza" della norma UNI 9494-1 e
+                                                nell'Appendice H "Requisiti dei sistemi meccanici per lo smaltimento del fumo e
+                                                calore di emergenza" della norma UNI 9494-2.
+                 Distribuzione uniforme delle   Sia garantita l'accessibilità protetta per i soccorritori a tutti i piani dell'attività e la
+                 aperture di smaltimento        disponibilità in prossimità di attrezzature e dispositivi di protezione antincendio, oppure
+                 (§ S.8.5.3)                    si dimostri il raggiungimento degli obiettivi di sicurezza per i soccorritori impiegando i
+                                                metodi di cui al capitolo M.3.
+                 Caratteristiche degli SVOF     In assenza di norme, TS o TR adottati dall'ente nazionale di normazione, possono
+                 (§ S.8.6)                      essere utilizzati i principi di progettazione e le modalità di installazione e gestione
+                                                contenute in prCEN/TS 12101-11.
+                 Tutti i casi                   Si dimostri il raggiungimento degli obiettivi di sicurezza per gli occupanti ed i
+                                                soccorritori impiegando i metodi di cui al capitolo M.3.
+
+                 Tabella S.8-3: Modalità progettuali per soluzioni alternative
+                                                                                                                                               6
+RTO – COMMENTI AI SISTEMI MECCANICI
+
+
+    • I principi della CEN/TS 12101-11 possono essere adottati come
+      soluzione alternativa, come indicato nella RTO, per realizzare
+      un S.V.O.F. in un ambiente generico (tra cui ad esempio le
+      autorimesse RTV-6).
+
+
+
+
+                                                                       7
+RTO – COMMENTI AI SISTEMI MECCANICI
+
+   La stessa norma per la soluzione conforme e alternativa ?
+
+    • Le condizioni tenibili devono essere valutate, se si agisce in soluzione alternativa . E
+      qui rientrano alcune considerazioni sull’altezza minima dei fumi, unitamente a quelle
+      sulla temperatura. In generale si applica la tabella S.8.3.
+
+    • Se invece si utilizza integralmente la norma UNI CEN/TS 12101-11, le condizioni di
+      tenibilità si considerano automaticamente soddisfatte.
+             In questo caso siamo in SOLUZIONE CONFORME.
+             Applicazione tipica: le AUTORIMESSE (RTV.6).
+
+    • In soluzione alternativa quindi il progettista ha l’onere di dimostrare il
+      raggiungimento degli obiettivi di sicurezza, utilizzando i metodi del capitolo M.3.
+
+
+                                                                                                 8
+Tabella M.3-3
+Soglie di prestazione per il calcolo semplificato
+    IN SOLUZIONE ALTERNATIVA IL PROGETTISTA DEVE VALUTARE LE CONDIZIONI TENIBILI
+
+    Ad esempio con il calcolo semplificato proposto nel cap. M.3:
+
+
+
+
+   Per condizioni più severe si deve utilizzare il calcolo avanzato (sempre cap. M.3)
+                                                                                        9
+Tabella M.3-3
+Soglie di prestazione per il calcolo avanzato
+
+
+
+
+Metodo basato
+su 4 modelli
+
+
+
+
+                                                10
+CAPITOLO V.6 – AUTORIMESSE
+
+
+
+
+                             Non compare il livello
+                             di prestazione III
+
+
+
+
+                                            11
+12
+UNI CEN/TS 12101-11: 2022
+
+  0.2   SCOPI DEI SISTEMI DI CONTROLLO DEL FUMO
+
+
+  • Fornire un accesso sufficientemente libero dal fumo per i VVF fino ad un
+    punto prossimo al focolaio;
+
+  • Proteggere le vie di fuga;
+  • Assistere i VVF nello smaltimento del fumo dall’autorimessa.
+
+                                                                           13
+UNI CEN/TS 12101-11: 2022
+                                        Appendice B (normativa)
+             Progetto di ventilazione orizzontale senza analisi CFD - Sistema con Jet Fans
+
+  B.1. INTRODUZIONE
+  Se un SCFC soddisfa le condizioni di questa Appendice B, si ritiene soddisfi i requisiti di prestazione di
+  questa specifica tecnica.
+
+
+
+                       CONDIZIONI DI APPLICABILITÀ
+                      Altezza max del locale 3 m
+                   Larghezza max del locale 64 m
+                           Jet fan con spinta 50 N ± 10%
+                                vmax di uscita 24 m/s
+                   CONDIZIONI LIMITATIVE
+                                                                                                      14
+UNI CEN/TS 12101-11: 2022 JET FANS
+
+                         A       A       B
+
+                             D
+                     C
+
+
+
+                     E
+
+
+          Supply *   D                             Exhaust
+
+
+
+
+                                     A: 30 > 40m
+                                     B: > 30m
+                                                             15
+                                     C: 12 > 16m
+                                     D: < 21 E
+UNI CEN/TS 12101-11: 2022 ALTRE LIMITAZIONI
+
+ Afflusso d’aria
+
+ B.2.3.2 La massima velocità al punto di entrata nella zona di attivazione non dovrebbe superare
+ 2 m/s.
+
+ B.2.3.3 Le aperture di afflusso e quelle di espulsione dovrebbero essere su pareti opposte.
+ Nessun’altra aperture è consentita.
+
+ B.2.3.4. Le entrate d’aria dovrebbero essere spaziate in modo da consentire all’aria di fluire
+ uniformemente su tutta la larghezza dell’autorimessa:
+                   Win = 55 ÷ 80 % WCP (In funzione di WCP) [condizione severa]
+
+
+                                                                                              16
+UNI CEN/TS 12101-11: 2022 ALTRE LIMITAZIONI
+  Minimum average downstream air velocity in the total perpendicular cross section with jet fans
+
+
+
+
+                                                                                           17
+ESEMPIO – Autorimessa interrata
+
+
+
+
+            PIANO
+            TERRA                 18
+ ESEMPIO – Autorimessa interrata
+
+
+
+
+PIANO PRIMO INTERRATO – 5090 m2
+                                   19
+  ESEMPIO – Autorimessa interrata
+
+
+
+
+PIANO SECONDO INTERRATO – 5310 m2
+                                    20
+SCENARIO 1 - PRIMO PIANO – ZONA 1
+
+
+
+                                    FORZATO
+                                    (56 300)
+
+
+
+       188 000/2
+
+
+       188 000/2
+
+                                    NATURALE
+                                    (131 500)
+
+
+
+
+                                       21
+                 SCENARIO 2 - PRIMO PIANO – ZONA 2
+
+
+
+
+                                            273 435/2
+AFFLUSSO
+NATURALE
+(273 435 m3/h)
+                                           273 435/2
+
+
+
+
+                                              22
+UNI 9494-2 – APPENDICE H
+
+        SMALTIMENTO DI FUMO E CALORE IN MODALITÀ MECCANICA
+
+
+
+
+        LIVELLO PREST. II Smaltimento in emergenza di fumo e calore
+
+
+                                                                      23
+UNI 9494-2 – APPENDICE H
+
+
+     DIMENSIONAMENTO DELLO SMALTIMENTO DI FUMO E CALORE FORZATO
+
+
+
+
+                                                                  24
+UNI 9494-2 – APPENDICE H
+
+     DIMENSIONAMENTO DELLO SMALTIMENTO DI FUMO E CALORE FORZATO
+
+
+
+
+                                                                  25
+UNI 9494-2 – APPENDICE H
+
+                                  CONFRONTO TRA I DUE SISTEMI
+
+
+                       APP. H (SCENARIO 1 e 2)          EN 12101-11 (SCENARIO 1 e 2)
+                 QTOT 23,2 m3/s = 83 520 m3/h           273 435 m3/h
+ Area di afflusso aria 66,08 m2                         64,07 m2
+  Velocità di afflusso 0,35 m/s ca.                     < 2 m/s
+                    Y non richiesto                     non richiesto
+ n. punti aspirazione N/A                               N/A
+ Impatto economico - 47% circa                          Valore di riferimento
+
+
+
+
+                                                                                       26
+Riassunto delle idee principali
+
+     • La RTO dà soluzioni applicabili ovunque, quindi copre una casistica più ampia della RTV.
+     • Però la RTO non dà indicazioni DIMENSIONALI per SVOF in soluzione conforme.
+     • Viene indicata la EN 12101-11, applicabile però solo in locali più bassi di 3 m.
+     • La 12101-11 in modalità CONFORME presenta pesanti limitazioni applicative.
+     • D’altra parte, in modalità ALTERNATIVA richiede approfondimenti complessi.
+     • La stessa RTO indica però interessanti soluzioni ALTERNATIVE « per locali più alti di 3 m»
+       (es. App. H) non soggette ad ulteriori approfondimenti.
+
+
+
+
+                                                                                                    27
+Ipotesi di percorso progettuale per controllo del fumo
+forzato in livello di prestazione II
+
+
+    • Il progettista anzitutto dovrebbe esplorare le possibilità offerte dalla RTO.
+    • Nella RTO, verificare l’applicabilità delle soluzioni alternative.
+    • In particolare, ci sono le soluzioni alternative QUALIFICATE (App. G e App. H).
+    • L’App. H non ha limitazioni di utilizzo, deriva da una norma e può essere applicata a una
+       vasta tipologia di locali, sia più alti che più bassi (con valutazioni) di 3 m. L’appendice H è
+       comunque in via di revisione.
+
+    • In particolare, la app. H può essere applicata alle autorimesse, in soluzione alternativa,
+       esattamente come a tutte le altre attività, anche se esiste (ma solo sulla carta) una
+       soluzione conforme.
+
+                                                                                                         28
+Progettare il controllo del fumo
+       con metodi ingegneristici.
+Il caso di una struttura ricettiva
+
+
+
+
+                               29
+Struttura ricettiva
+         a 5 stelle
+
+
+
+                 30
+IL COMPLESSO
+
+
+
+
+               31
+L’EDIFICIO IN ESAME
+
+
+
+
+                      32
+L’EDIFICIO IN ESAME
+
+
+
+
+                      33
+L’EDIFICIO IN ESAME
+
+
+
+
+                      34
+                CARATTERISTICHE DELL’EDIFICIO
+
+
+Edificio ad uso albergo, composto da 1 piano interrato, 1 piano terra e 5 piani
+fuori terra, totale 7 piani. L’ultimo piano (piano attico) è occupato da privata
+abitazione e non è soggetto al controllo del fumo e calore.
+
+Al piano interrato è presente un’autorimessa, anche questa non interessata dal
+controllo del fumo e calore.
+
+L’intero edificio è percorso per tutta la sua altezza da un vano scale elicoidale
+non compartimentato. Il vano scale è posto in posizione centrale ad ogni piano;
+da esso si dipartono tre corridoi posti approssimativamente a 120°.
+
+
+
+                                                                                   35
+PROGETTO DI RISTRUTTURAZIONE
+
+
+
+
+                               36
+PROGETTO DI RISTRUTTURAZIONE
+
+                         PIANO TERRA
+
+
+
+
+                       Nuovo vano scale
+
+
+
+
+                                          37
+PROGETTO DI RISTRUTTURAZIONE
+
+            PIANI FUORI TERRA
+
+         Nuovo vano scale
+
+
+
+
+                                38
+PROGETTO DI RISTRUTTURAZIONE
+
+
+
+
+                               39
+            OBIETTIVI DEL CONTROLLO DEL FUMO
+
+
+(1).   Smaltimento/evacuazione efficace ai singoli piani, compreso il piano terra;
+
+(2).   Limitare la propagazione del fumo da un piano all’altro, in particolare a causa
+       della posizione del vano scale centrale;
+
+(3).   Limitare che il fumo si accumuli nei pressi delle uscite di sicurezza;
+
+(4).   Comportare un impatto estetico accettabile.
+
+
+
+
+                                                                                     40
+CASO TIPICO
+
+di applicazione del controllo
+del fumo per pressurizzazione
+del vano scale
+
+MA …
+
+
+
+
+                           41
+VANO SCALE NON DELIMITATO
+
+Pressurizzazione
+non ipotizzabile
+
+
+
+
+                            42
+RIFERIMENTI
+NORMATIVI
+DISPONIBILI
+
+
+
+
+              43
+L’EDIFICIO
+
+
+
+
+             44
+45
+46
+47
+FIRE SAFETY ENGINEERING
+
+
+
+
+                          48
+     FIRE SAFETY ENGINEERING
+
+
+Non esistendo nel panorama normativo documenti tecnici
+direttamente utilizzabili per la progettazione di un caso
+particolare come quello in esame, il progetto preliminare del
+sistema di controllo del fumo, sviluppato con la FSE, è stato
+verificato con una simulazione basata sulla computazione
+fluidodinamica (CFD).
+
+
+
+                                                                49
+                   STRATEGIA E SCENARI
+Il sistema proposto si basa sull’ipotesi che l’incendio si potrà innescare in un
+solo piano alla volta (unicità del focolaio). Per questa ragione il sistema di
+controllo del fumo è progettato per controllare i fumi che si sviluppano in un
+unico piano alla volta, anche se sarà in grado di intervenire in un qualsivoglia
+piano.
+Conseguentemente l’azionamento del sistema di controllo del fumo sarà
+attivato da un sistema di allarme a zone.
+
+Si individuano due zone, corrispondenti ai distinti scenari di incendio possibili:
+          Scenario 1: incendio nella hall;
+          Scenario 2: incendio a un piano qualsiasi, innescato in una delle
+          camere, con fumi che si propagano nel rispettivo corridoio.
+
+                                                                                 50
+LAYOUT DEL SISTEMA
+
+
+
+
+                     51
+52
+53
+Modulo motorizzato per
+azionamento delle entrate
+d’aria alle estremità dei
+corridoi.
+Il modulo è conforme alla
+UNI EN 12101-3 e alla
+circ. MIN. INT. n. 0004096.
+del 12-03-2020.
+
+
+
+
+                              54
+        SISTEMA DI AZIONAMENTO E CONTROLLO
+
+Il sistema di azionamento si avvale di un quadro di comando e controllo (QCC)
+in grado di controllare lo stato operativo di ogni componente del sistema e di
+azionarlo coerentemente con lo scenario di incendio che si sarà verificato.
+
+Il QCC deve essere in grado di farsi carico della potenza necessaria ad
+alimentare i ventilatori nel caso più sfavorito, fatta salva la gestione delle
+contemporaneità.
+
+Il QCC deve essere alimentato da un impianto elettrico di emergenza, separato
+dall’impianto standard ed adeguatamente protetto contro l’incendio; sarà
+posizionato in luogo protetto e di facile accesso per le squadre di soccorso.
+
+
+
+                                                                                 55
+       SISTEMA DI AZIONAMENTO E CONTROLLO
+
+L’energia per l’impianto elettrico di emergenza deve provenire da fonte
+secondaria indipendente.
+
+Il QCC è gestito da un PLC che pilota lo stato dei singoli componenti in
+emergenza e in manutenzione, secondo una logica configurabile.
+
+L’azionamento automatico dei sistemi di controllo del fumo può dare
+luogo a report che potranno essere esportati per facilitare la ricerca
+guasti e documentare le operazioni di manutenzione periodica.
+
+
+
+                                                                         56
+                                      Ventilatori afflusso aria   Serrande di controllo del fumo
+                                                                                                   Barriere di controllo del fumo
+
+
+
+     Serrande per afflusso aria
+
+
+
+
+                                                                                                                             Attuatori
+
+
+
+
+Ventilatori ad impulso (JET FAN)
+
+                                                                                                                       Serrande tagliafuoco
+
+
+
+
+                                                          QUADRO DI
+                                                          COMANDO E
+                                                          CONTROLLO
+
+
+
+                                                                                                       I.R.A.I.                     57
+                                   EFFC volumetrici
+Matrice di
+funzionamento
+
+
+
+
+           58
+SIMULAZIONE CFD
+
+
+
+
+                  59
+Scenario 1
+
+
+
+
+             60
+Scenario 2
+
+
+
+
+             61
+                      Ipotesi dell’analisi numerica
+
+
+
+Rilevazione
+
+Sistema automatico, rilevatori puntuali
+
+In caso di allarme: verifica da parte di addetto e conferma di allarme generale
+
+Timeout di 3 minuti
+
+
+
+
+                                                                                  62
+                        Ipotesi dell’analisi numerica
+
+
+
+
+Estrazione fumi
+Attivazione automatica
+Gestione di due scenari distinti
+Aspirazione:         50 000 m3/h da hall, ricambio aria dai corridoi per SCENARIO 1
+                     50 000 m3/h da piano 4, ricambio aria come sopra
+
+
+
+
+                                                                                      63
+            Ipotesi dell’analisi numerica
+
+
+
+
+Vie di esodo
+Scenario 1: uscita diretta su cortile
+Scenario 2: vano scala di nuova costruzione
+
+
+
+
+                                              64
+                        Ipotesi dell’analisi numerica
+
+Incendio di progetto
+ISO 13387-2, incendio stazionario
+
+
+
+
+                                        Rilevazione: 63 s
+                                        Estrazione fumi: 243 s
+                                        Conferma allarme: +180s
+
+
+                                                                  65
+Codice di prevenzione incendi
+
+
+
+
+                                66
+                              Calcolo di ASET
+
+
+
+La norma ISO 13571 [3] definisce ASET il più piccolo degli ASET calcolati
+secondo i seguenti modelli, le cui soglie sono sinteticamente riportate in
+Tabella M.3-2:
+
+•   Modello gas tossici;
+•   Modello gas irritanti;
+•   Modello calore;
+•   Modello visibilità.
+
+
+
+
+                                                                             67
+Soglie di tenibilità
+
+
+
+
+                       68
+Calcolo di RSET
+
+
+
+
+                  69
+                               Calcolo di RSET
+
+Le diverse voci che compongono RSET sono valutate come segue:
+
+▪ il tempo di rilevazione è calcolato mediante l’impiego del modello di
+  simulazione FDS, versione 6.8.0;
+
+▪ il tempo di allarme è valutato in base all’appendice A della norma
+  internazionale ISO/TR 16738 [1];
+
+▪ il tempo di pre-movimento è valutato in base all’appendice E della norma
+  internazionale ISO/TR 16738 [1];
+
+▪ il tempo di percorrenza è calcolato con il software di simulazione PathFinder.
+
+
+                                                                                   70
+                               Occupanti e soccorritori
+
+Ipotesi utilizzate:
+
+▪ Numero totale di occupanti = 90 (+20%);
+
+▪ Persona adulta normodotata (v = 1 m/s);
+
+▪ In accordo con ISO/TR 16738 [1] l’evacuazione inizia dopo il tempo di pre-movimento;
+
+▪ il tempo tPRE è stato calcolato in 15 minuti (ISO/TR 16738, tabella E.2).
+
+
+
+
+                                                                                    71
+Simulazione
+
+
+  Scenario 1
+
+
+
+
+               72
+Simulazione
+
+
+  Scenario 2
+
+
+
+
+               73
+Risultati della simulazione
+
+
+
+
+                              74
+LAYOUT CONFERMATO
+
+
+
+
+                    75
+SISTEMI PRESSURIZZATI A
+PROTEZIONE DEL VANO SCALE
+LA NORMA
+UNI EN 12101-13:2022
+
+                       Pierenrico Varuzza
+                            Technical Manager
+                        pier.varuzza@bovema.it
+                          02 7063 3807 int. 009
+
+                                                  76
+IL CODICE DI PREVENZIONE INCENDI
+
+
+
+
+ D.M. 3/8/2015 e s.m.i.,
+ attualmente aggiornato
+ al 1/1/2023
+
+
+
+
+                                   77
+COMPARTIMENTO A PROVA DI FUMO
+
+
+
+
+Da luglio 2022:
+UNI EN 12101-13: 2022
+
+
+
+
+                                78
+FILTRO A PROVA DI FUMO
+
+
+
+
+Da luglio 2022:
+UNI EN 12101-13: 2022
+
+
+
+
+                         79
+UNI EN 12101-13: 2022
+
+
+
+
+                 80
+81
+CLASSI DI SISTEMA
+  UNI EN 12101-13:2022
+  Classe 1 è richiesta:
+  • in edifici con sistemi automatici di estinzione ad acqua mediante sprinkler a risposta rapida
+    secondo EN 12259-1 (con indice di tempo di risposta (RTI)≤50) che operano in risposta a
+    temperature ≤ 72 °C; o
+  • negli edifici residenziali fino a 30 m o al di sotto del limite dei grattacieli (in conformità con i
+    requisiti nazionali); o
+  • negli edifici residenziali, sono presenti almeno due locali senza carico di incendio tra lo spazio
+    protetto e la potenziale fonte di fuoco e le porte a chiusura automatica sono presenti; o
+  • se accettato dalle autorità competenti
+
+  Classe 2 è richiesta:
+  • dove la Classe 1 non è applicabile; o
+  • se richiesto dalle autorità competenti.
+
+
+                                                                                                           82
+SCOPO DI UN PDS
+
+
+
+
+   Sovrappressione di 30 Pa quando le porte sono chiuse (PRESSURE CRITERION).
+   Controflusso di 1-2 m/s quando le porte vengono aperte per l’esodo (AIRFLOW CRITERION).
+                                                                                             83
+CAMPO DI APPLICAZIONE: VANO SCALE
+
+
+
+
+                                    84
+PROTEZIONE DELLE VIE DI ESODO
+
+
+
+
+Esempio di compartimento a prova di fumo: via di esodo (VANO SCALE, SPAZIO PROTETTO)
+                                                                             85
+UNI EN 12101-13:2022 - REQUISITI
+
+
+
+
+                                   86
+TEMPI DI RISPOSTA
+
+
+
+
+                    87
+TEST DI ACCETTAZIONE
+  UNI EN 12101-13:2022
+
+  La norma dedica ai test 4 capitoli:
+    1. Capitolo 8 – Test and Measuring
+    2. Capitolo 9 – Additional considerations for design and testing
+    3. Capitolo 10 – Documentation
+    4. Capitolo 11 – Testing and Maintenance, design changes, faults, routine testing and operation
+
+  E 5 appendici:
+    1. Annex F – Documentation and responsibilities in the process [i]
+    2. Annex G – PDS concept report (example) [i]
+    3. Annex H – PDS test report (example) [i]
+    4. Annex I – Risk assessment. List of potential disturbances [i]
+    5. Annex J – Practical suggestions for successful commissioning [i]
+
+
+                                                                                                88
+APPENDICE H
+  TEST DI ACCETTAZIONE
+  UNI EN 12101-13:2022
+
+
+
+
+                         89
+COMMISSIONING
+     PERFORMANCE                     VERIFICA DI PRIMO
+                                                                        DICH. IMP.
+     TEST                            FUNZIONAMENTO
+
+
+
+
+                   COMMISSIONING
+       è un processo di gestione del progetto per ottenere, verificare e
+       documentare le prestazioni dell’edificio, degli impianti e degli
+       equipaggiamenti soddisfino obiettivi e criteri ben definiti.
+
+       NB:
+       in assenza della regolazione del sistema on site è impossibile
+       garantire le prestazioni previste dal progetto del PDS.
+                                                                                     90
+SCHEMA TIPICO
+
+
+
+
+                91
+AZIONAMENTI
+
+
+
+
+       I.R.A.I.
+          92
+AZIONAMENTI
+
+Il QCC aziona e coordina tutto il
+sistema.
+
+È programmato per
+rispondere ai cambiamenti nei
+diversi scenari di incendio e
+per adeguare il PDS alle
+condizioni (ESODO).
+
+Assicura il rispetto dei requisiti
+perché garantisce i tempi di
+attivazione.
+
+
+
+
+                           93
+94
+SORVEGLIANZA: LA CONTROL ROOM
+
+
+
+
+                                95
+MONITORAGGIO-PROGRAMMAZIONE DEL PDS
+
+
+
+
+                                      96
+Esempi di progettazione
+
+
+
+
+                          97
+LOGICHE DI FUNZIONAMENTO
+
+
+
+
+  Video
+
+                           98
+99
+Documentazione
+  e certificazioni
+
+                 100
+DOCUMENTAZIONE
+
+
+
+                 DICHIARAZIONE
+                  DI CORRETTA
+                 INSTALLAZIONE
+
+
+                       CIRCOLARE
+                 MINISTERO DELL’INTERNO
+                        12/2/2018
+
+
+
+
+                                  101
+DOCUMENTAZIONE
+
+QUESIT0 SISTEMI IN
+SOVRAPPRESSIONE (12-03-2020)
+
+
+
+
+                               102
+Documentazione
+
+
+                 DICHIARAZIONE
+                   D I C O R R E T TA
+                 I N S TA L L A Z I O N E
+
+
+                 M O D. D I C H . I M P.
+
+
+
+
+                               103
+SINTESI DOCUMENTAZIONE
+ PROGETTISTA
+      Progetto     PRELIMINARE
+                   DEFINITIVO
+                   ESECUTIVO
+                   AS BUILT
+
+      Relazione tecnica
+      Cert. Imp. (professionista)*
+ INSTALLATORE
+      DICH. IMP. (installatore unico)
+      Schede componenti
+      Dichiarazioni di prestazione (DoP)
+      Manuale uso/manutenzione
+      Controllo iniziale
+
+ MANUTENTORE
+      Controlli periodici
+                                           104
+UNI/TS 9494-4:2025
+Metodi ingegneristici per la progettazione dei
+sistemi di controllo del fumo e del calore
+
+                                  Pierenrico Varuzza
+                               Technical manager BOVEMA
+
+
+
+
+                                                     105
+106
+SIGNIFICATO DEL TITOLO
+   UNI/TS
+   È una specifica tecnica, non una vera e propria
+   norma (applicazione sotto la responsabilità del
+   progettista).
+
+   METODI INGEGNERISTICI
+   Non vengono proposti valori pre-calcolati ma
+   EQUAZIONI BASILARI.
+
+   Sistemi di CONTROLLO del fumo e calore
+   Si può applicare, in linea di principio, a tutte le
+   diverse tecniche di controllo del fumo, senza
+   distinzioni.
+
+           APPROCCIO INGEGNERISTICO = METODO PRESTAZIONALE = FSE
+                                 (UNI/TS 9494-4: 2025, 5-Generalità)
+                                                                       107
+FOCUS DEL DOCUMENTO
+
+  INTRODUZIONE
+
+
+  «Il presente documento riguarda la progettazione dei sistemi di controllo di fumo e calore
+  mediante specifiche metodologie per l’applicazione in edifici ed infrastrutture complessi,
+  e/o per i quali si ritiene opportuno il ricorso all'approccio ingegneristico.
+
+
+  Il documento definisce le linee guida, i limiti e i parametri di base da adottare nella
+  progettazione [ … ] con metodo ingegneristico.»
+
+
+
+                                                                                               108
+STRUMENTI METODOLOGICI
+
+ ❑ La presente specifica fornisce le equazioni basilari,
+
+ ❑ che governano il comportamento e la dinamica dei fumi,
+                                                                             antincendio-uni-per-sistemi-di-evacuazione-fumo-e-calore-le-novita
+
+
+
+
+ ❑ per una predizione degli effetti dell'incendio in termini di produzione
+    di fumo e calore.
+
+ ❑ I risultati ottenuti possono essere utilizzati per configurare tanto
+    sistemi di controllo del fumo di tipo naturale quanto di tipo
+    meccanico.
+
+                                                                                                                                                  109
+DIFFERENZE TRA FSE e CFD
+
+     NOTA 2
+
+     «L'approccio qui esposto (FSE - Fire Safety Engineering) si basa su relazioni
+     algebriche e metodi di calcolo per la predizione degli effetti di un incendio;
+
+
+     altri approcci sono il modello in scala e la CFD (di cui si sottolinea la funzione
+     eminentemente di verifica rispetto ai dimensionamenti di progetto ottenuti con la FSE).
+
+
+     Il presente documento si sofferma sul primo approccio e NON contiene le indicazioni per
+     l'utilizzo dei modelli in scala e analisi di tipo CFD».
+
+
+                                                                                               110
+SOLUZIONE CONFORME O ALTERNATIVA?
+
+
+
+        Dalle definizioni del Codice di prevenzione incendi
+        si deduce che
+
+        la metodologia proposta dalla UNI/TS 9494-4 è
+        da considerarsi soluzione alternativa
+
+
+
+
+                                                              111
+IL PROGETTISTA
+
+   «È compito del progettista verificare l'applicabilità dei
+   metodi di calcolo e definirne i limiti, esplicitando le condizioni
+   di attendibilità delle previsioni effettuate.
+
+   A tale scopo il progettista può definire delle prescrizioni
+   relative alla conformazione, alla realizzazione e alla
+   conduzione del sistema di controllo del fumo e calore.»
+
+
+
+
+                                                                        112
+REQUISITI DEL PROGETTISTA
+
+   «Il presente documento illustra metodologie di calcolo avanzate, che presuppongono:
+
+       ❖ buona conoscenza della fisica e termodinamica dei fumi;
+       ❖ sufficiente padronanza almeno della UNI 9494-1 e della UNI 9494-2.»
+
+
+
+
+                                                                                         113
+APPLICABILITA’
+
+
+
+
+       La norma può essere efficacemente
+       impiegata nella progettazione di tutti i
+       principali sistemi di controllo del fumo
+
+
+
+
+                                                  114
+ESEMPI SPECIFICI
+
+La norma può essere applicata a una vasta tipologia
+di casistiche
+            ❖ Geometrie complesse.
+            ❖ Casi non contemplati nel campo di applicazione.
+            ❖ Applicazione di regole tecniche verticali.
+            ❖ Approccio personalizzato.
+            ❖ Valutazioni del rischio particolari.
+            ❖ Velocità di propagazione dei fumi.
+            ❖ Applicazione della FSE al posto della CFD
+                                                                115
+LOCALI DI LIMITATA SUPERFICIE
+
+
+  Capita di avere superfici limitate, al di
+  sotto del limite di applicabilità delle
+  norme usuali (UNI 9494-1 o 9494-2).
+  Un esempio classico: i locali
+  trasformatori elettrici. La UNI 9494-4
+  può aiutare perché in alcuni casi la
+  semplice superficie è sostituita dal
+  rapporto altezza/superficie.
+
+
+
+
+                                              116
+AFFLUSSI DI ARIA ALL’INTERNO DELLO STRATO DI FUMO
+
+
+
+
+      Come comportarsi se le superfici di ingresso aria non sono sufficientemente
+      distanti dallo strato di fumo, o addirittura dentro lo strato di fumo?
+      Gestire queste situazioni con la norma standard potrebbe voler dire rendere più
+      oneroso il SEFC in termini di prestazioni.
+                                                                                        117
+INCENDIO SOTTO BALCONATA
+
+
+
+
+            PRESENZA DI BALCONATE O SOPPALCHI
+
+                                                118
+SOPPALCHI INDUSTRIALI
+
+
+
+
+   Inoltre spesso ci si imbatte nella presenza di SOPPALCHI. Le altre norme della serie
+   UNI 9494 danno indicazioni molto generali, senza affrontare la problematica in modo
+   coordinato. La UNI 9494-4 potrebbe dare qualche strumento in questo senso.
+
+
+                                                                                          119
+LOCALI COMUNICANTI
+
+
+
+
+   FUMI PROVENIENTI DA LOCALI COMUNICANTI TRAMITE FINESTRE O VARCHI PARZIALI
+
+
+                                                                          120
+PROPAGAZIONE DEI FUMI
+
+
+
+
+ PROPAGAZIONE DEI FUMI IN LOCALI COMUNICANTI TRAMITE FINESTRE O VARCHI PARZIALI
+
+
+                                                                            121
+VELOCITA’ DI PROPAGAZIONE DEI FUMI
+
+
+
+
+                                                      vDO > 0
+
+   Possibile applicazione ai sistemi pressurizzati.
+   La norma EN 12101-13 assegna due valori alla velocità del flusso d’aria nel caso di Flow
+   Criterion: 1 m/s e 2 m/s, in funzione di alcune condizioni. Queste due velocità sono state
+   selezionate sulla base di criteri generici. Non è escluso che con uno studio più mirato si
+   possano ottenere valori ottimizzati.
+                                                                                                122
+QUANDO CONSIDERARE IL VENTO ESTERNO
+
+
+
+
+              STUDIO DELL’ANDAMENTO STAGIONALE
+                                                 123
+VALUTAZIONE DEGLI EFFETTI DEL VENTO
+
+
+
+
+    POSSIBILI EFFETTI DEL VENTO ESTERNO, SOPRATTUTTO NEI SISTEMI NATURALI
+
+                                                                            124
+GRAZIE PER
+L’ATTENZIONE
+            Pierenrico Varuzza
+     Technical manager – BOVEMA ITALIA Srl
+                   pier.varuzza@bovema.it
+                      02 7063 3807 int. 009
+
+
+
+
+                                              125
+

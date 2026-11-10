@@ -1,0 +1,328 @@
+CONTROLLO DEL FUMO E VENTILAZIONE
+NATURALE CON SENFC DUAL PURPOSE
+ Livello di prestazione III - D.M. 3 Agosto 2015
+ CONTROLLO DEL FUMO E
+ VENTILAZIONE NATURALE
+CON SENFC DUAL PURPOSE
+ Livello Prestazione III - D.M. 3 Agosto 2015
+ Ing. Luca Marzola
+D.M. 3 Agosto 2015
+EVACUAZIONE DI FUMO E CALORE Liv. Prest. III
+ Il SEFC non si limita a facilitare il compito
+ Quando? delle squadre di intervento, ma dà il
+ tempo agli occupanti di mettersi in salvo.
+ Inoltre ritarda il flashover, previene danni
+ strutturali all’edificio e protegge i beni in
+ esso contenuti.
+ Protegge persone e beni
+SISTEMI DI EVACUAZIONE fumo e calore
+ Soluzioni possibili:
+ NATURALE:
+ UNI 9494-1
+ CONFORME
+ FORZATO:
+ UNI 9494-2
+CRITERI DIMENSIONAMENTO SENFC
+scelta e descrizione livello di prestazione
+ sistemi di evacuazione
+ fumo e calore con strato
+ libero dal fumi
+CRITERI DIMENSIONAMENTO SENFC
+scelta e descrizione livello di prestazione
+PRINCIPI DI UN
+ SENFC
+ Un SENFC ha la funzione di mantenere uno strato
+ libero da fumo a un’altezza definita, per il tempo
+ necessario previsto dal progetto.
+ SCOPO
+Il SEFC non si limita a facilitare il compito delle squadre
+di intervento, ma dà il tempo agli occupanti di mettersi
+in salvo. Inoltre ritarda il flashover, previene danni
+strutturali all’edificio e protegge i beni in esso contenuti.
+ Protegge persone e beni
+MODELLO A DUE VOLUMI
+CAMPO APPLICAZIONE UNI 9494-1: 2017
+ APPLICABILE A: NON APPLICABILE A:
+ Ambienti con: • Ambienti a rischio di
+ • superficie > 600 m2 esplosione
+ • altezza > 3 m • Corridoi
+ • Corridoi con scale
+Come approcciare ambienti con A < 600 m² ?
+ «In particolare, per superfici minori di 600 m²,
+ ulteriori considerazioni e valutazioni del rischio
+ possono permettere di rideterminare caratteristiche
+ UNI/TS 9494-4 e prestazioni dell'impianto stesso, sulla base,
+ 2025 comunque, di una specifica progettazione
+ applicando ugualmente i principi della norma.»
+ < 600 m2
+ UNI EN 9494-1
+ p.to 6.8 «Nel caso di ambienti di dimensioni regolari e per
+ gruppi di dimensionamento fino a GD 2 i valori SUT
+ e SCT espressi nella norma potrebbero essere
+ generalmente impiegati in ambienti fino a 400 m², se
+ supportati da considerazioni e valutazioni da parte
+ della progettazione.»
+Come approcciare ambienti con h < 3 m ?
+ Non si può garantire lo strato libero
+ da fumo minimo 2,5 m
+ Si lavora sui tempi di esodo
+IL SENFC È…
+ …un sistema composto
+ da diversi elementi
+ENFC Barriere al fumo Alimentazioni Linee di collegamento Quadri di comando e controllo
+ Apertura per l’afflusso di aria fresca
+Criteri di scelta per componenti SENFC
+ Gli ENFC danno il miglior risultato
+ quando sono posti in copertura.
+Diversi tipi di ENFC in facciata
+Diversi tipi di ENFC in copertura
+Evacuatore per celle frigo
+ TEMPERATURA DI LAVORO AMBIENTE:
+ • ≥ 4 °C fino a 60 °C*
+ • < 4 °C fino a −28 °C fino a −50 °C**
+ Coefficiente di trasmittanza termica Uw = 0,595 W/(m²·K)
+ (valore U secondo DIN EN ISO 10077-1)
+COME REALIZZARE UN SENFC
+SOLUZIONE CONFORME
+ Il numero minimo di ENFC:
+ • 1 ogni 200 m2 su coperture
+ piane o con piccola pendenza
+ • 1 ogni 400 m2 con pendenza
+ maggiore del 20%
+ • ENFC distanti più di 5 m e
+ meno di 20 m gli uni dagli altri.
+COME REALIZZARE
+COME REALIZZARE UNSOLUZIONE
+ UN SENFC SENFC CONFORME
+SOLUZIONE CONFORME
+ Gli ENFC devono essere
+ preferibilmente ubicati in copertura
+ Gli ENFC devono essere
+ o nelle porzioni superiori delle
+ conformi alla UNI EN 12101-2
+ pareti del compartimento.
+COME REALIZZARE UN SENFC
+SOLUZIONE CONFORME
+ Ogni ENFC deve essere munito di un Gli ENFC devono avere un comando
+ dispositivo di azionamento individuale di attivazione di gruppo, da terra,
+ termosensibile tarato a 68°C automatico o manuale, elettrico o
+ conforme alla UNI EN 12101-2, salvo pneumatico.
+ diverse indicazioni.
+COME REALIZZARE UN SENFC
+SOLUZIONE CONFORME
+ I locali dovranno avere un L’afflusso di aria fresca deve
+ compartimento a soffitto < 1600 m2 avvenire attraverso aperture
+ o suddivisi tramite barriere al fumo dedicate oppure porte portoni,
+ conformi alla UNI EN 12101-1 infissi, serrande... Apribili
+ manualmente o servoazionate
+COME REALIZZARE UN SENFC
+SOLUZIONE CONFORME
+ Devono essere previste nel progetto Le linee devono essere dimensionate
+ indicazioni specifiche per la gestione tenendo conto dei carichi esterni che
+ del sistema di evacuazione fumi. possono derivare dall’incendio.
+COME REALIZZARE UN SISTEMA DI
+EVACUAZIONE LIV. PREST. III
+ I quadri di comando devono essere in
+ grado di realizzare e segnalare il
+ ciclo di attivazione del SENFC
+ I quadri di comando devono poter
+ tradurre tutti gli scenari d’incendio
+ progettati e consentire relative
+ attività di sorveglianza , controllo e
+ manutenzione.
+ATTENZIONE
+ I sistemi di evacuazione senza un
+ comando remoto da terra
+ NON sono a norma UNI 9494-1
+COME REALIZZARE UN SISTEMA DI
+EVACUAZIONE LIV. PREST. III
+ UNI 9494-1, 1989 (punto 5.3.1)
+ «Salvo quanto specificato in 5.3.5, ogni EFC deve essere munito di un dispositivo di
+ apertura individuale ed essere altresì azionabile da dispositivo di apertura a distanza
+ manuale o automatico.
+ Il dispositivo termico individuale deve funzionare alla temperatura di 68 °C, salvo diverse
+ indicazioni.
+ La capacità di intervento dei dispositivi deve essere collaudata come indicato in 7.3.»
+ CRITICITÀ RICORRENTI
+Comando remoto Collegamento con IRAI Verbale di Primo DICH. IMP. non
+ indicato in progetto ma funzionamento presenti o
+ assente. assente.
+ inesistente. incompleti.
+ Ingressi aria non Taratura scorretta Manutenzioni solo Manuale di uso del
+ segnalati. delle ampolle sugli apparecchi Sistema assente.
+ termosensibili. ENFC.
+ESEMPIO
+ Evacuazione di fumo e calore
+ Liv. Prest. III
+Presentazione Magazzino
+Presentazione Magazzinoautomatizzato
+ automatizzato
+ Stabilimento
+ industriale sito in
+ Edificio Lombardia, zona
+ pianeggiante in zona
+ industriale
+ Magazzino intensivo
+ Tipologia
+ automatizzato
+ Attività valvole per settore
+ svolta petrolchimico
+ Superficie 1550 m2
+ Altezza
+ 12 m
+ media
+PROGETTAZIONE DI IMPIANTI ENFC SCELTE
+PROGETTUALI CONFORMI ALLA UNI 9494-1:2017
+ RICHIESTE:
+ 1) Controllo del fumo e calore in caso di incendio con un SENFC UNI 9494
+ 2) Gestione del caldo
+ 3) Controllo dell’umidità
+DATI DI PROGETTO
+ CARATTERISTICHE EDIFICIO:
+ Superficie pianta 1550 m2
+ Altezza edificio 12 m
+ Attività svolta Valvole per settore petrolchimico
+ IMPIANTI ANTINCENDIO ESISTENTI:
+ Rivelatori Fumo SI
+ Sprinkler SI
+ CALCOLO DELLA SUPERFICIE FOCOLAIO:
+ Durata sviluppo incendio Tempo di allarme + tempo d’intervento = 15 min
+ Velocità propagazione
+ Bassa
+ dell’incendio
+CRITERI DIMENSIONAMENTO SENFC
+Superficie Utile di Evacuazione (SUT)
+ Calcolo della Superficie Utile di Evacuazione dei SEFC
+ Il calcolo della SUT necessaria a raggiungere gli obiettivi di sicurezza
+ definiti con l’altezza libera da fumo Y desiderata.
+ Y = ? (quale altezza libera da fumo desidero ottenere)
+Strato libero da fumo Y
+ Y= 4,5 M
+Calcolo della SUT
+ Superficie utile totale di
+ ogni compartimento:
+ SUT= 6,4 m2
+ Per ottenere uno strato
+ libero da fumo:
+ Y= 4,5 m
+RISULTATO CON ENFC SCELTO
+ N° 8 ENFC dimensioni 1300
+ Aa ciascun ENFC = 0,84 m²
+ x 1000 mm
+ CV= 0,8
+SCELTA COMPONENTI SENFC
+Evacuatori Naturali di Fumo e Calore (ENFC)
+ ENFC certificati costruiti in regime
+ ISO, certificati secondo la
+ EN12101-2:2003, preassemblati
+ e collaudati in produzione
+ ENFC testati con paravento e
+ basamento
+ Come si progettano le
+aperture per l’ingresso dell’aria ?
+SCELTA COMPONENTI SENFC
+Aperture per l’afflusso dell’aria
+ DIMENSIONAMENTO APERTURA AFFLUSSO ARIA
+ Rs = SCT / SUT > 1,5
+ Superficie Corretta Totale di afflusso aria
+ SCT = Ag x Cz = 15,0 x 0,65 = 9,75 m²
+SCELTA COMPONENTI SENFC
+Aperture per l’afflusso dell’aria
+ CARATTERISTICHE APERTURE PER L’AFFLUSSO DELL’ARIA:
+ 1 3 5
+ Distribuite uniformemente su due Lo spigolo superiore dell’apertura L’apertura deve essere automatica e
+ lati del locale e posizionate in deve essere almeno 1 m dal lato contemporanea con l’attivazione del
+ prossimità del pavimento inferiore dello strato di fumo SENFC
+ 2 4 6
+ Con aperture larghe al L’apertura può essere ad
+ Collocate all’interno dello
+ max 1,25 m è possibile azionamento manuale o
+ strato libero da fumo
+ ridurre la distanza a 0,5 m servoazionata
+ Quali sono le logiche
+di azionamento di un SENFC ?
+Gestione con attivazione comandata da altri sistemi
+Procedure di attivazione del QCC
+Soluzione
+Ventilazione giornaliera del
+ caldo e per l’umidità
+Non solo evacuazione fumo
+anche caldo e umidità
+Non solo evacuazione fumo
+anche caldo e umidità
+Risultato PRIMA l’intervento
+Risultato DOPO l’intervento
+ Documentazione e
+certificazione finale
+Certificazioni e documentazione finale
+ • SENFC Tecnico abilitato non necessariamente iscritto negli appositi elenchi del Ministero
+ ➢ Progetto secondo la UNI 9494-1 2012
+ • ENFC Certificazioni del produttore
+ ➢ Dichiarazione di prestazione (DoP) secondo il CPR
+ • SENFC Certificazioni dell’installatore
+ ➢ Dichiarazione di corretta installazione e funzionamento MOD. PIN 2.4-2012 DICH.IMP
+ ➢ DICO impianto elettrico
+ ➢ Manuale di uso e manutenzione del Sistema ENFC come definito nella UNI 9494-3
+ ➢ Schemi funzionali
+ ➢ Schede tecniche con le tipologie dei materiali e componenti utilizzati per l'impianto.
+ • Collaudo Certificato del collaudatore :
+ ➢ Controllo iniziale del SENFC secondo la UNI 9494-3
+ • SENFC Altra documentazione dell’installatore o del professionista antincendio
+ ➢ Disegni di progetto as-built
+ ➢ Planimetria con posizione componenti
+CERTIFICAZIONE DELL’INTERO IMPIANTO
+ Dich. Imp. con tutte le dichiarazioni di prestazione (DoP) dei componenti
+CERTIFICAZIONE DELL’INTERO IMPIANTO
+ Verbale di primo funzionamento
+CERTIFICAZIONE DELL’INTERO IMPIANTO
+ Manuale uso e manutenzione dell’intero sistema
+Confronto dei costi
+ SOLUZIONI A CONFRONTO
+ Dati rilevanti Soluzione
+ SOLUZIONE A 1550 m² SE = A/40 = 38,7 m² (SUPERFICIE TOTALE MINIMA)
+ CONFORME Altezza 12 m SEb: 20 aperture 2 x1 m (aperture dotate di sistema automatico con attivazione
+ asservita da IRAI)
+ 1/40
+ qf 1200 Aperture ingresso aria: porta di ingresso (non nota)
+ MJ/m²
+LIV. PREST. II
+ SOLUZIONE Dati rilevanti Soluzione
+ ALTERNATIVA A 1550 m² SUT = 10,70 m²
+ APPENDIGE G Altezza 12 m Aperture: 4 enfc
+ UNI 9494-1 GD 3 Aperture ingresso aria: 10,7 m²
+ Dati rilevanti Soluzione
+ SOLUZIONE A 1550 m² SUT = 6,4 m²
+LIV. PREST. III CONFORME
+ Altezza 12 m Aperture: 8 enfc
+ UNI 9494-1
+ GD 3 Aperture ingresso aria: 14,7 m²
+Sistema conforme con 1/40
+ LIV. PREST. II
+ Quantità
+ Lucernari 2 x 1 m 20
+ Linea elettrica 400 m
+ Apertura Motore elettrico
+ Quadro comando 2
+ Costo
+ Lucernario motorizzato 20.000 € installato
+ Impianto elettrico 17.000 €
+ Quadro di comando 5.000 €
+ TOTALE 42.000 €
+Sistema conforme UNI 9494-1
+ LIV. PREST. III
+ Quantità
+ ENFC 1,3 x 1,0 m 8
+ Linea elettrica 150 m
+ Apertura Motore elettrico
+ Quadro comando 1
+ Costo
+ ENFC motorizzato 32.000 € installato
+ Impianto elettrico 6.500 €
+ Quadro di comando 5.000 €
+ TOTALE 43.500 €
+GRAZIE PER
+L’ATTENZIONE
+ ing. Luca Marzola
+ Bovema Italia S.r.l. - Milano
+ Cell. 335 12 19 289
+

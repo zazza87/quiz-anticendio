@@ -1,0 +1,232 @@
+ Comando dei Vigili del Fuoco di Trieste
+ Corso per professionisti antincendio
+Modulo 4.17 -R.T.V.: descrizione dello schema di una generica regola tecnica
+ verticale ed illustrazione di almeno due R.T.V. di cui alla Sezione V del DM
+ 03/08/2015
+ RELATORE: V.D. Ing. Salvatore Biondi
+ AGENDA
+1. Ambiti di applicazione del codice di prevenzione incendi (DM 3/8/2015)
+2. Definizione di RTV
+3. Schema generale di una RTV
+4. RTV V.1 – Aree a rischio specifico
+5. RTV V.3 – Vani degli ascensori
+6. RTV V.6 – Autorimesse
+ 2
+1. Ambiti di applicazione del codice di prevenzione incendi (DM
+ 3/8/2015)
+ 3
+1. Ambiti di applicazione del codice di prevenzione incendi
+ (DM 3/8/2015)
+ 4
+1. Ambiti di applicazione del codice di prevenzione incendi
+ (DM 3/8/2015)
+ 5
+1. Ambiti di applicazione del codice di prevenzione incendi
+ (DM 3/8/2015)
+ 6
+ 2. Definizione di RTV
+o ambito
+ 7
+2. Definizione di RTV
+ 8
+2. Definizione di RTV
+ 9
+2. Definizione di RTV
+ 10
+ 2. Definizione di RTV
+• V.1 Aree a rischio specifico, V.2 Aree a rischio per atmosfere esplosive, V.3 Vani degli
+ ascensori: Emanate direttamente con il D.M. 3 agosto 2015 (Decreto istitutivo del Codice).
+• V.4 Uffici: Emanata con il D.M. 8 giugno 2016.
+• V.5 Attività ricettive turistico-alberghiere: Emanata con il D.M. 9 agosto 2016.
+• V.6 Attività di autorimessa: Emanata con il D.M. 21 febbraio 2017 (successivamente
+ sostituita e aggiornata integralmente dal D.M. 15 maggio 2020).
+• V.7 Attività scolastiche: Emanata con il D.M. 7 agosto 2017.
+• V.8 Attività commerciali: Emanata con il D.M. 23 novembre 2018.
+• V.9 Asili nido: Emanata con il D.M. 6 aprile 2020.
+• V.10 Musei, gallerie, esposizioni, mostre, biblioteche e archivi in edifici tutelati: Emanata
+ con il D.M. 10 luglio 2020.
+• V.11 Strutture sanitarie: Emanata con il D.M. 29 marzo 2021.
+• V.12 Altre attività in edifici tutelati: Emanata con il D.M. 14 ottobre 2021.
+• V.13 Chiusure d'ambito degli edifici civili: Emanata con il D.M. 30 marzo 2022.
+• V.14 Edifici di civile abitazione: Emanata con il D.M. 19 maggio 2022.
+• V.15 Attività di intrattenimento e di spettacolo a carattere pubblico: Emanata con il D.M. 22
+ novembre 2022. 11
+2. Definizione di RTV
+ 12
+2. Definizione di RTV
+ 13
+2. Definizione di RTV
+ 14
+2. Definizione di RTV
+ 15
+3. Schema generale di una RTV
+ 16
+3. Schema generale di una RTV
+ 17
+3. Schema generale di una RTV
+ 18
+3. Schema generale di una RTV
+ 19
+3. Schema generale di una RTV
+ 20
+3. Schema generale di una RTV
+ 21
+3. Schema generale di una RTV
+ 22
+3. Schema generale di una RTV
+ 23
+3. Schema generale di una RTV
+ 24
+3. Schema generale di una RTV
+ 25
+3. Schema generale di una RTV
+ 26
+3. Schema generale di una RTV
+ 27
+3. Schema generale di una RTV
+ 28
+3. Schema generale di una RTV
+ 29
+3. Schema generale di una RTV
+ 30
+3. Schema generale di una RTV
+ 31
+3. Schema generale di una RTV
+ 32
+3. Schema generale di una RTV
+ 33
+3. Schema generale di una RTV
+ 34
+3. Schema generale di una RTV
+ 35
+3. Schema generale di una RTV
+ 36
+3. Schema generale di una RTV
+ 37
+4. RTV V.1 – Aree a rischio specifico
+ 38
+4. RTV V.1 – Aree a rischio specifico
+ 39
+4. RTV V.1 – Aree a rischio specifico
+ 40
+4. RTV V.1 – Aree a rischio specifico
+ 41
+4. RTV V.1 – Aree a rischio specifico
+ 42
+4. RTV V.1 – Aree a rischio specifico
+ 43
+4. RTV V.1 – Aree a rischio specifico
+ 44
+4. RTV V.1 – Aree a rischio specifico
+ 45
+4. RTV V.1 – Aree a rischio specifico
+ 46
+4. RTV V.1 – Aree a rischio specifico
+ 47
+4. RTV V.1 – Aree a rischio specifico
+ 48
+5. RTV V.3 – Vani degli ascensori
+ 49
+ 5. RTV V.3 – Vani degli ascensori
+Direttive e Documentazione: Il settore risponde alla Direttiva Ascensori (2014/33/UE), escludendo
+la Direttiva Macchine (applicabile solo a montacarichi puri o impianti lenti fino a 0,15 m/s). Il
+fascicolo tecnico rimane in carico al costruttore; ai fini della SCIA Antincendio è sufficiente
+acquisire la Dichiarazione CE dell'ascensore unita alla Dichiarazione di Conformità (D.M. 37/08)
+che attesta il corretto interfacciamento tra il quadro di manovra e l'impianto di rivelazione incendi.
+Le Norme Armonizzate di Riferimento (Famiglia EN 81) Per rispettare i requisiti essenziali di salute
+e sicurezza della Direttiva, i produttori e gli installatori possono applicare* le regole tecniche della
+serie UNI EN 81:
+ UNI EN 81-72 (Ascensori antincendio): Disciplina i requisiti dei sistemi utilizzati dai Vigili del
+Fuoco per il soccorso e l'estinzione. Definisce la protezione dall'acqua e dal calore dei componenti
+elettrici, le comunicazioni dedicate tra cabina e piano di accesso, e i sistemi di sblocco a chiave
+triangolare riservati ai soccorritori.
+UNI EN 81-73 (Comportamento in caso di incendio): Stabilisce le modalità di funzionamento
+dell'impianto quando è collegato ai sistemi di rilevazione dell'edificio (es. il ritorno automatico al
+piano di evacuazione e il blocco delle porte).
+UNI EN 81-76 (Evacuazione di persone con disabilità): Norma armonizzata che specifica i criteri
+per gli ascensori utilizzati per supportare l'esodo di persone con ridotta mobilità all'interno di una
+strategia d'emergenza strutturata
+*la marcatura CE attesta la conformità ai Requisiti Essenziali di Salute e Sicurezza (RESS) della
+Direttiva, non alle norme tecniche. 50
+5. RTV V.3 – Vani degli ascensori
+ 51
+5. RTV V.3 – Vani degli ascensori
+ 52
+5. RTV V.3 – Vani degli ascensori
+ 53
+5. RTV V.3 – Vani degli ascensori
+ 54
+5. RTV V.3 – Vani degli ascensori
+ 55
+5. RTV V.3 – Vani degli ascensori
+ 56
+5. RTV V.3 – Vani degli ascensori
+ 57
+5. RTV V.3 – Vani degli ascensori
+ 58
+5. RTV V.3 – Vani degli ascensori
+ 59
+5. RTV V.3 – Vani degli ascensori
+ 60
+5. RTV V.3 – Vani degli ascensori
+ 61
+5. RTV V.3 – Vani degli ascensori
+ 62
+5. RTV V.3 – Vani degli ascensori
+ 63
+5. RTV V.3 – Vani degli ascensori
+ 64
+6. RTV V.6 – Autorimesse
+ 65
+6. RTV V.6 – Autorimesse
+ 66
+6. RTV V.6 – Autorimesse
+ 67
+6. RTV V.6 – Autorimesse
+ 68
+6. RTV V.6 – Autorimesse
+ 69
+6. RTV V.6 – Autorimesse
+ 70
+6. RTV V.6 – Autorimesse
+ 71
+6. RTV V.6 – Autorimesse
+ 72
+6. RTV V.6 – Autorimesse
+ 73
+6. RTV V.6 – Autorimesse
+ 74
+6. RTV V.6 – Autorimesse
+ 75
+ 6. RTV V.6 – Autorimesse
+Con la Circolare del Ministero dell'Interno n. 17496 del 18 dicembre 2020, sono stati definiti i
+requisiti tecnici obbligatori anche per queste autorimesse "sotto soglia" (in seguito all'abrogazione
+del vecchio D.M. 1/2/1986)
+ Divieti fondamentali
+ In queste autorimesse è comunque vietato:
+ • Il deposito di fluidi infiammabili o carburante in quantità significative e il loro travaso.
+ • Il parcheggio ai piani interrati di veicoli a GPL privi del sistema di sicurezza conforme al
+ regolamento ECE/ONU 67-01.
+ • Il parcheggio di veicoli a GPL ai piani a quota inferiore a -6 metri (anche se muniti di sistema
+ ECE/ONU 67-01).
+ 76
+ 6. RTV V.6 – Autorimesse
+Le autorimesse sotto i 300 m² sono divise in due classi:
+• Classe A1 (fino a 100 m²):
+ • Resistenza al fuoco: strutture portanti e compartimentazioni con requisiti minimi (es. R/REI 30 per
+ quelle non isolate, 15 per quelle isolate).
+ • Ventilazione (fumi e calore): superficie utile di aerazione non inferiore a 1/40 della superficie
+ lorda.
+ • Estintori: presenza di almeno un estintore (tipo 21A 89B) se sono ricoverati più di 3 veicoli.
+• Classe A2 (da 101 a 300 m²):
+ • Esodo: corridoi ciechi di lunghezza massima 30 metri, larghezza minima dei passaggi orizzontali di
+ 800 mm e verticali di 900 mm.
+ • Estintori: estintori distribuiti con un percorso massimo di 30 metri (tipo 21A 89B).
+ • Aerazione: aperture fumi e calore dedicate (singola apertura minima di 0,1 m², totale pari a 1/40
+ della superficie lorda).
+ 77
+ Comando dei Vigili del Fuoco di Trieste
+ Corso per professionisti antincendio
+ Grazie dell’attenzione
+RELATORE: V.D. Ing. Salvatore Biondi
+

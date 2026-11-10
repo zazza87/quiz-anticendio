@@ -1,0 +1,1043 @@
+Progettazione col Codice di prevenzione incendi
+ Gli impianti elettrici e la sicurezza antincendio
+ Aree a rischio speci co capitolo V.1 della RTO
+ Aree a rischio di esplosione capitolo V.2 della RTO
+Ing. Andrea Massimo Carbonaro
+Venerdì 23 ottobre 2026
+ fi
+Chi domanda non fa errori
+Ing. Andrea Massimo Carbonaro
+ Sommario
+ Sicurezza antincendio degli impianti elettrici
+ D.M. 37/2008
+ Aree a rischio speci co
+ Aree a rischio per atmosfere esplosive
+ Conclusione
+Ing. Andrea Massimo Carbonaro
+ fi
+ Sicurezza antincendio
+ degli impianti elettrici
+Ing. Andrea Massimo Carbonaro
+Impianti
+Livello di prestazione I
+Impianti progettati, realizzati,
+eserciti e mantenuti in e cienza
+secondo la regola d’arte, in
+conformità alla regolamentazione
+vigente, con requisiti di sicurezza
+antincendio speci ci
+Livello di prestazione da attribuire
+a tutte le attività
+Ing. Andrea Massimo Carbonaro
+ fi
+ ffi
+ Regola dell’arte
+ Stadio dello sviluppo raggiunto in un determinato momento
+ storico dalle capacità tecniche relative a prodotti, processi o
+ servizi, basato su comprovati risultati scienti ci, tecnologici o
+ sperimentali. Fermo restando il rispetto delle disposizioni
+ legislative e regolamentari applicabili, la presunzione di regola
+ dell’arte è riconosciuta, di prassi, alle norme adottate da Enti di
+ normazione nazionali, europei o internazionali.
+Ing. Andrea Massimo Carbonaro Codice di prevenzione incendi - G.1.14
+ fi
+ Norme tecniche
+ Ente Italiano di Normazione Comitato Elettrotecnico Italiano
+Ing. Andrea Massimo Carbonaro
+Impianti elettrici
+Gli impianti per la produzione,
+trasformazione, trasporto,
+distribuzione e di utilizzazione
+dell’energia elettrica devono
+possedere caratteristiche
+strutturali e possibilità di
+intervento, individuate nel piano
+di emergenza, tali da non
+costituire pericolo durante le
+operazioni di estinzione
+dell’incendio e di messa in
+sicurezza dell’attività.
+Ing. Andrea Massimo Carbonaro
+Impianti elettrici
+Cavi elettrici
+Deve essere valutata, in funzione
+della destinazione dei locali, del
+tempo di evacuazione dagli stessi,
+del tipo di posa delle condutture
+elettriche, dell’incidenza dei cavi
+elettrici su gli altri materiali o
+impianti presenti, la necessità di
+utilizzare cavi realizzati con materiali
+in grado di ridurre al minimo
+l’emissione di fumo, la produzione
+di gas acidi e corrosivi.
+ Ing. Andrea Massimo Carbonaro
+Impianti elettrici
+Quadri elettrici
+I quadri elettrici possono essere
+installati lungo le vie di esodo a
+condizione che non costituiscano
+ostacolo al de usso degli
+occupanti.
+Qualora i quadri elettrici siano
+installati in ambienti aperti al
+pubblico, essi devono essere
+protetti almeno con una porta
+frontale con chiusura a chiave.
+Ing. Andrea Massimo Carbonaro
+ fl
+ Impianti elettrici
+ Apparecchi di manovra
+ Gli apparecchi di manovra (interruttori, sezionatori, teleruttori o
+ contattori) devono sempre riportate chiare indicazioni dei
+ circuiti a cui si riferiscono.
+Ing. Andrea Massimo Carbonaro
+ Impianti elettrici
+ Alimentazione elettrica di sicurezza
+ Utenza Interruzione Autonomia
+ Illuminazione di sicurezza, IRAI,
+ sistemi di comunicazione in Interruzione breve (≤ 0,5 s) > 30’
+ emergenza
+ Scale e marciapiedi mobili
+ utilizzati per l’esodo, ascensori Interruzione media (≤ 15 s) > 30’
+ antincendio, SEFC
+ Sistemi di controllo o estinzione
+ Interruzione media (≤ 15 s) > 120’
+ degli incendi
+ Ascensori di soccorso Interruzione media (≤ 15 s) > 120’
+ Altri impianti Interruzione media (≤ 15 s) > 120’
+Ing. Andrea Massimo Carbonaro
+Impianto di
+illuminazione di sicurezza
+Illuminazione orizzontale al suolo su ciente a
+consentire l’esodo degli occupanti
+UNI EN 1838
+Ing. Andrea Massimo Carbonaro
+ ffi
+ ILLUMINAZIONE DI EMERGENZA
+ Illuminazione di sicurezza Illuminazione di riserva
+ Illuminazione di sicurezza
+ Segnali di sicurezza
+ per l’esodo
+ Illuminazione antipanico di
+ aree estese
+ Illuminazione di area del
+ compito ad alto rischio
+Ing. Andrea Massimo Carbonaro
+Illuminazione
+Altezza minima dal suolo
+Gli apparecchi di illuminazione e i
+segnali di sicurezza delle vie di
+esodo devono essere installati a
+un’altezza dal piano di calpestio
+di almeno 2 m dal suolo per
+garantirne la visibilità durante
+l’incendio.
+Ing. Andrea Massimo Carbonaro
+ Illuminazione di sicurezza
+ Punti da evidenziare
+ Collocazione Distanze/illuminamento
+ Vicino a ogni porta di uscita <2m
+ Scale delle vie di esodo verticali <2m
+ In corrispondenza di ogni variazione di livello <2m
+ Sui segnali di sicurezza delle vie di esodo Illuminazione in entrambe le direzioni
+ A ogni cambio di direzione Illuminazione in entrambe le direzioni
+ A ogni intersezione di corridoi Illuminazione su tutte le direzioni
+ Vicino a ogni uscita e all’esterno dell’edi cio verso un luogo sicuro <2m
+ Vicino a ogni punto di pronto soccorso (min. 5 lx verticale) <2m
+ Vicino a ogni dispositivo antincendio (min. 5 lx verticale) <2m
+ Vicino a ogni apparecchiatura di evacuazione fornita per i disabili <2m
+ Vicino ai rifugi e ai punti di raccolta per i disabili <2m
+Ing. Andrea Massimo Carbonaro
+ fi
+ Illuminazione di sicurezza
+ Distanza di osservazione
+ l=zxh
+ l distanza di osservazione
+ h altezza del segnale di sicurezza
+ z fattore di distanza
+ z = 100 per i segnali illuminati esternamente
+ z = 200 per i segnali illuminati internamente
+Ing. Andrea Massimo Carbonaro
+CEI 64-8
+Impianti elettrici utilizzatori a tensione
+nominale non superiore a 1.000 V in
+corrente alternata e a 1.500 V in
+corrente continua
+IX Edizione 2024
+Ing. Andrea Massimo Carbonaro
+ CEI 64-8
+ Obiettivi della variante fuoco
+ 1 Riduzione del rischio di incendio di origine elettrica
+ 2 Assicurare il corretto funzionamento dei sistemi di
+ sicurezza antincendio
+Ing. Andrea Massimo Carbonaro
+È richiesta una
+valutazione del rischio
+di incendio come dato
+di ingresso per il
+progetto degli impianti
+elettrici secondo la
+regola dell’arte
+Ing. Andrea Massimo Carbonaro
+ CEI 64-8
+ Allegato 51A - Classi cazione degli ambienti
+ Prima lettera
+ Categoria generale di in uenza esterna:
+ A (ambientale), B (uso), C (costruzione dell’edi cio)
+ Seconda lettera
+ Natura dell’in uenza esterna
+ Terza lettera
+ Classe dell’in uenza esterna (1, 2, 3…)
+Ing. Andrea Massimo Carbonaro
+ fl
+ fl
+ fl
+ fi
+ fi
+ CEI 64-8
+ Allegato 51A - Esempi di codi che
+ Codice Descrizione
+ AA Temperatura ambiente
+ AB Condizioni climatiche
+ BB Resistenza elettrica del corpo umano
+ CA Materiale da costruzione
+Ing. Andrea Massimo Carbonaro
+ fi
+ CEI 64-8
+ Allegato 51A - Esempi di classi cazione
+ Codice Descrizione
+ Luoghi caratterizzati da bassa densità di a ollamento e di coltà di
+ BD2 esodo.
+ Per esempio: fabbricati di altezza elevata
+ Luoghi caratterizzati da alta densità di a ollamento e facilità di esodo.
+ BD3 Per esempio: ambienti aperti al pubblico (teatri, cinema, centri
+ commerciali)
+ Luoghi caratterizzati da alta densità di a ollamento e di coltà di esodo.
+ BD4 Per esempio: fabbricati di grande altezza aperti al pubblico (alberghi,
+ ospedali)
+ Fabbricati adibiti allo stoccaggio/lavorazione di materiali combustibili in
+ CE2 quantità rilevante.
+ CA2 Fabbricati costruiti prevalentemente in materiali combustibili.
+Ing. Andrea Massimo Carbonaro
+ ff
+ ff
+ ff
+ fi
+ ffi
+ ffi
+ CEI 64-8
+ Norme di prodotto per i componenti elettrici
+ CEI EN 60670
+ Scatole e involucri per apparecchi elettrici per installazioni
+ elettriche sse per usi domestici e similari
+ CEI EN 61386
+ Sistemi di tubi e accessori per installazioni elettriche
+ CEI EN 61084
+ Sistemi di canali e sistemi di condotti per installazioni elettriche
+Ing. Andrea Massimo Carbonaro
+ fi
+ CEI 64-8
+ Prove per componenti elettrici non normati
+ Attitudine a non innescare
+ Resistenza al riscaldamento in funzionamento Propagazione del incendi in caso di
+ Componenti elettrici ordinario fuoco riscaldamento eccessivo
+ non coperti da una dovuto a guasti
+ norma di prodotto Prova in camera climatica Termopressione
+ Resistenza alla Prova al lo incandescente
+ Prova in stufa per 60 min con biglia
+ propagazione [°C]
+ [°C] [°C]
+ Componenti da incasso sotto
+ intonaco (pareti in muratura 70 70 NO 650
+ tradizionale e prefabbricate)
+ Componenti da incasso per
+ pareti vuote (pareti in
+ 70 70 NO 850
+ truciolato, tramezze in legno,
+ ecc.)
+ Componenti a vista (a parete 70 70 NO 650
+ o a so tto)
+ Elementi lineari NO NO SÌ NO
+ Parti dei componenti di cui
+ sopra che tengono in
+ posizione parti sotto tensione 70 125 NO 850
+ (escluse le parti relative al
+ conduttore di protezione)
+Ing. Andrea Massimo Carbonaro
+ffi
+ fi
+ CEI 64-8
+ Classi cazione per la reazione al fuoco dei cavi elettrici
+ Aca B1ca B2ca Cca Dca Eca Fca
+ + Prestazioni elevate Prestazioni basse -
+ “ca”: cable
+ Regolamento Prodotti da Costruzione (CPR)
+Ing. Andrea Massimo Carbonaro
+ fi
+ CEI 64-8
+ Livello del rischio CPR CEI-UNEL 35016
+ Livello del
+ Euroclasse Luoghi di impiego CEI 64-8
+ rischio
+ Aerostazioni, stazioni ferroviarie, stazioni marittime.
+ B2ca - s1a, d1, a1 Alto
+ Metropolitane, gallerie stradali e ferroviarie.
+ Strutture sanitarie e case di riposo. Locali di pubblico spettacolo,
+ impianti e centri sportivi. Residenze turistico alberghiere. Scuole
+ Cca - s1b, d1, a1 Medio
+ e accademie, u ci, biblioteche, archivi, musei. Edi ci destinati a
+ uso civile con altezza antincendio superiore a 24 m.
+ Altre attività: edi ci destinati a uso civile
+ Basso
+ Cca - s13, d1, a3 con altezza antincendio inferiore a 24 m, sale d’attesa, bar,
+ (posa a fascio)
+ ristoranti.
+ Altre attività: installazioni non previste negli edi ci di cui sopra e
+ Basso
+ Eca dove non esiste rischio di incendio e pericolo per persone e/o
+ (posa singola)
+ cose.
+Ing. Andrea Massimo Carbonaro
+ ffi
+ fi
+ fi
+ fi
+ CEI 64-8
+ Marcatura cavi elettrici - CPR
+ Dati obbligatori Dati facoltativi
+Ing. Andrea Massimo Carbonaro
+ D.M. 37/2008
+Ing. Andrea Massimo Carbonaro
+ D.M. 37/2008
+ Articolo 1, comma 1
+ Il presente decreto si applica agli impianti posti al servizio di
+ edi ci, indipendentemente dalla destinazione d’uso, collocati
+ all’interno degli stessi o delle relative pertinenze. Se l’impianto è
+ connesso a reti di distribuzione si applica a partire dal punto di
+ consegna della fornitura.
+Ing. Andrea Massimo Carbonaro
+ fi
+ D.M. 37/2008
+ Campo di applicazione
+ a Impianti elettrici e simili
+ b Impianti radiotelevisivi ed elettronici
+ c Impianti di riscaldamento, di climatizzazione e simili
+ d Impianti idrici, sanitari e simili
+ e Impianti di distribuzione e utilizzazione di gas di qualsiasi
+ tipo e simili
+ f Impianti di sollevamento e simili
+ g Impianti di protezione antincendio
+Ing. Andrea Massimo Carbonaro
+ D.M. 37/2008
+ Impianti di protezione antincendio
+ Alimentazione Estinzione di Rivelazione di
+ di idranti tipo gas, di fumo e
+ automatico e d’incendio
+ manuale
+Ing. Andrea Massimo Carbonaro
+ PROFESSIONISTA
+ ANTINCENDIO
+ COLLABORAZIONE
+ DITTA
+ INSTALLATRICE
+Ing. Andrea Massimo Carbonaro
+Ing. Andrea Massimo Carbonaro
+Ing. Andrea Massimo Carbonaro
+ Aree a rischio specifico
+Ing. Andrea Massimo Carbonaro
+ Area a rischio speci co
+ Ambito dell’attività caratterizzato da
+ rischio di incendio sostanzialmente
+ di erente rispetto a quello tipico
+ dell’attività
+ Ing. Andrea Massimo Carbonaro
+ff
+ fi
+Le attività
+secondarie dotate di
+speci che regole
+tecniche di
+prevenzione incendi,
+che sono inserite in
+attività principali, non
+sono aree a rischio
+speci co
+Ing. Andrea Massimo Carbonaro
+ fi
+ fi
+ Aree a rischio speci co
+ Criteri di individuazione 1/3
+ a Aree in cui si detengono o trattano sostanze o miscele
+ pericolose, materiali combustibili, in quantità signi cative
+ b Aree in cui si e ettuano lavorazioni pericolose ai ni
+ dell’incendio
+ c Aree in cui vi è presenza di impianti o loro componenti
+ rilevanti ai ni della sicurezza antincendio di cui al
+ capitolo S.10
+Ing. Andrea Massimo Carbonaro N.B. L’elenco dei criteri fornito dal capitolo V.1 non è esaustivo
+ fi
+ ff
+ fi
+ fi
+ fi
+ Aree a rischio speci co
+ Criteri di individuazione 2/3
+ d Aree con carico di incendio speci co qf > 1200 MJ/m2, non
+ occupate o con presenza occasionale e di breve durata di
+ personale addetto
+ e Aree in cui vi è presenza di impianti ed attrezzature con
+ uidi di processo in pressione o ad alta temperatura
+ f Aree in cui vi è presenza di super ci esposte ad elevate
+ temperature o amme libere
+ Ing. Andrea Massimo Carbonaro N.B. L’elenco dei criteri fornito dal capitolo V.1 non è esaustivo
+fl
+ fi
+ fi
+ fi
+ fi
+ Aree a rischio speci co
+ Criteri di individuazione 3/3
+ g Aree in cui vi è presenza di reazioni chimiche pericolose
+ ai ni dell’incendio
+ h Ambiti dell’attività con Rambiente signi cativo
+Ing. Andrea Massimo Carbonaro N.B. L’elenco dei criteri fornito dal capitolo V.1 non è esaustivo
+fi
+ fi
+ fi
+Lo stoccaggio di limitate
+quantità di liquidi in ammabili
+in armadi metallici per
+impieghi funzionali all’attività
+principale non è
+generalmente considerato
+rischio speci co
+Ing. Andrea Massimo Carbonaro
+ fi
+ fi
+ Aree a rischio speci co
+ Valutazione del rischio
+ Per la valutazione del rischio e delle caratteristiche delle aree a
+ rischio speci co, devono essere considerate almeno le
+ informazioni desumibili dalle seguenti documentazioni:
+ a schede di sicurezza di sostanze o miscele pericolose;
+ b norme applicabili;
+ c speci che e manuali dei fabbricanti degli impianti e delle
+ macchine.
+Ing. Andrea Massimo Carbonaro
+ fi
+ fi
+ fi
+In seguito alla
+valutazione del rischio
+speci co il progettista
+valuta l’applicazione di
+misure compensative
+Ing. Andrea Massimo Carbonaro
+ fi
+Compartimentazione
+delle aree a rischio speci co
+Isolare le aree a rischio speci co, con classe
+REI maggiore o con distanza di separazione,
+e ubicarle fuori terra o su piani poco interrati
+garantisce maggiore sicurezza.
+ Se l’attività è multipiano le aree a rischio
+speci co devono comunque essere inserite in
+compartimenti distinti.
+Ing. Andrea Massimo Carbonaro
+ fi
+ fi
+ fi
+Controllo dell’incendio
+nelle aree a rischio speci co
+Livello di prestazione III
+Controllo o estinzione manuale dell’incendio.
+Installazione di sistemi automatici o manuali
+di inibizione, controllo o estinzione
+dell’incendio a bordo macchina per la
+protezione speci ca degli impianti e delle
+apparecchiature a rischio speci co di
+incendio.
+Ing. Andrea Massimo Carbonaro
+ fi
+ fi
+ fi
+Rivelazione e allarme
+nelle aree a rischio speci co
+Livello di prestazione III
+Rivelazione automatica dell’incendio e di usione
+dell’allarme mediante sorveglianza di ambiti dell’attività.
+Installazione di sistemi a bordo macchina per il
+rilevamento automatico di anomalie o guasti che
+comportino la deviazione dai parametri di
+funzionamento ordinario degli impianti e delle
+attrezzature di processo, con le funzioni automatiche di
+allarme ed intercettazione delle alimentazioni elettriche e
+dei uidi pericolosi.
+Ing. Andrea Massimo Carbonaro
+ fl
+ fi
+ ff
+Gestione della
+sicurezza antincendio
+La presenza di aree a rischio speci co deve
+essere considerata nella GSA, insieme alla
+valutazione del rischio e alle relative misure
+antincendio adottate.
+I lavoratori vanno formati, informati e
+addestrati sul rischio che corrono, sul
+corretto svolgimento delle mansioni e sul
+comportamento da tenere nell’esercizio
+ordinario dell’attività e negli stati di allarme
+e di emergenza.
+Ing. Andrea Massimo Carbonaro
+ fi
+RTV V.4
+U ci
+Locali con carico di incendio
+speci co qf > 1.200 MJ/m2.
+Valutare con attenzione i
+laboratori e le piccole o cine
+eventualmente presenti.
+ Ing. Andrea Massimo Carbonaro
+ffi
+ fi
+ ffi
+ RTV V.5
+ Attività ricettive turistico-
+ alberghiere
+ Locali con carico di incendio
+ speci co qf > 1.200 MJ/m2.
+ Lavanderie, stirerie, locali di
+ cottura, locali con
+ apparecchiature che utilizzano
+ amme libere.
+ Ing. Andrea Massimo Carbonaro
+fi
+ fi
+RTV V.7
+Attività scolastiche
+Locali con carico di incendio
+speci co qf > 1.200 MJ/m2.
+Laboratori chimici, o cine, sale
+prove motori, laboratori di
+saldatura, locali per lo stoccaggio
+di liquidi in ammabili etc.
+Ing. Andrea Massimo Carbonaro
+ fi
+ fi
+ ffi
+RTV V.8
+Attività commerciali
+Aree dove si e ettuano lavorazioni
+pericolose con super cie > 150 m2.
+Aree esterne destinate allo
+stoccaggio o allo scarico di scarti e
+imballaggi.
+Depositi con qf > 1.200 MJ/m2.
+Depositi di articoli pirotecnici non
+soggetti a licenza in quantità ≤ 150
+kg.
+Aree ricarica accumulatori elettrici di
+trazione.
+ Ing. Andrea Massimo Carbonaro
+ ff
+ fi
+RTV V.9
+Asili nido
+Locali destinati a lavaggio della
+biancheria o a deposito con
+carico di incendio speci co qf >
+900 MJ/m2.
+Ing. Andrea Massimo Carbonaro
+ fi
+RTV V.10
+Musei, gallerie,
+esposizioni, mostre,
+biblioteche e archivi in
+edi ci tutelati
+Locali con carico di incendio
+speci co qf > 1.200 MJ/m2.
+Laboratori di restauro, o cine,
+falegnamerie etc.
+Ing. Andrea Massimo Carbonaro
+ fi
+ fi
+ ffi
+RTV V.11
+Strutture sanitarie
+Aree o impianti a rischio speci co
+normalmente non presidiati.
+Aree a rischio speci co,
+normalmente presidiate, accessibili
+al solo personale dipendente (p. es.
+laboratori di analisi e ricerca,
+lavanderie, cucine, etc.).
+Deposito e ricarica di gas medicinali
+e gas tecnici di laboratorio.
+ Ing. Andrea Massimo Carbonaro
+ fi
+ fi
+RTV V.15
+Attività di intrattenimento e
+di spettacolo a carattere
+pubblico
+Lavorazioni pericolose con
+super cie > 100 m2 (p. es.
+laboratori e attrezzature per le
+scenogra e).
+Depositi con qf > 1.200 MJ/m2.
+Depositi di servizio alla scena di
+super cie > 50 m2.
+Ing. Andrea Massimo Carbonaro
+ fi
+ fi
+ fi
+D.M. 26 luglio 2022
+Stoccaggio e trattamento
+ri uti
+Aree in cui si svolgono una o più
+operazioni di smaltimento o di
+recupero dei ri uti di cui agli
+allegati B e C del decreto
+legislativo 3 aprile 2006, n. 152,
+fatta eccezione per le attività D15
+e R13. Sono considerate aree a
+rischio speci co anche quelle in
+cui si detengono o trattano ri uti
+di gas in ammabili.
+ Ing. Andrea Massimo Carbonaro
+fi
+ fi
+ fi
+ fi
+ fi
+ Aree a rischio per
+ atmosfere esplosive
+Ing. Andrea Massimo Carbonaro
+Atmosfera esplosiva
+Una miscela con l’aria, a condizioni
+atmosferiche, di sostanze in ammabili allo
+stato di gas, vapori, nebbie o di polveri in cui,
+dopo l’accensione, la combustione si propaga
+nell’insieme della miscela incombusta
+Ing. Andrea Massimo Carbonaro
+ fi
+ Aree a rischio per atmosfere esplosive
+ Obiettivi
+ Il rischio per atmosfere esplosive deve essere valutato
+ individuando le misure tecniche necessarie al conseguimento dei
+ seguenti obiettivi, in ordine di priorità decrescente:
+ a prevenire la formazione di atmosfere esplosive,
+ b evitare le sorgenti di accensione di atmosfere esplosive,
+ c attenuare i danni di un’esplosione in modo da garantire la
+ salute e la sicurezza degli occupanti.
+Ing. Andrea Massimo Carbonaro
+ATEX 153
+Direttiva 1999/92/CE
+Prescrizioni minime per il
+miglioramento della tutela della
+sicurezza e della salute dei
+lavoratori che possono essere
+esposti al rischio di atmosfere
+esplosive.
+Classi cazione delle aree a
+rischio di esplosione.
+Ing. Andrea Massimo Carbonaro
+ fi
+ATEX 114
+Direttiva 2014/34/UE
+Armonizzazione delle legislazioni
+degli Stati membri relative agli
+apparecchi e sistemi di
+protezione destinati a essere
+utilizzati in atmosfera
+potenzialmente esplosiva.
+Requisiti essenziali di sicurezza e
+di salute per i prodotti.
+Ing. Andrea Massimo Carbonaro
+D.Lgs. 81/08
+Titolo XI
+Il Testo Unico sulla Sicurezza sul
+Lavoro prescrive le misure per la
+tutela della sicurezza e della
+salute dei lavoratori esposti al
+rischio di atmosfere esplosive.
+Obbliga il datore di lavoro a
+elaborare il documento sulla
+protezione documento sulla
+protezione contro le esplosioni.
+Ing. Andrea Massimo Carbonaro
+ Valutazione del rischio di esplosione
+ Individuazione delle condizioni generali di pericolo di esplosione
+ Va condotto uno studio degli ambiti pericolosi dell’attività, delle
+ apparecchiature e degli impianti di processo e tecnologici presenti,
+ considerando anche l’organizzazione del lavoro e le funzioni svolte
+ negli ambiti oggetto di valutazione, anche al ne di individuare per
+ apparecchiature e impianti:
+ a le potenziali sorgenti di emissione;
+ b le potenziali sorgenti di accensione presenti;
+ c le caratteristiche costruttive, d’installazione, d’uso e di
+ manutenzione, veri cando la conformità alle leggi, alle norme
+ tecniche e di fabbricazione.
+Ing. Andrea Massimo Carbonaro
+ fi
+ fi
+ Caratteristiche
+ delle sostanze in ammabili o
+ polveri combustibili
+ Per le sostanze in ammabili e le
+ polveri combustibili devono essere
+ individuate le caratteristiche
+ chimico- siche pertinenti
+ all’esplosione, in tutte le
+ condizioni ambientali signi cative
+ e le caratteristiche dei sistemi di
+ trattamento, di deposito o di
+ stoccaggio previste.
+Ing. Andrea Massimo Carbonaro
+ fi
+ fi
+ fi
+ fi
+ Valutazione del rischio di esplosione
+ Classi cazione delle zone con pericolo di esplosione
+ Le attività con ambiti a rischio di esplosione devono essere
+ progettate, realizzate, esercite e manutenute in modo da ridurre
+ al minimo le emissioni di sostanze in ammabili.
+ Gli ambiti a rischio di esplosione devono essere ripartiti in zone
+ in base alla probabilità della presenza di atmosfera esplosiva
+ secondo le norme applicabili.
+ La suddivisione in zone dei luoghi con pericolo di esplosione può
+ essere e ettuata anche attraverso l’utilizzo di codici di calcolo.
+Ing. Andrea Massimo Carbonaro
+ fi
+ ff
+ fi
+ Classi cazione delle zone
+ Zona per la
+ Zona per la
+ presenza di Classi cazione delle aree a rischio di
+ presenza di P D
+ gas, vapori e esplosione
+ polveri
+ nebbie
+ Luogo in cui un’atmosfera esplosiva è presente in
+ 0 20 permanenza o per lunghi periodi o frequentemente (il P > 10-1 D > 103
+ pericolo è presente sempre o frequentemente)
+ Luogo in cui è probabile che un’atmosfera esplosiva si
+ 1 21 presenti occasionalmente durante il funzionamento normale 10-3 < P ≤ 10-1 10 < D ≤ 103
+ (il pericolo è presente talvolta)
+ Luogo in cui è improbabile che un’atmosfera esplosiva si
+ presenti durante il normale funzionamento, ma che, se si
+ 2 22 10-5 < P ≤ 10-3 10-1 < D ≤ 10
+ presenta, persiste solo per un breve periodo (il pericolo è
+ presente raramente o quasi mai)
+ Luogo in cui è trascurabile la probabilità di presenza
+ NP dell’atmosfera esplosiva (negligible presence). Le zone NP P ≤ 10-5 -
+ sono considerate non pericolose.
+ Luogo in cui il volume dell’atmosfera esplosiva è di
+ NE estensione trascurabile (negligible extent). Generalmente le - -
+ zone NE sono considerate non pericolose.
+ P: probabilità di presenza su base annua [eventi/anno]
+Ing. Andrea Massimo Carbonaro
+ D: durata di presenza ATEX su base annua [ore/anno]
+ fi
+ fi
+ Individuazione
+ dei potenziali pericoli di innesco
+ I pericoli di innesco sono
+ strettamente legati alla presenza
+ di sorgenti di accensione e alle
+ proprietà di accensione delle
+ miscele potenzialmente esplosive
+Ing. Andrea Massimo Carbonaro
+Sorgenti di accensione (UNI EN 1127-1)
+Super ci calde
+Fiamme, gas, particelle calde
+Scintille di origine meccanica
+Materiale e impianti elettrici
+Correnti vaganti, protezione catodica
+Elettricità statica
+Fulmini
+Radio frequenza da 104 Hz a 3•1011 Hz
+Onde elettromagnetiche da 3•1011 Hz a 3•1015 Hz
+Radiazioni ionizzanti
+Ultrasuoni
+Compressione adiabatica e onde d’urto
+Radiazioni esotermiche
+Ing. Andrea Massimo Carbonaro
+ fi
+ Valutazione del rischio di esplosione
+ Classi cazione delle sorgenti di accensione
+ a Sorgenti che si manifestano continuamente o
+ frequentemente; per gli apparecchi durante il normale
+ funzionamento.
+ b Sorgenti che si manifestano in circostanze rare; per gli
+ apparecchi a seguito di malfunzionamenti previsti.
+ c Sorgenti che si manifestano in circostanze molto rare; per
+ gli apparecchi a seguito di malfunzionamenti rari.
+Ing. Andrea Massimo Carbonaro
+ fi
+ E etti sici
+ prevedibili di un’esplosione
+ Fiamme e gas caldi
+ Irraggiamento termico
+ Onde di pressione
+ Proiezione di frammenti o oggetti
+ Rilasci di sostanze pericolose
+ E etti come il calore o le sovrappressioni
+ possono essere determinati tramite
+ formulazioni sempli cate, modelli
+ empirici o codici di calcolo
+ Ing. Andrea Massimo Carbonaro
+ff
+ ff
+ fi
+ fi
+ Valutazione del rischio di esplosione
+ E etti da considerare per la salvaguardia delle persone
+ a Danneggiamento degli elementi di compartimentazione
+ non resistenti all’esplosione secondo NTC e in generale agli
+ impatti meccanici.
+ b Fuori servizio degli impianti di protezione attiva interni al
+ locale di origine dell’esplosione.
+ c Effetto domino (p. es. danni ad altri sistemi di
+ contenimento).
+ d Danni alle misure di protezione adottate sulle sorgenti di
+ accensione con conseguente innesco di un’esplosione per le
+ sostanze rilasciate.
+ Ing. Andrea Massimo Carbonaro
+ff
+ Se l’esplosione può essere seguita da un’incendio,
+ quest’ultimo va valutato considerando i danni causati
+ dall’esplosione. La valutazione va fatta anche per la
+ situazione opposta.
+Ing. Andrea Massimo Carbonaro
+ Valutazione del rischio di esplosione
+ Quanti cazione del livello di protezione
+ Il livello di protezione contro le esplosioni è considerato
+ adeguato quando si deve veri care il fallimento di tre mezzi di
+ protezione indipendenti a nché un’atmosfera esplosiva possa
+ essere innescata da una sorgente di accensione e cace.
+ Per il concetto di mezzo di protezione si richiamano le
+ disposizioni in materia di apparecchi e sistemi di protezione
+ destinati ad essere utilizzati in atmosfera esplosiva nonché le
+ disposizioni in materia di salute e sicurezza sui luoghi di lavoro.
+Ing. Andrea Massimo Carbonaro
+ fi
+ ffi
+ fi
+ ffi
+ Misure Misure Misure
+ preventive protettive gestionali
+ Riducono la Riducono il rischio
+ Riducono i danni
+ probabilità di con la corretta
+ collegati agli e etti di
+ presenza e di organizzazione delle
+ un’esplosione entro
+ innesco di una lavorazioni e dei
+ limiti accettabili
+ miscela esplosiva processi produttivi
+Ing. Andrea Massimo Carbonaro
+ ff
+ Misure Riduzione del numero di sorgenti di emissione
+ preventive Sistemi di dispersione, diluizione o boni ca dei
+ rilasci di sostanze in ammabili in ambiente
+ Impianti di rivelazione delle sostanze
+ Riducono la in ammabili
+ probabilità di Impianti, attrezzature e relativi sistemi di
+ presenza e di connessione che non inneschino un’esplosione
+ innesco di una Impianti di rivelazione delle sorgenti di
+ miscela esplosiva accensione
+ Sistemi di inertizzazione per ridurre la
+ concentrazione di ossigeno sotto il limite (LOC)
+ Prodotti conformi alla legislazione comunitaria
+ Ing. Andrea Massimo Carbonaro
+fi
+ fi
+ fi
+ Misure Sistemi di protezione mediante sfogo
+ protettive dell’esplosione di gas o polveri
+ Apparecchi di isolamento o soppressione
+ dell’esplosione
+ Apparecchi resistenti alle esplosioni
+ Riducono i danni
+collegati agli e etti di Layout dell’opera da costruzione e degli
+ un’esplosione entro impianti con l’obiettivo di ridurre il numero di
+ occupanti esposti agli e etti di un’esplosione
+ limiti accettabili
+ Protezione dai danni meccanici per i contenitori
+ delle sostanze in ammabili
+ Sistemi a circuito chiuso per la movimentazione
+ delle sostanze in ammabili
+Ing. Andrea Massimo Carbonaro
+ ff
+ fi
+ fi
+ ff
+ Misure
+ gestionali Formazione dei lavoratori sulle esplosioni
+ Dotazione ai lavoratori di indumenti e
+ attrezzature adeguate a ridurre il rischio di
+ Riducono il rischio esplosione e di attrezzature portatili per rivelare
+ la presenza di atmosfera esplosiva
+ con la corretta
+organizzazione delle Segnalazione dei pericoli di formazione di
+ lavorazioni e dei atmosfere esplosive
+ processi produttivi Procedure per le emergenze
+ Veri che di sicurezza degli impianti e delle
+ attrezzature
+Ing. Andrea Massimo Carbonaro
+ fi
+ Misure di prevenzione, protezione e gestionali
+ Prodotti
+ I prodotti possono essere utilizzati o essere messi in servizio in
+ un’atmosfera esplosiva solamente dopo aver veri cato la
+ compatibilità della zona nella quale sono chiamati a svolgere la
+ propria funzione.
+ Tali prodotti devono essere rispondenti alla direttiva ATEX di
+ prodotto, che prevede di erenti categorie in relazione
+ all’impiego in ciascuna zona classi cata.
+Ing. Andrea Massimo Carbonaro
+ ff
+ fi
+ fi
+ Gruppo di apparecchi I Gruppo di apparecchi II
+Apparecchi destinati a lavori in
+ sotterraneo nelle miniere e Apparecchi destinati a essere
+nei loro impianti di super cie, utilizzati in altri siti passibili di
+ passibili di essere esposti al essere messi in pericolo da
+ rischio di sprigionamento di atmosfere esplosive,
+grisù e/o di polveri combustibili, comprendenti apparecchi
+ comprendenti gli apparecchi appartenenti alle
+ appartenenti alle categorie M1 categorie 1, 2 e 3
+ ed M2
+Ing. Andrea Massimo Carbonaro
+ fi
+ I prodotti non devono essere causa di innesco
+ Categoria 1 anche in caso di guasto eccezionale. In caso di
+ guasto di un mezzo di protezione ve ne deve
+ Livello di protezione molto elevato essere un secondo, indipendente, in grado di
+ assicurare il livello di prestazione richiesto.
+ I mezzi di protezione garantiscono il livello di
+ Categoria 2 protezione richiesto anche in presenza di anomalie
+ ricorrenti o difetti di funzionamento degli
+ Livello di protezione elevato apparecchi di cui occorre abitualmente tener
+ conto.
+ Categoria 3 I mezzi di protezione garantiscono il livello di
+ protezione richiesto a funzionamento normale.
+ Livello di protezione normale
+Ing. Andrea Massimo Carbonaro
+ Marcatura degli apparecchi
+ 1 Nome, denominazione commerciale registrata o marchio
+ registrato e indirizzo del fabbricante
+ 2 Marcatura CE
+ 3 Designazione della serie o del tipo e numero (se esiste)
+ 4 Anno di costruzione
+ 5 Marchio Ex seguito da gruppo di apparecchi e categoria
+ 6 Lettera G per gas, vapori e nebbie o lettera D per polveri
+Ing. Andrea Massimo Carbonaro
+ Esempio di marcatura
+Ing. Andrea Massimo Carbonaro https://www.intertek.it/atmosfere-potenzialmente-esplosiva/marcatura-ex/
+ Apparecchiature e zone ATEX
+ Atmosfera esplosiva Zona Categoria ATEX
+ 0 1G
+ Gas 1 1G, 2G
+ 2 1G, 2G, 3G
+ 20 1D
+ Polveri 21 1D, 2D
+ 22 1D, 2D, 3D
+Ing. Andrea Massimo Carbonaro G sta per gas e D per dust (polvere)
+Per impianti si intendono le
+attrezzature, i sistemi e i relativi
+dispositivi di collegamento che
+non sono prodotti ai sensi
+della direttiva ATEX, qualora
+rappresentino un pericolo di
+accensione o di emissione di
+sostanza in ammabile
+Ing. Andrea Massimo Carbonaro
+ fi
+ Opere da costruzione
+ resistenti alle esplosioni
+ Le opere da costruzione possono essere
+ progettate in modo tale da limitare gli
+ e etti di esplosioni all’interno delle
+ stesse o nei confronti di costruzioni
+ limitrofe
+ Ing. Andrea Massimo Carbonaro
+ff
+ Misure di prevenzione, protezione e gestionali
+ Obiettivi di sicurezza prefissati per la progettazione strutturale
+ a Salvaguardia della vita degli occupanti all’interno della
+ costruzione
+ b Salvaguardia della vita degli occupanti di costruzioni limitrofe
+ c Tutela di beni contenuti nelle costruzioni
+ d Limitazione di danni alla costruzione in cui si origina l’esplosione
+ e Limitazione di danni a costruzioni limitrofe
+ f Limitazione di e etti domino
+Ing. Andrea Massimo Carbonaro
+ ff
+ Misure di prevenzione, protezione e gestionali
+ Fasi della progettazione strutturale
+ Le fasi della progettazione di strutture resistenti alle
+ esplosioni, al ne di salvaguardare la vita degli occupanti e
+ limitare il danneggiamento strutturale, sono:
+ a modellazione degli e etti dell’esplosione, quanti cazione
+ delle azioni;
+ b analisi strutturale;
+ c progettazione costruttiva e veri ca.
+Ing. Andrea Massimo Carbonaro
+ fi
+ ff
+ fi
+ fi
+ Misure di prevenzione, protezione e gestionali
+ Classificazione azioni dovute a esplosioni e classi di conseguenza
+ Categoria delle azioni dovute Classi di conseguenza
+ alle esplosioni (NTC) (NAD EN 1991-1-7)
+ Opere da costruzione con presenza solo occasionale di
+ 1 E etti trascurabili sulle strutture CC1 occupanti, edi ci agricoli
+ Opere da costruzione con normali a ollamenti, senza
+ CC2
+ pericolo per l’ambiente e senza funzioni pubbliche e sociali
+ rischio
+ essenziali. Industrie non pericolose per l’ambiente. Opere
+ inferiore
+ infrastrutturali non ricadenti in classi superiori.
+ E etti localizzati su parti delle
+ 2
+ strutture
+ CC2 Opere da costruzione con a ollamenti signi cativi.
+ rischio Industrie pericolose per l’ambiente. Reti viarie extraurbane
+ superior non ricadenti in CC3. Ponti e reti ferroviarie la cui
+ e interruzione provochi situazioni di emergenza.
+ Opere da costruzione con funzioni pubbliche o strategiche
+ 3 E etti generalizzati sulle strutture CC3 importanti. Industrie molto pericolose per l’ambiente. Ponti
+ e rete ferroviarie di importanza critica.
+ Ing. Andrea Massimo Carbonaro
+ff
+ff
+ff
+ fi
+ ff
+ ff
+ fi
+ Conclusione
+Ing. Andrea Massimo Carbonaro
+Regola dell’arte
+Ogni attività ha delle indicazioni e
+obblighi ulteriori presenti nelle RTV
+Norma CEI 64-8
+D.M. 37/2008 - Dichiarazione di
+conformità
+Rischio specifico
+Formazione di atmosfere esplosive
+Ing. Andrea Massimo Carbonaro
+ Grazie a voi tutti
+ per l’attenzione!
+ andreamassimo.carbonaro@gmail.com
+Ing. Andrea Massimo Carbonaro
+

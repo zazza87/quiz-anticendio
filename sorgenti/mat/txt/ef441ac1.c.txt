@@ -1,0 +1,349 @@
+S.3 COMPARTIMENTAZIONE –
+ ESEMPIO APPLICATIVO
+ (Quaderno Inail – S.3 compartimentazione)
+ 4 Novembre 2026 – Ordine dei periti della provincia di Trieste
+ Aula Virtuale - MODALITA’ STREAMING SINCRONO Videoconferenza
+ Dott. Tinti Gianluca - gianluca.tinti@gmail.com – tel 339 6655966
+ CASO DI STUDIO
+Nel presente caso studio ci si occupa di un’attività ufficio esercita in un edificio di
+interesse storico.
+L’immobile e costituito da tre elevazioni fuori terra e da un piano interrato; il piano
+terra e destinato all’accoglienza del pubblico, mentre primo e secondo sono ad
+esclusivo utilizzo del personale interno.
+Il piano interrato e adibito a deposito di materiale cartaceo.
+La pianta dell’edificio e a forma di ferro di cavallo, con quattro scale che garantiscono
+una doppia via di esodo per gli occupanti, eliminando il problema dei corridoi ciechi.
+In particolare, al piano primo dell’edificio, denominato piano nobile, non e stato
+possibile installare una porta finalizzata a rendere la scala monumentale centrale
+(scala B), indispensabile come via di esodo, di tipo protetto (par. S.4.7.2 punto a).
+Si farà pertanto ricorso all’ingegneria antincendio per dimostrare, in soluzione
+alternativa, che anche senza l’installazione di una porta E-Sa si possa considerare
+tale scala come protetta, ai fini della propagazione dell’incendio.
+CASO DI STUDIO
+CASO DI STUDIO
+ CONTESTUALIZZAZIONE DELL’ATTIVITÀ IN RELAZIONE ALLA PREVENZIONE INCENDI
+Ai sensi dell’Allegato I del d.p.r. 1 agosto 2011, n. 151 l'attività in esame, superando
+le 300 persone presenti, rientrerebbe nella classificazione di cui al punto 71.1.A.
+Trattandosi, pero, di un edificio tutelato ai sensi dell’art. 10 del d.lgs. 22 gennaio
+2004, n.42 e s.m.i., destinato a contenere una delle attività soggette presenti nel
+citato Allegato, l’attività ricade nella classificazione di cui al punto 72.1.C che, in
+base all'art. 2 del Codice, esula dal campo di applicazione del medesimo.
+Tuttavia, ai soli fini didattici, si applicherà ugualmente il Codice come strumento di
+progettazione, dimostrando, ancora una volta, la grande flessibilità di questa
+metodologia, anche in relazione ad attività che, solo per ragioni amministrative,
+sono ancora fuori dal campo di applicazione del d.m. 3 agosto 2015 e s.m.i..
+E inoltre presente, al piano interrato, l’attività 34.2.C “Depositi di carta, cartoni e
+prodotti cartotecnici, archivi di materiale cartaceo, biblioteche, depositi per la
+cernita della carta usata, di stracci di cascami e di fibre tessili per l'industria della
+carta, con quantitativi in massa > 50000 kg”.
+ OBIETTIVI DELLO STUDIO
+Ci si propone, nell’ambito generale della progettazione antincendio dell’attività, di
+focalizzare l’attenzione sulla misura antincendio Compartimentazione, dimostrando
+l’adeguatezza di tale misura, mediante approccio ingegneristico, in relazione alla
+protezione della scala monumentale centrale (scala B).
+ S.3 - COMPARTIMENTAZIONE
+Inquadramento del progetto antincendio in riferimento alla misura S.3
+In funzione dei profili di rischio e delle caratteristiche del fabbricato, alla misura antincendio
+Compartimentazione è stato attribuito il livello di prestazione II, per il quale viene richiesto di
+contrastare, per un periodo congruo con la durata dell’incendio, la propagazione
+dell’incendio verso altre attività e all’interno della stessa.
+La soluzione conforme per il livello di prestazione II (par. S.3.4.1) richiede:
+1. per limitare la propagazione verso altre attività di impiegare almeno una delle seguenti
+soluzioni conformi:
+a) inserire le diverse attività in compartimenti antincendio distinti;
+b) interporre distanze di separazione su spazio a cielo libero tra le diverse attività.
+2. per limitare la propagazione dell’incendio all’interno della stessa attività di impiegare
+almeno una delle seguenti soluzioni conformi:
+a) suddividere la volumetria dell’opera da costruzione contenente l’attività in compartimenti
+antincendio opportunatamente progettati;
+b) interporre distanze di separazione su spazio a cielo libero tra ambiti della stessa attività.
+ PROGETTAZIONE DEI COMPARTIMENTI ANTINCENDIO
+La massima superficie lorda dei vari compartimenti viene verificata (par. S.3.6 e tab. S.3-6) in
+funzione del profilo di rischio Rvita e della quota dei medesimi che, nel caso in esame è
+inferiore ai 12 m.
+- per i compartimenti interrato, primo e secondo piano (profilo di rischio Rvita A2 e superfici
+ pari a 1600 m2) la superficie massima corrispondente è pari a 64000 m2;
+- per il compartimento piano terra (profilo Rvita di rischio B2 e superficie pari a 1600 m2) la
+ superficie massima corrispondente è pari a 32000 m2.
+La verifica risulta largamente soddisfatta e ciascun piano costituisce singolo compartimento.
+La classe di resistenza al fuoco del compartimento (par. S.3.7.1) è risultata (Cap. S.2) pari a 45.
+I collegamenti fra i tre piani dell’attività sono rappresentati dalle scale di collegamento che
+devono essere di tipo protetto.
+In questo caso il problema che si posto è stato relativo alla scala indicata in planimetria come
+scala B, in quanto al piano primo non è possibile installare, per ragioni prettamente estetiche
+connesse al vincolo storico dell’edificio, una porta con caratteristiche idonee E 45-Sa (parr.
+S.3.5.4 e S.3.7.2) nella sala d’attesa antistante l’uscita di emergenza, per garantire le
+prestazioni del compartimento.
+ PROGETTAZIONE DEI COMPARTIMENTI ANTINCENDIO
+In questo caso il problema che si posto è stato relativo alla scala indicata in planimetria come
+scala B, in quanto al piano primo non è possibile installare, per ragioni prettamente estetiche
+connesse al vincolo storico dell’edificio, una porta con caratteristiche idonee E 45-Sa (parr.
+S.3.5.4 e S.3.7.2) nella sala d’attesa antistante l’uscita di emergenza, per garantire le
+prestazioni del compartimento.
+Non e quindi possibile ottemperare, con
+soluzione conforme, al livello di prestazione II.
+ PROGETTAZIONE DEI COMPARTIMENTI ANTINCENDIO
+Progettazione dei compartimenti antincendio
+Al fine di dimostrare il raggiungimento del
+livello di prestazione attribuito (II), in relazione
+alla propagazione dell’incendio e dei suoi
+effetti nella configurazione considerata, si
+adotta la modalità suggerita dal Codice e
+generalmente accettata per la progettazione di
+soluzioni alternative di cui alla tab. S.3-3:
+“Caratteristiche del filtro (§ S.3.5.4)”.
+ ANALISI DEI LUOGHI
+Analisi dei luoghi
+Si e proceduto, quindi, con l’analisi dei luoghi al fine di verificare se fosse possibile
+ottemperare a quanto richiesto mediante una soluzione alternativa efficace, in grado di
+garantire la non propagazione dell’incendio e dei fumi sia caldi che freddi anche omettendo la
+porta E-Sa verso la scala.
+L’ambiente antistante il vano scala B è caratterizzato da una notevole altezza (5,00 m) e da
+ampie vetrate a tutt’altezza lungo gran parte delle pareti perimetrali.
+ ANALISI DEI LUOGHI
+Analisi dei luoghi
+Il varco di passaggio da tale ambiente verso la scala B e costituito da un portone in legno di
+pregio avente un sopraluce con apertura opposta al verso di esodo.
+Tale sopraluce può essere schermato con lastre ignifughe poste tra la parte in legno
+prospicente la scala e l’infisso interno.
+Il portone dovrà essere tenuto sempre in posizione
+aperta; tale prescrizione farà parte del fascicolo relativo
+alla GSA, nella quale, un’apposita procedura ne
+prevederà il controllo ogni mattina all’apertura
+dell’attività.
+ ANALISI DEI LUOGHI
+Analisi dei luoghi
+La luce netta di passaggio e pari a 2,30 m ed e pertanto presumibile prevedere un’ampia zona
+di espansione dei fumi caldi al di sopra del passaggio.
+La presenza delle aperture di ventilazione, poste in prossimità del solaio, dovrebbe garantire
+una via preferenziale per i fumi rispetto al vano scala.
+In tal modo sarebbe costantemente garantito il contenimento dei fumi caldi (E).
+ ANALISI DEI LUOGHI
+Analisi dei luoghi
+Per quanto attiene la trasmissione del calore, un’ulteriore peculiarità dell’ambiente è
+costituita dal pavimento e dal rivestimento, interamente in marmo, a meno delle imbotti in
+legno delle porte presenti.
+Secondo le specifiche che potranno essere imposte nella stesura della GSA, tale spazio,
+compreso nell’ambito dell’attuale sala d’aspetto, dovrà essere costantemente lasciato libero
+da oggetti e arredi.
+ ANALISI DELLE SOLUZIONI ALTERNATIVE
+Per verificare se tali condizioni architettoniche siano sufficienti per garantire la non
+propagabilità dell'incendio, riportando direttamente (per questioni di brevità) le
+conclusioni delle analisi effettuate per l'identificazione degli scenari d'incendio di
+progetto, si è ipotizzato
+- un primo scenario, che prevede un focolare direttamente nella sala d’aspetto con
+ la parte superiore delle finestre già aperte.
+- un secondo scenario che prevede un incendio, di intensità minore, in un locale
+ limitrofo (segreteria) simulando la rottura dei vetri nella sala d’aspetto a seguito
+ del calore.
+ SCENARIO 1 - INCENDIO NELLA SALA D’ASPETTO, CON LE FINESTRE TOTALMENTE APERTE
+Come anticipato, tale scenario consente di controllare se un incendio che abbia luogo nel
+locale antistante la scala non si propaghi nella stessa, considerando la parte sommitale delle
+finestre presenti già aperta.
+Per fare questo ci si è riferito ai Metodi M1 e M2 del Codice verificando, per tutta la durata
+della classe del compartimento (45), che non vi sia passaggio di fumi dal varco di transito
+verso la scala e che l’irraggiamento termico in prossimità del varco si mantenga al di sotto
+della soglia di 2,5 kW/m² (tab. M.3-2)
+Definizione del focolare d’incendio
+Per questo scenario si è adottato, all’interno della sala d’aspetto, un focolare molto severo
+(HRRmax totale pari 5 MW), ponendosi ai valori massimi di quanto indicato al par. M.2.7 (tab.
+M.2-2) per le attività civili, in modo da avere risultati più cautelativi rispetto a quelli ottenibili
+con i valori suggeriti dall’ Eurocodice EN 1991-1-2 per le attività destinate ad uffici.
+ SCENARIO 1 - INCENDIO NELLA SALA D’ASPETTO, CON LE FINESTRE TOTALMENTE APERTE
+Come anticipato, tale scenario consente di controllare se un incendio che abbia luogo nel
+locale antistante la scala non si propaghi nella stessa, considerando la parte sommitale delle
+finestre presenti già aperta.
+Per fare questo ci si è riferito ai Metodi M1 e M2 del Codice verificando, per tutta la durata
+della classe del compartimento (45), che non vi sia passaggio di fumi dal varco di transito
+verso la scala e che l’irraggiamento termico in prossimità del varco si mantenga al di sotto
+della soglia di 2,5 kW/m² (tab. M.3-2)
+ SCENARIO 1 - INCENDIO NELLA SALA D’ASPETTO, CON LE FINESTRE TOTALMENTE APERTE
+Definizione del focolare d’incendio
+Per questo scenario si è adottato, all’interno della sala d’aspetto, un focolare molto
+severo (HRRmax totale pari 5 MW), ponendosi ai valori massimi di quanto indicato al
+par. M.2.7 (tab. M.2-2) per le attività civili, in modo da avere risultati più cautelativi
+rispetto a quelli ottenibili con i valori suggeriti dall’ Eurocodice EN 1991-1-2 per le
+attività destinate ad uffici.
+ SCENARIO 1 - INCENDIO NELLA SALA D’ASPETTO, CON LE FINESTRE TOTALMENTE APERTE
+All’interno dello scenario sono state collocate delle sonde virtuali per l’analisi delle
+temperature, dell’altezza dei fumi caldi e dell’irraggiamento.
+Tali sonde sono state ubicate in maniera da poter monitorare le zone di maggiore
+interesse: ad entrambi i lati del varco di emergenza (per valutare la quantità di
+calore radiante presente e verificare il passaggio dei fumi caldi) e lungo il muro
+perimetrale che contiene le finestrature, per potere valutare l’effetto dell’incendio
+sulle stesse.
+Le sonde di temperatura sono state poste a due quote, al di sopra del varco, per
+valutare la sollecitazione del sopraluce.
+È stata infine monitorata la temperatura della parete di confine.
+ SCENARIO 1 - INCENDIO NELLA SALA D’ASPETTO, CON LE FINESTRE TOTALMENTE APERTE
+Al termine della simulazione, il rivelatore posto all’interno della scala ha registrato un valore massimo pari
+a 0,000547% obsc/m, ovvero molto al di sotto della soglia di attivazione e al di sotto anche della soglia di
+visibilità dello stesso (i fumi iniziano ad essere visibili per valori compresi tra 0,1 e 1 % obsc/m).
+I rivelatori di fumo sfruttano l’effetto Tyndall rivelando le particelle di fumo visibili e fredde da 0,3 μm a 2
+μm prodotte durante le prime fasi di un incendio: la mancata attivazione di tale sensore, pertanto,
+fornisce indicazioni anche sulla mancata propagazione dei fumi freddi.
+Le temperature dei fumi al di sopra della porta (2,40 m e 3,00 m) hanno mantenuto valori al di sotto dei
+250°C, mentre i valori del flusso radiante non hanno superato 2 kW/m².
+Analogamente, le sonde di misura del flusso radiante inferiore, poste a 1,00 m e a 2,50 m di altezza, non
+hanno mai superato i 2 kW/m².
+ Questa prima dimostrazione ha
+ permesso di validare le ipotesi di
+ partenza: considerata la notevole
+ altezza dell’ambiente (5,00 m)
+ rispetto all’altezza del vano porta
+ (2,30 m) e la presenza delle ampie
+ finestrature, i fumi caldi non
+ invadono la scala ed il calore
+ prodotto dall’incendio non si
+ propaga oltre la sala d’aspetto.
+Quanto sopra garantisce che non ci sia propagazione dell’incendio tra il compartimento di piano primo e
+quello piano secondo durante tutte le fasi di incendio.
+ SCENARIO 2 - INCENDIO NELLA SEGRETERIA, ROTTURA DEI VETRI
+Le ipotesi adottate nello scenario precedente sono valide solo a condizione che le finestre
+presenti nella sala d’attesa siano aperte e che si mantengano tali per tutto il tempo
+dell’incendio.
+Dal momento che, normalmente, tali finestre sono chiuse, ci si e posti il problema di studiare
+il fenomeno della rottura dei vetri in condizioni di stress termico dovuto ad un incendio.
+Le finestre presenti sono costituite da vetri a singola lastra di spessore non superiore ai 4 mm.
+Già nel 1969 furono pubblicati i primi studi riguardo la rottura dei vetri in caso di incendio, ad
+opera del ricercatore russo Roytman, che individuo in 300°C la temperatura minima affinché
+si possa supporre la sicura rottura del vetro.
+Test analoghi furono condotti da Hassani, Shields e
+Silcock18, che condussero una serie di prove su finestre
+con un singolo vetro da 4 o 6 mm.
+In questo esperimento fu evidenziato come la comparsa
+di crepe o di danneggiamenti del vetro, mediamente
+raggiunti a temperature tra i 320 e i 460°C, non
+comportava automaticamente la caduta della lastra.
+Analogo risultato fu ottenuto dal Building Research
+Institute of Japan che ha valutato, in termini
+probabilistici, la possibilità di rottura dei vetri all’interno
+di un locale in presenza di incendio.
+ SCENARIO 2 - INCENDIO NELLA SEGRETERIA, ROTTURA DEI VETRI
+Altri studi, come ad esempio quello condotto nel 2000 da Harada, Enomoto, Uede e
+Wakamatsu, hanno provato a correlare la rottura dei vetri all’energia radiante, registrando
+anche la percentuale della lastra di vetro caduta.
+Il particolare interessante di tale studio è stato quello di verificare che, se sottoposto ad un
+flusso di calore importante, superiore ai 5 kW/m², la rottura iniziale del vetro inizia già a
+temperature relativamente basse (90 - 100°C).
+ SCENARIO 2 - INCENDIO NELLA SEGRETERIA, ROTTURA DEI VETRI
+Partendo dalle precedenti considerazioni, si è proceduto ad ipotizzare un secondo scenario,
+nel quale il focolare di incendio è situato nel locale segreteria, adiacente la sala d’attesa; sono
+state, quindi, collocate delle sonde di misura sulle finestre sia della stanza nella quale è posto
+il focolare, sia su tutte le finestre della sala d’attesa.
+Si è quindi individuato un focolare maggiormente significativo per l’attività in esame, secondo
+le indicazioni dell’Eurocodice EN 1991-1-2, che prevede un HRRt pari a 250 kW/m² e t = 300 s.
+I valori relativi alla combustione sono rimasti inalterati rispetto al precedente focolare.
+Per simulare la rottura delle
+finestre, sono state poste delle
+sonde virtuali di temperatura e
+flusso radiante su ogni finestra
+ed è stata attivata una funzione
+di controllo (&CTRL ID) che
+simuli l’apertura della finestra
+nel caso si verifichi una delle
+due condizioni (ANY), ovvero
+temperatura > 300°C o flusso
+radiante > 10 kW/m².
+ SCENARIO 2 - INCENDIO NELLA SEGRETERIA, ROTTURA DEI VETRI
+Lo studio di tale scenario ha evidenziato quanto segue:
+- la rottura della prima finestra (nel locale segreteria in cui è posto il focolare) avviene dopo
+ circa 350 s;
+- le finestre della sala d’attesa non raggiungono mai valori tali da provocarne la sicura
+ rottura;
+- a causa del ritardo tra l’innesco e la rottura della prima finestra, il fumo invade i locali e
+ raggiunge anche la scala, come registrato dal rivelatore di fumo;
+- dopo la rottura della finestra, il fumo trova una via preferenziale verso l’esterno e la
+ quantità di fumo spinto verso la scala si riduce al di sotto dei valori limite.
+In questo caso, quindi, benché la non propagazione dell’incendio sulla scala sia sempre
+verificata (valori di temperatura e calore radiante inferiore ai limiti imposti), lo stesso non può
+dirsi per i fumi freddi.
+Sulla scorta di quanto appreso nel secondo scenario, appare evidente come sia essenziale che
+una parte delle finestre, tipicamente quelle di sommità, si aprano con una tempistica
+minore rispetto a quella necessaria per la normale rottura delle lastre in vetro.
+Tale aspetto è tanto più vero se il focolare è di entità ridotta o se ha uno sviluppo
+particolarmente lento.
+Pertanto, al fine di garantire le condizioni di sicurezza è necessario operare delle scelte per
+garantire che la parte sommitale delle finestre si apra in tempi decisamente brevi.
+ SCENARIO 2 - INCENDIO NELLA SEGRETERIA, ROTTURA DEI VETRI
+Pannelli bassofondenti
+La prima ipotesi che è stata analizzata è quella relativa ai pannelli bassofondenti da installarsi
+in sostituzione dei vetri; tali pannelli costituiscono una soluzione prevista dal Codice come
+aperture di smaltimento di tipo See (tab. S.8-4).
+I pannelli bassofondenti sono lastre di materiale plastico trasparente, che hanno valori di
+rammollimento (Tg -Glass Transition) e di fusione (Melting Point) molto più bassi del vetro.
+In commercio ne esistono un numero elevato con proprietà chimico fisiche diverse.
+Le lastre più comune sono generalmente realizzate in Polietilene tereftalato (PET) o in
+Polimetilmetacrilato (PMMA), che hanno le seguenti caratteristiche termiche:
+Le proprietà più interessanti per la nostra finalità sono la temperatura di rammollimento Tg e
+quella di fusione Tf; le lastre di PET presentano temperature sensibilmente più basse di quelle
+di PMMA, mostrando tuttavia delle temperature di fusione più elevate.
+ SCENARIO 2 - INCENDIO NELLA SEGRETERIA, ROTTURA DEI VETRI
+Pannelli bassofondenti
+Confrontando tali valori con quelli misurati durante la seconda simulazione, in cui si è
+simulata la rottura del vetro, si nota che esso è stato attivato dal flusso di calore radiante che
+ha superato il valore di 10 kW/m², dopo circa 341 s; nello stesso momento, la temperatura
+registrata era di 235°C.
+Nel caso si fosse
+usata una lastra di
+PET il
+rammollimento si
+sarebbe registrato
+a circa 190 s,
+mentre nel caso
+del PMMA a
+230°C.
+ SCENARIO 2 - INCENDIO NELLA SEGRETERIA, ROTTURA DEI VETRI
+Pannelli bassofondenti
+Analizzando il dispositivo di controllo del fumo nella scala, si nota come tali valori sarebbero
+compatibili con la simulazione.
+Tuttavia, il comportamento della plastica nel punto di rammollimento non garantisce la
+caduta della lastra.
+Tale certezza si potrebbe ottenere solo raggiungendo la fusione ma, in tal caso, i tempi
+sarebbero troppo lunghi.
+Infatti, dall’analisi del rivelatore di fumo posto all’ingresso della scala, emerge che già dopo
+200 s, è presente del fumo.
+ SCENARIO 2 - INCENDIO NELLA SEGRETERIA, ROTTURA DEI VETRI
+Pannelli bassofondenti
+Analizzando il dispositivo di controllo del fumo nella scala, si nota come tali valori sarebbero
+compatibili con la simulazione.
+Tuttavia, il comportamento della plastica nel punto di rammollimento non garantisce la
+caduta della lastra.
+Tale certezza si potrebbe ottenere solo raggiungendo la fusione ma, in tal caso, i tempi
+sarebbero troppo lunghi.
+Infatti, dall’analisi del rivelatore di fumo posto all’ingresso della scala, emerge che già dopo
+200 s, è presente del fumo.
+Per ovviare a tale problema si
+potrebbero dotare le porte di
+accesso a tale locale di sistemi
+di autochiusura in
+modo da rallentare la
+propagazione dei fumi per il
+tempo necessario a far fondere
+i pannelli in plastica.
+ SCENARIO 2 - INCENDIO NELLA SEGRETERIA, ROTTURA DEI VETRI
+Modifica dei serramenti
+Una soluzione decisamente più efficace potrebbe consistere nel modificare i
+serramenti esterni in modo tale da garantirne l’apertura in caso di incendio
+attraverso un sistema di apertura collegato al sistema di rivelazione fumi.
+Il sistema consentirebbe l’apertura a ribalta della sola parte superiore dell’infisso, a
+seguito di modifica dello stesso.
+I componenti necessari all’apertura della finestra sarebbero contenuti nella cerniera
+a molla e dall’elettromagnete di ritenuta collegato al sistema di rivelazione fumi e
+potrebbero semplicemente trovare posto ed essere mascherati nelle imbotti in
+legno della finestra, senza quindi alterarne il profilo estetico.
+Questo metodo eliminerebbe completamente il fattore legato all’aleatorietà della
+rottura dei vetri o delle lastre in plastica, garantendo sempre la risposta più efficace.
+ SCENARIO 2 - INCENDIO NELLA SEGRETERIA, ROTTURA DEI VETRI
+Modifica dei serramenti
+Per verificare quest’ultima ipotesi (apertura della parte alta dell’infisso a seguito di rivelazione
+fumo), è stata ripetuta la prima simulazione, limitando l’apertura delle finestre alla sola parte
+alta.
+La simulazione ha confermato le ipotesi assunte, garantendo l’assenza di fumi nella scala (sia
+caldi che freddi) e, in definitiva, garantendo che l’incendio non si propaghi in altri
+compartimenti.
+Tale simulazione è inoltre conservativa, in quanto, come è possibile notare dall’immagine
+successiva, in caso di incendio, la parte sottostante della finestra più vicina al focolare sarebbe
+investita comunque da un flusso di calore importante che ne provocherebbe la rottura
+aumentando le aperture di ventilazione.
+

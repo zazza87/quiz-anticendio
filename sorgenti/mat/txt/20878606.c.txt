@@ -1,0 +1,291 @@
+SMALTIMENTO FUMO E
+CALORE D’EMERGENZA
+Livello di prestazione II – D.M. 3 Agosto 2015
+SMALTIMENTO DI FUMO E
+ CALORE D’EMERGENZA
+ Livello di prestazione II - DM 3 Agosto 2015
+ ing. Luca Marzola
+SMALTIMENTO DEL FUMO D’EMERGENZA Liv. Prest. II
+ Lo smaltimento d’emergenza estrae
+ Quando? sufficiente fumo per dare la possibilità
+ alle squadre di intervento disponibili
+ nell’attività di intervenire.
+ Non protegge persone e beni
+EVACUAZIONE DI FUMO E CALORE Liv. Prest. III
+ Il SEFC non si limita a facilitare il compito
+ Quando? delle squadre di intervento, ma dà il
+ tempo agli occupanti di mettersi in salvo.
+ Inoltre ritarda il flashover, previene danni
+ strutturali all’edificio e protegge i beni in
+ esso contenuti.
+ Protegge persone e beni
+CRITERI DIMENSIONAMENTO
+scelta e descrizione livello di prestazione
+ sistemi di smaltimento in
+ emergenza
+ SMALTIMENTO di fumo e calore d’emergenza Liv. Prest. II
+ Soluzioni possibili:
+ NATURALE:
+ 1/40; 1/25
+CONFORME NATURALE:
+ APPENDICE G
+ FORZATO
+ UNI 9494-1
+ SVOF ALTERNATIVE
+ QUALIFICATE
+ FORZATO
+ APPENDICE H
+ UNI 9494-2
+ SOLUZIONICap.
+ POSSIBILI:
+ S.8
+ DM 3 Agosto 2015
+ POSSIBILI SOLUZIONI
+ SMALTIMENTO FUMO IN EMERGENZA
+SOLUZIONE CONFORME SOLUZIONE ALTERNATIVA
+ 1/40 oppure 1/25 Appendice G UNI 9494-1
+ ESEMPIO
+SOLUZIONE CONFORME
+1/40 - 1/25
+ DEPOSITO LOGISTICO
+ IL FUMO DEVE ESSERE
+SMALTITO PER FACILITARE
+ L'INTERVENTO
+ DELLE SQUADRE DI
+ SOCCORSO
+LIVELLO di PRESTAZIONE II
+Attività di produzione imballaggi
+ CARATTERISTICHE:
+ fabbricato di 20.000 m2
+ copertura con pannelli
+ gracati
+ altezza media = 10 m
+ Presenza rilevatori di
+ fumo ed impianto
+ sprinkler
+ QF = 1400 MJ/m²
+FASI PRELIMINARI DELLA PROGETTAZIONE
+ RILIEVO VALUTAZIONE
+ CLASSIFICAZIONE
+ APERTURE APERTURE PIÙ
+ PER TIPO
+ ESISTENTI IDONEE
+a) Numero a) Similitudine con SEa, SEb, SEc, a) Posizione
+b) Dimensioni SEd, SEe b) Funzionamento in condizione
+ b) Ripartizione in % d’incendio
+FASI PRELIMINARI DELLA PROGETTAZIONE
+ 1) Rilievo delle aperture esistenti
+RILIEVO APERTURE ESISTENTI
+ Quantità 25 lucernari
+LUCERNARIO Dimensioni 3x3 m
+ TIPO A Totale: 225 mq
+ Apertura non esistente
+ Quantità 8 lucernari
+LUCERNARIO Dimensioni 20x1,5 m
+ TIPO B Totale: 240 mq
+ Apertura non esistente
+ Quantità 21 Baie
+APERTURE IN Dimensioni 4x4 m
+ Totale: 336 mq
+ FACCIATA Apertura con motore
+FASI PRELIMINARI DELLA PROGETTAZIONE
+ 2) Classificazione per tipo delle aperture esistenti
+CLASSIFICAZIONE DELLE APERTURE ESISTENTI
+ CLASSIFICAZIONE DEL TIPO DI SE
+225 mq Apertura tipo SEb, 240 mq Apertura tipo SEb, SEc o
+ SEc o SEd in copertura SEd in copertura
+CLASSIFICAZIONE DEL TIPO DI SE
+ 336 mq Apertura tipo SEb, SEc o SEd in facciata
+FASI PRELIMINARI DELLA PROGETTAZIONE
+ 3) Fabbisogno
+CALCOLO DELLA SUPERFICIE UTILE RICHIESTA
+ SE = 800 m²
+ ATTENZIONE
+ L’ATTIVAZIONE E’
+ RICHIESTA PER LA DISTRIBUZIONE
+AIUTARE LE SQUADRE DELLE APERTURE
+DI SOCCORSO QUINDI DEVE ESSERE
+ SI DEVE ATTIVARE OMOGENEA.
+ENTRO I PRIMI MINUTI
+ IL DIMENSIONAMENTO
+ DEVE RIMANERE 1/25
+FASI PRELIMINARI DELLA PROGETTAZIONE
+ 4) Valutazione delle aperture più idonee
+SEA, SEB AFFIDABILITA’ DELLE APERTURE
+ DI SMALTIMENTO FUMO
+ NATURALE
+ SEC
+ SED RESPONSABILITÀ DEL PROFESSIONISTA
+ SEE
+ CLASSIFICAZIONE DEL TIPO DI SE PIU’ IDONEE
+225 mq Apertura tipo SEb 240 mq Apertura tipo Seb
+ in copertura in copertura
+ CLASSIFICAZIONE DEL TIPO DI SE PIU’ IDONEE
+ NON APPLICABILE
+SE IL FUMO ARRIVA AI
+PORTONI NON SI RIESCONO
+PIU’ AD AGEVOLARE LE
+SQUADRE DI SOCCORSO
+VERIFICA
+ Aperture SEb
+ Roffset = 20 m
+ 465 m² disponibili
+ 25 lucernari tipo A + 8 lucernari tipo B
+ VERIFICA
+SUPERFICIE UTILE
+ RICHIESTA 800 m²
+SUPERFICIE UTILE
+ DISPONIBILE 465 m²
+ NON
+ SUFFICIENTE
+COME È STATO
+ REALIZZATO
+ SOLUZIONI POSSIBILI:
+ Cap. S.8
+ DM 3 Agosto 2015
+ POSSIBILI SOLUZIONI
+ SMALTIMENTO FUMO IN EMERGENZA
+SOLUZIONE CONFORME SOLUZIONE ALTERNATIVA
+ 1/40 oppure 1/25 Appendice G UNI 9494-1
+Soluzione alternativa qualificata da una norma:
+ APPENDICE G UNI 9494-1
+ Progettazione su misura
+Progetto su misura lavorando sulla velocità di propagazione incendio,
+presenza di altri sistemi di protezione attiva, rivelazione sprinkler ecc….
+Altezza dell’edificio ecc…
+ Soluzione alternativa qualificata da una norma:
+ APPENDICE G UNI 9494-1
+Utilizzando degli ENFC È richiesta la possibilità di
+conformi alla uni en 12101-2 richiusura degli ENFC da parte
+ delle squadre di soccorso, in
+ modo da controllare la direzione
+ dell’incendio.
+ Soluzione conforme 1/25
+Dimensionamento fabbricato da 20.000 m2
+Superficie utile minima: 800 m²
+ Soluzione alternativa:
+ appendice G UNI 9494-1
+Dimensionamento fabbricato da 20.00 m2
+Superficie utile minima: 115 m²
+Superficie smaltimento
+ SOLUZIONE SOLUZIONE ALTERNATIVA APP. G
+ CONFORME UNI 9494-1 2017
+ Dati rilevanti Dati rilevanti
+ A 20.000 m² A 20.000 m²
+ qf 1400 MJ/m² qf non rilevante
+ SE = A/25 = 800 m² (SUPERFICIE SUT 115 m²
+ TOTALE MINIMA)
+ ENFC n° 21 enfc
+ SEb n° 50 lucernari di tipo A
+ Aperture 115 m² (nota)
+ SEb n° 16 lucernari di tipo B ingresso aria
+ Aperture (non nota)
+ ingresso aria
+ RISULTATO CON
+SOLUZIONE ALTERNATIVA
+ N° 21 ENFC dimensioni 3000 x 2300 mm
+ Aa ciascun ENFC = 5,52 m²
+CV= 0,8
+RILIEVO APERTURE ESISTENTI
+VANTAGGI
+ LA SUPERFICIE DI
+ ANCHE SE NEL TEMPO IL
+ GLI APPARECCHI UTILIZZATI EVACUAZIONE È NETTAMENTE
+ CARICO DI INCENDIO CAMBIA
+ SONO GIÀ CERTIFICATI PER CUI INFERIORE DI QUANTO
+ NON INFLUISCE NEL CALCOLO
+ IL PROGETTISTA NON DEVE RICHIESTO NELLA SOLUZIONE
+ DELLA SUP. UTILE O DELLA
+ FARE ALTRE VERIFICHE. CONFORME (NELL’ESEMPIO 8
+ PORTATA DI ESTRAZIONE.
+ VOLTE MENO)
+ IL TIPO DI IMPIANTISTICA DA
+ PER IL TITOLARE DELL’ATTIVITÀ,
+ E’ DEFINITO IL VALORE DI UTILIZZARE È BEN DEFINITA
+ IL SISTEMA È MOLTO PIÙ
+ INGRESSO ARIA PER FAR NELLA NORMA. IL PROGETTISTA
+ SEMPLICE DA GESTIRE NEL
+ FUNZIONARE IL SISTEMA NON DEVE FARE ULTERIORI
+ PIANO DI EVACUAZIONE.
+ VERIFICHE
+Procedure di attivazione del QCC
+CERTIFICAZIONE DELL’INTERO IMPIANTO
+ NON BASA essere a norma come
+ «PROGETTO DI PRVENZIONE INCENDI»
+ presentato al Comando dei VVF ma
+ bisogna essere a norma come aspetti
+ PROGETTUALI, REALIZZATIVI,
+ GESTIONALI, per tutto il ciclo di vita
+ dell’opera per l’efficace difesa delle
+ PERSONE + BENI + AMBIENTE.
+CERTIFICAZIONE DELL’INTERO IMPIANTO
+ Manuale uso e manutenzione dell’intero sistema
+CERTIFICAZIONE DELL’INTERO IMPIANTO
+ Dich. Imp. con tutte le dichiarazioni di prestazione (DoP) dei
+ componenti
+CERTIFICAZIONE DELL’INTERO IMPIANTO
+ Verbale di primo funzionamento
+ GESTIONE DEL SISTEMA
+COORDINAMENTO CON IL
+ PIANO DI EMERGENZA SORVEGLIANZA
+ FORMAZIONE MANUTENZIONE
+ DELL’UTILIZZATORE
+Manutenzione secondo la UNI 9494-3
+ Condizioni per poter eseguire la manutenzione di un senfc secondo la
+ UNI 9494-3
+Confronto dei costi
+Sistema con
+Lucernari Apribili
+ Quantità
+ Lucernari 3 x 3 m 50
+ Lucernari 20 x 1,5 m 16
+ Linea elettrica 1.600 m
+ Apertura Motore elettrico
+ Quadro comando 6
+ Costo
+ Lucernario motorizzato 284.000 € installato
+ Impianto elettrico 70.000 €
+ Quadro di comando 14.000 €
+ TOTALE 370.000 €
+Sistema con motori
+elettrici
+ Quantità
+ Motori lucernari 3x3 m 50
+ Lucernari 20x1,5 m 16
+ Linea elettrica 1.600 m
+ Quadro comando 6
+ Costo
+ Lucernario motorizzato 140.000 € installato
+ Impianto elettrico 70.000 €
+ Quadro di comando 15.000 €
+ TOTALE 225.000 €
+Sistema con
+ENFC Appendice G
+ Quantità
+ ENFC 3 x 2,3 m 21
+ Linea elettrica 600 m
+ Apertura Motore elettrico
+ Quadro comando 2
+ Costo
+ ENFC motorizzato 126.000 € installato
+ Impianto elettrico 21.000 €
+ Quadro di comando 5.000 €
+ TOTALE 152.000 €
+AGGIORNAMENTO PANORAMA NORMATIVO
+ REVISIONE REVISIONE REVISIONE
+ UNI 9494-1 2017 UNI 9494-2 2017 UNI 9494-3 2014
+ Progettazione e installazione di Sistemi Progettazione e installazione di Sistemi Controllo iniziale e manutenzione di
+ di evacuazione Naturale di fumo e di evacuazione Forzata di fumo e Sistemi di evacuazione di fumo e calore
+ calore (SENFC) calore (SEFFC)
+ IN VIGORE IN LAVORAZIONE
+ UNI/TS 9494-4 2025 P.D.R .UNI APERTURE DI
+ Specifica tecnica SMALTIMENTO
+ Metodi ingegneristici per la Prassi di riferimento sulle
+ progettazione dei sistemi di controllo di
+ fumo e calore aperture di smaltimento
+GRAZIE PER
+L’ATTENZIONE
+ ing. Luca Marzola
+ Bovema Italia S.r.l. - Milano
+ Cell. 335 12 19 289
+

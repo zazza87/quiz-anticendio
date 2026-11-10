@@ -1,0 +1,905 @@
+                            CODICE DI PREVENZIONE INCENDI
+                                   Sez. G Capitolo G.2.
+                             Valutazione del rischio d’incendio
+
+
+
+
+      LORENZO PECORELLA
+      MINISTERO
+      DELL'INTERNO
+      29.09.2026 06:40:52
+      GMT+01:00
+                                                                                                    •    Lorenzo Pecorella
+                                                                                            •       Corpo Nazionale Vigili del Fuoco
+02 ottobre 2026                                                                                 •    lorenzo.pecorella@vigilfuoco.it
+
+
+                                                                                                                                       1
+               Legge 22/4/1941 n. 633 smi. Non è consentito l’utilizzo, anche parziale, senza il consenso dell'autore.
+      Valutazione del rischio derivato dai lavori in quota
+
+
+
+
+DVR
+                                                        2
+                                           UN PO’ DI STATISTICA
+
+
+                                            Schede VF pertinenti l'anno 2025
+
+
+                              Emergenza protezione civile          1.371
+
+                                                 Aeroporti         2.069
+
+                                                      Porti        2.757
+
+      Fuoriuscite - dispersioni - emissioni - inquinamenti         4.380
+
+                                             Falso allarme         6.524
+
+                                                  Recuperi          14.012
+
+                                                     Acqua                 35.770
+
+                                          Incidenti stradali                  58.664
+
+                                                    Statica                     59.555
+
+                            Intervento non più necessario                        71.343
+
+                                     Soccorsi e salvataggi                                                      227.306
+
+                                     Incendi ed esplosioni                                                         241.195
+
+                                                       Vari                                                                     307.159
+
+                                                               0       50.000     100.000   150.000   200.000   250.000   300.000   350.000
+
+
+Dati acquisiti dal programma STAT-RI-WEB del Corpo Nazionale VV.F.
+                                                                                                                                              3
+                                           UN PO’ DI STATISTICA
+
+
+
+
+  Indicatori chiave ad elevato impatto sulla pianificazione delle risorse e sulla gestione dei costi sostenuti
+
+
+Dati acquisiti dal programma STAT-RI-WEB del Corpo Nazionale VV.F.
+                                                                                                                 4
+                                TEORIA DEL RISCHIO
+
+
+                               Cos’è il rischio?
+E’ definibile come una situazione che potrebbe essere pericolosa o avere un esito
+                                     indesiderato
+La parola rischio si riferisce spesso a eventi che sono possibili ma non certi.
+Questa eventualità, in qualsiasi processo di gestione del rischio, produce l’eventualità
+        che un determinato evento indesiderato e/o pericoloso si verifichi.
+
+
+ Come misurare il rischio?                               ANALISTA DEL RISCHIO
+  Come controllarlo?
+
+ Come ridurlo?
+
+
+
+
+                                                                           consapevole
+
+                     Tutte le attività umane hanno un certo livello di rischio = 0
+
+                                                                                           5
+                                   GENERALITÀ
+
+
+             Il rischio di incendio di un'attività non può essere ridotto a zero.
+
+Le misure antincendio sono selezionate per minimizzare il rischio di incendio, in termini di
+            probabilità e di conseguenze, entro limiti considerati accettabili.
+
+
+
+
+                    Si ritiene che nelle attività progettate,
+                  realizzate e gestite secondo le indicazioni
+                    di sicurezza antincendio ed i metodi del
+                   CODICE DI PREVENZIONE INCENDI, il
+                                                                      Attenzione
+                        residuo rischio d’incendio, sia
+                             considerato accettabile.
+                                         R.R.
+
+
+
+
+                                                                                         6
+               VALUTAZIONE DEL RISCHIO D’INCENDIO (VdRI)
+
+
+                                   Normativa
+
+1              TESTO UNICO SULLA SALUTE E
+                 SICUREZZA SUL LAVORO
+     D.Lgs 9 aprile 2008 n. 81 «Attuazione dell’articolo 1 della Legge 3 agosto 2007, n.
+         123 in materia di tutela della salute e della sicurezza nei luoghi di lavoro»
+
+
+2
+          CODICE DI PREVENZIONE INCENDI
+     D.M. 3 agosto 2015 «Approvazione di norme tecniche di prevenzione incendi, ai
+            sensi dell'articolo 15 del decreto legislativo 8 marzo 2006, n. 139»
+
+
+3    MINI CODICE DI PREVENZIONE INCENDI
+    D.M. 3 settembre 2021 «Criteri generali di progettazione, realizzazione ed esercizio
+     della sicurezza antincendio per luoghi di lavoro, ai sensi dell’articolo 46, comma 3,
+              lettera a), punti 1 e 2, del decreto legislativo 9 aprile 2008, n. 81».
+
+
+
+                                                                                         7
+  1                       TESTO UNICO SULLA SALUTE E SICUREZZA SUL LAVORO
+
+                                    D.Lgs 9 aprile 2008 n. 81
+«Attuazione dell’articolo 1 della Legge 3 agosto 2007, n. 123 in materia di tutela della salute e
+                              della sicurezza nei luoghi di lavoro»
+
+Articolo 17 - Obblighi del datore di lavoro non delegabili:
+1. Il datore di lavoro non può delegare le seguenti attività:
+a) la valutazione di tutti i rischi con la conseguente elaborazione del documento previsto dall’articolo 28;
+b) Omissis…………….
+
+Articolo 28 - Oggetto della valutazione dei rischi
+1. La valutazione di cui all’articolo 17, comma 1, lettera a), anche nella scelta delle attrezzature di lavoro e delle sostanze o
+delle miscele chimiche impiegate, nonché nella sistemazione dei luoghi di lavoro, deve riguardare tutti i rischi per la
+sicurezza e la salute dei lavoratori, omissis……………
+Articolo 29 - Modalità di effettuazione della valutazione dei rischi
+1. Il datore di lavoro effettua la valutazione ed elabora il documento di cui all’articolo 17, comma 1, lettera a), in
+collaborazione con il responsabile del servizio di prevenzione e protezione e il medico competente, nei casi di cui all’articolo
+41.
+2. Le attività di cui al comma 1 sono realizzate previa consultazione del rappresentante dei lavoratori per la sicurezza.
+3. La valutazione dei rischi deve essere immediatamente rielaborata, nel rispetto delle modalità di cui ai commi 1 e 2, in
+occasione di modifiche del processo produttivo o della organizzazione del lavoro significative ai fini della salute e sicurezza
+dei lavoratori, omissis………….
+4. Il documento di cui all’articolo 17, comma 1, lettera a), e quello di cui all’articolo 26, comma 3, devono essere custoditi
+presso l’unità produttiva alla quale si riferisce la valutazione dei rischi.
+Articolo 46 - Prevenzione incendi
+1. La prevenzione incendi è la funzione di preminente interesse pubblico, di esclusiva competenza statuale, diretta a
+conseguire, secondo criteri applicativi uniformi sul territorio nazionale, gli obiettivi di sicurezza della vita umana, di incolumità
+delle persone e di tutela dei beni e dell’ambiente.
+2. Nei luoghi di lavoro soggetti al presente decreto legislativo devono essere adottate idonee misure per prevenire gli
+incendi e per tutelare l’incolumità dei lavoratori.
+
+                                                                                                                                 8
+                                     MINICODICE DI PREVENZIONE INCENDI
+  3
+                                             D.M. 3 settembre 2021
+  «criteri di progettazione, realizzazione ed esercizio della sicurezza antincendio per luoghi di lavoro, ai sensi
+           dell’articolo 46,comma 3, lettera a), punti 1 e 2 del decreto legislativo 9 aprile 2008, n. 81
+3. Valutazione del rischio d’incendio
+Nella valutazione del rischio di incendio, a differenza di quanto previsto nell’approccio classico del Codice di prevenzione
+incendi, non vengono definiti i diversi profili di rischio avendo già individuato a priori il «basso rischio di incendio». Di
+conseguenza le misure antincendio da adottare nella progettazione, realizzazione ed esercizio dei luoghi di lavoro vengono
+direttamente indicate nel paragrafo «Strategia antincendio».
+
+
+         Scopo della
+        progettazione
+
+
+                              RILEVANTE                             STRATEGIA ANTINCENDIO
+       Obiettivi della
+                                                      4.1. Compartimentazione;
+         sicurezza
+                                                      4.2 Esodo;
+        antincendio                                   4.3 Gestione della Sicurezza antincendio (GSA);
+        • Vita umana           Valutazione
+                                                      4.4 Controllo dell’incendio;
+        • Incolumità           del Rischio
+                                                      4.5 Rivelazione ed allarme
+          delle persone         Incendio
+                                                      4.6 Controllo di fumi e calore;
+        • Tutela dei                                  4.7 Operatività antincendio;
+          beni                                        4.8 Sicurezza degli impianti tecnologici e di servizio
+
+
+
+                                BASSO
+
+          PRIORITÀ
+
+                                                                                                                        9
+                                             MINICODICE DI PREVENZIONE INCENDI
+ 3
+                                             D.M. 3 settembre 2021
+  «criteri di progettazione, realizzazione ed esercizio della sicurezza antincendio per luoghi di lavoro, ai sensi
+           dell’articolo 46,comma 3, lettera a), punti 1 e 2 del decreto legislativo 9 aprile 2008, n. 81
+
+                      Il VdRI deve comprendere almeno i seguenti elementi
+
+
+
+Individuazione dei pericoli           valutazione          descrizione del        determinazione     individuazione delle    individuazione
+        d’incendio                   qualitativa o            contesto e            di quantità e   misure che possano      dei beni esposti
+ sorgenti d’innesco, materiali     quantitativa delle    dell’ambiente nei         tipologia degli  rimuovere o ridurre i       al rischio
+ combustibili o infiammabili,       conseguenze          quali i pericoli sono       occupanti           pericoli che          d’incendio;
+carico di incendio, interazione    dell’incendio sugli          inseriti;        esposti al rischio   determinano rischi
+     inneschi-combustibili,                                                          d’incendio;         significativi
+                                       occupanti;
+     quantitativi rilevanti di
+miscele o sostanze pericolose,
+ lavorazioni pericolose ai fini
+dell’incendio o dell’esplosione,
+    possibile formazione di
+    atmosfere esplosive, ….
+
+
+
+
+                                                                                                                                     10
+                                    CODICE DI PREVENZIONE INCENDI
+
+                                           D.M. 3 agosto 2015
+«Approvazione di norme tecniche di prevenzione incendi, ai sensi dell’articolo 15 del decreto legislativo 8 marzo
+                                              2006, n. 139»
+
+
+   2
+
+
+
+
+                  RILEVANTE
+
+
+
+
+                 Valutazione
+                 del Rischio
+                  Incendio
+
+
+
+
+                       Qualora siano disponibili pertinenti
+                       regole     tecniche      verticali,     la
+                       valutazione del rischio d’incendio da
+PRIORITÀ               parte del progettista è limitata agli
+                       aspetti peculiari della specifica attività
+                       trattata.
+                                                                                                           11
+ 2                                    CODICE DI PREVENZIONE INCENDI
+
+                                           D.M. 3 agosto 2015
+«Approvazione di norme tecniche di prevenzione incendi, ai sensi dell’articolo 15 del decreto legislativo 8 marzo
+                                              2006, n. 139»
+
+G.2.6.1 Valutazione del rischio d’incendio per l’attività
+Il progettista impiega uno dei metodi di regola dell’arte per la valutazione del rischio d’incendio, in relazione alla
+complessità dell’attività trattata.
+In ogni caso la valutazione del rischio d’incendio deve ricomprendere almeno i seguenti argomenti:
+
+
+    individuazione dei pericoli d’incendio;
+
+
+
+
+                                                                                                                         Analoghi al «mini codice»
+    descrizione del contesto e dell’ambiente nei quali i pericoli sono inseriti;
+    determinazione di quantità e tipologia degli occupanti esposti al rischio d’ incendio;
+    individuazione dei beni esposti al rischio d’ incendio;
+    valutazione qualitativa o quantitativa delle conseguenze dell’incendio su occupanti, beni ed ambiente;
+    individuazione delle misure preventive che possano rimuovere o ridurre i pericoli che determinano rischi
+     significativi.
+
+
+Negli ambiti delle attività in cui sono presenti sostanze infiammabili allo stato di gas, vapori, nebbie o polveri
+combustibili, la valutazione del rischio d’incendio deve includere anche la valutazione del rischio per atmosfere
+esplosive (capitolo V.2).
+
+
+
+                                                                                                                   12
+                 VALUTAZIONE DEL RISCHIO D’INCENDIO (VdRI)
+
+                               ARGOMENTI MINIMI
+                                  EVIDENTI ANALOGIE
+
+
+
+     2                                                                                   3
+                                   pericoli d’incendio
+
+                                                            descrizione del contesto e
+valutazione qualitativa o
+                                                                  dell’ambiente
+   quantitativa delle
+      conseguenze
+                                     ALMENO!!
+
+
+
+           misure preventive                             quantità e tipologia degli
+                                                                occupanti
+                                     beni esposti
+
+
+
+
+                                                                                         13
+2                VALUTAZIONE DEL RISCHIO D’INCENDIO (VdRI)
+
+           ATTRIBUZIONE PROFILI DI RISCHIO
+           L’attribuzione dei profili di rischio è un’azione che segue la
+           VdRI , è un errore confondere la prima con la seconda.
+
+
+
+
+    La VdRI rappresenta un’analisi della specifica attività da analizzare , finalizzata all’individuazione
+         delle più severe e credibili ipotesi d’incendio e delle corrispondenti conseguenze per:
+
+                                                             •   gli occupanti (Rvita);
+                                                             •   i beni (Rbeni);
+                                                             •   l’ambiente (Rambiente)
+
+
+
+
+                                                                                                     14
+           VALUTAZIONE DEL RISCHIO D’INCENDIO (VdRI)
+
+
+
+
+               D.Lgs 26 giugno 2015, n. 105
+            Attuazione della direttiva 2012/18/UE
+         relativa al controllo del pericolo di incidenti
+         rilevanti connessi con sostanze pericolose.
+          (G.U. 14 luglio 2015, n. 161 - S.O. n. 38)
+
+
+
+
+UTILE RIFERIMENTO ANCHE SE RIDONDANTE PER LA TIPOLOGIA DI ATTIVITÀ TRATTATE
+
+
+
+
+                                                                          15
+                          SCHEMA DEL PROCESSO DI GESTIONE DEL RISCHIO
+
+
+
+
+UNI ISO 31000        Gestione del rischio - Linee
+                     guida
+UNI ISO 31010 Guida alle tecniche per da utilizzare                           Informazione             sviluppo          monitoraggio
+              per la VdR
+   Schema tratto dalla pubblicazione «Analisi, valutazione e gestione operativa del rischio» di Luca Fiorentini e Rosario Sicari
+
+                                                                                                                                   16
+                                    COMUNICAZIONE E CONSULTAZIONE
+
+
+                                                              PRIMA FASE DEL PROCESSO DI GESTIONE
+                                                                          DEL RISCHIO
+
+
+                                                              Comunicazione e consultazione con tutte le parti
+                                                                interessate, siano esse interne o esterne al
+                                                                            contesto aziendale
+
+
+                                Attività che dovrebbe interessare tutte le fasi del processo di gestione del rischio
+
+      Comprensione delle basi su cui vengono prese le relative decisioni, e le motivazioni sui motivi per i quali
+                                      verranno richieste determinate azioni
+
+•   Stabilire meglio il contesto;
+•   Assicurare che gli interessi delle parti coinvolte siano compresi e tenuti in conto;
+•   Assicurare che i rischi siano adeguatamente identificati secondo modalità condivise ed in modo strutturato;
+•   Far convergere competenze ed esperienze diverse nell’analisi del rischio;
+•   Assicurare che visioni differenti siano debitamente considerate nello stabilire i criteri di accettabilità del rischio;
+•   Sviluppare un adeguato piano di consultazione e comunicazione interno ed esterno;
+
+                                                                    IMPORTANTE!
+
+                                                                                                                 17
+                                    DETERMINAZIONE DEL CONTESTO
+
+
+
+
+                                                        Nella costruzione del processo di gestione del
+                                                               rischio è fondamentale stabilire
+                                                                 prioritariamente il contesto
+
+
+
+
+               ESTERNO                                                               INTERNO
+  È importante per assicurare che gli                                  Rappresenta il perimetro aziendale
+obiettivi delle parti interessate esterne                               interno nel quale l’organizzazione
+  siano presi in considerazione nello                                prova a raggiungere i propri obiettivi. Il
+ sviluppo dei criteri di accettabilità del Aspetti legati tra loro       processo di gestione del rischio
+     rischio ed include ad esempio:                                       dovrebbe essere allineato alla
+                l’ambiente                                            strategia, alla struttura, ai processi e
+sociale,culturale,politico,legale,finanzia                                     alla cultura aziendale
+ rio,tecnologico,economico naturale,                                  (ogni cosa interna all’organizzazione
+            competitivo ecc…                                           che possa influenzare il modo in cui
+                                                                              essa gestisce il rischio)
+
+
+                                                                                                                  18
+                                     IDENTIFICAZIONE DEL RISCHIO
+
+                                                L’ «A – B – C» della combustione
+
+
+
+
+Spesso la filosofia del rischio d’incendio si
+basa su concetti ben radicati e conosciuti
+                nel settore.
+
+
+
+
+   Concetti che a volte vengono molto
+schematizzati e semplificati rendendo l’idea
+  dell’analisi del rischio molto intuitiva
+
+
+
+
+                                                                                   19
+                              IDENTIFICAZIONE DEL RISCHIO
+
+
+
+
+IDENTIFICAZIONE DEL RISCHIO
+                                                            20
+                          IDENTIFICAZIONE DEL RISCHIO
+
+             METODI IDENTIFICAZIONE PRELIMINARE DEI RISCHI
+                            (risk identification)
+
+                                  Metodi qualitativi
+   modelli che non utilizzano espressioni matematiche effettuando un’analisi
+qualitativa verificando la conformità alle norme. Giudizio qualitativo della situazione
+ posso essere utilizzati come metodi di selezione nell’analisi di rischio preliminare
+
+                                   Metodi quantitativi
+   Sono basati sulla stima matematica dei valori delle probabilità di accadimento
+                  dell’evento incendio, e dell’entità M del danno atteso.
+    L’uso di tali metodi è limitato a fattori di rischio rilevanti, a fonti e condizioni di
+                              pericolo multiple e complesse.
+
+
+                        Metodi semi-quantitativi (sistema «misto»)
+    detti degli indici o delle matrici, si basano su un’analisi quantitativa ma con un
+                           approccio leggermente semplificato.
+                     Modelli di calcolo utilizzati quando è necessario
+             approfondire la valutazione del rischio, pur senza giungere a
+                              una stima quantitativa rigorosa.
+
+
+
+
+                                                                                              21
+                                    IDENTIFICAZIONE DEL RISCHIO (risk identification)
+
+                                                                                                                     Generare un elenco esaustivo
+                                                                                                                     dei rischi basato su quegli eventi
+                                                                                                                     che potrebbero:
+                                                                                                                     • creare;
+                                                                                    OBIETTIVO
+                                                                                                                     • aumentare;
+                                                                                                                     • impedire;
+                                                                                                                     • ritardare;
+                                                                                                                     il raggiungimento degli obiettivi
+
+                                                                     ATTENZIONE
+                    un rischio non identificato in questa fase potrebbe non essere considerato nella
+                                      successiva analisi, quindi come identificarli?
+
+    Brainstorming                 Checklist                   What-if                     HazOp                    HazId        FMEA/FMECA/FMEDA
+Stimola e incoraggia una Liste di controllo,            Studio sistematico di       Analisi dei pericoli e          (Hazard
+                                                                                                                                    Vari analisi dei modi
+  conversazione libera         elenco di pericoli        squadra che utilizza           di operatività           identification)
+                                                          un set di parole o            (Hazard and             Brainstorming             di guasto
+tra un gruppo di persone         generalmente
+                                                                                     Operability Analys)     strutturato basato       (Failure modes and
+       che conoscono          sviluppate a partire     frasi atte a stimolare i
+                                                                                       Identificazione         sull’uso di parole       Effects Analysis);
+  l’argomento oggetto di        dall’esperienza            partecipanti ad
+                                                                                    pericoli effettuata da   guida generalmente       (Failure modes and
+       analisi al fine di    operativa in termini di    identificare i pericoli.
+                                                                                   un gruppo di lavoro        eseguito nelle fasi           Effects and
+    identificare i possibili   fallimenti passati        «cosa accadrebbe
+                                                                                     multidisciplinare            preliminari di        Critical Analysis);
+    modi di fallimento e i                                      se….»
+                                                                                   tramite un approccio      progetto. Screening      (Failure modes and
+      pericoli associati
+                                                                                         strutturato               preliminare              Effects and
+                                                                                                                                      Diagnostic Analysis)
+                                                                                                                               Identificazione modi potenziali
+                                                                                                                              di fallimento del sistema (FMEA)
+                                                                                                                                 aggiungendo un punteggio
+                                                                                                                                    ai tipi di guasto (FMECA)
+                                                                                                                             verificando i ratei di guasto (FMEDA)
+
+                                                                                                                                                              22
+                      ANALISI DEL RISCHIO
+
+                                            Albero dei Guasti
+
+
+
+
+Albero degli eventi
+
+
+
+
+                                            vari metodi di analisi
+                                              tra i più classici
+
+
+
+
+                                                                     23
+                                    ANALISI DEL RISCHIO
+
+
+
+
+                             Analisi dell’affidabilità umana
+                            Human Reliability Analysis (HRA)
+
+Valutazione dell’impatto dell’uomo sulle prestazioni del sistema e può essere utilizzata
+   per valutare l’influenza/incidenza dell’errore umano sul sistema oggetto d’analisi
+  approccio strutturato utilizzato per identificare potenziali eventi di errore umano e per
+ stimare sistematicamente la probabilità di tali errori utilizzando dati, modelli o giudizio di
+                                           esperti
+
+
+
+
+                                                                                                  24
+                       ANALISI DELL’AFFIDABILITÀ UMANA
+
+Interventi effettuati a seguito di evidenti errori umani   Circa il 29% del totale (dato implementabile)
+
+
+
+
+                                                                                                       25
+                                    IL FATTORE UMANO NEL RISCHIO INCENDIO
+
+                                 L'analisi del fattore umano nell'ambito delle attività di valutazione del rischio è
+                                    fondamentale per comprendere appieno gli impatti che esso può avere
+                                       nell'organizzazione indipendentemente da tipo entità dimensione e
+                                                               complessità della stessa
+
+        La mancata valutazione dei fattori umani non permette
+all'organizzazione di dare seguito ad un efficace piano di azioni volto ad
+ una corretta valutazione o ad impedire il ripetersi di simili accadimenti
+              negandosi, quindi, l'opportunità di perseguire
+                  la logica del miglioramento continuo
+                                                                                     ANALISI DEL RISCHIO
+
+
+
+
+                                              FORMAZIONE                            RIDUZIONE ERRORE UMANO
+                                         INFORMAZIONE COSTANTE                              (targhet)
+
+
+
+
+                                                                                                               26
+                      IL FATTORE UMANO NEL RISCHIO INCENDIO
+
+ATTENZIONE!! Non dimentichiamoci che un ruolo fondamentale per l’incidenza dell’errore
+         umano lo rivestono le competenze NON TECNICHE (non-technical skill)
+                                tra le quali le più note sono:
+
+                  •   consapevolezza situazionale;
+                  •   capacità decisionale;
+                  •   capacità di comunicazione;
+                  •   capacità di lavoro in gruppo;
+                  •   leadership;
+                  •   gestione dello stress;
+                  •   capacità di sostenere la fatica ed il carico di lavoro.
+
+                      FORMAZIONE ED INFORMAZIONE COSTANTE
+
+
+
+
+                             RIDUZIONE ERRORE UMANO
+                                     (targhet)
+
+
+
+                                                                                         27
+                         IL FATTORE UMANO NEL RISCHIO INCENDIO
+
+L’errore umano dell’operatore-lavoratore è strettamente connesso alle scelte che
+    si effettuano in sede progettuale e che, inevitabilmente, condizioneranno la
+                valutazione del rischio e il ruolo del valutatore stesso
+
+
+                 è connesso                   Influenzata
+                                                              • dall’ ambiente in cui vengono svolte le attività
+  Errore umano                                                  lavorative;
+                           all’ affidabilità umana
+                                                              • dalle competenze;
+                                                              • dall’ abilità.
+
+
+                                                               Errori dovuti a disattenzione
+          Modello                        1
+                                                               (skil based – basato sulle abilità)
+      Jens Rasmussen
+                                         2           Errori riconducibili all’applicazione di procedure corrette nel
+                   3                                  momento sbagliato oppure alla scelta di procedure non
+                                                                       adeguate alla situazione
+                                                                   (rule based – basato su regole)
+
+     Errori provocati dalla mancanza di conoscenze o dalla loro non corretta applicazione e quindi
+      alla difficoltà di trovare le soluzioni ottimali quando ci si trova in presenza di situazioni nuove o
+            impreviste per le quali non si conoscono delle regole o delle procedure di riferimento
+                                  (knowledge based – basato sulla conoscenza)
+
+  ANALISI DEL RISCHIO
+                                                                                                              28
+                          ERRORE UMANO O ORGANIZZATIVO?
+
+       Il progettista ha l’onere di affrontare e di documentare adeguatamente le scelte che
+contribuiscono alla sicurezza, anche quelle capaci di prevenire comportamenti contro la sicurezza
+                       da parte dell’operatore-lavoratore (art. 22 D.lgs 81/08)
+
+     Prevenire gli errori agendo sulle scelte in quanto ad ogni scelta ne deriva un assetto
+    organizzativo che incide sul livello di rischio residuo, la scelta umana agisce in seguito a:
+
+                                        Una non adeguata
+ SCELTA ERRATA                           progettazione o
+                                       gestione dell’attività o
+                                      poca vigilanza/controllo
+
+                                                    POSSIBILE
+
+
+                                         AZIONE ERRATA
+
+
+                                                     CONSEGUENTE
+
+
+                                    ERRORE ORGANIZZATIVO
+
+
+
+ANALISI DEL RISCHIO
+                                                                                                    29
+                                                      ANALISI DEL RISCHIO
+                                                             Bow-Tie (papillon)
+                                      Prevede lo sviluppo di diagrammi logici di flusso sviluppati in tre zone distinte
+
+
+                                                       ZONA 2                     VALUTAZIONE - MITIGAZIONE
+ IDENTIFICAZIONE - CONTROLLO
+
+              ZONA 1                                                                             ZONA 3
+                                                       PERICOLO
+
+
+
+
+Causa 1                                                                                                    Conseguenza 1
+                   Barriera         Barriera
+                 preventiva 1     preventiva 2                                    Barriera
+                                                                                 mitigativa 1
+                                                          TOP
+                                                         EVENT
+
+
+
+
+                   Barriera         Barriera                             Barriera          Barriera
+                 preventiva 1     preventiva 2                          mitigativa 1      mitigativa 2
+Causa 2                                                                                                     Conseguenza 2
+
+
+     Identificazione cause associabili            In base al pericolo         Identifica tutti gli scenari incidentali generati
+all’evento indesiderato e, per ognuna di             considerato –          (esplosione, incendio,fuga gas…) e la combinazione
+esse evidenzia tutti gli specifici sistemi di     evento incidentale       di tutti gli elementi che ne conseguono includendo i
+            protezione preventiva                      primario                     sistemi di protezione che possono
+                                                                                              mitigare gli effetti
+                                                                                                                        30
+                     VALUTAZIONE DEL RISCHIO INCENDIO
+
+                                                   Valutazione del rischio
+
+                                  Il livello di rischio ottenuto tramite le precedenti fasi di analisi
+
+                                                                         DEVE ESSERE
+
+                                                       tradotto in indici o valori
+                                          confrontati con le soglie di accettabilità o tollerabilità
+                                           definite in fase preliminare unitamente ai traguardi
+                                          dell’analisi e agli obiettivi generali dell’organizzazione
+
+
+
+                       possa essere                        ai fini di stabilire        possa essere
+                        accettato                             se il RISCHIO              tollerato
+
+
+
+                                                             debba essere
+                                                        trattato ulteriormente
+
+
+
+
+LIVELLO DI RISCHIO                           in indici o valori
+                       tradotto
+
+                                                                                                       31
+                                 VALUTAZIONE DEL RISCHIO INCENDIO
+
+                                                                              Curve F-N
+                                                      Sovente utilizzate nell’ambito della sicurezza industriale
+                                                    legata ai rischi rilevanti connessi con incendi, esplosioni
+                                                     e rilasci tossici, rappresentazione grafica bidimensionale
+                                                        della frequenza cumulata delle conseguenze lesive
+                                                     attesa in rapporto all’entità della loro magnitudo (sovente
+                                                               espressa in termini di numero di fatalità)
+
+
+
+
+                   Indici di rischio
+                        R= f x N
+Probabilmente uno dei sistemi più semplici ed intuitivi
+                     f – frequenza
+                    N – magnitudo
+     Più alto è il valore più il rischio è elevato
+
+
+
+
+ A valle approfonditi studi sull’analisi delle conseguenze
+
+                                                                                                            32
+                                             ESEMPIO METODO ERICSON
+Con tale metodo vengono calcolati due indici numerici rappresentativi del rischio per il fabbricato RF e del rischio per il contenuto (persone e cose) RC
+
+
+
+
+                                                                                                                                                  33
+                                            ESEMPIO METODO ERICSSON
+Con tale metodo vengono calcolati due indici numerici rappresentativi del rischio per il fabbricato RF e del rischio per il contenuto (persone e cose) RC
+
+
+
+
+                                                                                                                                                  34
+TRATTAMENTO DEL RISCHIO
+Trattamento del rischio                  valutazione dell’esito
+
+      scopo            selezionare ed attuare le
+                    opzioni per affrontare il rischio
+
+
+
+        è un processo ciclico composto dalle seguenti fasi:
+
+
+ 1.   formulare e selezionare le opzioni di trattamento del rischio;
+ 2.   pianificare ed attuare il trattamento del rischio;
+ 3.   valutare l’efficacia di quel trattamento e decidere se il rischio
+      residuo sia accettabile;
+
+            se non è accettabile intraprendere ulteriore trattamento.
+                                      soluzioni
+
+        •     evitando il rischio e l’attività che lo genera;
+        •     assumendo il rischio;
+        •     rimuovendo la fonte del rischio;
+        •     modificandone le probabilità;
+        •     modificandone le conseguenze;
+        •     condividendo il rischio;
+        •     ritenendo il rischio accettabile;
+
+                                                                          35
+                                                TRATTAMENTO DEL RISCHIO
+                                                             ACCETTABILITÀ DEL RISCHIO
+                                           La sicurezza non può richiedere infatti che tutti i rischi siano eliminati ma
+                                           piuttosto che ci sia un appropriato equilibrio tra costi, rischi e benefici.
+
+                                                                RISCHIO RESIDUO
+
+
+
+
+                                                                                                      Limite di
+   Uno degli approcci                                                                                tollerabilità
+                                                             Regola d’arte
+                                                             norma vigente
+                     Limite di
+
+
+
+
+                                                                                                                             Entità del rischio
+                    accettabilità
+                                                                       Tollerabile solo se un
+                                                   Tollerabile solo     ulteriore riduzione è
+                                                  se, il costo della   applicabile o se i costi         Può essere
+                                  Normalmente
+                                                 riduzione supera i         relativi sono           tollerato SOLO in
+                                   accettato
+                                                    miglioramenti        sproporzionati al             circostanze
+          Metodo ALARP                                 ottenuti            miglioramento                eccezionali
+As Low As Reasonably Practicable.                                             ottenuto
+ Livello di rischio accettabile dei
+sistemi in sicurezza, “tanto basso
+     quanto ragionevolmente
+            realizzabile”
+
+
+                        RISCHIO BASSO                    RISCHIO MEDIO - ALTO                     RISCHIO ALTISSIMO
+                         nessuna misura
+                          compensativa
+
+                                                                                                                        36
+                                   MONITORAGGIO E REVISIONE
+
+                                                       Anche conosciuto come RIESAME PERIODICO
+
+                                                          Il monitoraggio e la revisione sono
+
+
+                                                       fasi del processo di gestione del rischio che
+
+
+                                                             comportano su base periodica
+
+
+                                                           la verifica e sorveglianza dei rischi
+     Scopo del riesame periodico
+                                                                  trattati in precedenza
+• Assicurare che le misure di controllo siano
+  efficaci e deficienti;
+• Ottenere ulteriori informazioni per migliorare   Le figure responsabili delle fasi di monitoraggio
+  la valutazione del rischio;                      revisione devono essere chiaramente identificate
+• Analizzare      ed     apprendere  lezioni di    all’interno dell’organizzazione.
+  miglioramento      da    eventi,  cambiamenti,
+  successi e fallimenti;
+• Rilevare modifiche nel contesto interno ed
+  esterno;
+• Identificare nuovi rischi emergenti.
+
+
+                                                                                                       37
+        •    Lorenzo Pecorella
+•       Corpo Nazionale Vigili del Fuoco
+    •    lorenzo.pecorella@vigilfuoco.it
+
+
+                                           38
+

@@ -1,0 +1,307 @@
+Il codice Prevenzione incendi: introduzione
+ 5 Ottobre 2026 – Ordine Dei periti Industriali della provincia di trieste
+ Aula Virtuale - MODALITA’ STREAMING SINCRONO Videoconferenza
+ Dott. Tinti Gianluca - gianluca.tinti@gmail.com – tel 339 6655966
+ INTRODUZIONE
+E’ stato pubblicato sulla Gazzetta Ufficiale del 31 Ottobre 2019, il decreto del 18
+Ottobre 2019 recante “Modifiche all’allegato 1 al decreto del Ministro dell’interno
+3 agosto 2015, recante «Approvazione di norme tecniche di prevenzione incendi, ai
+sensi dell’articolo 15 del decreto legislativo 8 marzo 2006, n. 139”.
+Il decreto è volto a semplificare e razionalizzare l'attuale corpo normativo relativo alla
+prevenzione degli incendi attraverso l'introduzione di un unico testo organico e
+sistematico, contenente disposizioni applicabili a molte delle attività soggette ai
+controlli di Prevenzione Incendi indicate nell'allegato 1 del d.p.r. 1 agosto 2011, n.
+151.
+L'obiettivo è quello di inquadrare in un unico testo le disposizioni di Prevenzione
+Incendi applicabili a tutte le attività soggette ai controlli dei vigili del fuoco, fornendo
+strumenti di progettazione semplici, versatili ed accettati a livello internazionale, in
+grado di individuare le soluzioni tecniche necessarie.
+La caratteristica che contraddistingue il decreto riguarda l'utilizzo di un nuovo
+approccio metodologico, più aderente al progresso tecnologico gli standard
+internazionali.
+ INTRODUZIONE
+L’obiettivo principale del decreto è la semplificazione nella progettazione
+antincendio nell’ottica di raggiungere il medesimo risultato prediligendo soluzioni più
+semplici, realizzabili, comprensibili e di più facile manutenzione.
+La natura modulare che lo contraddistingue guida il progettista alla composizione di
+soluzioni progettuali appropriate per la specifica attività, mentre la flessibilità permette
+di scegliere fra molteplici soluzioni progettuali prescrittive o prestazionali.
+In aggiunta, il progettista può ricorrere a soluzioni alternative, dimostrandone la
+validità, nel rispetto degli obiettivi di sicurezza.
+ INTRODUZIONE
+Il decreto o si compone di circa 200 pagine con schematizzazioni di facile lettura. in esso
+vengono distinte “regole tecniche generali “, cosiddette regole tecniche orizzontali, costituite
+da l'insieme dei capitoli compresi nelle sezioni generalità e strategie antincendio e valide per
+qualsiasi tipo di attività, e “regole tecniche verticali” in apposita sezione ed applicabili a
+specifiche attività o ad ambiti di esse, le cui misure tecniche previste sono complementari e
+integrative a quelle generali previste nella strategia antincendio.
+Regola tecnica orizzontale
+Il decreto 18 Ottobre 2019 rappresenta una regola tecnica orizzontale, ossia una regola tecnica
+che uniforma i diversi aspetti della progettazione antincendio, definendo criteri operativi e
+progettuali valevoli per più attività.
+Molte attività, infatti, non sono dotate di regola tecnica verticale e rientrano nel gruppo delle
+attività non normate, per le quali vanno seguiti in linea di principio i criteri generali di
+prevenzioni incendi, anche se negli anni sono state fornite alcune linee guida.
+ INTRODUZIONE
+Il nuovo decreto fornisce per tali attività viene un vero e proprio iter di progetto:
+- Analisi del rischio, necessario per costruire un “vestito su misura” alla pratica da
+ esaminare.
+- Strategie, legate alle singole problematiche (reazione al fuoco, resistenza al fuoco,
+ compartimentazione, ecc) necessarie al raggiungimento dell’obiettivo di sicurezza
+ fissato, nonché legate alla modalità di raggiungimento dell’obiettivo stesso.
+- Soluzioni conformi che di fatto si riconducono alla vecchia modalita’ prescrittiva
+ dando tuttavia la possibilita’ di scegliere altre soluzioni all’interno di un paniere pre-
+ impostato, ovvero poter sostituire il meccanismo della deroga per talune mancanze
+ alle soluzioni conformi attraverso le soluzioni alternative.
+INTRODUZIONE
+ INTRODUZIONE
+Regola Tecnica Orizzontale (RTO): regola tecnica di prevenzione incendi applicabile a tutte le
+attività.
+Regola Tecnica Verticale (RTV): regola tecnica di prevenzione incendi applicabile a specifiche
+attività o ad ambiti di esse. Le RTV (Regole tecniche verticali) sono disposizioni normative
+applicabili a una specifica attività. Negli ultimi anni sono state emanate moltissime regole tecniche
+di prevenzione incendi per varie attività, con trattazioni a volte non uniformi di argomenti simili.
+L’applicazione delle RTV presuppone l’applicazione dell’intero Codice di prevenzione incendi, del
+quale sono parte integrante. Servono a caratterizzare meglio una specifica attività fornendo ulteriori
+indicazioni rispetto a quelle già previste dal Codice.
+La Regola Tecnica Orizzontale (RTO) individua i criteri e metodi che consentono di determinare le
+misure di sicurezza antincendio per tutte le attività soggette al controllo del Corpo nazionale dei
+Vigili del fuoco, il Decreto coordina la RTO e le RTV, quest'ultime saranno integrate nel tempo.
+Il T.U.P.I. ha una valenza per le attività prive di Regola Tecnica Verticale (RTV) per le quali si
+rimanda ai D.M. specifici. Esso è applicabile comunque alle:
+- Nuove Attività;
+- Attività esistenti.
+ IL DOPPIO BINARIO … (fonte biblus.acca.it)
+Al fine di continuare l’azione di semplificazione e razionalizzazione dell’attuale corpo
+normativo relativo alla prevenzione degli incendi, mediante l’utilizzo di un nuovo
+approccio metodologico più aderente al progresso tecnologico e agli standard internazionali,
+sono state approvate delle modifiche al Codice prevenzione incendi con la pubblicazione in
+Gazzetta Ufficiale n. 95/2019 del decreto del 12 aprile 2019, con oggetto:
+Modifiche al decreto 3 agosto 2015, recante l’approvazione di norme tecniche di prevenzione
+incendi, ai sensi dell’articolo 15 del decreto legislativo 8 marzo 2006, n. 139.
+In merito, il 15 ottobre 2019, i Vigili del Fuoco hanno diramato una circolare esplicativa che
+analizza l’art.2 e 3 del dm 12 aprile 2019.
+Eliminazione del doppio binario
+Si tratta del decreto che apporta modifiche al dm 3 agosto 2015 e sancisce, in
+parte, l’eliminazione del cosiddetto “doppio binario“ per la progettazione antincendio delle
+ex attività non normate, ossia soggette al controllo da parte dei Vigili del Fuoco, come
+evidenziato dal Consiglio Nazionale degli Ingegneri nelle recenti circolari:
+ • circolare CNI n. 378 del 3 maggio/2019
+ • circolare CNI n. 361 del 13 marzo/2019
+ IL DOPPIO BINARIO … (fonte biblus.acca.it)
+Tale norma è entrata in vigore il 20 ottobre 2019, 180 giorni dopo la pubblicazione del decreto
+in Gazzetta, ponendo fine al periodo transitorio (durato circa quattro anni) di applicazione
+volontaria del Codice di prevenzione incendi per la sola progettazione delle attività che non
+erano dotate di specifica regola tecnica.
+Le modifiche introdotte al Codice prevenzione incendi
+Le modifiche riguardano 41 attività, comprese nell’Allegato 1 del dpr n. 151/2011; per tali
+attività (ex non normate), la Regola Tecnica Orizzontale (RTO) del Codice diventa così
+l’unico riferimento progettuale.
+Attività soggette al nuovo codice
+L’obbligo riguarda sia le attività di nuova realizzazione sia le modifiche, anche parziali, alle
+attività esistenti qualora le misure di sicurezza antincendio presenti nella parte di attività non
+interessata dall’intervento siano compatibili con gli interventi da realizzare.
+Le nuove modifiche precisano altresì che le disposizioni contenute nel Codice possono costituire
+un utile riferimento sia per le attività non soggette, che per le attività soggette non rientranti nei
+limiti di assoggettabilità dell’Allegato 1 al dpr n. 151/2011.
+ IL DOPPIO BINARIO … (fonte biblus.acca.it)
+Attività escluse
+Invece saranno per ora escluse, così come riportato all’art. 3 del decreto, da tale obbligo le RTV
+attuali:
+ • 66 – strutture turistico-ricettive all’aria aperta e dei rifugi alpini;
+ • 67 – asili nido;
+ • 69 – attività commerciali ove sia prevista la vendita e l’esposizione di beni;
+ • 71 – aziende ed uffici con oltre 300 persone presenti;
+ • 75 – depositi di mezzi rotabili e dei locali adibiti al ricovero di natanti ed aeromobili;
+per le quali l’uso del Codice resterà un’opzione volontaria, in alternativa alle vecchie regole
+tecniche prescrittive.
+ IL DOPPIO BINARIO … (fonte biblus.acca.it)
+Le novità del decreto
+Con il decreto pubblicato vengono introdotti due elementi:
+1- l’ampliamento del campo di applicazione del dm 3 agosto 2015 e s.m.i. ad alcune attività
+(da 19 a 26, 69, 72 e 73 dell’Allegato I al dpr n. 151/2011). Si sottolineano in particolare:
+ • l’introduzione dell’attività 69: l’emanazione della RTV ha fornito le disposizioni per
+ i locali adibiti ad esposizione e vendita, limitando a questi l’applicazione del Codice;
+ • l’introduzione dell’attività 72, legata all’RTV edifici destinati a musei, gallerie, biblioteche
+ ecc.;
+ • l’introduzione dell’attività 73.
+ IL DOPPIO BINARIO … (fonte biblus.acca.it)
+2 – l’obbligatorietà dell’utilizzo del Codice per la progettazione delle attività
+tradizionalmente “non normate”, in sostituzione dei “criteri tecnici di prevenzione incendi“. Il
+decreto di modifica interviene sulla modalità dì applicazione del codice, prima
+facoltativa, rendendolo cogente in alcune situazioni:
+ 1. il Codice si applica obbligatoriamente a tutte le attività incluse nel campo di applicazione
+ e non dotate di RTV “di nuova realizzazione“;
+ 2. il Codice si applica agli interventi di modifica di attività esistenti, a condizione che le
+ misure di sicurezza antincendio esistenti nella parte di attività non interessata
+ dall’intervento, siano compatibili con gli interventi da realizzare;
+ 3. per gli interventi di modifica non rientranti nel caso 2), rimane la possibilità di continuare
+ ad applicare i criteri generali di prevenzione incendi, fatta salva la possibilità di applicare
+ il codice all’intera attività;
+ 4. il Codice può essere di riferimento per le attività non soggette (sia per quelle al di sotto
+ delle soglie dell’allegato I, sia per quelle non ricadenti nell’allegato I);
+ 5. per le attività dotate di RTV rimane la possibilità di scegliere tra la regola
+ tecnica tradizionale ed il Codice.
+ IL DOPPIO BINARIO … (fonte biblus.acca.it)
+Tabella CNI
+Nella circolare 378/2019 del CNI (che integra la circolare n. 361 di marzo) è presente, inoltre, l’utile
+tabella di sintesi delle modalità di utilizzo del Codice per le attività rientranti nel suo campo di applicazione.
+ Progettazione di Progettazione di modifiche / ampliamenti di
+ Tipologia di attività
+ nuove attività attività esistenti
+ Il progettista sceglie tra:
+ • applicazione del Codice alla sola modifica
+ e/o ampliamento
+ • applicazione del Codice all’intera attività
+ Senza RTV Obbligatorio il Codice
+ Attività soggette • se il Codice non è compatibile con
+ l’esistente, applicazione dei criteri
+ (DPR 151/2011)
+ generali di prevenzione incendi (metodo
+ tradizionale)
+ Il progettista sceglie tra:
+ • Codice Escluso RTV V.6
+ Con RTV
+ • regole tecniche Autorimesse DM 15/05/2020
+ prescrittive tradizionali
+Attività sotto soglia di assoggettabilità o non Il Codice può essere applicato come riferimento, in alternativa alle regole
+ elencate in allegato 1 del DPR 151/2011 tecniche tradizionali
+ Dal 29 ottobre 2022:
+ se luogo di lavoro a “basso rischio” → Decreto 03/09/2021 “Minicodice”
+ se luogo di lavoro non a “basso rischio → D.M. 3 agosto 2015- RTO
+IL DOPPIO BINARIO … (fonte biblus.acca.it)
+ IL DOPPIO BINARIO … (fonte biblus.acca.it)
+La circolare del 15 ottobre dei Vigili del Fuoco
+La circolare dei Vigili del Fuoco del 15 ottobre 2019 evidenzia i principali elementi di novità
+introdotti dal decreto del 12 aprile 2019:
+art. 2 del dm 12 aprile 2019
+Con tale articolo è stato, innanzitutto, ampliato l’elenco delle attività ricomprese in allegato I
+del dPR 151/2011 a cui applicare le modalità di progettazione del Codice di prevenzione
+incendi; si segnalano, ad esempio, le attività dalla n. 19 alla n. 26 e la n. 73 che, invece, erano
+escluse dall’originario campo di applicazione del dm 3 agosto 2015.
+Si evidenzia, altresì, che per tali attività di nuova realizzazione, con esclusione di
+quelle puntualmente elencate al successivo articolo 3, le norme tecniche allegate al Codice
+diventano l’unico strumento di progettazione ammesso.
+Nei commi 3 e 4 sono fornite, invece, indicazioni riguardo alle modalità di progettazione per
+le attività esistenti che sono oggetto di modifiche e/o ampliamenti dopo l’entrata in vigore del
+decreto in argomento; in estrema sintesi, è ammesso che per tali attività sia possibile mantenere
+le modalità progettuali secondo le normative di tipo tradizionale anche sulle parti oggetto
+di modifica/ampliamento, qualora l’applicazione alle stesse del Codice comportasse
+incompatibilità con le porzioni dell’attività non oggetto di intervento.
+ IL DOPPIO BINARIO … (fonte biblus.acca.it)
+art. 3 del dm 12 aprile 2019
+Tale articolo ha introdotto nel dm 3 agosto 2015 l’articolo 2-bis che definisce le
+modalità applicative alternative.
+Come in precedenza accennato, si fa salva la possibilità di applicare le normative di
+tipo tradizionale (elencate all’art. 5, comma 1 bis) in alternativa alle norme tecniche allegate al
+Codice, per talune attività dell’allegato I al dpr 151/2011, già regolate da specifica disposizione
+di prevenzione incendi che, attualmente, sono: alberghi, scuole, attività commerciali, uffici
+ed autorimesse (ad esempio, il responsabile di un’attività ricettiva turistico alberghiera potrà
+ancora optare tra l’applicazione del dm 9 aprile 1994 e s.m.i. o del dm 9 agosto 2016).
+Per tali attività permane in vigore, pertanto, il regime del cosiddetto doppio binario.
+ Struttura del decreto
+Il decreto si compone di cinque articoli e di un corposo allegato tecnico.
+L’allegato specifica le attività cui potrà essere applicata nuova normativa e precisa, anche, le
+modalità di adozione della nuova metodologia introdotta in alternativa alle vigenti disposizioni
+di prevenzione incendi, per consentire l’introduzione del nuovo approccio con la necessaria
+gradualità.
+L’allegato è strutturato in quattro sezioni:
+Sezione G - Generalità, con i principi fondamentali per la progettazione della sicurezza
+antincendio, applicabili indistintamente alle diverse attività;
+La Sezione G è la parte più generale del codice ove sono forniti i vari termini e definizioni ai
+fini di una uniforme applicazione, le metodologie di progettazione della sicurezza antincendio
+finalizzate al raggiungimento degli obiettivi primari della prevenzione incendi nonché sono
+definiti i profili di rischio delle attività e i metodi per la determinazione.
+ Struttura del decreto
+Sezione S - contiene le misure antincendio di prevenzione, protezione e gestionali applicabile a
+tutte le attività, al fine di ridurre il rischio di incendio. Fanno parte di questa sezione le misure
+in termini di:
+• reazione al fuoco
+• resistenza al fuoco
+• compartimentazione
+• esodo
+• gestione della sicurezza
+• controllo dell’incendio
+• rivelazione ed allarme
+• controllo di fumi e calore
+• operatività antincendio
+• sicurezza degli impianti tecnologici
+Nella Sezione S sono indicati per ognuna delle 10 misure antincendio i criteri per l’attribuzione
+dei livelli di prestazione (I, II, III, IV, …) e la scelta delle soluzioni progettuali. Per ogni livello
+di prestazione sono specificate soluzioni conformi e eventuali soluzioni alternative.
+ Struttura del decreto
+Sezione V - Regole Tecniche Verticali (RTV), contiene le regole tecniche di prevenzione incendi applicabili a specifiche
+attività o ad ambiti di esse; in particolare:
+ • V1 - aree a rischio specifico
+ • V2 - aree a rischio per atmosfere esplosive
+ • V3 - vani degli ascensori,
+le cui misure tecniche previste sono complementari o integrative a quelle generali previste nella sezione “Strategia
+antincendio”.
+RTV inserite successivamente
+Dopo la prima versione del Codice sono state introdotte altre RTV, come di seguito elencate.
+ • V4 - “RTV Uffici” (introdotta con D.M. 8/6/2016) • V12 - “RTV Altre attività in edifici tutelati” (introdotta
+ con D.M. 25/10/2021)
+ • V5 - “RTV Alberghi” (introdotta con D.M. 9/8/2016)
+ • V13 - “RTV Chiusura d’ambito edifici civili” (introdotta
+ • V6 - “RTV Autorimesse” (introdotta con D.M. con D.M. 30/03/2022)
+ 21/2/2017) – modif. con DM 15/05/2020
+ • V14 – “RTV Edifici Civili” (introdotta con D.M.
+ • V7 - “RTV Scuole” (introdotta con D.M. 7/8/2017) 19/05/2022)
+ • V8 - “RTV Attivita’ Commerciali” (introdotta con D.M. • V – “Stabilimenti ed impianti di stoccaggio e trattamento
+ 23/11/2018) rifiuti” (introdotta con D.M. 26/07/2022)
+ • V9 - “RTV Asili Nido” (introdotta con D.M. 06/04/2020) • V15 – “Attività di intrattenimento e di spettacolo a
+ carattere pubblico” (introdotta con D.M. 22/11/2022)
+ • V10 - “RTV Attività in edifici tutelati comprendenti
+ musei, gallerie, esposizioni, mostre, biblioteche e
+ archivi” (introdotta con D.M. 10/07/2020)
+ • V11 - “RTV Strutture Sanitarie” (introdotta con D.M.
+ 29/03/2021)
+ Struttura del decreto
+Sezione M - Metodi, con la descrizione delle metodologie progettuali volte alla
+risoluzione di specifiche problematiche tecniche.
+La Sezione M tratta dell’Ingegneria della sicurezza antincendio, definita dalla
+ISO/TR 13387: Applicazione di principi ingegneristici, regole e giudizi esperti basati
+sulla valutazione scientifica del fenomeno della combustione, degli effetti
+dell'incendio e del comportamento umano, finalizzati alla tutela della vita umana,
+protezione beni e ambiente, alla quantificazione dei rischi d’incendio e relativi effetti
+e alla valutazione analitica delle misure antincendio ottimali, necessarie a limitare,
+entro livelli prestabiliti, le conseguenze dell'incendio.
+Con la FSE (Fire Safety Engineering) è possibile effettuare una valutazione
+quantitativa del livello di sicurezza antincendio.
+L'insieme delle prime due sezioni costituisce la regola tecnica orizzontale (RTO)
+in ambito di Prevenzione Incendi; l'abbinamento della regola tecnica orizzontale
+a ciascuna regola tecnica verticale (RTV) consente di progettare la sicurezza
+antincendio di ciascuna attività normata.
+ Schema di una Regola Tecnica Verticale
+ E’ stato quindi previsto uno schema base su cui impostare la strutturazione di tutte le
+ R.T.V. attuali e future:
+- Scopo e campo di applicazione
+- Termini e definizioni - SOLO SE NECESSARIO
+- Classificazioni - SOLO SE NECESSARIO
+- Profili di rischio
+- Strategia antincendio
+ (con eventuali specifiche complementari/aggiuntive rispetto soluzioni conformi RTO)
+- Altro (scenari per FSE, ..) - SOLO SE NECESSARIO
+ Schema di una Regola Tecnica Verticale
+Nella logica del Codice di Prevenzione Incendi, nelle regole tecniche verticali sono fornite
+caratterizzazioni ad hoc per la specifica tipologia di attività (o ambito della stessa) ma, i
+contenuti di base sono comunque quelli previsti nelle sezioni iniziali del Codice.
+In tale ottica, nel paragrafo Termini e Definizioni della RTV sono definite, se necessario,
+solamente specifiche terminologie “ad uso esclusivo” della specifica regola tecnica
+verticale, in quanto tutti i termini e definizioni “ad uso generale” sono già ricompresi nella
+sezione G - Generalità del Codice.
+Nel paragrafo Classificazioni, come già sovente avviene nell’attuale quadro normativo,
+vengono appunto classificate le attività oggetto della RTV in funzione di alcuni parametri
+identificati dal normatore (quota massima dei piani, affollamento ecc...).
+Nel paragrafo Strategie antincendio, che é la parte a contenuto tecnico del documento,
+vengono definite soluzioni complementari/integrative rispetto alle soluzioni conformi dei
+pertinenti livelli di prestazione della RTO per le varie strategie antincendio.
+Per le misure antincendio non specificatamente indicate nella RTV, si dovrà fare
+riferimento a quanto indicato nella RTO.
+Nell'ultimo paragrafo Altro, sono trattate infine eventuali particolari problematiche, per la
+specifica attività, che meritano un particolare approfondimento o indicazione.
+ Regole Tecniche delle attivita’ soggette
+Un link utile: https://www.vigilfuoco.it/servizi-le-aziende-e-i-
+professionisti/prevenzione-incendi/testi-coordinati-di-prevenzione/testi-
+coordinati-di-prevenzione-regole-tecniche-suddivise-per-attivita
+

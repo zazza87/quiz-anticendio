@@ -1,0 +1,36 @@
+// Blocco 25 – RTV V.11 Strutture sanitarie (Tinti) ed Esercitazione RTV V.5 attività ricettive (albergo 171 posti letto).
+const V11 = "Lezione Tinti – RTV V.11 Strutture sanitarie";
+const V5E = "Esercitazione RTV V.5 – Albergo da 171 posti letto";
+
+// --- V.11
+D("v40","rtv",[V11],"Secondo la lezione, il DM 29 marzo 2021 (RTV strutture sanitarie) è entrato in vigore il:",["9 maggio 2021.","9 aprile 2021.","1° gennaio 2022."]);
+D("v41","rtv",[V11],"Per le strutture sanitarie, in alternativa alla RTV V.11, si possono continuare ad applicare:",["Le norme tradizionali del DM 18 settembre 2002.","Solo le norme del DM 10 marzo 1998.","Nessuna alternativa: la RTV è obbligatoria."]);
+D("v42","rtv",[V11],"Le case di riposo per anziani autosufficienti, prive di assistenza sanitaria, secondo la lezione:",["Non rientrano nel DM 18/9/2002, che però può essere un riferimento da ponderare in base alle condizioni degli ospiti.","Rientrano sempre nel DM 18/9/2002.","Non sono mai attività soggette."]);
+D("v43","rtv",[V11],"Per le strutture sanitarie, i parametri di classificazione della RTV sono:",["Tipologia della prestazione erogata, quota massima dei piani e numero di posti letto.","Solo la superficie lorda.","Solo il numero di addetti."]);
+D("v44","codg",[V11],"Il «piano di riferimento del compartimento» è:",["Il piano del luogo sicuro esterno verso cui avviene prevalentemente l'esodo e da cui accedono i soccorritori.","Il piano più alto dell'edificio.","Il piano con la superficie maggiore."]);
+D("v45","codg",[V11],"La «quota di piano» è il dislivello tra il piano e il piano di riferimento del compartimento e può essere:",["Positiva, negativa o nulla.","Solo positiva.","Solo negativa."]);
+D("v46","rtv",[V11],"Nella RTV V.11 il profilo Rvita indicato per alcune aree:",["È indicativo: il progettista può scegliere valori diversi motivandone la scelta.","È vincolante e non modificabile.","Non è mai indicato."]);
+D("v47","rtv",[V11],"I valori di resistenza al fuoco della tabella V.11-2 sono:",["Valori minimi: va comunque calcolata la classe di ciascun compartimento.","Valori massimi da non superare.","Valori validi solo per strutture in legno."]);
+D("v48","rtv",[V11],"A differenza di altre RTV, la V.11 richiede espressamente per le aree di ricovero e le unità speciali:",["L'esodo orizzontale progressivo.","L'esodo per fasi.","Solo l'esodo simultaneo."]);
+D("v49","s4",[V11],"L'esodo orizzontale progressivo prevede:",["Lo spostamento degli occupanti dal compartimento di primo innesco a uno adiacente capace di contenerli e proteggerli.","L'evacuazione immediata di tutto l'edificio.","La permanenza degli occupanti nelle proprie stanze."]);
+D("v50","rtv",[V11],"Nella RTV V.11, alcune aree tecniche o depositi ubicati in opere con aree TA o TB richiedono per il controllo dell'incendio il livello:",["IV.","II.","I."]);
+D("v51","rtv",[V11],"In presenza di compartimenti con profilo D1 e D2 (ricovero, unità speciali), la RTV V.11 evidenzia la necessità di:",["Un ascensore (montalettighe) antincendio.","Un impianto sprinkler in tutti i locali.","Un elisuperficie."]);
+D("v52","rtv",[V11],"Gli impianti delle aree TA2 (unità speciali, cure intensive) devono garantire:",["La continuità delle prestazioni sanitarie anche in caso di incendio in un qualunque altro compartimento.","Lo spegnimento automatico in 30 secondi.","L'evacuazione dei pazienti entro 5 minuti."]);
+D("v53","rtv",[V11],"Nelle strutture con ricovero, secondo la RTV V.11, le bombole di gas medicali possono essere detenute:",["Con esclusione dei percorsi d'esodo e delle aree con visitatori, nel rispetto di specifiche prescrizioni.","In qualsiasi locale, anche lungo i corridoi.","Solo all'esterno dell'edificio."]);
+D("v54","rtv",[V11],"Le sostanze infiammabili per esigenze igienico-sanitarie possono essere detenute, secondo la RTV V.11:",["In armadi metallici con bacino di contenimento, in quantità compatibili con la valutazione del rischio.","Liberamente nelle stanze di degenza.","Mai, in nessun caso."]);
+D("v55","rtv",[V11],"Per le strutture sanitarie con non più di 25 posti letto (non soggette al DPR 151), la RTV V.11:",["Fornisce indicazioni sui livelli di prestazione per alcune misure, rimandando alla RTO.","Non fornisce alcuna indicazione.","Impone l'applicazione integrale del DM 18/9/2002."]);
+D("v56","codg",[V11],"Secondo la lezione, una soluzione progettuale «in deroga» si adotta:",["Per attività con RTV, quando non è possibile applicare efficacemente né le soluzioni conformi né quelle alternative.","Sempre, in alternativa alle soluzioni conformi.","Solo per attività non soggette."]);
+
+// --- Esercitazione V.5 albergo
+D("v60","rtv",[V5E],"Un albergo con 171 posti letto, secondo l'Allegato I del DPR 151/2011, rientra nell'attività:",["66.4.C (oltre 100 posti letto).","66.2.B.","66.1.A."]);
+D("v61","rtv",[V5E],"Nella RTV V.5, un albergo con 171 posti letto è classificato, in relazione ai posti letto, come:",["PC (100 < p ≤ 500).","PB (50 < p ≤ 100).","PD (500 < p ≤ 1000)."]);
+D("v62","rtv",[V5E],"Nella RTV V.5, un albergo alto 17,20 m è classificato, in relazione alla quota dei piani, come:",["HB (12 m < h ≤ 24 m).","HA (h ≤ 12 m).","HC (24 m < h ≤ 32 m)."]);
+D("v63","rtv",[V5E],"Nella RTV V.5 le aree TC sono:",["Spazi di riposo, dove la maggior parte degli occupanti può essere addormentata (camere).","Spazi comuni come hall e sale colazione.","Depositi con qf > 600 MJ/m²."]);
+D("v64","rtv",[V5E],"Nella RTV V.5 le aree TB sono:",["Spazi comuni, con occupanti svegli che non conoscono l'edificio (hall, sale colazione, sale riunioni).","Spazi riservati al personale.","Camere degli ospiti."]);
+D("v65","rtv",[V5E],"Secondo il DM 9/8/2016, all'interno delle aree TC (camere) mobili imbottiti e tendaggi devono appartenere almeno al gruppo:",["GM2.","GM4.","GM0."]);
+D("v66","rtv",[V5E],"Nell'esercitazione, sul piano camere lungo 77 m servono 3 uscite indipendenti perché:",["Con due sole uscite non sarebbe rispettata la lunghezza d'esodo massima di 30 m.","Lo impone la larghezza minima delle vie d'esodo.","Ci sono più di 100 posti letto per piano."]);
+D("v67","rtv",[V5E],"Secondo la RTV V.5, le camere con affollamento non superiore a 10 occupanti:",["Sono escluse dai limiti minimi previsti per le larghezze delle vie d'esodo.","Devono avere porte larghe almeno 1200 mm.","Devono avere due uscite."]);
+D("v68","rtv",[V5E],"Nell'albergo, planimetrie del sistema d'esodo e istruzioni di comportamento in emergenza devono essere esposte anche:",["All'interno di ciascuna camera, in più lingue.","Solo alla reception.","Solo nei vani scala."]);
+D("v69","s5",[V5E],"Secondo l'esercitazione, nel registro dei controlli periodici vanno annotati:",["Controlli e manutenzioni, attività di informazione, formazione e addestramento e prove di evacuazione.","Solo gli interventi dei Vigili del fuoco.","Solo i consumi energetici."]);
+D("v70","s6",[V5E],"Gli estintori, nella soluzione conforme, vanno installati con le impugnature a circa:",["110 cm dal piano di calpestio.","50 cm dal piano di calpestio.","180 cm dal piano di calpestio."]);
+D("v71","s8",[V5E],"Nella soluzione conforme per il livello II di S.8, le aperture di smaltimento sono distribuite nella parte alta dei locali rispettando un raggio di influenza roffset di:",["20 m.","5 m.","50 m."]);

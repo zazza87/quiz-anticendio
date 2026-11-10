@@ -1,0 +1,732 @@
+ CORSO BASE DI SPECIALIZZAZIONE IN PREVENZIONE INCENDI
+ (ART. 16 DEL D.LGS. N. 139/2006 E D.M. 5/08/2011)
+ CODICE DI PREVENZIONE INCENDI
+ESEMPIO APPLICATIVO ATTIVITA’ NORMATA
+ AUTORIMESSA (fonte: Manuale Inail Codice di prevenzione incendi)
+ 4 Novembre 2026 – Ordine dei periti della provincia di Trieste
+ Aula Virtuale - MODALITA’ STREAMING SINCRONO Videoconferenza
+ Dott. Tinti Gianluca - gianluca.tinti@gmail.com – tel 339 6655966
+ Introduzione
+Il Centro Ricerche, cui è asservita l’autorimessa in progetto sorge a Frascati (Roma), nell’ambito del contesto
+urbano illustrato nello stralcio planimetrico seguente; risulta realizzato nel 1987 ed ospita uffici non aperti al
+pubblico.
+L’autorimessa da realizzare è prevista su due piani interrati.
+Essa sarà realizzata all’interno degli spazi verdi del comprensorio di pertinenza del Centro Ricerche,
+esternamente all’impronta dell’edificazione esistente.
+Il progetto prevede, pertanto, che le aree interrate di parcheggio risulteranno indipendenti da quelle degli
+edifici e, in conclusione, l’autorimessa sarà classificata di tipo isolato.
+Parallelamente, onde consentire un adeguato sistema di circolazione all’interno del comprensorio ed
+un’agevole fruizione degli accessi ai piani dell’autorimessa, si prevede la realizzazione di un’apposita rete
+viaria a servizio dell’autorimessa, come si evince dalla planimetria seguente.
+Pertanto, gli accessi avverranno mediante rampe a cielo
+libero direttamente dalla viabilità interna al
+comprensorio.
+La distribuzione delle aree parcheggio si articola,
+quindi, su due piani interrati.
+Introduzione
+Introduzione
+Introduzione
+ Classificazione autorimessa
+Considerata la suddivisione in compartimenti dell’autorimessa, si può così
+classificare l’attività:
+• in relazione alla tipologia di servizio: SA: autorimessa privata;
+• in relazione alla superficie dei compartimenti: AD: A > 10.000 mq;
+• in relazione alle quote massima e minima dei piani h dell’autorimessa:
+ HB: risultando la quota del livello -2 pari a -6 m.
+In relazione alle aree dell’attività (punto 2 del par. V 6.3) si ottiene:
+• TA: aree dedicate a ricovero, sosta e manovra dei veicoli;
+• l’autorimessa non presenta comunicazioni con aree di tipo TM1, TM2
+ e TT.
+ Valutazione del rischio
+Profilo Rischio Vita
+Ai sensi del par. V 6.4 i profili di rischio sono determinati secondo la metodologia di cui al Capitolo G.3.
+(tab. G.3-4 e tabb. G.3-1 e G.3-2).
+Con riferimento ai diversi compartimenti di cui è costituita l’autorimessa, si possono attribuire i seguenti
+profili di rischio Rvita:
+ Profilo Rischio Beni Rbeni = 1 (per l’intera attività):
+ Profilo Rischio Ambiente Rambiente = non significativo (non comporta misure antincendio
+ aggiuntive).
+Strategia antincendio
+S.1 -Reazione al fuoco
+ Per l’attribuzione dei livelli di prestazione di reazione
+ al fuoco, per le attività in esame, si deve anche tener
+ presente il disposto di cui al punto 1 del par. V.6.5
+ dove previsto che nelle aree TA non è ammesso il
+ livello di prestazione I (che sarebbe consentito dalla
+ RTO).
+ Pertanto, si attribuirà il livello di prestazione II sia per
+ le vie d’esodo che gli altri locali.
+ In definitiva, adottando soluzioni conformi di cui al
+ par. S.1.4.1, nelle varie aree potranno essere installati
+ materiali appartenenti ai gruppi di seguito specificati:
+S.1 -Reazione al fuoco
+Reazione al fuoco
+S.1 -Reazione al fuoco
+S.2 -Resistenza al fuoco
+ S.2 -Resistenza al fuoco
+In virtù delle prescrizioni di cui al par. S.2.4.3, inerente le soluzioni conformi per il livello di prestazione III,
+le prestazioni di resistenza al fuoco debbono essere verificate in base agli incendi convenzionali di progetto
+(curve nominali di incendio di cui al par. S.2.5).
+Per ogni compartimento individuato occorre determinare il carico di incendio specifico di progetto, qf,d,
+(massimo ipotizzabile) in funzione del quale si determina la classe minima di resistenza al fuoco (vedi tab.
+S.2-3).
+ S.2 -Resistenza al fuoco –Calcolo carico di incendio
+Definizioni:
+Carico di incendio: potenziale termico netto della totalità dei materiali combustibili contenuti in uno spazio,
+corretto in base ai parametri indicativi della partecipazione alla combustione dei singoli materiali.
+Limitatamente agli elementi strutturali di legno, è possibile considerarne il contributo tenendo conto del
+fatto che gli stessi devono altresì garantire la conseguente resistenza al fuoco. Tale contributo deve essere
+determinato tramite consolidati criteri di interpretazione del fenomeno. Il carico di incendio è espresso in
+MJ; convenzionalmente 1 MJ è assunto pari all'energia sviluppata da 0,057 kg di legna equivalente.
+Carico d’incendio specifico: carico di incendio riferito all’unità di superficie lorda di piano, espresso in
+MJ/m2.
+ È un'energia per superficie lorda di piano. La "superficie lorda” è definita nel Codice così come quella di
+“piano”.
+Carico d’incendio specifico di progetto: carico d’incendio specifico corretto in base ai parametri indicatori
+del rischio di incendio del compartimento antincendio e dei fattori relativi alle misure antincendio presenti.
+Esso costituisce la grandezza di riferimento per le valutazioni della resistenza al fuoco delle opere da
+costruzione.
+ ln caso di progettazione con curva di incendio parametrica riportata nella norma EN 1992-1-2, il carico di
+incendio specifico di progetto è riferito alla superficie “totale” del compartimento (sussiste infatti una
+differenza tra qfd e qtd, ove “t” sta per “floor” e "t" per “total").
+ S.2 -Resistenza al fuoco –Calcolo carico di incendio
+Il carico di incendio specifico qf (riferito all’unità di superficie lorda) e il carico d’incendio specifico di
+progetto (qf,d) si ricavano con la medesima metodologia indicata nel d.m. 9 marzo 2007.
+Il carico d’incendio specifico di progetto qf,d, cioè il carico d’incendio specifico corretto in base ai parametri
+indicatori del rischio di incendio e dei fattori relativi alle misure di protezione presenti, sarà quindi pari a:
+ qf,d = δq1 x δq2 x δn x qf
+essendo:
+δq1 = fattore correlato al rischio incendio in relazione alle dimensioni del compartimento (tab. S.2-6):
+δq2 = fattore correlato al rischio incendio in relazione al tipo di attività svolta nel compartimento (tab. S.2-7):
+ S.2 -Resistenza al fuoco –Calcolo carico di incendio
+ qf,d = δq1 x δq2 x δn x qf
+essendo:
+L’unica differenza, rispetto alla procedura di cui al d.m. 9 marzo 2007, riguarda la determinazione del fattore
+δn che tiene conto delle differenti misure antincendio; i coefficienti che concorrono alla definizione dello
+stesso sono desumibili dalla seguente tab. S.2-8 ed il fattore δn si ottiene dal relativo prodotto:
+ S.2 -Resistenza al fuoco –Calcolo carico di incendio
+Il valore nominale del carico d'incendio specifico qf (riferito all’unità di superficie lorda del piano del
+compartimento, nell’ipotesi di distribuzione sufficientemente uniforme del carico di incendio) è dato da:
+gi = massa i-esimo materiale combustibile (Kg);
+Hi = potere calorifico inferiore i-esimo materiale combustibile (MJ/Kg);
+mi = fattore di partecipazione alla combustione i-esimo materiale combustibile;
+Ψi = fattore di limitazione della partecipazione alla combustione dell’i-esimo materiale combustibile;
+A = superficie in pianta lorda del compartimento considerato (m2).
+Il Codice prevede, al comma 2 del par. S.2.9, il ricorso, in alternativa alla formula precedente, alla
+determinazione di qf attraverso una valutazione statistica del carico di incendio per la specifica attività.
+In tal caso, si deve far riferimento a valori con probabilità di superamento inferiore al 20% (vedi anche par.
+S.2.9.1).
+A tal proposito si decide di utilizzare, per la densità di carico di incendio, il valore statistico per le
+autorimesse (tratto dal software ClaRaF, Classificazione di Resistenza al Fuoco delle costruzioni, elaborato
+dall'Area Protezione Passiva della D.C.P.S.T. dei VV.F.) di 200 MJ/m2, moltiplicato per un coefficiente di
+adeguamento al frattile 80% pari a 1,75.
+ S.2 -Resistenza al fuoco –Calcolo carico di incendio
+Sulla base delle risultanze si evince che i compartimenti più estesi superano, di poco, i 4000 m2; pertanto, il
+fattore δq1 si può porre uguale a 1,60.
+In relazione al fattore δq2 lo si può porre uguale a 1,00.
+In virtù delle diverse misure antincendio previste, il fattore δn risulta dal prodotto dei fattori componenti
+δn5, δn7 e δn9, ossia:
+ δn = δn1 x δn7 x δn9 = 0,90 x 0,90 x 0,85 = 0,69
+In definitiva si ottiene:
+ qf,d = δq1 x δq2 x δn x qf = 1,60 x 1,00 x 0,69 x 200 x 1,75 = 386,4 MJ/m
+valore che, utilizzando la tab. S.2-3, corrisponde alla classe minima R/REI 30.
+(Si decide di utilizzare, per la densità di carico di incendio, il valore statistico per le autorimesse (tratto dal
+software ClaRaF di 200 MJ/m2, moltiplicato per un coefficiente di adeguamento al frattile 80% pari a 1,40.
+Pur potendo utilizzare tale classe di resistenza al fuoco, cautelativamente, si prevede la classe R/REI 60 in
+considerazione del fatto che l’accesso dei soccorritori, per le operazioni di spegnimento, e le stesse vie
+d’esodo, potrebbero interferire con quelli afferenti al Centro Ricerche.
+ S.2 -Resistenza al fuoco
+In realta’, si prevede la classe R/REI 60
+ S.2 -Resistenza al fuoco
+La capacità strutturale in caso d’incendio sarà vagliata, in sede di verifiche di sicurezza, tenendo conto della
+combinazione dei carichi per azioni eccezionali prevista dalle vigenti NTC.
+In relazione agli elementi strutturali secondari, è necessario verificare che un loro eventuale cedimento non
+risulti compromettente per la capacità portante degli restanti elementi strutturali e assicuri l’efficacia delle
+compartimentazioni e dei sistemi di protezione attiva installati.
+Deve, inoltre essere garantito l’esodo in sicurezza degli occupanti e dei soccorritori.
+Pertanto, al fine di garantire il rispetto delle previsioni di cui al par. S.2.8.2, il Codice suggerisce l'applicazione
+del livello di prestazione II.
+Considerando le prescrizioni di cui al par. S.2.4.2 (soluzioni conformi per il livello di prestazione II), il codice
+richiede come soluzione conforme una classe minima di resistenza al fuoco pari a almeno 30 minuti.
+I requisiti di resistenza al fuoco degli elementi strutturali e di compartimentazione, nonché delle porte e
+degli altri elementi di chiusura, sono stati valutati in base alle prescrizioni dei parr. S.2.10, S.2.14 e S.2.15.
+(classificazione con metodo sperimentale, analitico e tabellare)
+S.3 -Compartimentazione
+ In relazioni alle soluzioni conformi per il
+ livello di prestazione II, gli obiettivi della
+ compartimentazione sono:
+ • frazionare l’area destinata al parcamento
+ in una serie di compartimenti
+ antincendio;
+ • salvaguardare le aree destinate ad
+ autorimessa dalle costruzioni e attività
+ adiacenti, tramite ulteriori
+ compartimentazioni ovvero introducendo
+ delle efficaci distanze di separazione per
+ limitare la propagazione dell’incendio
+ (vedi par. S.3.8. e seguenti);
+ • limitare l’ubicazione ai piani interrati
+ delle aree a rischio specifico e delle
+ relative comunicazioni con le aree
+ dell’autorimessa;
+ • separare le aree a rischio specifico
+ rispetto alle specifiche aree destinate ad
+ autorimessa.
+ S.3 -Compartimentazione
+S.3.6 Progettazione della compartimentazione
+S.3.6.1 Regole generali
+1. Devono essere inseriti in compartimenti distinti:
+ a. ciascun piano interrato e fuori terra di attività multipiano;
+ b. aree dell'attività con diverso profilo di rischio;
+ c. altre attività (es. afferenti ad altro responsabile dell'attività, di diversa tipologia) ospitate nella
+ medesima opera da costruzione.
+2. La superficie lorda dei compartimenti non deve superare i valori massimi previsti in tabella S.3-6.
+S.3 -Compartimentazione
+ Le superfici lorde di ciascun
+ compartimento antincendio
+ dovranno risultare inferiori ai
+ valori riportati nella
+ precedente tabella; pertanto si
+ avrà:
+ S.3 -Compartimentazione
+Compartimentazione multipiano
+1. Per attività in cui i profili di rischio Rvita di tutti i compartimenti siano compresi in A1, A2, B1, B2, C1, C2,
+nel rispetto della massima superficie di compartimento di cui alla tabella S.3-6 e dei vincoli dettati dalle
+altre misure antincendio (es. esodo, capitolo S.4) e generalmente accettabile la compartimentazione
+multipiano di tabella S.3-7 (esempi nell'illustrazione S.3-1) in relazione alle caratteristiche geometriche
+dell'attività.
+Nel caso oggetto del presente studio, alla luce delle prescrizioni in questione, risultando la quota del
+secondo piano interrato pari a -6 m, si potrebbe ipotizzare un compartimento multipiano.
+ S.3 -Compartimentazione
+In relazione alle chiusure dei varchi di comunicazione (porte, serrande, ecc.) fra i diversi compartimenti (par.
+S.3.7.2), non potendosi in alcun modo “accettare” punti di debolezza del sistema di compartimentazione,
+tutte le chiusure dovranno avere la stessa classe di resistenza al fuoco dei compartimenti ed essere dotate
+di dispositivo di autochiusura (o mantenute in posizione di chiusura).
+Inoltre, le chiusure fra i compartimenti e le vie di esodo afferenti alla stessa attività dovranno essere almeno
+a tenuta di fumi caldi (Exx) e freddi (Sa), dove xx corrisponde alla classe del compartimento.
+In relazione alle porte tagliafuoco, installate lungo le principali vie di passaggio degli occupanti, queste
+dovrebbero essere preferibilmente munite di fermo elettromagnetico in apertura, asservito ad IRAI.
+In riferimento alle compartimentazioni orizzontali e verticali (par. S.3.7.3), esse debbono formare una
+barriera continua ed uniforme contro la propagazione degli effetti dell'incendio.
+ S.3 -Compartimentazione
+Particolare cura nella realizzazione deve essere garantita:
+a. nelle giunzioni tra gli elementi di compartimentazione, grazie alla corretta posa in opera,
+b. in corrispondenza dell'attraversamento degli impianti tecnologici o di processo con l'adozione di sistemi
+sigillanti resistenti al fuoco quando gli effetti dell'incendio possono attaccare l'integrità e la forma
+dell'impianto (es. tubazioni di PVC con collare, sacchetti penetranti nelle canaline portacavi, ...) ovvero con
+l'adozione di isolanti non combustibili su un tratto di tubazione oltre l'elemento di separazione quando gli
+effetti dell'incendio possono causare solo il riscaldamento dell'impianto (es. tubazioni metalliche rivestite,
+sul lato non esposto all'incendio dell'elemento di compartimentazione, con idonei materiali isolanti);
+c. in corrispondenza di canalizzazioni aerauliche, per mezzo dell'installazione di serrande tagliafuoco o
+impiegando canalizzazioni resistenti al fuoco per l'attraversamento dei compartimenti;
+d. in corrispondenza dei camini di esaustione o di estrazione fumi impiegando canalizzazioni resistenti al
+fuoco per l'attraversamento dei compartimenti;
+e. in caso di facciate continue (paragrafo S.3.5.5).
+S.3 -Compartimentazione
+ S3- Compartimentazione
+TM1: depositi di materiale combustibile, con esclusione di RTV par. V.6.5.3 -
+sostanze o miscele pericolose, con carico di incendio specifico
+qf ≤ 300 MJ/m e superficie lorda ≤ 25 m2; Compartimentazione
+Nota Ad esempio: aree o locali destinati a cantine di civili
+abitazioni, deposito cicli …
+ I locali TM1, TM2, TT e SC
+ costituiscono compartimento
+TM2: depositi di materiale combustibile con carico di incendio
+specifico qf < 1200 MJ/m2 e superficie lorda < 300 m2;
+ distinto ad eccezione delle
+Nota Ad esempio: aree o locali destinati a deposito di attività di aree TM1 inserite in
+vendita …
+ compartimenti SA, AB, HB.
+TT: locali tecnici rilevanti ai fini della sicurezza antincendio;
+Nota Ad esempio: cabine elettriche, centrali termiche, gruppi
+elettrogeni.
+ SA Autorimesse
+ δocc= A private AB 1000 mq < A ≤ 5000 mq
+ SB Autorimesse
+ δocc= B pubbliche HA -1m≤h≤6m
+ SC Autosilo HB - 5 m ≤ h ≤ 12 m
+ (non ricomprese in HA)
+S.3 -Compartimentazione
+ Autorimessa: SA, AD, HB
+ S.4 -Esodo
+S.4.2 Livelli di prestazione
+S.4.3 Criteri di attribuzione dei livelli di prestazione
+V.6.5.4
+ S4 - Esodo
+ S.4 -Esodo
+Nel caso oggetto dello studio, il sistema di esodo dovrà essere rispondente alle prescrizioni di cui ai
+paragrafi S.4.5 e seguenti, facendo riferimento, se del caso, alle misure antincendio aggiuntive relative alle
+altre Misure (vedi par. S.4.10).
+Il sistema di esodo considerato è quello relativo alla modalità esodo simultaneo.
+Per quanto attinente al caso in esame si osserva che
+a) I luoghi sicuri sono stati individuati nelle aree a cielo libero all’interno del comprensorio del Centro
+Ricerche; Ciascun luogo sicuro sarà contrassegnato mediante il cartello UNI EN ISO 7010:2012 - E007.
+La superficie lorda del luogo sicuro si calcola tenendo conto delle superfici minime per occupante (tab. S.4-
+36):
+ S.4 -Esodo
+b) In relazione al par. S.4.8.4, si rileva che le vie di esodo presenti hanno altezza minima di 2 metri e non
+comprendono scale portatili e alla marinara, ascensori e rampe (a tal proposito, si segnala che il Codice
+non considera, quali vie di esodo, le rampe di accesso dell’autorimessa che presentano una pendenza >
+8%), scale mobili e marciapiedi mobili.
+Inoltre, le relative superfici di calpestio non sono sdrucciolevoli, mentre il fumo ed il calore dell'incendio
+smaltiti o evacuati dall'attività non dovranno interferire con il sistema delle vie d'esodo.
+c) In relazione al par. S.4.5.4, si rileva che le scale di esodo presenti sono conformi alle prescrizioni ivi
+previste.
+d) In relazione al par. S.4.5.7, si rileva che le porte installate lungo le vie di esodo presenti sono conformi
+alle prescrizioni ivi previste; in particolare, le porte devono possedere i requisiti di cui alla tabella S.4-6 in
+relazione delle caratteristiche del locale e del numero di occupanti che impiegano ciascuna porta:
+ S.4 -Esodo
+e) In relazione al par. S.4.5.8, si rileva che le uscite finali, situate al livello del piazzale del comprensorio:
+• sono posizionate in modo da garantire l’evacuazione rapida degli occupanti verso luogo sicuro;
+• sono sempre disponibili, anche durante un incendio in attività limitrofe;
+• sono contrassegnate, sul lato verso luogo sicuro, con cartello UNI EN ISO 7010:2012 - M001 riportante il
+ messaggio “Uscita di emergenza, lasciare libero il passaggio”.
+ f) In relazione al par. S.4.5.9, si rileva che Il sistema d'esodo è progettato al fine
+ di essere facilmente riconosciuto ed impiegato dagli occupanti, grazie ad
+ apposita segnaletica di sicurezza; a ciascun piano dell’attività ed in ciascun
+ compartimento di ogni piano sono affisse apposite planimetrie, orientate
+ rispetto al lettore, riportanti la posizione del medesimo “VOI SIETE QUI” e lo
+ schema del sistema di esodo.
+ g) In relazione al par. S.4.5.10, si rileva che l'impianto di illuminazione di sicurezza è in grado di
+ assicurare un livello di illuminamento sufficiente a garantire l'esodo degli occupanti, conformemente
+ alle indicazioni della norma UNI EN 1838 o equivalente.
+S.4 -Esodo
+V.6.5.4
+ S4 - Esodo
+ S.4 -Esodo
+S.4.6 Dati di ingresso per la progettazione del sistema d'esodo
+1. La progettazione del sistema d'esodo dipende da dati di ingresso per ogni compartimento
+specificati nei paragrafi S.4.6.1 e S.4.6.2.
+S.4.6.2 Affollamento
+Considerato che le aree destinate all’attività in esame sono caratterizzate da un Rvita pari ad A2 e
+che l'affollamento di ciascun compartimento è determinato moltiplicando la densità di
+affollamento (dalla tab. S.4-13 si assume un valore pari a 2 persone per veicolo parcato) per la
+superficie lorda del compartimento, si avrà:
+V.6.5.4
+ S4 - Esodo
+ S.4 -Esodo
+S.4.7 Misure antincendio minime per l'esodo
+I piani dell’autorimessa sono serviti da vani scala d’esodo a prova di fumo con resistenza al fuoco,
+stabilita nel cap. S.2, pari a REI/EI 60.
+I varchi di comunicazione presentano chiusure di classe E 60-Sa (porte aventi tenuta di fumo pari
+a 60 minuti).
+ S.4 -Esodo
+Numero minimo di vie di esodo ed uscite indipendenti
+I vani scala di esodo presenti nell’autorimessa si possono considerare vie di esodo verticali indipendenti ai
+sensi del Codice (comma 1 del par. S.4.8.1), essendo contenuti entro vani aventi caratteristiche di resistenza
+al fuoco REI/EI 90.
+Per ciascun compartimento, il numero minimo di vie di esodo indipendenti e’ pari a 2.
+Per ciascun compartimento, il numero minimo di vie di uscite indipendenti risulta funzione del profilo di
+rischio Rvita e dell’affollamento, secondo le indicazioni contenute nella tab. S.4-8:
+Il compartimento tipo
+dell’autorimessa, risultando provvisto
+dei due vani scala dedicati (la rampa di
+accesso, a causa della limitazione sulla
+pendenza prevista al par. S.4.5.3 lett.
+c., come detto in precedenza, non può
+essere considerata via di esodo in
+soluzione conforme), dispone di due
+vie di esodo indipendenti, ognuna
+conducente all’esterno, in
+corrispondenza del livello stradale
+esterno.
+ S.4 -Esodo
+Lunghezze di esodo e dei corridoi ciechi
+Almeno una delle lunghezze d'esodo determinate da qualsiasi punto dell'attività non deve superare i valori
+massimi della tab. S.4-25 seguente, in funzione del profilo di rischio Rvita di riferimento:
+Risulta pertanto, che in riferimento alle aree adibite a parcamento (Rvita pari ad A2) corrispondono valori Les <
+60 m e Lcc < 25 m.
+Non essendo previsti compartimenti con Rvita pari ad A4, le lunghezza Les e Lcc sono peraltro suscettibili di
+incremento secondo quanto previsto al par. S.4.10 in relazione alle misure antincendio aggiuntive; pertanto:
+ S.4 -Esodo
+Aumento lunghezze di esodo e dei corridoi ciechi
+ Les,d = (1 + δm) x Les
+ Lcc,d = (1 + δm) x Lcc + 30% Lcc,pr + 60% Lcc,fu
+dove:
+• Les,d è la max lunghezza di esodo, in m;
+• δm è il fattore calcolato secondo il comma 3 del par. S.4.10 (max 36%);
+• Lcc,d è la max lunghezza del corridoio cieco, in m;
+• Lcc,pr è la lunghezza porzione di corridoio cieco in via d'esodo protetta, in m;
+• Lcc,fu è la lunghezza porzione di corridoio cieco in via d'esodo a prova di fumo o esterna, in m.
+ Nel caso oggetto dello studio, risultando δm pari a 15%, si avrà, pertanto, per le aree adibite a
+ parcamento (Rvita pari ad A2):
+ Les,d = (1 + δm) x Les = (1 + 0,15) x 60 = 69 m
+ Lcc,d = (1 + δm) x Lcc = (1 + 0,15) x 25 = 28,75 m
+S.4 -Esodo
+S.4 -Esodo
+S.4 -Esodo
+ S.4 -Esodo
+Lunghezze di esodo e dei corridoi ciechi
+La verifica grafica (vedi disegno seguente relativo al livello -2) non conferma il rispetto delle
+distanze Lcc; si dovrà, pertanto, ricorrere ad una soluzione alternativa dimostrando, con l’ausilio
+della F.S.E. (capp. M.1, M.2 ed M.3 del Codice), che nell’intervallo di tempo necessario per
+raggiungere la scala a prova di fumo, le condizioni di sostenibilità ambientale per fumi, gas tossici
+e/o calore prodotti nell’autorimessa risultino compatibili con il sicuro esodo degli occupanti.
+ S.4 -Esodo
+Larghezza minima delle vie di esodo orizzontali
+La larghezza minima (L0) delle vie di esodo orizzontali (es.: corridoi, porte, uscite, ecc.), si ricava
+dalla tab. S.4-27 e vale LO = Lu x no
+ Nel caso dell’autorimessa oggetto dello studio, si avrà:
+ Ad ogni livello sono presenti due uscite; la prima delle quali avente larghezza pari a 1200 mm
+ (e l’altra ≥ 900 mm).
+ S.4 -Esodo
+Verifica di ridondanza delle vie di esodo orizzontali
+Eseguendo una verifica di ridondanza, si rende indisponibile una via d'esodo alla volta e si verifica
+che le rimanenti, indipendenti, risultino sufficienti.
+La verifica della ridondanza delle vie d’esodo orizzontali, di cui al par. S.4.8.6, considerati gli
+affollamenti dei compartimenti costituenti l’autorimessa è presto soddisfatta; risulta, infatti,
+sufficiente, per l’esodo di tutti gli occupanti, una sola uscita finale potendosi considerare le altre
+potenzialmente indisponibili a causa dell’incendio.
+Numero minimo di vie di esodo verticali indipendenti
+A causa della presenza di un livello interrato avente quota inferiore a -5 m, a norma del par. S.4.7,
+debbono essere previste almeno due vie d’esodo verticali per ciascun compartimento dei due
+piani interrati.
+A tale scopo sono state previsti i doppi vani scala per ciascuno dei compartimenti costituenti
+l’autorimessa
+ S.4 -Esodo
+Larghezza minima delle vie di esodo verticali
+Avendo ipotizzato quale procedura d'esodo quella di tipo simultaneo, la larghezza minima della
+via d'esodo verticale Lv, che consente il regolare esodo degli occupanti che la impiegano, è
+calcolata come specificato nel par. S.4.8.8.
+La larghezza minima (Lv) delle vie di esodo verticali, si ricava dalla tab. S.4-29 e vale Lv = Lu x nv
+Tale larghezza può, pertanto, essere costituita dalla somma delle larghezze di più percorsi,
+prevedendo la larghezza minima delle singole vie d’esodo verticali pari a 1200 mm.
+ S.4 -Esodo
+Larghezza minima delle vie di esodo verticali
+Nel caso dell’autorimessa oggetto dello studio, per il vano scala tipo, che conduce al livello stradale
+esterno, si avrà:
+l valori delle larghezze unitarie debbono essere incrementati secondo le indicazioni della tabella S.4-30 in
+relazione all'alzata ed alla pedata dei gradini, alla tipologia di scala; tuttavia, nel caso in esame, essendo le
+alzate dei gradini pari a 16 cm e le pedate pari a 30,8 cm, non si dovranno incrementare i risultati ottenuti.
+In definitiva, essendo la larghezza delle vie d'esodo verticali pari a 1200 mm, la verifica è soddisfatta.
+Ai sensi del comma 3 del par. S.4.8.6, le vie d'esodo a prova di fumo o esterne sono considerate sempre
+disponibili e non debbono essere sottoposte a verifica di ridondanza.
+ S.4 -Esodo
+Larghezza minima delle uscite finali
+Percorse le vie d’esodo orizzontali e verticali, gli occupanti dell’autorimessa raggiungono il luogo
+sicuro esterno (sul piazzale del Centro Ricerche) attraverso le uscite finali; ai sensi del par. S.4.8.9,
+la verifica della larghezza delle uscite finali risulta soddisfatta.
+ S.4 -Esodo
+Esodo in presenza di occupanti con disabilità
+Il Codice, come noto, richiede che la sicurezza antincendi debba essere garantita anche in presenza di
+occupanti con disabilità permanenti o temporanee.
+Per ogni compartimento dell’autorimessa sono previsti 6 posti auto riservati a persone con ridotte o
+impedite capacità motorie.
+Sono pertanto previsti (in prossimità dei vani antistanti gli ascensori) degli spazi calmi aventi le
+caratteristiche rispondenti alla normativa (vedi par. S.4.9.1).
+Le dimensioni dello spazio calmo debbono essere tali da poter ospitare tutti gli occupanti con disabilità,
+eventualmente presenti nel comparto, nel rispetto delle superfici lorde minime di tabella S.4-36, utilizzata
+per il dimensionamento delle superfici lorde dei luoghi sicuri.
+In ciascuno spazio calmo debbono essere presenti:
+- un sistema di comunicazione bidirezionale per permettere agli occupanti di segnalare la
+ loro presenza e richiedere assistenza;
+- un’attrezzatura da impiegare per l'assistenza (sedia di evacuazione);
+- indicazioni sui comportamenti da tenere in attesa dell'arrivo dell'assistenza.
+- tali spazi calmi sono contrassegnati da un cartello UNI EN ISO 7010:2012 - E024 o
+ equivalente.
+ S.5 -SGSA
+PREMESSA
+La gestione della sicurezza
+antincendio (GSA) rappresenta la
+misura antincendio organizzativa e
+gestionale atta a garantire, nel
+tempo, un adeguato livello di
+sicurezza dell'attività in caso di
+incendio.
+ S.5 -SGSA
+Si rammenta che, secondo le definizioni di cui al par. G.1.6, il responsabile dell'attività è il soggetto tenuto
+agli obblighi di prevenzione incendi per l'attività; mentre il progettista è il tecnico abilitato, o professionista
+antincendio, incaricato dal responsabile dell'attività della progettazione, ai fini antincendio, dell'attività
+stessa o di specifici ambiti di essa.
+Il progettista, nello specifico, deve definire un idoneo modello di gestione della sicurezza antincendio, da
+sottoporre al responsabile dell’attività, qualunque sia il livello di approfondimento del sistema di gestione
+che si intende adottare.
+S.5 -SGSA
+ S.5 -SGSA
+Si segnala, inoltre, che le specifiche contenute al par. V. 6.5.5 della nuova RTV prevedono per le autorimesse la serie di
+prescrizioni di seguito riportate:
+1. Nelle autorimesse deve essere installata la cartellonistica riferita ai divieti e alle limitazione di esercizio.
+2. Nelle autorimesse è vietato:
+a) fumare o usare fiamme libere;
+b) depositare o effettuare travasi di fluidi infiammabili, compresa l'esecuzione di operazioni di riempimento e
+svuotamento dei serbatoi di carburante;
+c) eseguire manutenzione, riparazioni degli autoveicoli o prove di motori, al di fuori delle aree appositamente
+predisposte;
+d) l'accesso di veicoli con evidenti perdite di carburante (specificando, eventualmente, la motivazione nella segnaletica);
+e) l'accesso per gli autoveicoli non in regola con gli obblighi di manutenzione sul circuito carburanti.
+3. Nelle autorimesse è obbligatorio intervenire rapidamente sulle perdite di carburante liquido versando sulla pozza del
+materiale assorbente (ad es.: sabbia);
+4. Il parcamente degli autoveicoli alimentati a GPL con impianto dotato di sistema di sicurezza conforme al regolamento
+ECE/ONU 67-01 è consentito esclusivamente nei piani fuori terra e nei piani interrati, non oltre la quota -6 m;
+5. Il parcamente di autoveicoli alimentati a gas GPL privi del dispositivo di cui al precedente punto 4 è consentito soltanto
+nei piani fuori terra non comunicanti con piani interrati;
+6. La gestione della sicurezza deve prevedere la determinazione delle aree di sosta, del numero e della
+tipologia dei veicoli.
+Di tali prescrizioni si dovrà tener debito conto nella predisposizione delle indicazioni per la “Gestione della sicurezza
+nell’attività in esercizio” (vedi successivo par. S.5.6) e più specificatamente ai punti S.5.6.1 “Prevenzione degli incendi” e
+S.5.6.5 “Preparazione all’emergenza”, per quanto concerne la cartellonistica riferita ai divieti e alle limitazione di
+esercizio.
+ S.6 -Controllo dell’incendio
+Nel caso delle autorimesse, a seguito dell’avvento della nuova RTV di cui ci si occupa, la misura controllo
+dell’incendio è disciplinata al par. V. 6.5.6, più specificatamente, essa deve riferirsi alla tab. V.6-2 che
+fornisce i livelli di prestazione richiesti, in funzione della classificazione dell’attività:
+ Autorimessa: SA, AD, HB
+ S.6 -Controllo dell’incendio
+Conseguentemente, avendo classificato l’autorimessa come SA/HB/AD, occorre applicare, per il controllo
+dell’incendio, il livello di prestazione III che prevede (vedi par. S.6.6.2):
+- protezione di base, mediante estintori;
+- protezione manuale mediante l'installazione della rete idranti, vedi norma UNI 10779
+- Protezione automatica mediante impianto sprinkler.
+Protezione base mediante estintori
+Per la protezione di base, estesa all’intera attività, si prevede l’installazione di estintori, di tipo portatile,
+posizionati in posizione ben visibile e di agevole fruizione, lungo i percorsi di esodo e in prossimità delle uscite
+dell’autorimessa.
+Sono previsti estintori di classe A (incendio di autovetture) e B (incendio di carburanti liquidi) ed alcuni estintori a CO2 in
+prossimità dei quadri elettrici (vedi tabb. S.6-3 e S.6-4).
+Il quantitativo, e la capacità, degli estintori di classe A e B è determinata secondo le prescrizioni di cui ai parr.
+S.6.6.2.1 e S.6.6.2.2:
+Si rammenta che la classificazione degli estintori avviene mediante l’ausilio dei focolari standard indicati nella norma (vedi
+d.m. 7 gennaio 2005); gli stessi si utilizzano per definire la capacità estinguente dell’estintore. Pertanto, essendo le
+superfici lorde di ciascun compartimento maggiori di 200 m2, dovrà prevedersi un numero di estintori di classe A (21 A e
+34 A) risultante dalla seguente tabella:
+La distanza massima per raggiungere un estintore non dovrà superare i 40 m da qualunque punto dell’attività.
+ S.6 -Controllo dell’incendio
+Per gli estintori di classe B (144 B), si otterrà dualmente:
+ La distanza massima per raggiungere un estintore non dovrà superare i 15 m da qualunque punto ove sia
+ presente combustibile liquido o solido liquefacibile suscettibile di incendio.
+ Si segnala che, fermo restando il rispetto delle somme delle capacità estinguenti ottenute (837 per la classe
+ A e 5738 per la classe B), il numero complessivo degli estintori non sarà necessariamente pari alla somma
+ degli estintori di tipo A e di quelli di tipo B, osservato che uno stesso estintore potrà essere utilizzato su
+ entrambe le classi di incendio.
+ In ogni caso, si osserva che le risultanze relative al numero di estintori da prevedersi, sono del tutto diverse
+ da quelle ottenute secondo la “vecchia” RTV (punto 6.2 del d.m. 1 febbraio 1986), risultando quelle del
+ Codice decisamente più onerose.
+ S.6 -Controllo dell’incendio
+Protezione manuale mediante installazione di rete idranti
+Per la protezione manuale, compartimenti con Rvita pari ad A2, si prevede l’installazione di una rete idranti
+progettata secondo le norme UNI 10779 e 12845.
+Al par. V. 6.5.6 della nuova RTV, più specificatamente alla tab. V.6-3, sono forniti i parametri di progetto per
+la rete idranti in funzione della classificazione dell’attività:
+ Con un livello di pericolosità pari a 1, pertanto, non è richiesta la protezione esterna e l’alimentazione
+ idrica deve essere almeno singola (vedi punto 4.1 del d.m. 20 dicembre 2012: “L’alimentazione idrica
+ singola può essere costituita da: a) un acquedotto; b) un acquedotto con una o più pompe di surpressione;
+ c) un serbatoio a pressione (solo per LH e OH1); d) un serbatoio a gravità; e) un serbatoio di accumulo con
+ una o più pompe; f) una sorgente inesauribile con una o più pompe.”).
+ S.6 -Controllo dell’incendio
+Protezione manuale mediante installazione di rete idranti
+Per la protezione interna, secondo le previsioni della norma UNI 10779, occorre assicurare il
+funzionamento contemporaneo di 2 idranti UNI 45 per 120 l/min per 30 minuti (e pressione
+residua non minore di 0,2 MPa).
+Pertanto la riserva idrica (provvista di elettropompa e motopompa), posizionata al piano interrato
+al di sotto della rampa di accesso all’autorimessa, dovrà essere verificata al fine di garantire
+un’autonomia di 30 minuti, ossia dovrà presentare un volume minimo pari a 240 x 30 = 7,2 mc.
+Da ultimo, rimandando al par. S.6.7, si segnalano le indicazioni da seguire per la corretta
+progettazione degli impianti in questione.
+ S.7 –Rilevazione e allarme
+Premesso che la nuova RTV di cui ci si occupa, non fornisce ulteriori indicazioni circa la misura rivelazione
+ed allarme, in mancanza di specifiche prescrizioni nella RTV, è comunque necessario effettuare la
+valutazione secondo la strategia S.7 della RTO.
+Tale valutazione, essendovi piani a quota inferiore a -5 m, porta alla necessità di avere un sistema IRAI
+almeno con livello di prestazione II.
+Tuttavia, al fine di usufruire dei coefficienti premiali legati alla lunghezza delle vie di esodo (tab. S 4-15:
+parametri per la definizione dei fattori δm,i) e al calcolo del carico di incendio (tab. S.2-6: parametri per la
+definizione dei fattori δni), nel caso in esame, si sceglie di adottare il livello di prestazione IV, estendendo
+il sistema IRAI a tutta l'attività (vedi tab. S 7-2).
+Inoltre, saranno installati in tutti i compartimenti dei pulsanti manuali, atti a segnalare l’avvio delle
+procedure di emergenza pianificate.
+A norma del comma 2 del par. S.7.4.4, sono considerate soluzioni conformi, per il livello di prestazione IV,
+gli IRAI progettati, installati e gestiti in conformità alla vigente regolamentazione e alle norme e
+documenti tecnici adottati dall'ente di normazione nazionale.
+Le soluzioni conformi sono descritte in relazione alle funzioni previste dalle norme adottate dall'ente di
+normazione nazionale.
+ S.7 –Rilevazione e allarme
+Gli IRAI sono installati nelle diverse aree dell’autorimessa e garantiranno tutte le funzioni elencate nella tab.
+S.7-3, per il livello di prestazione richiesto:
+ S.7 –Rilevazione e allarme
+dove le funzioni, principali e secondarie, sono specificate nelle tabb. S.7-5 e S.7-6:
+Il sistema IRAI sarà pertanto predisposto per tutte le aree dell’autorimessa (vedi nota 8 della S.7-3) e
+garantirà tutte le funzioni, principali e secondarie, indicate nella medesima.
+Da ultimo, rimandando al par. S.7.5, si segnalano le indicazioni da seguire per la corretta progettazione degli
+IRAI.
+S.8 –Controllo fumi e calore
+ S.8 –Controllo fumi e calore
+Al par. V. 6.5.7 della nuova RTV, più specificatamente alla tab. V.6-4, sono forniti i criteri per l’attribuzione
+dei livelli di prestazione per controllo fumo e calore; pertanto, nel caso delle autorimesse e per la misura in
+questione, tali criteri non sono quelli generali del Codice (sopra riportati):
+Conseguentemente, avendo classificato l’autorimessa come SA/HA/AB, occorre applicare il livello di
+prestazione II (par. S.8.4.1) per il quale il Codice prevede, quale soluzione conforme, per ciascun
+compartimento, la possibilità di effettuare lo smaltimento di fumo e calore d’emergenza secondo le
+previsioni del par. S.8.5.
+ S.8 –Controllo fumi e calore
+Più specificatamente, le aperture di smaltimento di fumo e calore d’emergenza debbono (vedi par. S.8.5.1):
+• consentire lo smaltimento di fumo e calore da piani e locali del compartimento verso l'esterno
+ dell'attività (direttamente o tramite condotto appositamente dimensionato) evitando la propagazione
+ verso compartimenti limitrofi e verso i percorsi di esodo;
+• essere protette dall’ostruzione accidentale durante l’esercizio dell’attività;
+• essere considerate nell’ambito delle specifiche procedure contenute nel piano di emergenza.
+Tali aperture debbono essere realizzate in modo che (vedi par. S.8.5.2):
+• sia possibile smaltire fumo e calore da tutti gli ambiti del compartimento;
+• fumo e calore smaltiti non interferiscano con il sistema delle vie d'esodo e non propaghino l'incendio
+• verso altri locali, piani o compartimenti.
+Esse sono realizzate secondo uno dei tipi previsti nella tab. S.8-4 (l’ordine del livello di garanzia
+prestazionale del presidio è decrescente):
+ S.8 –Controllo fumi e calore
+Le dimensioni minime delle aperture di smaltimento sono riportate in tab. S.8-5 in funzione del carico di incendio
+specifico qf:
+ A titolo esemplificativo, per il compartimento C situato al livello -2, si verificano le dimensioni delle aperture
+ di smaltimento previste nel progetto dell’autorimessa:
+ SE1 = (A /40) = (3985 /40) = 99,62 mq
+ dove per qf si è assunto il valore statistico per le autorimesse di 200 MJ/m2, moltiplicato per un coefficiente
+ di adeguamento al frattile 80% pari a 1,40, perun totale di 280 MJ/m2.
+ Si osserva che il valore ottenuto è sensibilmente inferiore a quello richiesto dalla “vecchia” RTV (punto 3.9.1
+ del d.m. 1 febbraio 1986) che richiede una superficie minima pari ad A/25 (159,40 mq nel caso in esame).
+ Come visto al paragrafo 6.1.10 di questo studio, le aperture di aerazione naturale previste (tutte di tipo SEa)
+ presentano una superficie pari a 216,40 mq che si considera pari a 162,30 mq tenendo conto della superficie “utile” dei
+ grigliati.
+ Ai sensi del par. S.8.5.4 è altresì necessario verificarne l’uniformità della distribuzione delle aperture di smaltimento nella
+ porzione superiore di tutti i locali, affinché lo smaltimento dei fumi caldi da tutti gli ambiti del compartimento venga
+ facilitato.
+ S.8 –Controllo fumi e calore
+La nuova RTV, al par. V.6.5.7, prescrive che l'uniforme distribuzione in pianta delle aperture di smaltimento
+deve essere verificata impiegando il metodo delle aree di influenza (par. S.8.4) ed imponendo
+contemporaneamente:
+a) raggio di influenza roffset pari a 20 m per tutte le tipologie di aperture di smaltimento;
+b) raggio di influenza roffset pari a 30 m per le sole aperture di smaltimento SEa, SEb, SEc.
+Ciò al fine di garantire l'uniforme distribuzione anche delle aperture di smaltimento permanentemente
+aperte (SEa) o facilmente apribili (SEb, SEc), cioè delle aperture più “sicure”.
+La nuova RTV, al par. V.6.5.7, prescrive, inoltre, che un’apertura di smaltimento, ai fini dello smaltimento di
+fumi e calore di un’autorimessa, deve avere superficie minima pari a 0,2 mq (pertanto, non vengono
+considerate a tali scopi, le aperture aventi dimensioni inferiori) e che l’altezza media delle aree TA non deve
+essere inferiore a 2 m.
+ S.8 –Controllo fumi e calore
+A titolo esemplificativo, si illustra la verifica operata per il compartimento C situato al livello -2:
+ La verifica, condotta nel disegno solamente per le aperture di smaltimento (tutte di tipo SEa) poste
+ nelle posizioni d’angolo del compartimento, risulta positiva per un roffset pari a 20 m (rendendo, in
+ questo caso, superflua la verifica con roffset 30m).
+S.9 –Operativita’antincendio
+ Si applica, per la misura in
+ questione, il livello di
+ prestazione III, in quanto la
+ quota del livello -2 è inferiore
+ ai 5 m (livello di prestazione II)
+ e l’affollamento complessivo è
+ inferiore a 1000 persone
+ (livello di prestazione IV).
+ Il Codice richiede, quale
+ soluzione conforme per il
+ livello di prestazione richiesto,
+ che vengano prioritariamente
+ rispettate le prescrizioni
+ previste al par. S.9.4.2
+ (relative al livello di
+ prestazione III).
+ S.9 –Operativita’antincendio
+Per l’autorimessa in esame si rileva che è permanentemente assicurata la possibilità di avvicinare i mezzi di
+soccorso antincendio, adeguati al rischio d'incendio, agli accessi al piano di riferimento dell'attività.
+Inoltre, vedi par. S.9.4.2, l’attività risulta provvista di rete idranti antincendio e, pertanto, non è richiesta la
+colonna a secco.
+Non essendo invece presente la protezione
+esterna, deve essere disponibile almeno un
+idrante, collegato alla rete pubblica,
+raggiungibile con un percorso massimo di
+500 m dai confini dell'attività; tale idrante,
+che deve assicurare un'erogazione minima di
+300 litri/minuto, risulta posizionato in
+corrispondenza del lato corto sinistro
+dell’autorimessa.
+ S.10–Sicurezzaimpiantitecnologicie diservizio
+Nell’autorimessa in esame sono presenti i seguenti impianti tecnologici e di servizio, contemplati al
+comma 1
+del par. S.10.1:
+ impianti elettrici;
+ impianto di protezione contro le scariche atmosferiche;
+ impianti ascensori.
+Come prescritto al comma 2 del citato paragrafo, per gli impianti in questione, occorre un’apposita
+valutazione del rischio di incendio e di esplosione (vedi anche cap. V.2).
+Le soluzioni conformi, vedi par. S.10.4.1, prevedono che gli impianti tecnologici e di servizio siano
+progettati, installati, verificati, eserciti e manutenuti a regola d'arte, in conformità alla
+regolamentazione vigente, secondo le norme di buona tecnica applicabili.
+ S.10–Sicurezzaimpiantitecnologicie diservizio
+Tali impianti, inoltre, debbono garantire gli obiettivi di sicurezza antincendio riportati al par. S.10.5 (rispetto
+ai quali non sono ammesse soluzioni alternative) ed essere conformi alle prescrizioni tecniche riportate al
+par. S.10.6 per la specifica tipologia dell'impianto.
+ Nel caso delle autorimesse, a seguito dell’avvento della nuova RTV di cui ci si occupa, la misura sicurezza
+ degli impianti tecnologici e di servizio è disciplinata al par. V. 6.5.8; nel caso in esame dovranno essere
+ soddisfatti i punti 1 e 2.
+ S.10–Sicurezzaimpiantitecnologicie diservizio
+Considerati gli impianti presenti nell’autorimessa, gli elementi del par. S.10.6 da valutare sono quelli riferiti a:
+Impianti per la produzione, trasformazione, trasporto, distribuzione e di utilizzazione dell'energia elettrica (par.
+S.10.6.1)
+Gli impianti in questione debbono possedere caratteristiche strutturali, tensione di alimentazione e possibilità di
+intervento, individuate nel piano di emergenza, tali da non costituire pericolo durante le operazioni di estinzione
+dell'incendio.
+A tal fine, deve essere previsto, in zona segnalata e di facile accesso, un sezionamento di emergenza
+dell’impianto elettrico dell'attività.
+In apposite zone, adeguatamente segnalate ed agevolmente accessibili, sono installati allo scopo dei pulsanti manuali
+per il sezionamento di emergenza dei vari impianti elettrici a servizio dell’autorimessa (in prossimità della cabina
+elettrica e della reception del Centro, presidiata H24).
+Si avrà cura, all’atto dell’installazione, di distinguere convenientemente i pulsanti di sgancio degli impianti con finalità di
+sicurezza antincendio, rispetto agli altri.
+Tali dispositivi di emergenza permettono di sezionare i circuiti a monte dell’autorimessa e
+consentono di:
+• limitare il rischio di innesco e propagazione dell’incendio in caso di guasto degli
+ ordinari dispositivi di protezione elettrica;
+• mettere in sicurezza i locali da fonti di innesco, in caso di rilascio accidentale
+ all’interno di sostanze combustibili/infiammabili;
+• garantire la salvaguardia dei soccorritori nel caso di utilizzo di acqua o altri agenti
+ conduttivi per spegnere gli incendi.
+Gli impianti elettrici saranno progettati e dovranno essere realizzati tenendo conto della
+classificazione del rischio elettrico dei luoghi in cui sono installati.
+ S.10–Sicurezzaimpiantitecnologicie diservizio
+Gli impianti elettrici nelle autorimesse possono essere, a seconda della classificazione dei luoghi, ordinari, a maggior
+rischio in caso d’incendio o con pericolo d’esplosione.
+In genere si considerano, per presenza di materiali infiammabili, a maggior rischio in caso d’incendio le autorimesse che
+debbono essere soggette al controllo di prevenzione incendi secondo la normativa vigente (d.p.r. 151 del 1 agosto 2011).
+Si osserva, comunque, che la classificazione spetta in ogni caso al progettista infatti, ad esempio, le autorimesse
+pluripiano potrebbero essere classificate a maggior rischio, in caso d’incendio, anche per le difficoltà di evacuazione degli
+occupanti.
+Considerata la destinazione dei locali, del tempo di evacuazione dagli stessi, del tipo di posa delle condutture elettriche,
+dell'incidenza dei cavi elettrici su gli altri materiali/impianti presenti, risultano installati cavi tipo LS0H, in grado di ridurre
+al minimo la emissione di fumo, la produzione di gas acidi e corrosivi.
+Gli impianti debbono essere suddivisi in più circuiti terminali in modo che un guasto non possa generare situazioni di
+panico o pericolo all'interno dell'attività.
+Qualora necessario, i dispositivi di protezione debbono essere scelti in modo da garantire una corretta selettività.
+Il quadro elettrico generale sarà ubicato in posizione debitamente segnalata; i quadri elettrici secondari saranno installati
+in adiacenza ai vani scala di ciascun compartimento.
+I quadri contenenti circuiti di sicurezza, destinati a funzionare durante l'emergenza, dovranno essere protetti contro
+l'incendio.
+Pur non trattandosi di ambienti aperti al pubblico, i quadri elettrici saranno protetti con una porta frontale con chiusura a
+chiave.
+Gli apparecchi di manovra dovranno sempre riportare chiare indicazioni dei circuiti a cui si riferiscono.
+ S.10–Sicurezzaimpiantitecnologicie diservizio
+Gli impianti di cui al par. S.10.1, che abbiano una funzione ai fini della gestione dell'emergenza, dovranno
+disporre di alimentazione elettrica di sicurezza con le caratteristiche minime indicate nella tab. S.10-2.
+Tutti i sistemi di protezione attiva e l'illuminazione di sicurezza, debbono disporre di alimentazione elettrica
+di sicurezza.
+I circuiti di sicurezza dovranno essere chiaramente identificati e su ciascun dispositivo generale a
+protezione della linea/impianto elettrico di sicurezza dovrà essere apposto un segnale riportante la
+dicitura "Non manovrare in caso d'incendio".
+Al par. V. 6.5.8 della nuova RTV, più specificatamente ai punti 1 e 2, sono riportate ulteriori prescrizioni:
+1. Al fine di non costituire pericolo durante le operazioni di estinzione dell’incendio, deve essere
+ previsto in zona segnalata e di facile accesso, un dispositivo di sezionamento di emergenza che, con
+ una sola manovra, tolga tensione a tutto l'impianto elettrico dell'autorimessa, compreso quello di
+ eventuali box, alimentati da un impianto elettrico separato.
+2. La protezione dai sovraccarichi e dai guasti a terra dell'impianto elettrico ed il dispositivo di
+ sezionamento di emergenza devono essere installati all'esterno del compartimento antincendio.
+ S.10–Sicurezzaimpiantitecnologicie diservizio
+Protezione contro le scariche atmosferiche (par. S.10.6.3)
+È stata effettuata la valutazione dei rischi da fulminazione e, sulla base degli esiti di tale valutazione,
+l’edificio risulta autoprotetto.
+La relazione di verifica sarà allegata al fascicolo delle certificazioni necessarie ai fini della SCIA antincendio
+Impianti di sollevamento e trasporto di cose e persone (par. S.10.6.4)
+Tutti gli impianti di sollevamento e trasporto di cose e persone non specificatamente progettati per
+funzionare in caso di incendio, debbono essere dotati di accorgimenti gestionali, organizzativi e tecnici che
+ne impediscano l'utilizzo in caso di emergenza.
+Specifici divieti in tal senso, sono evidenziati mediante idonea cartellonistica e l’approntamento di
+procedure organizzative nell’ambito del piano di emergenza.
+Si rimanda al cap. V.3 che tratta la progettazione, per gli aspetti
+relativi alla prevenzione incendi, dei vari tipi di ascensore.
+Con la presenza dell'impianto IRAI, in caso di incendio, gli
+ascensori si porteranno al piano di riferimento (in questo caso
+livello piazzale esterno) con le porte in posizione di aperto.
+

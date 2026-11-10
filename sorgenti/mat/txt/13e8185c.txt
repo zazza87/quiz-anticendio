@@ -1,0 +1,236 @@
+  CORSO BASE DI SPECIALIZZAZIONE IN PREVENZIONE INCENDI
+      (ART. 16 DEL D.LGS. N. 139/2006 E D.M. 5/08/2011)
+
+
+
+
+LA DISTANZA DI SEPARAZIONE:
+  SOLUZIONI ALTERNATIVE
+           (fonte: Rivista antincendio – Aprile 2021)
+
+
+
+
+                      4 Novembre 2026 – Ordine dei periti della provincia di Trieste
+               Aula Virtuale - MODALITA’ STREAMING SINCRONO Videoconferenza
+                    Dott. Tinti Gianluca - gianluca.tinti@gmail.com – tel 339 6655966
+                                   INTRODUZIONE
+Nel caso in oggetto l'attività è costituita da un edificio dove viene svolta l'attività produttiva
+e di stoccaggio e da un edificio adiacente dove viene svolta attività di ufficio e
+amministrativa.
+
+Dovendo rispettare il Livello Il di prestazione è
+necessario garantire una distanza di
+separazione adeguata tra i due edifici.
+
+
+In Figura 1 è mostrato il complesso dei due
+edifici, mentre in Figura 2 è mostrato l'edificio
+adibito a produzione e deposito senza la
+copertura per comprenderne meglio le
+geometrie.
+Si può notare come sul lato dell'edificio che si
+affaccia sull'edificio adiacente è presente
+un'ampia superficie illuminante.
+                                INTRODUZIONE
+La superficie rappresenta una potenziale fonte di propagazione non avendo
+caratteristiche di compartimentazione.
+
+Si sottolinea come se tale superficie fosse,
+a titolo di esempio, costituita con infissi
+resistenti al fuoco con EI, pari a quello
+della parete sufficienti a garantire la
+compartimentazione definita
+nel progetto di prevenzione incendi, la
+problematica sarebbe risolta.
+
+L’irraggiamento incidete sul bersaglio è:
+    F2-1 * E1 *εf = 16,12 kW/m2 > Esoglia
+
+La disuguaglianza non è quindi verificata e
+la distanza di separazione tra i due edifici
+non rispetta le prescrizioni antincendio.
+     LA DISTANZA DI SEPARAZIONE CON SOLUZIONE ALTERNATIVA
+In base a quanto calcolato con soluzione conforme, la distanza di separazione, mostrata in Figura pari a
+5 m non è sufficiente. Può essere quindi utile ricorrere a una soluzione alternativa volta a dimostrare
+quanto riportato in Tabella S4-31 del D.M. 16 Ottobre 2019.
+Per procedere con una soluzione alternativa occorre prima fare delle
+considerazioni sul layout interno dell'edificio produzione/stoccaggio,
+sul tipo di materiale lavorato e sul tipo di incendio che può
+svilupparsi.
+Per quanto riguarda il Layout produttivo, il compartimento è diviso
+in area produzione e anca stoccaggio. Il materiale è immagazzinato i
+4 scaffalature e si distingue i due tipologie: plastico e ferroso.
+Per esigenze produttive e di organizzazione interna i due materiali
+sono rigorosamente separati in questo modo: due scaffali per
+l'immagazzinamento       della   plastica      è    2   scaffali    per
+l'immagazzinamento del materiale ferroso. Il materiale plastico è
+stoccato in scaffalature di dimensione in pianta 2x16 m e altezza 5
+m, disposto nel compartimento come mostrato in Figura 8, dove si
+possono notare in rosso gli scafali adibiti allo stoccaggio di plastica.
+La quantità di materiale immagazzinato per ogni scaffale è di circa
+4.000 kg.
+                          IMPOSTAZIONE DEL MODELLO
+La Simulazione di incendio è condotta con metodologia avanzata mediante l'utilizzo di
+modelli di campo, in particolare con software FDS 6.1.
+
+Per quanto riguarda la geometria, sono stati
+modellati l'area stoccaggio e zona uffici. In
+Figura 9 e Figura 10 è mostrata la geometria
+inserita nel modello.
+Nel modello sono state inserite delle
+termocoppie virtuali con lo scopo di misurare il
+campo di temperatura e l'evoluzione generale
+dell'incendio. In particolare, i sensori di
+temperatura puntuale sono posti ad altezza 6
+m, in prossimità della parte alta della finestra.
+
+
+In Figura 11 è mostrata la posizione dei sensori
+di temperatura.
+                     SCENARIO DI INCENDIO E CURVA RHR
+La curva di rilascio di potenza termica (RHR)
+scelta ed inserita all'interno della
+simulazione è stata ricavata tenendo in
+considerazione un incendio localizzato ai
+primi scaffali nelle vicinanze della
+finestratura, in quanto sono quelli adibiti
+allo stoccaggio della plastica.
+
+
+Per il calcolo della stessa è stato utilizzato il
+metodo di calcalo riportato nel DM. 18
+Ottobre 2019 al paragrafo M.2.6.
+La scelta del focolare predefinito e’ ritenuta
+cautelativa sia dal punto di vista geometrico
+in quanto sono i più vicini alla finestratura.
+Sia dal punto divista della potenza prevista.
+                 ENERGIA DISPONIBILE (CARICO DI INCENDIO)
+IL carico di incendio dei due scaffali è stato calcolato partendo dai datti di stoccaggio, che si
+ricorda sona pari a 3.000 kg per ciascuno scalfale.
+Essendo stoccato prevalentemente materiale plastico è stato assunto un potere calorifico
+pari a 40 MJ. In base a questa considerazione l'energia disponibile all’incendio, relativa ai
+due scaffali è pari a 240.000 MJ
+
+                        POTENZA MASSIMA DELLINCENDIO
+La potenza massima è stata individuata seguendo quanto riportato in Tabella M.7-2 del
+D.M. 18 Ottobre 2019, relativamente alle attività industriali. Il valore scelto del focolare
+predefinito è 50 MW
+               VELOCITA’ DI CRESCITA DELL’INCENDIO
+
+Sempre in base a quanto indicato in Tabella M.2-2 del DM. 18
+Ottobre 2019, relativamente alle attività industriali, la velocità di
+crescita dell'incendio è stata considerata ultra-fast.
+Gli istanti temporali significativi della cura RHR, esposta in Figura 12,
+sono dunque:
+ta:530 s,
+tb:3711s,
+tc: 6593 s
+                            RISULTATI DELLA SIMULAZIONE
+L'incendio si evolve come previsto in fase di impostazione
+del modello e la curva di potenza si sviluppa come
+previsto, gli ampi volumi e le aperture presenti nel
+compartimento consentono infatti, l'afflusso di aria fresca
+è ossigeno.
+In Figura 13 è riportata la curva restituita dal codice di
+calcolo.
+
+
+
+
+In Figura 14 sono riportate le posizioni su piano YZ , dei
+sensori di temperatura.
+                    SCENARIO DI INCENDIO E CURVA RHR
+In Figura 15 e’ riportato il profilo di
+temperatura più gravoso restituito dal sensore
+TEO8. Tale sensore ha restituito valori di
+temperatura più gravosi poiché vicino
+all'incendio.
+
+
+
+
+Infine in Figura 16 è riportata una sezione di
+temperatura perpendicolare alla finestra; si
+può notare anche in questo caso come la
+temperatura sia circa 300 °C
+      VERIFICA DISTANZA DI SEPARAZIONE (soluzione alternativa)
+È possibile verificare la distanza di
+separazione con soluzione alterativa
+anche seguendo un altro metodo.
+Il software FDS mette anche a
+diposizione la possibilità di misurare il
+flusso di potenza attraverso delle
+superfici virtuali delimitate all'interno
+del modello.
+Attraverso     l'utilizzo  di      questo
+strumento è quindi possibile valutare la
+potenza che investe il bersaglio.
+in Figura 17 è rappresentata la super fice di misura. Tale superfice è posizionata a
+ridosso della parete dell'edificio uffici e ha dimensioni uguali alla finestratura per un
+totale di 52,63 mq.
+A tutti gli effetti rappresenta quindi la superfice bersaglio.
+      VERIFICA DISTANZA DI SEPARAZIONE (soluzione alternativa)
+In Figura 18 è riportato il flusso di potenza
+attraverso la Superfice restituito dal codice di
+calcolo. Dall'analisi dei dati è emerso come il
+valore medio nella fase di pieno sviluppo
+dell'incendio sia pari a 0,28 kW/m2 mentre il
+valore massimo tra i picchi che si possano
+notare nel grafico di Figura 18 è pani a 1,08
+kW/m2.
+Il valore più rappresentativo è sicuramente il
+valore medio, ma in ottica cautelativa è stato
+valutato anche il valore di picco.
+
+
+Valore medio E incidente sulla parato 0,28
+kW/m2 < E_soglia
+Valore di picco E incidente sulla parete 1,08
+kW/m2 < E_soglia
+                                      CONCLUSIONI
+Attraverso la soluzione alternativa, consentita dal codice attraverso la Tabella S.3-4è. stato
+possibile dimostrare che la distanza di separazione tra i due edifici è sufficiente. Seguendo
+la soluzione conforme infatti, tale distanza non risultava sufficiente.
+Questo perché nella soluzione conforme i valori di potenza radiante emessi dalla sorgente
+sono molto cautelativi. In definitiva si associano valori di temperatura caratteristici
+dell'incendio cellulosico convenzionale alla superfice delle aperture.
+La soluzione alternativa, invece, restituisce valori di potenza radiante minori attraverso le
+aperture. Tale risultato è possibile in quanto il layout interno dell'edificio adibito a
+produzione e stoccaggio è tale per cui l'incendio più gravoso, per quanto riguarda
+l’irraggiamento, si trova a distanza maggiore rispetto alla parete con finestratura.
+Entrambi i metodi seguiti in soluzione alternativa hanno evidenziato che la distanza di 5 m
+tra i due edifici è sufficiente. La leggera differenza di risultato tra i due metodi è dovuta al
+modello di calcolo che nel caso del Metodo 1 fa riferimento al modello di irraggiamento del
+corpo nero, mentre nel Metodo 2 tiene conto anche dell'emissività della parete e quindi
+del modello di corpo grigio. Si sottolinea inoltre come il rifierimento di Potenza di soglia di
+16,2 KW/m2 , sia cautelativo in quanto riierito a un materiale facilmente combustibile.
+                                CONCLUSIONI
+Per concludere occorre sottolineare l'importanza della SGSA nel contesto in
+esame. Partendo dal presupposto che per tutta la progettazione antincendio a
+prescindere dalla norma utilizzata, occorra una SGSA adeguata a garantire le
+ipotesi alla basa del progetto, per le soluzioni alternative questa diventa ancora
+più decisiva.
+Le ipotesi alla base dell'analisi, come la quantità è la tipologia di materiale
+immagazzinato e di cui è stato simulato l'incendio, unite al layout studiato
+dovranno essere scrupolosamente mantenuti per non invalidare quanto calcolata.
+Per questo dovranno essere trasmesse al responsabile delle attività anche
+eventuali procedure di controllo delle ipotesi alla base del progetto.
+              IMPOSTAZIONE E CONSIDERAZIONI SULLA MESH
+Il crescente sviluppo tecnologico ha messo a disposizione potenti strumenti di calcolo al
+professionista antincendio. Tuttavia un consapevole utilizzo di uno strumento come FDS
+non può prescindere dalla conoscenza avanzata non solo dei modelli matematici
+contenuti nel codice di calcolo (Equazioni di Navier-Stokes, Modelli di irraggiamento
+termico, ecc) ma anche di solide basi di calcolo numerico.
+Sicuramente durante la costruzione del modello ì passaggi fondamentali che devono
+essere affrontati sono la scelta dimensionale della mesh e la validazione dei risultati. Per
+quanto riguarda la scelta dimensionale della mesh, si può fare riferimento alla FOS User
+Guide e in particolare all'espressione adimensionale indicata in Formula 1.1.
+
+
+Tale rapporto, secondo quanto consigliato dalla guida stessa, deve rimanere tra valori de
+16 Ad ogni modo tale espressione è comunque indicativa eccome di usa comunque in
+qualsiasi simula zioni fluidodinamica 0 più in generale in qualsiasi simulazione di calcolo
+numerica, occorre eseguire un'analisi di sensibilità finale della mesh. Si sottolinea come
+anche in questo caso sia stata effettuata tale analisi a scopo validazione. -
+

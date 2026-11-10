@@ -1,0 +1,175 @@
+PROGETTO DI UNA PALESTRA
+ ATTIVITA’ NON SOGGETTA AL CONI
+ DM 18 marzo 1996 Norme di sicurezza per la
+ costruzione e l’esercizio degli impianti sportivi
+ Campo di applicazione.
+Sono soggetti alle presenti disposizioni i complessi e gli impianti sportivi di nuova
+costruzione e quelli esistenti, già adibiti a tale uso anche se inseriti in complessi non
+sportivi, nei quali si intendono realizzare variazioni distributive e/o funzionali,
+eccetto gli interventi di manutenzione ordinaria di cui all’art. 31, lettera a) della
+legge del 5 agosto 1978, n. 457, nei quali si svolgono manifestazioni e/o attività
+sportive regolate dal C.O.N.I. e dalle Federazioni Sportive Nazionali riconosciute dal
+C.O.N.I., riportate nell’allegato, ove è prevista la presenza di spettatori in numero
+superiore a 100. I suddetti complessi o impianti sportivi, nel seguito denominati
+impianti sportivi, devono essere conformi oltre che alle presenti disposizioni anche
+ai regolamenti del C.O.N.I. e delle Federazioni Sportive Nazionali e Internazionali.
+Per i complessi e gli impianti ove è prevista la presenza di spettatori non superiore a
+100 o privi di spettatori, si applicano le disposizioni di cui al successivo art. 20.
+ D.M. 3 settembre 2021 Criteri generali di
+ progettazione, realizzazione ed esercizio della
+ sicurezza antincendio per luoghi di lavoro, ai sensi
+ dell’articolo 46, comma 3, lettera a), punti 1 e 2, del
+ decreto legislativo 9 aprile 2008, n. 81
+Art. 3. Criteri di progettazione, realizzazione ed esercizio della sicurezza antincendio
+1. Le regole tecniche di prevenzione incendi stabiliscono i criteri di progettazione,
+realizzazione ed esercizio della sicurezza antincendio per i luoghi di lavoro per i quali
+risultano applicabili.
+2. Per i luoghi di lavoro a basso rischio di incendio, così come definiti al punto 1, comma 2,
+dell’allegato I, che costituisce parte integrante del presente decreto, i criteri di
+progettazione, realizzazione ed esercizio della sicurezza antincendio sono riportati nel
+medesimo allegato.
+3. Per i luoghi di lavoro non ricadenti nei commi 1 e 2, i criteri di progettazione,
+realizzazione ed esercizio della sicurezza antincendio sono quelli riportati nel decreto del
+Ministro dell’interno 3 agosto 2015.
+Aree Fitness e Suddivisione Spazi
+Una palestra moderna non è un unico open space, ma un insieme di zone
+specializzate:
+Area Cardio: Solitamente posizionata vicino a finestre o schermi, ospita tapis
+roulant, ellittiche, bike e vogatori.
+Area Isotonica (Macchinari): Disposta in file ordinate, comprende macchine a
+carico guidato per i vari gruppi muscolari.
+Area Pesi Liberi: Caratterizzata da rack, panche, manubri e bilancieri. È la zona
+con il maggior carico meccanico sul pavimento.
+Area Funzionale/Corpo Libero: Spazio aperto con prato sintetico o
+pavimentazione gommata per stretching, calisthenics e circuiti.
+Sale Corsi: Ambienti separati con isolamento acustico per yoga, pilates o HIIT.
+ Attrezzatura Tecnica
+Categoria Attrezzi Tipici
+ Tapis roulant, Stairmaster
+Cardio
+ (scaler), Cyclette, AirBike.
+ Leg press, Lat machine, Chest
+Forza
+ press, Cavi incrociati.
+ Manubri (da 1kg a 40+kg),
+Pesi Liberi Bilancieri olimpionici, Dischi in
+ ghisa o bumper.
+ Kettlebell, palle mediche,
+Accessori
+ elastici, TRX, tappetini.
+Rivestimenti e Arredi
+I materiali non sono solo estetici, ma devono rispondere a requisiti di igiene e
+resistenza:
+Pavimentazione: * Gomma SBR riciclata: Spessori da 10mm a 40mm nelle zone
+pesi per assorbire urti e rumori. classificazione Bfl s1
+PVC o Parquet: Nelle sale corsi per facilitare la pulizia e il movimento.
+Pareti e Specchi: Grandi specchi a tutta altezza sono fondamentali per
+permettere agli utenti di controllare l'esecuzione degli esercizi.
+Illuminazione: Luci LED fredde (circa 4000K-5000K) nelle aree di allenamento per
+mantenere alta l'energia; luci calde e soffuse nelle aree relax o yoga.
+Climatizzazione: Sistemi di ventilazione e ricircolo aria (VMC) potenziati per
+gestire l'umidità e gli odori.
+Servizi e Comfort
+Spogliatoi: Devono includere armadietti con chiusura di
+sicurezza, panche, docce individuali e postazioni
+asciugacapelli.
+Reception: Punto di accoglienza con software di
+gestione accessi (tornelli o lettori badge).
+Area Lounge: Distributori di acqua, bevande proteiche e
+integratori.
+Capacità e Affollamento
+Il numero di persone dipende dalla metratura (normativa
+antincendio e igienico-sanitaria):
+Standard medio: Si calcolano circa 5-7 mq per persona
+nelle aree di allenamento per garantire sicurezza e libertà
+di movimento.
+Capienza: Una palestra di 500 mq può ospitare
+mediamente 70-100 persone contemporaneamente nelle
+ore di punta, considerando anche chi si trova negli
+spogliatoi.
+ IL NOSTRO CASO
+ + 4.30
+ + 1.00
+- 3.40
+IL RISCHIO
+UNA SOLA SCALA DAL PIANO INTERRATO AL PRIMO PIANO LARGA 1800 mm
+BASSO CARICO D’INCENDIO
+AMBIENTI ADIBITI A PALESTRA ED AREA FITNESS
+PRESENTI RIVESTIMENTI A PAVIMENTO
+STRUTTURA IN ACCIAIO E SOLAI IN LATEROCEMENTO
+SUPERFICIE DI PIANO 280 MQ CIRCA INTERRATO 1000 MQ CIRCA
+PREVISTO IMPIANTO IRAI LIVELLO IV
+ ELENCO VALUTAZIONI TECNICHE
+• Rvita B1
+• Rbeni 1
+• no Rambiente
+• affollamento (certificato) < 0.4 pers/mq
+• presente aree palestra
+• presente area fitness
+S.1.4.1 Soluzioni conformi per il livello
+di prestazione II 1.
+Si considera soluzione conforme
+l’impiego di materiali compresi del
+gruppo GM3.
+ Stimiamo un carico di incendio
+specifico prudenziale di 250 MJ/mq
+qf,d = δq1 · δq2 · δn · qf
+qf,d = δq1 · δq2 · δn · qf
+Le curve nominali di incendio devono essere applicate ad un compartimento
+dell’edificio alla volta, salvo il caso degli edifici multipiano laddove elementi
+orizzontali di separazione con resistenza al fuoco adeguata al carico d’incendio
+dell’area sottostante, consentano di considerare separatamente il carico di
+incendio dei singoli piani.
+Nota Ad esempio, nel caso di compartimento multipiano in presenza di scale di
+tipo aperto, con solai che garantiscono un’adeguata capacità di
+compartimentazione, è ammesso considerare il carico di incendio agente
+separatamente sui singoli piani, poiché è prevedibile un ritardo non trascurabile
+della diffusione dell’incendio dal piano di origine a quelli immediatamente
+superiori.
+= 1,00x0,80x0,90x0,85x250 = 153,00
+MJ/mq piano primo e terreno
+= 1,20x0,80x0,90x0,85x250 = 183,20
+MJ/mq al piano interrato
+LA COMPARTIMENTAZIONE
+Al fine di limitare la propagazione dell’incendio
+all’interno della stessa attività deve essere impiegata
+almeno una delle seguenti soluzioni conformi:
+a. suddividere la volumetria dell’opera da costruzione
+contenente l’attività, in compartimenti antincendio,
+come descritto nei paragrafi S.3.5 ed S.3.6, con le
+caratteristiche di cui al paragrafo S.3.7;
+b. interporre distanze di separazione su spazio a cielo
+libero tra ambiti della stessa attività, come descritto nel
+paragrafo S.3.8.
+L’affollamento
+Il responsabile dell’attività può dichiarare un
+valore dell’affollamento inferiore a quello
+determinato come previsto al comma 1. 3. Il
+responsabile dell’attività si impegna a rispettare
+l’affollamento e la densità d’affollamento
+dichiarati per ogni ambito ed in ogni condizione
+d’esercizio dell’attività.
+ nel nostro caso
+• 0,1 pers/mq al primo piano = 28 + 3 addetti
+• 0,1 per/mq al piano terra = 28 + 3 addetti
+• 50 persone al piano interrato + 3 addetti
+• totale 115 persone distribuite su tre livelli
+CON L’IRAI ESTESO AI LOCALI POTREI AUMENTARE DEL 15 %, MA INUTILMENTE
+ COME SI FA?
+CI PENSIAMO DOPO
+CONTROLLO DEL FUMO E DEL CALORE
+PRIMO PIANO 280/40 7
+PIANO TERRA 280/40 7
+PIANO INTERRATO 1000/40 25
+OPERATIVITA’ DEI VVF
+ GLI IMPIANTI MISURA S.10
+tipologia presente
+impianto elettrico si
+impianto IRAI si, di sicurezza
+impianto illuminazione si, di sicurezza
+emergenza
+impianto condizionamento non si
+centralizzato
+impianto fotovoltaico no
+impianto metano no
+

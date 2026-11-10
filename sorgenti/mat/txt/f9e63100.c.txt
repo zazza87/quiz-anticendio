@@ -1,0 +1,240 @@
+Visita attivita’ Soggetta: AUTOFFICINA
+ progettata secondo RTO
+ DM 03 agosto 2015
+ 26 ottobre 2026 – Ordine dei Periti Industriali della provincia di Trieste
+ Aula Virtuale - MODALITA’ STREAMING SINCRONO Videoconferenza
+ Dott. Tinti Gianluca - gianluca.tinti@gmail.com – tel 339 6655966
+ Descrizione attività
+Il progetto si riferisce ad un edificio monopiano
+ esistente, ad uso autofficina.
+Descrizione attività
+Descrizione attività
+Descrizione attività
+Elenco attività soggette
+Valutazione del rischio di incendio
+ VALUTAZIONE RISCHO INCENDIO
+(G.2) Valutazione del rischio di incendio per l’attività
+La valutazione del rischio di incendio è stata condotta in conformità al punto V.9.4 della RTV V.9 –
+Autorimesse di cui al D.M. 15/05/2020.
+La valutazione del rischio di incendio deve ricomprendere almeno i seguenti argomenti:
+• individuazione dei pericoli di incendio (p.e. sorgenti di innesco, materiali combustibili o infiammabili,
+ carico di incendio, interazione inneschi-combustibili, eventuali quantitativi rilevanti di miscele o sostanze
+ pericolose, lavorazioni pericolose ai fini dell’incendio o dell’esplosione, possibile formazione di miscele
+ esplosive, …);
+• descrizione del contesto e dell’ambiente nei quali i pericoli sono inseriti (p.e. condizioni di accessibilità e
+ viabilità, layout aziendale, distanziamenti, separazioni, isolamento, caratteristiche degli edifici, tipologia
+ edilizia, complessità geometrica, volumetria, superfici, altezza, piani interrati, articolazione plano-
+ volumetrica, compartimentazione, aerazione, ventilazione e superfici utili allo smaltimento di fumi e
+ calore, …);
+• determinazione di quantità e tipologia degli occupanti esposti al rischio di incendio;
+• individuazione dei beni esposti al rischio di incendio;
+• valutazione qualitativa o quantitativa delle conseguenze dell’incendio su occupanti, beni ed ambiente;
+• individuazione delle misure preventive che possono rimuovere o ridurre i pericoli che determinano rischi
+ significativi.
+Progettazione attivita’ soggetta
+ PROGETTAZIONE CON RTV + RTO
+Reazione al fuoco
+Resistenza al fuoco
+Compartimentazione
+Esodo
+Gestione della sicurezza antincendio
+Controllo dell’incendio
+Rivelazione ed allarme
+Controllo di fumi e calore
+Operatività antincendio
+Sicurezza degli impianti
+Attribuzione dei profili di rischio
+ VALUTAZIONE DEL RISCHIO: Rvita
+Il profilo di rischio Rvita è attribuito ad ogni
+singolo compartimento dell’attività, in
+funzione delle caratteristiche prevalenti degli
+occupanti e della caratteristica prevalente di
+sviluppo dell’incendio.
+ VALUTAZIONE DEL RISCHIO: Rbeni
+Il profilo di rischio Rbeni è attribuito all’intera attività in
+funzione del carattere strategico dell’opera da
+costruzione.
+L’opera da costruzione analizzata non è un’opera da
+costruzione vincolata e neanche strategica.
+Il valore di rischio Rbeni sarà pari a 1.
+ VALUTAZIONE DEL RISCHIO: Rambiente
+Il profilo di rischio Rambiente è attribuito
+all’intera attività.
+Si è valutato che il rischio Rambiente nell’attività
+esaminata non è significativo.
+Tabella riepilogativa dei livelli di prestazione
+S.1 – Reazione al fuoco
+ S.1 – REAZIONE AL FUOCO
+La reazione al fuoco è una misura antincendio di protezione passiva che esplica i suoi principali effetti nella fase di
+prima propagazione dell’incendio, con l’obiettivo di limitare l’innesco dei materiali e la propagazione stessa dell’incendio.
+L’analisi della reazione al fuoco è stata eseguita per ogni lavorazione prevista all’interno dell’attività, nel rispetto delle
+indicazioni del capitolo S.1 del D.M. 3.8.2015, con le modalità descritte di seguito.
+S.2 - Resistenza al fuoco
+ S.2 – RESISTENZA AL FUOCO
+La finalità della resistenza al fuoco è quella di garantire la capacità portante delle strutture in
+condizioni di incendio, nonché la capacità di compartimentazione per un tempo minimo
+necessario al raggiungimento degli obiettivi di sicurezza di prevenzione incendi.
+S.2 – RESISTENZA AL FUOCO
+ S.2 -Resistenza al fuoco –Calcolo carico di incendio
+Definizioni:
+Carico di incendio: potenziale termico netto della totalità dei materiali combustibili contenuti in uno spazio,
+corretto in base ai parametri indicativi della partecipazione alla combustione dei singoli materiali.
+Limitatamente agli elementi strutturali di legno, è possibile considerarne il contributo tenendo conto del
+fatto che gli stessi devono altresì garantire la conseguente resistenza al fuoco. Tale contributo deve essere
+determinato tramite consolidati criteri di interpretazione del fenomeno. Il carico di incendio è espresso in
+MJ; convenzionalmente 1 MJ è assunto pari all'energia sviluppata da 0,057 kg di legna equivalente.
+Carico d’incendio specifico: carico di incendio riferito all’unità di superficie lorda di piano, espresso in
+MJ/m2.
+ È un'energia per superficie lorda di piano. La "superficie lorda” è definita nel Codice così come quella di
+“piano”.
+Carico d’incendio specifico di progetto: carico d’incendio specifico corretto in base ai parametri indicatori
+del rischio di incendio del compartimento antincendio e dei fattori relativi alle misure antincendio presenti.
+Esso costituisce la grandezza di riferimento per le valutazioni della resistenza al fuoco delle opere da
+costruzione.
+ ln caso di progettazione con curva di incendio parametrica riportata nella norma EN 1992-1-2, il carico di
+incendio specifico di progetto è riferito alla superficie “totale” del compartimento (sussiste infatti una
+differenza tra qfd e qtd, ove “t” sta per “floor” e "t" per “total").
+ S.2 -Resistenza al fuoco –Calcolo carico di incendio
+Il carico di incendio specifico qf (riferito all’unità di superficie lorda) e il carico d’incendio specifico di
+progetto (qf,d) si ricavano con la medesima metodologia indicata nel d.m. 9 marzo 2007.
+Il carico d’incendio specifico di progetto qf,d, cioè il carico d’incendio specifico corretto in base ai parametri
+indicatori del rischio di incendio e dei fattori relativi alle misure di protezione presenti, sarà quindi pari a:
+ qf,d = δq1 x δq2 x δn x qf
+essendo:
+δq1 = fattore correlato al rischio incendio in relazione alle dimensioni del compartimento (tab. S.2-4):
+δq2 = fattore correlato al rischio incendio in relazione al tipo di attività svolta nel compartimento (tab. S.2-5):
+ S.2 -Resistenza al fuoco –Calcolo carico di incendio
+ qf,d = δq1 x δq2 x δn x qf
+essendo:
+L’unica differenza, rispetto alla procedura di cui al d.m. 9 marzo 2007, riguarda la determinazione del fattore
+δn che tiene conto delle differenti misure antincendio; i coefficienti che concorrono alla definizione dello
+stesso sono desumibili dalla seguente tab. S.2-6 ed il fattore δn si ottiene dal relativo prodotto:
+ S.2 -Resistenza al fuoco –Calcolo carico di incendio
+Il valore nominale del carico d'incendio specifico qf (riferito all’unità di superficie lorda del piano del
+compartimento, nell’ipotesi di distribuzione sufficientemente uniforme del carico di incendio) è dato da:
+gi = massa i-esimo materiale combustibile (Kg);
+Hi = potere calorifico inferiore i-esimo materiale combustibile (MJ/Kg);
+mi = fattore di partecipazione alla combustione i-esimo materiale combustibile;
+Ψi = fattore di limitazione della partecipazione alla combustione dell’i-esimo materiale combustibile;
+A = superficie in pianta lorda del compartimento considerato (m2).
+S.2 – RESISTENZA AL FUOCO
+S.2 – RESISTENZA AL FUOCO
+2.3 - Compartimentazione
+ S.3 – COMPARTIMENTAZIONE
+La finalità della compartimentazione è quella di limitare la propagazione
+dell’incendio e dei suoi effetti verso altre attività o all’interno della stessa
+attività.
+S.3 – COMPARTIMENTAZIONE
+S.3 – COMPARTIMENTAZIONE
+S.3 – COMPARTIMENTAZIONE
+S.3 – COMPARTIMENTAZIONE
+S.3 – COMPARTIMENTAZIONE
+S.4 - esodo
+ S.4–ESODO
+S.4.2 Livelli di prestazione
+S.4.3 Criteri di attribuzione dei livelli di prestazione
+S.4 – ESODO
+S.4 – ESODO
+S.4 – ESODO
+S.4 – ESODO
+ Verifica ridondanza via di esodo orizzontale
+ Numero occupanti: 55
+ Rvita: A2
+ LO = LU · nO
+ LU = 3,8 mm/occ Lo = 19,0 mm
+ Larghezza minima imposta dalla RTO: 800
+ mm (affollamento fino a 50 occupanti)
+ Larghezza varchi di esodo: 1200 mm.
+ Larghezza via di esodo orizzontale: 1200 mm
+ Verifica soddisfatta ? SI
+S.4 – ESODO
+S.5 - SGSA
+ S.5 -SGSA
+La gestione della sicurezza
+antincendio (GSA) rappresenta la
+misura antincendio organizzativa e
+gestionale atta a garantire, nel
+tempo, un adeguato livello di
+sicurezza dell'attività in caso di
+incendio.
+S.5 – GESTIONE DELLA SICUREZZA ANTINCENDIO
+S.5 – GESTIONE DELLA SICUREZZA ANTINCENDIO
+S.5 – GESTIONE DELLA SICUREZZA ANTINCENDIO
+S.6 – CONTROLLO DELL’INCENDIO
+S.6 – CONTROLLO DELL’INCENDIO
+S.6 – CONTROLLO DELL’INCENDIO
+S.6 – CONTROLLO DELL’INCENDIO
+S.6 – Rivelazione e allarme
+ S.7 – RIVELAZIONE E ALLARME
+Gli impianti di rivelazione incendio e
+segnalazione allarme incendio hanno
+come obiettivo il rivelare prima
+possibile la presenza di un incendio e
+lanciare l’allarme al fine di attivare le
+misure protettive e gestionali
+programmate.
+La determinazione delle caratteristiche
+necessarie al controllo dell’incendio è
+stata eseguita, nel rispetto delle
+indicazioni del capitolo S.7 del D.M.
+18,10.2019, con le modalità descritte in
+questo paragrafo.
+In base alle caratteristiche dell’attività,
+il livello di prestazione individuato è I
+S.7 – RIVELAZIONE E ALLARME
+ S.7 – RIVELAZIONE E ALLARME
+ Funzioni IRAI norma tecnica UNI EN 54-1
+ Funzioni principali
+A, Rivelazione automatica dell’incendio
+B, Funzione di controllo e segnalazione
+D, Funzione di segnalazione manuale
+L, Funzione di alimentazione
+C, Funzione di allarme incendio
+ Funzioni secondarie
+E, Funzione di trasmissione dell’allarme incendio
+F, Funzione di ricezione dell’allarme incendio
+G, Funzione di comando del sistema o attrezzatura di protezione contro l’incendio
+H, Sistema o impianto automatico di protezione contro l’incendio
+J, Funzione di trasmissione dei segnali di guasto
+K, Funzione di ricezione dei segnali di guasto
+M, Funzione di controllo e segnalazione degli allarmi vocali
+N, Funzione di ingresso e uscita ausiliaria
+O, Funzione di gestione ausiliaria (building management)
+S.8 – CONTROLLO FUMI E CALORE
+ S.8 – CONTROLLO FUMI E CALORE
+La misura antincendio di controllo di fumo e calore ha come scopo l’individuazione dei presidi
+antincendio da installare nell’attività per consentire il controllo, l’evacuazione o lo smaltimento
+dei prodotti della combustione in caso di incendio.
+La determinazione delle caratteristiche minime del sistema di controllo ed evacuazione di
+fumi e calore è stata eseguita, nel rispetto delle indicazioni del capitolo S.8 del D.M.
+18.10.2019, con le modalità descritte in questo paragrafo.
+S.8 – CONTROLLO FUMI E CALORE
+S.8 – CONTROLLO FUMI E CALORE
+S.8 – CONTROLLO FUMI E CALORE
+S.9 – OPERATIVITA’ ANTINCENDIO
+S.9 – OPERATIVITA’ ANTINCENDIO
+ Si applica, per la misura in questione, il livello
+ di prestazione II, in quanto la quota del livello
+ inferiore è superiore a -5 m.
+ Il Codice richiede, quale soluzione conforme
+ per il livello di prestazione richiesto, che
+ vengano prioritariamente
+ rispettate le prescrizioni previste al par.
+ S.9.4.1 (relative al livello di prestazione II).
+S.9 – OPERATIVITA’ ANTINCENDIO
+S.10 – SICUREZZA DEGLI IMPIANTI
+ S.10 – SICUREZZA DEGLI IMPIANTI
+• La determinazione delle caratteristiche minime di sicurezza
+ degli impianti è stata eseguita, nel rispetto delle indicazioni
+ del capitolo S.10 del D.M. 18.10.2019, con le modalità
+ descritte in questo paragrafo ai sensi della strategia V.6.5.8
+• In base alle caratteristiche dell’attività, il livello di
+ prestazione individuato è I (Impianti progettati, realizzati e
+ gestiti secondo la regola dell’arte, in conformità alla
+ regolamentazione vigente, con requisiti di sicurezza
+ antincendio specifici).
+• Il tipo di soluzione adottata per garantire il raggiungimento
+ del livello di prestazione scelto è: conforme.
+S.10 – SICUREZZA DEGLI IMPIANTI
+S.10 – SICUREZZA DEGLI IMPIANTI
+

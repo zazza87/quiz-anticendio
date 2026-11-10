@@ -1,0 +1,787 @@
+                          COMANDO PROVINCIALE VIGILI DEL FUOCO UDINE
+
+
+
+           Corso base di specializzazione in prevenzione incendi
+                ai sensi D.Lgs. 139/2006 e D.M. 05.08.2011
+
+
+
+
+             REAZIONE AL FUOCO DEI MATERIALI
+
+Trieste, 2 ottobre 2026                              Direttore Vicedirigente Arch. Ph.D. Ing. Lilia Cinzia Pecile
+Scaletta degli argomenti
+
+
+REAZIONE AL FUOCO
+
+▪ Inquadramento e criticità in caso di incendio
+
+▪ Definizioni e concetti generali
+
+▪ Quadro legislativo nazionale (D.M. 26.06.1984)
+
+▪ Quadro legislativo comunitario
+  (D.M. 10.03.2005 e D. M. 15.03.2005)
+
+▪ Codice di Prevenzione Incendi
+  (DM 03.08.2015)
+                                                         Obiettivo della
+                                                 PREVENZIONE INCENDI
+                                            è conseguire la sicurezza contro gli incendi
+
+
+
+
+                                            Tale obiettivo si persegue applicando:
+
+
+          MISURE PREVENTIVE                                                                MISURE PROTETTIVE
+    (RIDURRE LE OCCASIONI DI INCENDIO)                                          (CONTENERE LE CONSEGUENZE DELL’INCENDIO)
+
+
+
+                                                     PROTEZIONE PASSIVA                          PROTEZIONE ATTIVA
+                                                     (MODALITA’ COSTRUTTIVE E                   (IMPIANTISTICA E PRESIDI
+                                                 ARTICOLAZIONE PLANIVOLUMETRICA)                      ANTINCENDIO)
+
+
+
+
+Impianti
+       -
+          a rischio specifico (elettrici,       Resistenza al fuoco strutture               Impianti e mezzi spegnimento
+termici, tecnologici) realizzati                                                           (estintori, idranti, sprinkler, ecc.)
+                                                Compartimentazione
+secondo norme
+                                                Reazione al fuoco dei materiali            Impianti automatici rilevazione e
+Controllo
+       -    sorgenti di energia e                                                          segnalazione incendio
+possibili interazioni con sostanze              Limitazione carico d’incendio
+combustibili                                                                               Illuminazione di sicurezza ed
+                                                Vie di esodo
+                                                                                           aliment. elettrica di emergenza
+Norme di esercizio, divieti,                    Distanze di sicurezza
+limitazioni ecc.                                                                           Squadra antincendio aziendale
+                                                Aerazione e ventilazione
+                PROTEZIONE PASSIVA
+     (MODALITA’ COSTRUTTIVE E ARTICOLAZIONE PLANIVOLUMETRICA)
+
+
+
+•   Resistenza al fuoco strutture
+• Compartimentazione
+• Reazione al fuoco dei materiali
+• Limitazione carico d’incendio
+• Vie di esodo
+• Distanze di sicurezza
+• Aerazione e ventilazione
+Definizioni
+
+
+              COMPORTAMENTO AL FUOCO
+Definizione (D.M. 30.11.83) : insieme di trasformazioni fisiche e
+chimiche di un materiale o di un elemento da costruzione sottoposto
+all’azione del fuoco.
+
+
+
+
+    RESISTENZA AL FUOCO                         REAZIONE AL FUOCO
+
+
+                        NORME DI PREVENZIONE INCENDI
+Casi di incendio e criticità
+
+
+
+
+Incendio cinema Statuto Torino, 12 febbraio 1983 - 64 vittime
+Casi di incendio e criticità
+
+
+
+
+  Incendio edificio adibito ad esposizione Todi, 25 aprile 1982 - 34 vittime
+                                                    Casi di incendio e criticità
+
+
+
+
+The Station Nightclub, Rhode Island (USA) 20 febbraio 2003
+
+
+
+
+                                     The Station Nightclub, Rhode Island (USA) 20 febbraio 2003
+                                                                             100 morti, 230 feriti
+Definizioni
+
+
+REAZIONE AL FUOCO
+Definizione (D.M. 30.11.1983) :
+
+E’ il grado di partecipazione di un            materiale
+combustibile al fuoco al quale è sottoposto.
+Definizioni
+
+        REAZIONE AL FUOCO DEI MATERIALI
+ In relazione alle prove ai materiali sono assegnati (dalla normativa
+ italiana !!!) le classi 0 - 1 - 2 - 3 - 4 - 5 con l’aumentare della
+ loro partecipazione alla combustione.
+ Quelli di classe 0 risultano non combustibili.
+
+ I materiali di classe 1, 2, 3, 4, 5 sono combustibili, e, per effetto
+ della loro decomposizione, alimentano il fuoco al quale sono
+ esposti.
+Definizioni
+
+
+ MOBILE IMBOTTITO
+
+ Definizione: manufatto destinato a sedersi e costituito da rivestimento,
+ interposti, imbottitura e struttura. Qualunque di questi componenti
+ può mancare ad eccezione della imbottitura.
+
+ I materiali costituenti il fusto e/o il supporto di poltrone, il colore e il
+ disegno del tessuto di rivestimento sono ininfluenti ai fini della
+ classificazione.
+
+ Ai mobili imbottiti sono assegnate le classi 1 IM (la migliore), 2IM e 3
+ IM ; il mobile imbottito non viene classificato se non raggiunge almeno
+ la classe 3 IM.
+ La norma UNI 9175 si applica anche a materassi, sommier, guanciali, poltrone-letto e divani-letto.
+Quadro legislativo nazionale
+
+
+      DECRETO MINISTERIALE 26 GIUGNO 1984
+                    (modificato con D.M. 03.09.2001)
+
+       “CLASSIFICAZIONE DI REAZIONE AL FUOCO ED OMOLOGAZIONE
+           DEI MATERIALI AI FINI DELLA PREVENZIONE INCENDI”
+
+
+         METODI DI PROVA
+
+
+                                     Per l’omologazione dei materiali ai
+                                     fini della prevenzione incendi
+
+      NORME PROCEDURALI
+Quadro legislativo nazionale
+
+                          METODI DI PROVA
+                   (D.M. 26.6.1984 – D.M. 3.09.2001)
+
+       La reazione al fuoco viene determinata su basi sperimentali
+
+
+
+
+I metodi di prova per la determinazione della classe di reazione al fuoco messi a
+punto dal Centro Studi ed Esperienze del Ministero dell’Interno sono cinque.
+Quadro legislativo nazionale
+
+  METODI DI PROVA REAZIONE AL FUOCO
+
+  I metodi di prova scelti sono idonei a fornire informazioni sulla
+  reazione al fuoco dei materiali nella FASE DI INNESCO (riprodotta
+  in laboratorio con una piccola fiamma su una provetta a
+  temperatura ambiente) e nella FASE DI PRIMA PROPAGAZIONE
+  DELL’INCENDIO (riprodotta in laboratorio con l’azione combinata
+  sulla provetta, di una fiamma e di una sorgente di calore radiante).
+
+  I metodi di prova scelti tengono conto delle reali condizioni di
+  impiego dei materiali, ossia della loro posizione, del probabile tipo
+  di esposizione e della modalità di messa in opera.
+Quadro legislativo nazionale
+
+
+UNI/ISO 1182 (ISO/DIS 1182.2)
+Materiali da costruzione – prova di non combustibilità.
+
+
+
+
+UNI 8456 (CSE RF 1/75/A)
+Reazione al fuoco dei materiali sospesi e suscettibili di essere
+investiti da una piccola fiamma su entrambe le facce.
+
+
+
+UNI 8457 (CSE RF 2/75/A)
+Reazione al fuoco dei materiali che possono essere investiti da
+una piccola fiamma su una sola faccia.
+Quadro legislativo nazionale
+
+
+
+UNI 9174 (CSE RF 3/77)
+Reazione al fuoco dei materiali sottoposti alla azione di una
+fiamma d’innesco in presenza di calore radiante.
+
+
+
+
+UNI 9175 (CSE RF 4/83)
+Reazione al fuoco dei mobili imbottiti sottoposti all’azione di
+una piccola fiamma.
+Quadro legislativo nazionale
+
+ REAZIONE AL FUOCO - PARAMETRI CARATTERISTICI
+ VELOCITÀ DI PROPAGAZIONE DELLA FIAMMA: velocità con la quale il fronte di
+ fiamma si propaga in un materiale.
+
+ TEMPO DI POST-COMBUSTIONE: tempo, espresso in secondi, che trascorre dal
+ momento in cui si allontana la fiamma pilota dalla provetta, fino al momento in cui
+ la fiamma si estingue.
+
+ TEMPO DI POST-INCANDESCENZA: tempo, espresso in secondi, che trascorre
+ dall’estinzione della fiamma sviluppata, fino alla completa scomparsa
+ dell’incandescenza.
+
+ ESTENSIONE DELLA ZONA DANNEGGIATA: estensione massima in lunghezza,
+ espressa in mm, della parte di provetta che risulta combusta o fusa e che presenta
+ degradazione delle caratteristiche meccaniche.
+
+ GOCCIOLAMENTO: tendenza di un materiale a lasciar cadere gocce e/o parti
+ distaccate durante e/o dopo l’azione della sorgente di calore.
+Quadro legislativo nazionale
+
+                                  MATERIALI COMBUSTIBILI
+                                           ESCLUSI I MOBILI IMBOTTITI
+                                   Criteri di Classificazione (UNI 9177)
+ UNI 8456 o UNI 8457: attribuzione delle categorie I, II, III o IV
+
+ UNI 9174: attribuzione delle categorie I, II, III o IV
+
+ Classe 1: categorie (I – I)
+
+ Classe 2: categorie (I – II), (II – I)
+
+ Classe 3: categorie (I – III), (III – I), (II – III), (III – II), (II – II)
+
+ Classe 4: categorie (I – IV), (IV – I), (II – IV), (IV – II), (III – IV),(IV – III), (III – III)
+
+ Classe 5: categorie (IV – IV)
+       MATERIALI COMBUSTIBILI
+
+  PROVA DI NON COMBUSTIBILITA’ (UNI-ISO 1182)
+
+
+
+
+NON COMBUSTIBILE                             COMBUSTIBILE
+
+CLASSE O
+
+                       MATERIALI INVESTITI               MATERIALI INVESTITI
+                         DALLE FIAMME                      DALLE FIAMME
+                         SU DUE FACCE                      SU UNA FACCIA
+                       UNI 8456 + UNI 9174               UNI 8457 + UNI 9174
+
+
+
+
+                                     1       2   3   4    5
+Quadro legislativo nazionale
+
+
+                   MOBILI IMBOTTITI
+
+
+
+
+                                UNI 9175
+
+
+          CLASSE       1 IM    2 IM        3 IM
+Quadro legislativo nazionale
+
+ MATERIALI NON COMBUSTIBILI (CLASSE 0)
+ 1. Materiali che superano la prova di non combustibilità secondo la
+    norma UNI ISO 1182 .
+ 2. Materiali definiti dal D.M. 14 gennaio 1985:
+    •    Materiali da costruzione, compatti o espansi a base di ossidi metallici
+         (ossido di calcio, magnesio, silicio, alluminio e altri) o di composti
+         inorganici (carbonati, solfati, silicati di calcio ed altri) privi di leganti
+         organici.
+    •    Materiali isolanti a base di fibre minerali (di roccia, di vetro, ceramiche ed
+         altre) privi di leganti organici.
+    •    Materiali costituiti da metalli con o senza finitura superficiale a base
+         inorganica.
+    Nel caso di materiali non combustibili vengono considerati ininfluenti gli strati di finitura
+    composti da vernici e/o pitture di spessore non superiore 0,6 mm (D.M. 26-06-1984).
+Quadro legislativo nazionale
+
+
+      DECRETO MINISTERIALE 26 GIUGNO 1984
+                    (modificato con D.M. 03.09.2001)
+
+       “CLASSIFICAZIONE DI REAZIONE AL FUOCO ED OMOLOGAZIONE
+           DEI MATERIALI AI FINI DELLA PREVENZIONE INCENDI”
+
+
+         METODI DI PROVA
+
+
+                                     Per l’omologazione dei materiali ai
+                                     fini della prevenzione incendi
+
+      NORME PROCEDURALI
+Quadro legislativo nazionale
+
+                  D.M. 26.06.1984
+       NORME PROCEDURALI PER L’OMOLOGAZIONE
+        DEI MATERIALI AI FINI DELLA PREVENZIONE INCENDI
+
+  • CLASSIFICAZIONE DEI MATERIALI
+
+  • CERTIFICAZIONE
+
+  • OMOLOGAZIONE
+
+  • MARCHIO E DICHIARAZIONE DI CONFORMITA’
+Quadro legislativo nazionale
+
+
+D.M. 26.06.1984 – NORME PROCEDURALI PER L’OMOLOGAZIONE
+                      DEI MATERIALI
+
+
+CLASSIFICAZIONE DEI MATERIALI
+Determinazione della classe di reazione al fuoco dei materiali sulla
+base dei risultati ottenuti dalle prove effettuate.
+
+
+
+CERTIFICAZIONE
+Rapporto con il quale si certifica la classe di reazione al fuoco del
+campione sottoposto ad esame.
+Quadro legislativo nazionale
+
+D.M. 26.06.1984 – NORME PROCEDURALI PER L’OMOLOGAZIONE DEI
+                         MATERIALI
+ OMOLOGAZIONE
+ Provvedimento emesso dal MINISTERO dell’INTERNO con il quale si autorizza la
+ riproduzione del prototipo per la utilizzazione in attività soggette alle normative di
+ prevenzione incendi.
+
+ MARCHIO E DICHIARAZIONE DI CONFORMITA’
+ Indicazione permanente ed indelebile opposta dal produttore sul materiale
+ riportante i seguenti dati:
+ - nome del produttore;
+ - anno di produzione;
+ - classe di reazione al fuoco;
+ - estremi dell’omologazione.
+ Qualora non fosse disponibile apporre il marchio sul materiale, il produttore deve
+ attestare con apposita dichiarazione i dati di conformità.
+Esempio certificazione
+Quadro legislativo nazionale
+
+
+  ELENCO LABORATORI AUTORIZZATI
+
+   •   M.I. - Dip. VV.F. - D.C.P.S.T. - Area Protezione Passiva - Settore Reazione al Fuoco (Roma)
+   •   C.S.I. S.p.A. (Bollate – MI)
+   •   Istituto Giordano S.p.A. (Bellaria)
+   •   MIT International Testing (Rho – MI )
+   •   L.S. Fire Testing institute S.r.l. (Teramo e Como)
+
+   •   Centro tessile Serico
+   •   L.A.P.I. S.r.l. (Prato)
+   •   CATAS S.p.A. (S. Giovanni al Natisone - UD)
+   •   ITC - Istituto per le Tecnologie della Costruzione (Milano)
+   •   Rina S.p.A. (Genova)
+   •   Trasferimento tecnologico e innovazione
+PROCEDURA DI OMOLOGAZIONE
+
+             PRODUTTORE                LABORATORIO
+                                       AUTORIZZATO
+
+
+                                          Rilascio
+                                    CERTIFICATO DI PROVA
+            RICHIESTA DI
+           OMOLOGAZIONE
+
+
+
+    VALUTAZIONE TECNICA E FORMALE
+       DELLA DOCUMENTAZIONE
+
+
+
+
+       RILASCIO OMOLOGAZIONE
+Quadro legislativo nazionale
+
+                    CODICE OMOLOGAZIONE
+                          (ALFANUMERICO)
+
+
+  Sigla provincia                 Impiego                  Numero
+                       (v. All.A2.1 DM 26.06.1984)     omologazioni ditta
+
+
+
+                    UD 316 B41 CD 1 00016
+
+        Codice                  Metodi di            Classe
+      costruttore              manutenzione
+Quadro legislativo nazionale
+
+Esempio omologazione
+Quadro legislativo nazionale
+
+                             PRODOTTI VERNICIANTI IGNIFUGHI
+                             APPLICATI SU MATERIALI LEGNOSI
+                                               (D.M. 6 marzo 1992)
+
+ I prodotti vernicianti ignifughi da impiegarsi nelle attività soggette alle norme di
+ prevenzione incendi devono essere omologati.
+ La norma UNI 9796 si applica ai prodotti vernicianti ignifughi destinati ad essere applicati su materiali legnosi ad
+ eccezione di:
+ - materiali impiallacciati con tranciati o sfogliati di legno mediante collanti a base di resine di tipo termoplastico;
+ - assemblati a struttura cellulare o listellare, includenti cavità d’aria o riempite con materiali di natura eterogenea.
+Quadro legislativo comunitario
+
+
+
+
+ DECRETO MINISTERIALE 10 marzo 2005
+
+ DECRETO MINISTERIALE 15 marzo 2005
+Quadro legislativo comunitario
+
+
+ LA DIRETTIVA 89/106/CEE PRODOTTI DA COSTRUZIONE
+
+L’articolo 1 della Direttiva 89/106/CEE e l’articolo 1 del D.P.R. n. 246/93
+definiscono che cosa si intende per materiale da costruzione.
+
+E’ considerato materiale da costruzione qualsiasi prodotto fabbricato al
+fine di essere permanentemente incorporato in opere da costruzione, le
+quali comprendono gli edifici e le opere di ingegneria civile.
+Quadro legislativo comunitario
+
+  LA DIRETTIVA 89/106/CEE PRODOTTI DA COSTRUZIONE
+ Obiettivo della Direttiva:
+ – facilitare la libera circolazione dei prodotti nel mercato interno senza ridurre i
+   livelli di sicurezza esistenti negli stati membri appartenenti alla UE;
+ – riavvicinare le disposizioni legislative, regolamentari e amministrative
+   concernenti i prodotti da costruzione.
+Quadro legislativo comunitario
+
+
+  LA DIRETTIVA 89/106/CEE PRODOTTI DA COSTRUZIONE
+
+ REQUISITI ESSENZIALI delle opere da costruzione:
+
+ 1. RESISTENZA MECCANICA E STABILITA’
+ 2. SICUREZZA IN CASO DI INCENDIO
+ 3. IGIENE, SALUTE E AMBIENTE
+ 4. SICUREZZA PER L’USO
+ 5. PROTEZIONE CONTRO IL RUMORE
+ 6. RISPARMIO ENERGETICO E RITENZIONE DI CALORE
+Quadro legislativo comunitario
+
+
+ REQUISITO ESSENZIALE N. 2 : SICUREZZA IN CASO DI INCENDIO
+
+  Nell’ambito del requisito connesso alla sicurezza delle opere in caso di
+  incendio la direttiva stabilisce i seguenti OBIETTIVI GENERALI :
+  1. GARANTIRE PER UN PERIODO DI TEMPO DETERMINTATO LA
+     CAPACITA’ PORTANTE DELL’OPERA
+  2. LIMITARE LA PRODUZIONE E LA PROPAGAZIONE DEL FUOCO E DEL
+     FUMO ALL’INTERNO DELL’ OPERA
+  3. LIMITARE LA PROPAGAZIONE DEL FUOCO ALLE OPERE VICINE
+  4. PERMETTERE AGLI OCCUPANTI DI LASCIARE L’OPERA OPPURE DI
+     ESSERE SOCCORSI
+  5. PRENDERE IN CONSIDERAZIONE LA SICUREZZA DELLE SQUADRE DI
+     SOCCORSO
+Quadro legislativo comunitario
+
+
+              ATTESTAZIONE DELLA CONFORMITÀ
+
+ La conformità alle specificazioni         tecniche   consente
+ l’apposizione della MARCATURA CE.
+ La marcatura CE è consentita per
+ prodotti coperti da specificazioni
+ tecniche europee ed è il solo marchio
+ che attesta la conformità del prodotto
+ alla Direttiva prodotti da costruzione.
+ La marcatura CE deve accompagnare il
+ prodotto.
+Quadro legislativo comunitario
+
+
+       DECRETO MINISTERIALE 10 MARZO 2005
+
+ • Il sistema di classificazione europeo prevede un organizzazione
+   in classi principali e classi aggiuntive.
+
+ • Offre una possibilità di combinazioni relative alle prestazioni del
+   prodotto estremamente più articolata di quella prevista dal
+   sistema italiano.
+Quadro legislativo comunitario
+
+     SISTEMA DI CLASSIFICAZIONE EUROPEO REAZIONE AL FUOCO
+                    PRODOTTI DA COSTRUZIONE
+
+ PARAMETRI CLASSI PRINCIPALI :
+          –  T - Incremento di temperatura ( °C )
+          –  m - Perdita di massa (  )
+          – t f - Durata dell’incendio ( s )
+          – PCS - Potenziale calorifico lordo ( MJ/kg )
+          – FIGRA - Velocità di crescita dell’incendio ( W/s )
+          – THR 600s - Rilascio totale di calore ( MJ )
+          – LFS - Propagazione laterale della fiamma ( mm )
+          – SMOGRA - Velocità di crescita dei fumi ( m/s )
+          – TSP600s - Produzione totale di fumo ( mq )
+            – Fs - Propagazione della fiamma ( mm )
+Quadro legislativo comunitario
+
+    SISTEMA DI CLASSIFICAZIONE EUROPEO REAZIONE AL FUOCO
+                   PRODOTTI DA COSTRUZIONE
+
+
+ PARAMETRI CLASSI AGGIUNTIVE :
+
+
+            s - Produzione di fumo
+
+
+            d - Gocce/particelle ardenti
+Quadro legislativo comunitario
+                     METODI DI PROVA UTILIZZATI NEL
+                  SISTEMA DI CLASSIFICAZIONE EUROPEO
+ EN ISO 1182
+ Prove di reazione al fuoco per i prodotti da costruzione: prova di non
+ combustibilità.
+ EN ISO 1716
+ Prove di reazione al fuoco per i prodotti da costruzione: determinazione del
+ potere calorifico superiore.
+ EN 13823
+ Prove di reazione al fuoco per i prodotti da costruzione esclusi i pavimenti:
+ esposizione ad un attacco termico mediante “Single Burning Item”.
+ EN ISO 11925-2
+ Prove di reazione al fuoco per i prodotti da costruzione: infiammabilità
+ prodotto sottoposto al contatto diretto della fiamma.
+ EN ISO 9239-1
+ Prove di reazione al fuoco per i pavimenti da costruzione: prova del pannello
+ radiante.
+Quadro legislativo comunitario
+
+ In sintesi le EUROCLASSI DI REAZIONE AL FUOCO sono:
+Quadro legislativo comunitario
+
+
+              ATTESTAZIONE DELLA CONFORMITÀ
+
+ La conformità alle specificazioni         tecniche   consente
+ l’apposizione della MARCATURA CE.
+ La marcatura CE è consentita per
+ prodotti coperti da specificazioni
+ tecniche europee ed è il solo marchio
+ che attesta la conformità del prodotto
+ alla Direttiva prodotti da costruzione.
+ La marcatura CE deve accompagnare il
+ prodotto.
+Quadro legislativo comunitario
+Quadro legislativo comunitario
+
+           DECRETO MINISTERIALE 15 marzo 2005
+    Requisiti di reazione al fuoco dei prodotti da costruzione installati in attività
+  disciplinate da specifiche disposizioni tecniche di prevenzione incendi in base al
+ sistema di classificazione europeo. (Modificato ed integrato con D.M. 16.02.2009)
+
+
+
+
+Il decreto stabilisce, in conformità a quanto previsto dal D.M. 10 marzo 2005, le
+caratteristiche di reazione al fuoco che devono possedere i prodotti installati in attività
+comprese nel campo di applicazione delle vigenti disposizioni tecniche di prevenzione
+incendi, in luogo delle classi italiane previste dal D.M. 26 giugno 1984, e successive modifiche
+ed integrazioni.
+Laddove nelle vigenti regole tecniche di p. i. verticali si richiede l’impiego di prodotti
+rispondenti a determinate classi di reazione al fuoco, riferite al sistema di classificazione
+italiano (0, 1, 2, 3, 4, 5), vengono indicate quali sono le corrispondenti classi di reazione al
+fuoco europee utilizzabili, in funzione del tipo di impiego (pavimento, parete, soffitto, ecc.).
+Quadro legislativo comunitario
+
+
+
+                    Tabella 1 – IMPIEGO A PAVIMENTO
+
+         Classe italiana   Classe europea
+
+
+    I    Classe 1          (A2FL-s1), (A2FL-s2), (BFL-s1), (BFL-s2), (CFL-s1)
+
+
+   II    Classe 2          (CFL-s2) , (DFL-s1)
+
+   III   Classe 3          (DFL-s2)
+Quadro legislativo comunitario
+
+                     Tabella 2 – IMPIEGO A PARETE
+
+        Classe italiana   Classe europea
+
+  I     Classe 1          (A2-s1,d0), (A2-s2,d0), (A2-s3,d0), (A2-s1,d1), (A2-
+                          s2,d1), (A2-s3,d1), (B-s1,d0), (B-s2,d0), (B-s1,d1), (B-
+                          s2,d1)
+  II    Classe 2          (A2-s1,d2), (A2-s2,d2), (A2-s3,d2), (B-s3,d0), (B-s3,d1),
+                          (B-s1,d2), (B-s2,d2), (B-s3,d2), (C-s1,d0), (C-s2,d0), (C-
+                          s1,d1), (C-s2,d1)
+
+  III   Classe 3          (C-s3,d0), (C-s3,d1), (C-s1,d2), (C-s2,d2), (C-s3,d2), (D-
+                          s1,d0), (D-s2,d0), (D-s1,d1), (D-s2,d1)
+Quadro legislativo comunitario
+
+
+                  Tabella 3 – IMPIEGO A SOFFITTO
+
+       Classe italiana   Classe europea
+
+
+  I    Classe 1          (A2-s1,d0), (A2-s2,d0), (A2-s3,d0), (A2-s1,d1), (A2-
+                         s2,d1), (A2-s3,d1), (B-s1,d0), (B-s2,d0), (B-s3,d0)
+
+  II   Classe 2          (B-s1,d1), (B-s2,d1), (B-s3,d1), (C-s1,d0),
+                         (C-s2,d0) (C-s3,d0)
+
+ III   Classe 3          (C-s1,d1), (C-s2,d1), (C-s3,d1), (D-s1,d0),
+                         (D-s2,d0)
+Le innovazioni del Codice di Prevenzione Incendi
+
+
+  DECRETO MINISTERIALE 3 agosto 2015 e s.m.i.
+
+ Prevede strategie antincendio interconnesse e con livelli di
+ prestazione modulabili nell'invarianza degli obiettivi di sicurezza.
+
+ Rispetto alla “somma” di misure antincendio della normativa
+ tradizionale, il Codice prevede la combinazione e sinergia delle
+ strategie.
+
+ Questa       metodologia       permette      n-soluzioni   progettuali,
+ nell'invarianza degli obiettivi di sicurezza.
+Le innovazioni del Codice di Prevenzione Incendi
+
+
+
+
+DECRETO MINISTERIALE 3 agosto 2015 e s.m.i.
+
+
+            Capitolo S.1 Reazione al fuoco
+Codice di Prevenzione Incendi - Capitolo S.1 Reazione al fuoco
+
+
+ Strutturazione della reazione al fuoco in quattro livelli di
+ prestazione definiti in funzione del contributo all’incendio:
+Criteri di attribuzione dei livelli di prestazione
+
+
+
+
+Distinzione tra percorsi di esodo (prestazioni migliori) e altri locali
+Criteri di attribuzione dei livelli di prestazione
+
+Profilo di rischio rvita per le tipologie di destinazione d’uso più
+comuni:
+Classificazione dei materiali in gruppi
+
+
+
+
+Le soluzioni progettuali conformi si riferiscono a
+5 gruppi di materiali così definiti:
+
+GM0: tutti i materiali aventi classe 0 di reazione al fuoco italiana o
+      classe A1 di reazione al fuoco europea
+GM1: vedi tabelle S.1-4, S.1-5, S.1-6, S.1-7
+GM2: vedi tabelle S.1-4, S.1-5, S.1-6, S.1-7
+GM3: vedi tabelle S.1-4, S.1-5, S.1-6, S.1-7
+GM4: tutti i materiali non compresi nei gruppi GM0, GM1, GM2, GM3
+Classificazione dei materiali in gruppi
+
+
+
+Le classi di reazione al fuoco costituenti i GM sono riferite:
+• alle classi di reazione al fuoco italiane di cui al DM 26/6/1984
+indicate con [Ita];
+• alle classi di reazione al fuoco europee, per i soli prodotti da
+costruzione, di cui al DM 10/3/2005 indicate con [EU], esplicitate in
+classi principali e classi aggiuntive (s, d, a)
+Soluzioni conformi per i livelli di prestazione
+
+
+                            IV          III       II
+Soluzioni conformi per i livelli di prestazione
+
+                            IV          III       II
+Soluzioni conformi per i livelli di prestazione
+
+
+                            IV          III       II
+Soluzioni conformi per i livelli di prestazione
+                        IV          III       II
+Flessibilità delle soluzioni conformi
+
+
+
+
+Indipendentemente dalle soluzioni conformi adottate per i
+rivestimenti sono comunque ammessi materiali installati a parete
+o a pavimento compresi nel gruppo di materiali GM4 per il 5%
+della superficie lorda interna delle vie d'esodo o dei locali
+dell'attività (es. somma delle superfici lorde di soffitto, pareti,
+pavimento ed aperture del locale).
+Soluzioni alternative
+
+
+
+ Sono ammesse soluzioni alternative per tutti i livelli di prestazione.
+
+
+ Il progettista deve fornire ulteriori valutazioni tecniche per il
+ raggiungimento del previsto livello di prestazione impiegando uno dei
+ metodi dell’ingegneria della sicurezza antincendio (es.: ridotta
+ produzione di fumi e calore, ausilio impianti di protezione attiva:
+ precoce rivelazione, rapido intervento.
+
+
+ Deve essere dimostrato che è comunque garantito il sicuro esodo degli
+ occupanti e se applicabile la protezione dei beni.
+Esclusione dalla verifica dei requisiti di reazione al fuoco
+
+
+
+Non è richiesta la verifica dei requisiti di reazione al fuoco per:
+✓ materiali stoccati od oggetto di processi produttivi (es. beni in
+   deposito, in vendita, in esposizione, ...);
+✓ elementi costruttivi o strutturali portanti per i quali sia già richiesta la
+   verifica dei requisiti di resistenza al fuoco;
+✓ materiali protetti con separazioni di classe di resistenza al fuoco
+   almeno K 30 o EI 30.
+Conclusioni
+
+
+La reazione al fuoco esprime il grado di partecipazione all’incendio
+valutato in condizioni di prova standardizzate.
+
+
+La reazione al fuoco si riferisce al comportamento dei materiali
+materiali nelle effettive condizioni finali di applicazione.
+Grazie dell’attenzione!
+
+
+
+
+                          lilia.pecile@vigilfuoco.it
+

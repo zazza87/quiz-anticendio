@@ -1,0 +1,612 @@
+Esempi progettazione su edifici
+ tutelati: Strategia S1
+ 4 Novembre 2026 – Ordine dei periti della provincia di Trieste
+ AULA VIRTUALE, MODALITA' STREAMING SINCRONO - VIDEOCONFERENZA
+ Dott. Tinti Gianluca - gianluca.tinti@gmail.com – tel 339 6655966
+ Ufficio: RTO + RTV V.4
+in soluzione alternativa
+ Introduzione
+Nel presente caso studio ci si
+occupa di un edifico storico
+vincolato, avente sei piani fuori
+terra; la distribuzione al piano
+tipo è la medesima per tutti,
+eccetto al secondo piano, ove è
+presente un archivio intensivo
+cartaceo.
+La superficie complessiva di
+ciascun piano è pari a circa 1100
+m2. L’edificio presenta strutture
+portanti verticali in muratura e
+strutture orizzontali in latero
+cemento.
+ Contestualizzazione attività inmeritoallaprevenzione incendi
+Ai sensi dell'Allegato 1 del d.p.r. 1 agosto 2011, n. 151 l'attività in esame,
+superando le 300 persone presenti, rientrerebbe nella classificazione di cui al
+punto 71.1.A.
+Come argomentato nel caso studio precedente, trattandosi, però, di un edificio
+tutelato, in base all'art. 2 del d.m. 3 agosto 2015 e s.m.i. al campo di applicazione
+della RTV V.10, si esula dal campo di applicazione del medesimo.
+Ai soli fini didattici, si applicherà ugualmente il Codice come strumento di
+progettazione facendo riferimento, considerata la tipologia di attività in esame,
+alla RTV V.4 - Uffici.
+È inoltre presente, al secondo piano, l’attività 34.1.B “Depositi di carta, cartoni e
+prodotti cartotecnici, archivi di materiale cartaceo, biblioteche, depositi per la
+cernita della carta usata, di stracci di cascami e di fibre tessili per l'industria della
+carta, con quantitativi in massa da 5000 a 50000 kg”.
+ Classificazione attivita’ufficio
+Si fa riferimento al Codice e, considerata la tipologia di attività in esame, alla RTV V.4 -
+Uffici (ex d.m. 8 giugno2016).
+Secondo il par. V.4.2 l’attività è classificabile:
+• In relazione al numero degli occupanti: 500 < n ≤ 800 OB;
+• In relazione alla massima quota dei piani: 12m < hs ≤ 24m HB
+e le aree presenti sono classificate come segue:
+• TA: locali destinati agli uffici e a spazi comuni;
+• TM: archivio di superficie lorda maggiore di 25 m2 e carico di incendio specifico qf >
+ 600 MJ/m2;
+• TT: locali in cui siano presenti quantità significative di apparecchiature elettriche ed
+ elettroniche.
+Si segnala che la RTV V.4 prevede, alla tab. V.4-6, requisiti aggiuntivi rispetto a quelli
+previsti nel Cap. S.7; pertanto occorre attribuire un livello minimo di prestazione pari a III
+alla misura rivelazione e allarme. Nel caso in esame, come esposto nel seguito della
+trattazione, il livello individuato è stato il IV.
+ Valutazione del rischio
+Profilo Rischio Vita
+Ai sensi del par. V 6.4 i profili di rischio sono determinati secondo la metodologia di cui al
+Capitolo G.3.
+(tab. G.3-4 e tabb. G.3-1 e G.3-2).
+Il profilo di rischio vita viene attribuito in relazione alle caratteristiche prevalenti degli
+occupanti δocc e la velocità caratteristica prevalente di crescita dell'incendio δa. Negli
+ambienti dei piani fuori terra del fabbricato si attribuisce a δocc = B, in quanto gli occupanti
+sono considerati in stato di veglia ma non hanno familiarità con l’edificio (uffici aperti al
+pubblico). Per quel che riguarda la velocità di crescita si attribuisce un δa pari a 2 in
+considerazione della prevalente destinazione d'uso (uffici).
+Pertanto, in tali ambienti si assume il profilo di rischio Rvita = B2.
+Il profilo di rischio beni attribuito all'edificio è Rbeni = 2, essendo l'attività vincolata ma non
+strategica inconsiderazione di pianificazioni di soccorso pubblico e difesa civile (per l’intera
+attività).
+Profilo Rischio Ambiente Rambiente = non significativo (non comporta misure
+antincendio aggiuntive).
+Strategia antincendio
+S.1 -Reazione al fuoco –soluzione conforme
+ Uffici (V.4)
+ A seguito della pubblicazione della RTV relativa
+ agli uffici, ad integrazione di quanto previsto
+ dalla RTO perla misura S.1, il par. V.4.4.1
+ specifica che:
+ 1. Nelle vie d'esodo verticali, passaggi di
+ comunicazione delle vie d'esodo
+ orizzontali (es. corridoi, atri, spazi calmi,
+ filtri, ...) devono essere impiegati
+ materiali appartenenti almeno al gruppo
+ GM2 di reazione al fuoco(Capitolo S.1).
+ 2. Negli ambienti del punto 1 è ammesso
+ l'impiego di materiali appartenenti al
+ gruppo GM3 di reazione al fuoco
+ (Capitolo S.1) con l'incremento di un
+ livello di prestazione delle misure
+ richieste per il controllo dell'incendio
+ (Capitolo 5.6) e per la rivelazione ed
+ allarme (Capitolo S.7).
+ S.1 -Reazione al fuoco –soluzione conforme
+Le pareti dell'archivio e dei corridoi uffici, lato chiostro interno, sono rivestite in legno che
+non risponde ai requisiti richiesti per la classe di reazione al fuoco dei materiali installati
+nelle le vie di esodo.
+Secondo il punto 1 del par. V.4.4.1, essendo tale corridoio una via di esodo orizzontale,
+devono essere presenti in loco solamente materiali appartenenti al gruppo GM2 di reazione
+al fuoco.
+La soluzione conforme per la misura S.1 obbliga il progettista ad adottare una soluzione
+alternativa.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Al fine di dimostrare il raggiungimento del livello di prestazione attribuito (III), il progettista
+deve impiegare uno dei metodi del par. G.2.7, nello specifico quello che prevede l'impiego
+di prodotti di tipo innovativo:
+ In aggiunta la tab. S.1-4 riporta alcune modalità generalmente accettate per la
+ progettazione di soluzioni alternative:
+ S.1 -Reazione al fuoco –soluzione alternativa
+Al punto S.1.4.4.3, è specificatamente indicato che “il progettista può comunque
+impiegare modalità diverse da quelle elencate”.
+Nello specifico, la scelta progettuale ricade nella disposizione di tende tagliafuoco (mobili)
+in aderenza, con funzione di protezione/compartimentazione, al lato interno delle pareti
+del percorso d'esodo.
+L'inserimento nel corridoio di tali tende tagliafuoco costituisce, pertanto, soluzione
+alternativa, per la misura Reazione al fuoco, in rapporto ai percorsi d'esodo dagli uffici e
+dall'archivio.
+Naturalmente, il progetto antincendio dovrà esaminare tutte le problematiche inerenti le
+dieci misure della strategia; nello specifico, all'atto della progettazione della misura S.4
+Esodo, il progettista dovrà farsi carico di verificare, mediante un'analisi fluidodinamica, la
+garanzia delle condizioni di salvaguardia della vita degli occupanti, alla luce delle ipotesi
+qui assunte, nella via d'esodo, perla misura S.1 Reazione al fuoco.
+ S.1 -Reazione al fuoco –soluzione alternativa
+La soluzione alternativa per la
+misura S.1 Reazione al fuoco, come
+noto, ha come oggetto la
+“partecipazione dei materiali
+all'incendio” (tab. S.1-4) e richiede e
+che si dimostri che sia comunque
+garantita la salvaguardia della vita
+degli occupanti (Cap. M.3) e, se
+applicabile, la protezione dei beni,
+prevedendo scenari d'incendio di
+progetto ad hoc negli ambiti ove non
+siano installati i materiali con i
+requisiti minimi di reazione al
+fuocorichiesti.
+AI fine di dimostrare il
+raggiungimento del livello di
+prestazione, si è pertanto impiegato
+il metodo, di cui al par.G.2.7, che
+prevede l'impiego di prodotti o
+tecnologie di tipo innovativo.
+Si è quindi proposta
+l'installazione di
+tende tagliafuoco
+(mobili) in aderenza
+al lato interno delle
+pareti del percorso
+d’esodo (linee rossa e
+blu nella figura
+seguente);
+ S.1 -Reazione al fuoco –soluzione alternativa
+Le tende tagliafuoco saranno realizzate in materiale
+tessile isolante, con spazio di ingombro ridotto, senza
+raffreddamento ad acqua e, quelle scelte,
+risponderanno alle seguenti caratteristiche tecniche:
+- direzione di chiusura: dall'alto in basso;
+- abbassamento motorizzato con alimentazione
+ elettrica di sicurezza;
+- Resistenza al fuoco: almeno El 30 testato secondo:
+ - norma EN 1634-1:2014-03 “Test di resistenza
+ al fuoco e controllo del fumo per gruppi di
+ porte e persiane, finestre apribili ed elementi
+ di ferramenta per l'edilizia - Parte 1: Test di
+ resistenza al fuoco per gruppi di porte e
+ persiane e finestre apribili”;
+ - norma EN 13501-2:2016-12 “Classificazione
+ dei prodotti da costruzione e dei tipi di
+ costruzione in relazione alla loro reazione al
+ fuoco - Parte 2: Classificazione con i risultati
+ delle prove di resistenza al fuoco, ad eccezione
+ dei sistemi di ventilazione”;
+ S.1 -Reazione al fuoco –soluzione alternativa
+Le tende tagliafuoco saranno realizzate in materiale
+tessile isolante, con spazio di ingombro ridotto, senza
+raffreddamento ad acqua e, quelle scelte,
+risponderanno alle seguenti caratteristiche tecniche:
+- Classe di reazione al fuoco: almeno B - s1, d0;
+- marcatura CE secondo:
+ - o norma EN 16034:2014 “Porte pedonali,
+ porte industriali, commerciali, da garage e
+ finestre apribili - Norma di prodotto,
+ caratteristiche prestazionali - Caratteristiche di
+ resistenza al fuocoe/o controllo del fumo,
+ fuoco e/o controllo del fumo e/o sulle vie di
+ fuga”;
+ - norma EN 13241:2003+A2:2016 “Porte e
+ cancelli industriali, commerciali e da garage-
+ Norma di prodotto, caratteristiche
+ prestazionali”.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Per quanto riguarda prodotti di tipo “innovativo”, come nel caso della barriera al fuoco, da
+quanto esposto nella tab. G.2-1, essendo tale uso non normato, al fine di una valutazione, in
+assenza di specifiche tecniche, l'idoneità all'impego del prodotto nelle condizioni previste
+per la specifica applicazione può essere giustificato dal professionista antincendio attraverso
+una valutazione dei rischi fatta sulla base di pertinenti certificazioni di prova rilasciate da
+organismi autorizzati a tal fine.
+Le certificazioni citate dovranno fare riferimento a norme o specifiche nazionali,
+internazionali o, in assenza di queste, a specifiche adottate da laboratorio di prova
+autorizzato. Sarà cura del fabbricante del prodotto di tipo “innovativo" mettere a
+disposizione del professionista antincendio una documentazione tecnica, corredata delle
+certificazioni di prova, attestante le caratteristiche dello stesso nonché le relative procedure
+di valutazione prestazionale, con particolare riferimento al comportamento al fuoco e alle
+eventuali limitazioni di utilizzo individuate dagli organismi certificatori.
+La soluzione proposta assicura che per le vie di esodo, dall'archivio intensivo e dagli uffici
+dell'ala Est, la garanzia che i materiali installati appartengono almeno al gruppo GM2; la
+tenda tagliafuoco, in caso di allarme incendio, si porterà in posizione di chiusura, andando a
+coprire i rivestimenti in legno di pregio che, in tal modo, non contribuiranno all'incendio e,
+nello stesso tempo, saranno protetti dagli effetti dell'incendio stesso.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Il requisito di resistenza al fuoco almeno El30 permette, inoltre, di ottenere l'ulteriore
+effetto di contenere l'irraggiamento verso il chiostro centrale e, in particolare, verso la scala
+di sicurezza esterna.
+La scala installata, per prescrizione della Soprintendenza, a distanza di circa 1,40 m dalla
+facciata, potrà così essere classificata come via di esodo esterna secondo la tab. S.4-5, con
+particolare riferimento al criterio 2,risolvendo la criticità connessa al potenziale
+irraggiamento dalle finestre dell'archivio verso la scala di sicurezza esterna.
+La porzione di chiusura d'ambito dell'opera da costruzione sulla quale è collocata la scala
+(facciata Sud dell'archivio intensivo) avrà caratteristiche di resistenza al fuoco non inferiori a
+EI30, sia per quanto riguardale strutture (classificate con metodo tabellare) sia per quanto
+riguarda gli infissi, che saranno tamponati dalla tenda tagliafuoco.
+Al fine di raggiungere gli obiettivi di sicurezza antincendio sarà previsto per la misura 5.7
+Rivelazione ed allarme, un IRAI con livello di prestazione IV e, perla misura 5.4 Esodo,
+un'illuminazione sicurezza sui percorsi d'esodo conforme alle indicazioni della norma UNI
+EN 1838 e con 2 lx lungo la linea centrale della via d'esodo(illuminamento doppio rispetto al
+minimo richiesto).
+ Scuola: RTO + RTV V.7
+in soluzione alternativa
+ Introduzione
+Nel presente caso studio ci si
+occupa di un edificio storico
+vincolato avente quattro piani, di
+cui tre fuori terra ed uno
+interrato.
+I locali fuori terra sono adibiti ad
+attività scolastica e presentano
+una superficie complessiva di
+piano pari rispettivamente a 521,
+560 e 570 m2.
+ Introduzione
+- AI piano terra sono ubicati gli
+ uffici di segreteria, la sala
+ docenti ed aule didattiche;
+- ai piani primo e secondo sono
+ allocate aule studio e
+ didattiche,
+- al piano interrato, per una
+ porzione limitata dello stesso,
+ sono presenti, a quota di -
+ 4,00 m, reperti di natura
+ archeologica che saranno resi
+ visitabili.
+ L'edificio è costituito da un corpo di fabbrica originario e uno di
+ nuova realizzazione con strutture portanti verticali in muratura e
+ strutture orizzontali in legno di castagno, con sovrastante soletta di
+ irrigidimento in cemento armato. L'affollamento è variabile in
+ relazione ai giorni e alle fasce orarie, con valori massimi di 214
+ occupanti presenti al piano terra, 248 al piano primo e altrettanti al
+ piano secondo, per un totale di 710 (densità di affollamento
+ massima di 0,42 persone/m2). L'affollamento nello spazio
+ seminterrato, adibito ad area archeologica, può essere stimato
+ occasionalmentein 10 occupanti (visitatori).
+ Contestualizzazione attività inmeritoallaprevenzione incendi
+Ai sensi dell'Allegato 1 del d.p.r. 1 agosto 2011, n. 151 l'attività in esame,
+superando le 300 persone presenti, rientrerebbe nella classificazione di cui al
+punto 67.4.C.
+Come argomentato nel caso studio precedente, trattandosi, però, di un edificio
+tutelato, in base all'art. 2 del d.m. 3 agosto 2015 e s.m.i. al campo di applicazione
+della RTV V.10, si esula dal campo di applicazione del medesimo.
+Ai soli fini didattici, si applicherà ugualmente il Codice come strumento di
+progettazione facendo riferimento, considerata la tipologia di attività in esame,
+alla RTV V.7 - Scuole.
+ Classificazione attivita’ufficio
+Si fa riferimento al Codice e, considerata la tipologia di attività in
+esame, alla RTV V.7 - Attività scolastiche (ex d.m. 7 agosto 2017).
+Secondo il par. V.7.2 l’attività è classificabile:
+- In relazione al numero degli occupanti: 500 < n ≤ 800 OC;
+- In relazione alla massima quota dei piani: h < 12m HA
+le aree presenti sono classificate come segue:
+- TA: locali destinati ad attività didattica e a spazi comuni;
+- TT: aula informatica, al piano terra, con numero significativo di
+ postazioni.
+ Valutazione del rischio
+Profilo Rischio Vita
+Ai sensi del par. V 6.4 i profili di rischio sono determinati secondo la metodologia di cui al
+Capitolo G.3. (tab. G.3-4 e tabb. G.3-1 e G.3-2).
+Negli ambienti dei piani fuori terra del fabbricato si attribuisce a δocc = A, in quanto gli
+occupanti sono considerati in stato di veglia e con familiarità con l’edificio. Per quel che
+riguarda la velocità di crescita si attribuisce un δa pari a 2 in considerazione della
+destinazione d'uso (aule didattiche, uffici e piccoli archivi).
+Pertanto, in tali ambienti si assume il profilo di rischio Rvita = A2.
+Agli ambienti del piano interrato, trattandosi di area con reperti archeologici destinata a
+visite di studio e culturali, viene attribuita la caratteristica degli occupanti di tipo B (stato di
+veglia ma mancanza di familiarità con i locali) e la velocità di crescita dell'incendio di tipo
+lenta con δa = 1. Pertanto, in tali ambienti si assume il profilo di rischio Rvita = B1.
+Il profilo di rischio beni attribuito all'edificio è Rbeni = 2, essendo l'attività vincolata ma non
+strategica inconsiderazione di pianificazioni di soccorso pubblico e difesa civile (per l’intera
+attività).
+Profilo Rischio Ambiente Rambiente = non significativo (non comporta misure
+antincendio aggiuntive).
+Strategia antincendio
+ S.1 -Reazione al fuoco –soluzione conforme
+ Scuole (V.4)
+ A seguito della pubblicazione della RTV relativa
+ agli edifici scolastici, ad integrazione di quanto
+ previsto dalla RTO perla misura S.1, il par.
+ V.7.4.1 specifica che:
+ 1. Nelle vie d'esodo verticali, passaggi di
+ comunicazione delle vie d'esodo
+ orizzontali (es. corridoi, atri, spazi calmi,
+ filtri, ...) devono essere impiegati
+ materiali appartenenti almeno al gruppo
+ GM2 di reazione al fuoco(Capitolo S.1).
+ 2. Negli ambienti del punto 1 è ammesso
+ l'impiego di materiali appartenenti al
+ gruppo GM3 di reazione al fuoco
+ (Capitolo S.1) con l'incremento di un
+ livello di prestazione delle misure
+ richieste per il controllo dell'incendio
+Rvita: B1 (Capitolo 5.6) e per la rivelazione ed
+Rvita: A2 allarme (Capitolo S.7).
+ S.1 -Reazione al fuoco –soluzione conforme
+Nel caso in esame nel corridoio al piano terra, collegante l'ingresso principale con la scala per i piani
+superiori e la corte interna, sono installati dei pannelli di legno a rivestimento delle pareti.
+Tali pannelli sono lunghi circa 9,00 m, alti 2,00 m e con spessore di 2 cm.
+Secondo il punto 1 del par. V.7.4.1, essendo tale corridoio una via di esodo orizzontale, devono essere
+presenti in loco solamente materiali appartenenti al gruppo GM2 di reazione al fuoco.
+La soluzione conforme per la misura S.1, a questo punto, richiederebbe la rimozione o il trattamento di
+tali pannelli in legno con specifiche vernici in grado di rallentare efficacemente i tempi di diffusione ed
+avanzamento del fuoco, poiché tale rivestimento a parete non rientra nel gruppo GM2 prescritto.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Tuttavia, a causa
+del vincolo
+esistente, non e’
+possibile
+verniciare né
+tanto meno
+rimuovere, tali
+pannelli perché
+considerati di
+pregio.
+Tale circostanza ha condotto il progettista a valutazioni più approfondite attraverso
+l'applicazione di una soluzione alternativa, volta a dimostrare che, qualora si verifichi un
+incendio nei locali al piano terra, tali pannelli di legno non partecipino alla combustione,
+mantenendo sicura la via di esodo per gli occupanti che vi transitano per raggiungere
+l'esterno dell'edificio.
+ S.1 -Reazione al fuoco –soluzione alternativa
+La soluzione alternativa per la misura S.1 Reazione al fuoco, come noto, ha come oggetto la
+“partecipazione dei materiali all'incendio” (tab. S.1-4) e richiede e che si dimostri che sia
+comunque garantita la salvaguardia della vita degli occupanti (Cap. M.3) e, se applicabile, la
+protezione dei beni, prevedendo scenari d'incendio di progetto ad hoc negli ambiti ove non
+siano installati i materiali con i requisiti minimi di reazione al fuoco richiesti.
+Come da prassi, lungo tale corridoio sono ridotte al minimo le fonti di innesco e non vi è la
+presenza di alcun materiale combustibile; si intende, infatti, lasciare il corridoio “vuoto” .Al
+fine di dimostrare, così come richiesto, la garanzia della salvaguardia della vita umana, si
+procede con una scelta progettuale che prevede l'installazione di una vetrata con una
+cortina EI30 fino a 2,30 m da terra nel corridoio in cui si trova il rivestimento a parete che
+non soddisfa i requisiti richiesti.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Tale scelta traguarda il duplice scopo di evitare che un incendio, che si sviluppi negli
+ambienti al primo piano del fabbricato, possa propagarsi nel corridoio dove è presente il
+rivestimento in legno, e di assimilare la scala monumentale, presente nella zona
+dell'ingresso principale dell'attività, ad una a prova di fumo, aspetto tuttavia legato alla
+misura 5.3 Compartimentazione.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Si procede alla valutazione inerente alla partecipazione dei materiali all'incendio, secondo
+ quanto prescritto nella Sezione Metodi del Codice.
+Definizione degli obiettivi di sicurezza antincendio
+ll Cap. M.3 del Codice, come noto, tratta gli aspetti legati alla salvaguardia della vita con la
+progettazione prestazionale. L'obiettivo di sicurezza identificato è quello di evitare che, per
+il tempo disponibile per l'esodo, il fumo ed il calore di un incendio al piano terra, in uno dei
+locali adiacenti l'atrio di ingresso, penetri nell'atrio principale dia luogo alla combustione dei
+pannelli di rivestimento in legno ivi presenti.
+Definizione delle soglie di prestazione (par. M.3.3.2)
+Nell'ambito del metodo di calcolo semplificato per ASET le soglie di prestazione sono
+rappresentate da:
+- altezza minima dei fumi superiore ai 2,00 m dal piano di calpestio;
+- temperatura media dello strato caldi dei fumi non superiore a 200°C;
+in modo da garantire un esodo in aria indisturbata ed un valore di irraggiamento termico
+non superiore a 2,5KW/m2; il limite di temperatura non superiore a 200°C permette,
+inoltre, di considerare non partecipanti alla combustione i listoni di legno la cui temperatura
+di accensione è all'incirca pari a 230 °C.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Individuazione degli scenari di incendio di progetto
+Sono stati considerati differenti scenari di incendio, che variano essenzialmente nella
+posizione dell'innesco; in questo contesto si presentano i risultati di uno degli scenari,
+ritenuto tra i più significativi in termini di propagazione dei fumi e del calore.
+Lo scenario in questione prevede un incendio nella stanza della segreteria avente superficie
+di 22,45 m2.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Parametri di modello del bruciatore
+Per la determinazione della curva HRR, da inserire nel modello fluidodinamico, si è fatto
+ricorso a quanto indicato nel prospetto E.5 dell'Eurocodice 1 - EN 1991-1-2, che per gli uffici
+prevede:
+A questo punto è possibile costruire la curva HRR secondo quanto prescritto al Cap. M.2;
+quale carico di incendio si assume il valore riportato nel prospetto E.4 dell'Eurocodice 1 - EN
+1991-1-2:
+ S.1 -Reazione al fuoco –soluzione alternativa
+Parametri di modello del bruciatore
+La curva HRR per la stanza adibita a segreteria (destinazione d'uso uffici) avrà una crescita media (t=
+300s), un valore di HRR di picco di 250 kW/m2 ed una durata complessiva dell'incendio di poco meno di
+un'ora.
+Nel caso in esame, la reazione chimica di fase
+gassosa assunta da FDS è stata determinata con
+riferimento ai valori previsti nella letteratura
+tecnica (SFPE Handbook Sth Edition - tabb. A.30 e
+A.39) in riferimento alla combustione della
+cellulosa:
+&REAC FUEL = 'CELLULOSA’
+, FORMULA='C6H1005
+, SOOT_YIELD=0.1
+, CO_YIELD=0.005
+, HEAT_OF_COMBUSTION=17900
+La scelta della REAC relativa alla cellulosa è stata fatta in relazione al materiale prevalente (carta e arredi)
+e meglio rappresentativo del focolaio impiegato nel caso studio. Nello specifico, il valore di soot yield,
+parametro che rappresenta la percentuale di massa del combustibile convertita in particelle di fumo,
+scelto per il modello fluidodinamico è pari a 0,1 kg/kg, avendolo incrementato, a titolo cautelativo. Tale
+valore è stato valutato in funzione dell'esempio di “room fine" che si trova tra i documenti di installazione
+di FDS 6 e in considerazione del focolare predefinito nel Codice che prevede un range di valori tra 0,07 e
+0,14kg/kg.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Elaborazione delle soluzioni progettuali – Modello FDS
+Allo scopo di valutare la propagazione dei fumi e delle temperature generate da un incendio
+al piano terra, parte del piano in questione è stata modellata con il codice di calcolo FDS.
+Nella figura seguente è evidenziata la parte di struttura considerata; il volume del modello è
+pari a 20x24 x8m con una mesh di 10 cm.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Elaborazione delle soluzioni progettuali – modello FDS
+Con l'obstruction gialla si è individuata la cortina che scende fino a 2,30 m, mentre in rosso
+sono rappresentatele porte di ingresso nell'edificio e la porta che conduce alla corte interna
+del fabbricato.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Elaborazione delle soluzioni progettuali – Modello FDS
+Perlo scenario di incendio considerato sono stati processati due sotto-scenari:
+- Lo scenario 1A, che vede la chiusura, durante tutto l'incendio, delle finestre
+ nelle diverse sale;
+- Lo scenario 18, per il quale si ipotizza che, al raggiungimento di una
+ temperatura pari a 120°C, i vetri delle finestre si rompano e lascino fuoriuscire
+ verso l'esterno fumi e calore.
+Di seguito si riportano i risultati di entrambi gli scenari; ovviamente lo scenario 1A
+risulterà il più gravoso, in termini di propagazione di fumi, ma anche il meno
+realistico essendo, tra l'altro, gli infissi dotati di aperture asservite a IRAI e che
+quindi la] loro apertura avverrà addirittura prima del raggiungimento della loro
+temperatura “critica”.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Valutazione delle soluzioni progettuali – Calcolo RSET
+Si impiega la metodologia descritta nel Cap. M.3, per l'obiettivo di sicurezza
+precedentemente descritto.
+Come noto, RSET è determinato come somma di alcuni tempi elementari che lo
+compongono:
+- il tempo di rivelazione (detection) tdet
+- il tempo di allarme generale ta
+- il tempo di pre-evacuazione (pre-travel activity time, PTAT) tpre
+- il tempo di movimento (travel) ttra
+Vale quindi:
+ RSET = tdet + ta + tpre + ttra
+Il calcolo di RSET viene eseguito in riferimento al rapporto tecnico ISO/TR
+16738:2009.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Valutazione delle soluzioni progettuali – Calcolo RSET
+L'attività si ritiene ad elevata densità di affollamento e quindi:
+ RSET = tdet + ta + tpre (1° percentile) + ttra (pres) + ttra(coda)
+dove:
+- Il tempo di rivelazione tdet è stato assunto pari a 120 s, in considerazione che l'edificio è
+ dotato di impianto IRAI, livello di prestazione per la gestione della sicurezza antincendio
+ medio, addetti formati al rischio antincendio e compartimenti di ridotte dimensioni!”;
+- Il tempo di allarme ta viene assunto pari a zero, in presenza di funzione C dell'IRAI esteso a
+ tuttol'attività.
+- tpre (1° percentile), è il ltempo di pre-movimento per i primi occupanti; il rapporto tecnico
+ ISO/TA 167382009, allallegato E, riporta i tempi di pre-movimento per il 1° percentile in
+ funzione dello scenario comportamentale considerato, della tipologia del sistema di allarme,
+ della complessità dell’edificio, dell'efficacia della gestione della sicurezza.
+- Per l’attività in oggetto di studio (con profilo di rischio Rita A2) si ha:
+ - livello A1 del sistema di allarme: rivelazione automatica estesa a tutto l’edificio in grado
+ di attivare un allarme generale;
+ - livello B2 della complessità dell'edificio: edificio a più piani con layout interni rispondenti
+ alle regole prescrittive;
+ - livello M1 della gestione della sicurezza antincendio considerato che la misura 5.5
+ prevedeun livello di prestazione II
+ S.1 -Reazione al fuoco –soluzione alternativa
+Valutazione delle soluzioni progettuali – Calcolo RSET
+Dalla seguente tabella si ottiene tpre(1° percentile) di 60 s; si segnala, peraltro, che tale tempo è
+riferito aduna situazione più sfavorevole di quella che si sta esaminando, prevedendo un livello di
+gestione della sicurezza con livello di prestazione I (M2}, mentre quello di progetto sarà di livello
+di prestazione II (M1)
+ S.1 -Reazione al fuoco –soluzione alternativa
+Valutazione delle soluzioni progettuali – Calcolo RSET
+- ttra(pres) tempo di presentazione, ovvero il tempo necessario all’i-esimo occupante per
+ presentarsi, dal luogo in cui si trova, all'uscita verso luogo il sicuro temporaneo. È calcolato
+ come il rapporto tra la massima lunghezza del percorso fino all'uscita di piano (pari a
+ circa20,00 m) e la velocità di traslazione orizzontale voi: assunta per gli occupanti. Nel caso in
+ questione si è scelto di considerare per quest'ultima il valore di 0,71 m/s;
+- tra(coda), tempo di coda, tempo di attesa in coda all'uscita verso luogo sicuro temporaneo per
+ l'ultimo occupante a muoversi che dipende dalla geometria della via di esodo e dal numero di
+ occupanti inattesa all'uscita, prima dell’i-esimo occupante. Viene calcolato impiegando
+ l'equazione seguente:
+ S.1 -Reazione al fuoco –soluzione alternativa
+Valutazione delle soluzioni progettuali – Calcolo RSET
+In definitiva si ottiene
+RSET = tdet + ta + tpre (1° percentile) + tra (pres) + ttra (coda) = 120 + 0 + 60 + 28 +
+ 249 = 457 s
+Come noto, vedi par. M.3.2.2, il sistema di esodo si ritiene efficace se ASET > RSET,
+se cioè il tempo in cui permangono condizioni non incapacitanti per gli occupanti è
+superiore al tempo necessario perché essi possano raggiungere un luogo sicuro.
+Il calcolo di ASET viene svolto mediante il metodo di calcolo semplificato (par.
+M.3.3.2) con l'utilizzo delle analisi eseguite con FDS. L'intervallo di tempo
+intercorrente tra l'innesco dell'incendio e l'istante in cui fallisce la prima delle due
+soglie di prestazione, è il tempo disponibile per l'esodo.
+Considerando la conservatività delle ipotesi assunte nel calcolo di RSET, la soglia di
+prestazione si ritiene verificata con un margine di sicurezza tmarg > 10% RSET con
+un minimo di 30 s.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Risultato dell'analisi degli scenari d’incendio
+La simulazione della dinamica dell'incendio è stata condotta per un tempo di circa
+660 s, manifestando l'assenza dei fumi al di là della cortina EI30 posta nell'atrio di
+ingresso ed una temperatura nella via di esodo dell'atrio di ingresso che rimane al
+di sotto dei 30°C.
+L'arresto dell'analisi fluidodinamica a 660 s non raffigura tuttavia il raggiungimento
+del valore di ASET, che risulta superiore a tale tempo. Tuttavia, si è ritenuto di non
+proseguire oltre con le analisi poichè il margine su RSET garantisce di soddisfare
+ampiamente quello dei 45 s (10% RSET imposto), data la conservatività delle
+ipotesi assunte nel calcolo di RSET.
+Scenario 1A
+Di seguito di riportano le rappresentazioni grafiche inerenti la propagazione dei
+fumi, al passare del tempo; sinoti come per i primi due minuti il fumo rimane
+confinato nella zona dell’innesco per poi propagarsi anche nellealtre
+stanze.Aspetto poco visibile, ma di particolare interesse, è che intorno ai tre minuti
+il fumo inizia a “scavalcare” lacortina, in quantità poco significativa e sempre
+mantenendosi rasente al soffitto.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Risultato dell'analisi
+degli scenari
+d’incendio - Scenario
+1A
+Di seguito di riportano
+le rappresentazioni
+grafiche inerenti la
+propagazione dei fumi,
+al passare del tempo;
+si noti come per i
+primi due minuti il
+fumo rimane
+confinato nella zona
+dell’innesco per poi
+propagarsi anche nelle
+altre stanze.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Risultato dell'analisi degli
+scenari d’incendio - Scenario 1A
+Aspetto poco visibile, ma di
+particolare interesse, è che
+intorno ai tre minuti il fumo
+inizia a “scavalcare” la cortina,
+in quantità poco significativa e
+sempre mantenendosi rasente
+al soffitto.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Risultato dell'analisi
+degli scenari d’incendio
+- Scenario 1A
+Dalla vista laterale ad un
+tempo di circa 196 s
+(poco più di 3 min
+appunto) si può notare
+meglio questo
+“passaggio” di fumo che
+oltrepassa la cortina,
+anche l'immagine della
+soot optical density lo
+mostra chiaramente.
+A 460 s si osserva, come ci si attendeva, che la quantità di fumo che oltrepassa la cortina
+aumenta, ma che comunque rimane sempre limitato alla zona alta del corridoio. Anche
+nella situazione peggiore, con finestre sempre chiuse, la cortina, infatti, riesce a
+compantimentare il fumo e ad indirizzario, il più possibile, verso l'uscita principale
+dell'edificio.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Risultato dell'analisi degli scenari d’incendio - Scenario 1A
+Per completare l'analisi del risultati dello scenario 1A si riporta anche la slice della
+temperatura a 8 min. SÌ può osservare che le temperature rimangono al di sotto dei 50%.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Risultato dell'analisi degli scenari d’incendio - Scenario 1B
+La immagini seguenti riportano l'andamento del fumi nello scenario in questione. Si noti
+come la prima finestra si rompa dopo 3 min circa, la seconda dopo 4 min è la terza dopo
+circa 7 min.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Risultato dell'analisi degli
+scenari d’incendio - Scenario 1B
+ S.1 -Reazione al fuoco –soluzione alternativa
+Risultato dell'analisi degli scenari d’incendio - Scenario 1B
+La rottura delle finestre rappresenta un aspetto fondamentale per la propagazione dei fumi
+e del calore; infatti tale apertura fa sì che i fumi non si accumulino nell'atrio e non creino i
+presupposti per il superamento della cortina.
+A parte, infatti, un piccolo “sbuffo” intorno ai 3 min, i fumi restano localizzati e fuoriescono,
+senza complicazioni, all'esterno dalle finestre e dal portone di ingresso.
+ S.1 -Reazione al fuoco –soluzione alternativa
+Risultato dell'analisi degli scenari d’incendio - Scenario 1B
+Scelta della soluzione
+progettuale più idonea
+A seguito dell'analisi
+fluidodinamica sviluppata si può
+concludere che la scelta di
+disporre nel corridoio dell'atrio
+principale una cortina fino ai
+2,30 m dal piano calpestio,
+garantisce la localizzazione dei
+fumi e del calore ed evita
+l’innesco dei pannelli di legno]
+presenti sulle pareti del
+corridoio a piano terra.
+Pertanto, tale soluzione tecnica
+si è dimostrata idonea al
+raggiungimento dell'obiettivo di
+sicurezza prefissato.
+

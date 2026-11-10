@@ -1,0 +1,624 @@
+ Comando dei Vigili del Fuoco di Trieste
+ Corso per professionisti antincendio
+Modulo 2.2 -Generalità sul rischio e sulle misure preventive e protettive.
+ Sostanze estinguenti.
+RELATORE: V.D. Ing. Salvatore Biondi
+ AGENDA
+1. Rischio incendi
+2. Cause d'incendio
+3. Danni causati da un incendio
+4. Misure di prevenzione incendi
+5. Sistemi di protezione
+6. Sostanze estinguenti
+ 2
+ 1.RISCHIO INCENDI
+PERICOLO: potenzialità intrinseca di una sorgente, sostanza,
+attività o situazione di causare un danno.
+RISCHIO: misura associata alla possibilità
+(probabilità/frequenza) che il pericolo si concretizzi in un
+evento dannoso.
+ 3
+ 1.RISCHIO INCENDI
+Il rischio come valore atteso di danno
+Quando è nota la frequenza di accadimento di uno scenario incidentale, il rischio può
+essere quantificato come:
+ 𝑅 =𝑓⋅𝐷
+dove:
+• 𝑓= frequenza di accadimento dello scenario nell’unità di tempo 𝑎𝑛𝑛𝑜 ;
+• 𝐷= entità delle conseguenze associate allo scenario 𝑑𝑎𝑛𝑛𝑜/𝑒𝑣𝑒𝑛𝑡𝑜 ;
+• 𝑅= valore atteso del danno per unità di tempo 𝑑𝑎𝑛𝑛𝑜/𝑎𝑛𝑛𝑜 .
+Il rischio quantitativo rappresenta quindi il danno medio statisticamente atteso per
+unità di tempo, ottenuto combinando la frequenza dello scenario con la gravità delle
+sue conseguenze.
+Se uno stesso evento può evolvere in più scenari:
+ 𝑅= 𝑓𝐶
+Frequenza e probabilità non coincidono. Assumendo un processo di Poisson a frequenza
+costante, dalla frequenza è possibile ricavare la probabilità che l'evento si verifichi almeno
+una volta nell'intervallo 𝑡:
+ 𝑃 𝑁 ≥ 1𝑡 = 1 − 𝑒
+ 4
+ 1.RISCHIO INCENDI
+Il rischio come livello di criticità
+Quando non sono disponibili dati sufficienti per quantificare la frequenza di accadimento di un
+evento, si ricorre a una valutazione qualitativa del rischio.
+Il rischio viene rappresentato schematicamente come:
+ 𝑅 =𝑃×𝐷
+dove:
+• 𝑃= stima della probabilità che si verifichi un evento;
+• 𝐷= stima della gravità delle conseguenze;
+• 𝑅= livello o indice di rischio risultante.
+In questo caso 𝑃 non rappresenta necessariamente una probabilità matematica e il risultato
+non rappresenta un danno atteso annuo.
+Il rischio qualitativo esprime quindi un livello convenzionale di criticità, ottenuto combinando la
+probabilità di accadimento di un evento con la gravità delle conseguenze ipotizzabili.
+ 5
+ 1.RISCHIO INCENDI
+ Curva di isorischio: stesso valore atteso di rischio
+Riduzione del rischio mediante:
+• riduzione della frequenza/probabilità - «prevenzione»
+• riduzione della magnitudo(danno) - «protezione»
+ 6
+ 1.RISCHIO INCENDI
+il rischio incendi esprime il livello di criticità associato alla possibilità
+che tale pericolo si concretizzi e alla gravità del danno che ne può
+derivare.
+il rischio d’incendio di un’attività non può essere ridotto a zero.
+Le misure antincendio di prevenzione, di protezione e gestionali sono
+pertanto selezionate al fine di minimizzare il rischio d’incendio, in
+termini di probabilità e di conseguenze, entro limiti considerati
+accettabili.
+Non essendo possibile eliminare completamente il rischio, attraverso
+l’adozione di adeguate misure di prevenzione e protezione è possibile
+ridurlo fino a conseguire un livello di rischio residuo ritenuto accettabile.
+ 7
+ 1.RISCHIO INCENDI
+Gestione del rischio residuo
+Il rischio residuo permane in capo all'attività; una parte delle relative
+conseguenze economiche può essere trasferita mediante strumenti
+assicurativi.
+ prevenzione + protezione
+ 𝑅iniziale 𝑅residuo
+ Il rischio residuo è altresì mitigato dall’intervento dei Vigili del
+ Fuoco
+ 8
+ 1.RISCHIO INCENDI
+L’incendio può produrre danni a persone, beni e ambiente. La valutazione considera quindi tre
+distinti profili di rischio:
+RISCHIO VITA | 𝑅
+Esprime il livello di rischio per la vita e l’incolumità delle persone, in relazione agli effetti
+dell’incendio e alla capacità degli occupanti di raggiungere o permanere in condizioni di
+sicurezza.
+RISCHIO BENI | 𝑅
+Esprime il livello di rischio di danneggiamento dei beni e del patrimonio presenti nell’attività,
+tenendo conto anche dell’eventuale valore strategico, storico o culturale dei beni da proteggere.
+RISCHIO AMBIENTE | 𝑅
+Esprime il livello di rischio di danno all’ambiente derivante dall’incendio e dai suoi effetti, quali
+prodotti della combustione, sostanze pericolose rilasciate o altri effetti conseguenti all’evento.
+Il Codice di prevenzione incendi (DM 3 agosto 2015)definisce i criteri e le modalità per determinare
+i profili di rischio 𝑅 , 𝑅 e𝑅 , attraverso un approccio semplificato di tipo qualitativo,
+basato sulle caratteristiche dell’attività, degli occupanti e dei beni esposti.
+ 9
+ 1.RISCHIO INCENDI
+Il Capitolo M2 del Codice di prevenzione incendi, seleziona analiticamente gli scenari d'incendio
+credibili tramite alberi degli eventi, valutandone probabilità e severità per modellare e verificare
+quantitativamente gli effetti dell'incendio al variare dell'efficacia delle protezioni presenti.
+ 𝐏𝐑𝐄𝐕𝐄𝐍𝐙𝐈𝐎𝐍𝐄 𝐈𝐍𝐂𝐄𝐍𝐃𝐈 CON LA 𝐅𝐒𝐄
+ rischio qualitativo R=PxD
+ ↓
+ individuazione degli incendi credibili
+ ↓
+ Albero degli eventi ETA
+ ↓
+ 𝑃 𝑆𝑐𝑒𝑛𝑎𝑟𝑖𝑜𝑖 d′incendio
+ ↓
+ scenari di progetto
+ ↓
+ modellazione degli effetti
+ 10
+ 1.RISCHIO INCENDI
+Il rischio deve essere valutato nel contesto reale dell’attività
+Il rischio incendio non è una caratteristica astratta dell’attività, ma deve essere valutato
+considerando le condizioni effettivamente presenti e le modalità con cui un possibile incendio può
+svilupparsi e produrre danni.
+La valutazione deve quindi considerare:
+• Pericoli presenti
+ materiali combustibili e infiammabili, sostanze pericolose, quantità e modalità di deposito;
+• Possibili sorgenti di innesco
+ impianti elettrici, superfici calde, fiamme libere, lavorazioni a caldo, scariche elettrostatiche,
+ reazioni chimiche;
+• Caratteristiche dell’attività
+ lavorazioni svolte, processi, impianti, geometria e caratteristiche costruttive degli ambienti;
+• Persone esposte
+ numero, distribuzione, familiarità con i luoghi ed eventuali condizioni che possono limitarne la
+ capacità di evacuazione;
+• Beni esposti
+ materiali, attrezzature, strutture e beni di particolare valore o rilevanza;
+• Possibili effetti sull’ambiente
+ rilascio di sostanze pericolose, prodotti della combustione e conseguenze esterne all’attività;
+• Misure di prevenzione e protezione presenti
+ misure finalizzate a ridurre la possibilità di accadimento dell’incendio e a limitarne gli effetti.
+ 11
+ 1.RISCHIO INCENDI
+Le componenti fondamentali da considerare nella valutazione del rischio sono:
+1. l’individuazione dei pericoli di incendio(combustibili e inneschi);
+2. la descrizione del contesto e dell’ambiente in cui i pericoli sono inseriti;
+3. la determinazione di quantità e tipologia degli occupanti esposti al rischio di
+ incendio;
+4. l’individuazione dei beni esposti al rischio di incendio;
+5. la valutazione qualitativa (soluzione conforme) o quantitativa (soluzione alternativa
+ – FSE) delle conseguenze dell’incendio su occupanti, beni e ambiente;
+6. l’individuazione delle misure preventive che possano rimuovere o ridurre i pericoli
+ che determinano rischi significativi.
+ 12
+ 2.CAUSE D’INCENDIO
+Energia necessaria all’avvio della combustione
+Affinché una sostanza combustibile possa incendiarsi è necessaria, oltre
+alla presenza del comburente, una sorgente in grado di fornire l’energia
+necessaria all’innesco della combustione. L'individuazione delle possibili
+sorgenti di innesco presenti nell'attività costituisce quindi un elemento
+fondamentale della valutazione e della prevenzione del rischio incendio.
+ 13
+ 2.CAUSE D’INCENDIO
+• Fiamme libere e materiali incandescenti
+ Fiamme, braci, mozziconi, apparecchi di riscaldamento e lavorazioni a caldo.
+• Origine elettrica
+ Archi elettrici, cortocircuiti, sovraccarichi, connessioni difettose e surriscaldamento
+ di apparecchiature elettriche.
+• Superfici e corpi caldi
+ Motori, tubazioni, apparecchiature, resistenze e altri componenti che possono
+ raggiungere temperature sufficienti all'innesco.
+• Scintille di origine meccanica
+ Attrito, urto o lavorazioni meccaniche che possono produrre particelle incandescenti
+ o scintille.
+• Scariche elettrostatiche e atmosferiche
+ Accumulo e scarica di elettricità statica o fulminazione.
+• Reazioni chimiche ed autoaccensione
+ Reazioni esotermiche, sostanze incompatibili, decomposizioni o fenomeni di
+ autoriscaldamento capaci di portare il materiale alla temperatura di accensione. 14
+ 3.DANNI DOVUTI AD UN INCENDIO
+I principali effetti dell’incendio sull’uomo sono:
+ Anossia (per la riduzione del tasso di ossigeno nell’aria)
+ Azione tossica di fumi e gas
+ Azione termica
+Causati dai prodotti della combustione:
+ Gas
+ Fumo
+ Calore
+ 15
+ 3.DANNI DOVUTI AD UN INCENDIO
+Principali gas prodotti dalla combustione
+ossido di carbonio (CO)
+anidride carbonica (CO2)
+idrogeno solforato (H2S)
+anidride solforosa (SO2)
+ammoniaca (NH3)
+acido cianidrico (HCN)
+acido cloridrico (HCl)
+perossido d’azoto (NO2)
+aldeide acrilica (CH2CHCHO)
+fosgene (COCl2)
+ 16
+ 3.DANNI DOVUTI AD UN INCENDIO
+Si sviluppa in incendi covanti in ambienti chiusi e in
+carenza di O2. È il più pericoloso tra i tossici del sangue
+ CO
+per l'elevato livello di tossicità e quantitativi sviluppati.
+Caratteristiche: incolore, inodore, non irritante.
+Meccanismo d’azione: Il CO è assorbito per via
+polmonare; attraverso la parete alveolare Concentra- Tempo
+ zione di CO max espo-
+passa nel sangue per combinazione con (ppm) sizione (s)
+l’emoglobina dei globuli rossi formando la 500 240
+carbossiemoglobina, bloccando i legami con 1000 120
+ 2500 48
+l’O2 che in condizioni normali forma 5000 24
+l’ossiemoglobina. Il CO ha un legame 10000 12
+preferenziale con l’emoglobina, in quanto
+l’affinità è circa 220 volte superiore a quella
+con O2.
+Sintomatologia: cefalea, nausea, vomito, palpitazioni, astenia, tremori.
+ 17
+ 3.DANNI DOVUTI AD UN INCENDIO
+Non è un gas tossico. È un gas asfissiante in quanto si
+sostituisce all’ossigeno dell’aria. Quando determina
+ CO2
+una diminuzione dell'ossigeno a valori inferiori al 17%
+in volume, produce asfissia.
+Inoltre accelera e stimola il ritmo respiratorio; con una percentuale del
+2% di CO2 in aria, il ritmo respiratorio aumenta del 50% rispetto alle nor-
+mali condizioni. Con una percentuale del 3% l’aumento è del 100%.
+La deficienza di O2 e l’eccesso di CO2 possono condurre a perdita di cono-
+scenza e morte per asfissia. Per concentrazione di O2 intorno al 15% l'at-
+tività muscolare diminuisce e si ha difficoltà nei movimenti. Per concen-
+trazione tra il 10 e 15% l'uomo è ancora cosciente anche se commette
+valutazioni errate. A concentrazioni tra il 6 e il 10% si ha collasso. Sotto
+il 6% cessa la respirazione e la morte per asfissia ha luogo in circa 6 min.
+ 18
+ 3.DANNI DOVUTI AD UN INCENDIO
+Il calore è dannoso per l’uomo potendo causare la
+disidratazione dei tessuti, difficoltà o blocco della
+respirazione e scottature.
+Una temperatura dell’aria di circa 150 °C è la massima
+sopportabile sulla pelle per brevissimo tempo, a condizione
+che l’aria sia sufficientemente secca. Tale valore si abbassa se
+l’aria è umida.
+Negli incendi sono presenti notevoli quantità di vapore acqueo,
+pertanto una temperatura di circa 60°C è da ritenersi la
+massima respirabile per breve tempo.
+ 19
+ 3.DANNI DOVUTI AD UN INCENDIO
+L’irraggiamento genera ustioni sull’organismo umano che
+possono essere classificate a seconda della loro profondità in:
+• ustioni di I grado: superficiali - facilmente guaribili
+• ustioni di II grado: formazione di bolle e vescicole -
+ consultazione struttura sanitaria
+• ustioni di III grado: profonde - urgente ospedalizzazione.
+ 20
+ 3.DANNI DOVUTI AD UN INCENDIO
+Danni all’uomo dovuti dall’irraggiamento
+ Effetti dell'irraggiamento (metodo di Eisemberg)
+ Energia
+ Effetti sull'uomo
+ (KW/mq)
+ 40 1% di probabilità di sopravvivenza
+ 26 innesco incendi di materiale infiammabile
+ 19 50% di probabilità di sopravvivenza
+ danni per operatori con indumenti di protezione esposti
+ 5.0
+ per lungo tempo
+ 2.0 scottature di 2° grado
+ 1.8 scottature di 1° grado
+ 1.4 limite per persone vestite esposte per lungo tempo
+ (1.0) (irraggiamento solare estivo alle nostre latitudini)
+ 21
+ 3.DANNI DOVUTI AD UN INCENDIO
+L’irraggiamento, oltre che sulle persone, può provocare danni alle strutture. L’esposizione
+all’irraggiamento termico provoca il riscaldamento degli elementi strutturali e può determinarne
+il progressivo indebolimento, con riduzione della resistenza e della capacità portante fino, nei casi
+più gravosi, al collasso.
+ Valori di Danni che si
+ irraggiamento possono verificare
+ (kW/mq)
+ 60 Danni a strutture in
+ calcestruzzo
+ 40 Danni a strutture in
+ acciaio
+ Ignizione del legno
+ 33
+ entro un minuto
+ Danneggiamento di
+ 12,6
+ serbatoi metallici
+ Danneggiamento
+ 11,7
+ cavi elettrici
+ Fonte: Software SIGEM-SIMMA
+ Ministero dell'Interno - C.N.VV.F.
+ Danno = 𝑓 irraggiamento tempo di esposizione caratteristiche dell’elemento
+ 22
+ 3.DANNI DOVUTI AD UN INCENDIO
+ Un incendio può produrre danni sull’ambiente anche oltre l’area direttamente
+ coinvolta, interessando aria, acqua e suolo.
+• Aria → dispersione di fumi, par colato
+ e prodotti della combustione
+• Acqua → contaminazione a raverso
+ acque di spegnimento e sostanze
+ trascinate
+• Suolo → deposito o inﬁltrazione di
+ sostanze e residui contaminanti
+• Ecosistemi → possibili eﬀe su
+ vegetazione, fauna e habitat
+L’entità del danno ambientale dipende dalla natura e quantità dei materiali coinvolti, dai
+prodotti della combustione e dalla possibilità di dispersione dei contaminanti.
+ 23
+ MISURE DI PREVENZIONE INCENDI
+Misure di prevenzione: Misure protettive:
+si interviene sulla frequenza, si ottiene un’attenuazione
+riducendo le probabilità di dei livelli di danno, con
+accadimento degli eventi conseguente riduzione dei
+incidentali: valori di magnitudo (danno).
+ Le azioni preventive e protettive non devono essere considerate
+ alternative ma complementari tra loro 24
+ 4.MISURE DI PREVENZIONE INCENDI
+PREVENIRE GLI INNESCHI
+le fonti di energia in grado di generare un innesco si dividono in diverse categorie:
+1. Energia Elettrica: Archi elettrici, cortocircuiti, sovraccarichi di corrente,
+ surriscaldamento di cavi, cariche elettrostatiche
+2. Energia Termica: Superfici calde (es. condotte di vapore, motori, stufe), fiamme
+ libere, lavori a caldo (saldatura, smerigliatura)
+3. Energia Meccanica: Attrito (cuscinetti usurati, cinghie di trasmissione), urti e
+ sfregamenti con generazione di scintille
+4. Energia Chimica: Reazioni esotermiche, processi di decomposizione o
+ autocombustione
+ 25
+ 4.MISURE DI PREVENZIONE INCENDI
+PREVENIRE GLI INNESCHI
+• Controllo delle atmosfere pericolose attraverso adeguata ventilazione e monitoraggio di gas
+ infiammabili
+• Impianti di protezione contro le scariche atmosferiche
+• Impiego di attrezzature, DPI e pavimenti antiscintilla per impedire che gli urti meccanici fungano
+ da sorgente di innesco
+• progettazione e realizzazione a regola d’arte degli impianti tecnologici e di servizio (impianti
+ elettrici, gas, riscaldamento, ecc)
+• Evitare utilizzo di fiamme libere e materiali infiammabili
+ 26
+ 4.MISURE DI PREVENZIONE INCENDI
+PREVENIRE GLI INNESCHI
+Un’atmosfera esplosiva può formarsi quando gas, vapori, nebbie o polveri combustibili si miscelano
+con l’aria in concentrazioni tali da consentire la propagazione della combustione in presenza di un
+innesco
+ Condizioni per l’esplosione:
+ ˋ
+ Miscela nel campo di esplosivita + innesco efficace → ESPLOSIONE
+La prevenzione del rischio di esplosione si attua
+limitando la formazione, l’estensione e la permanenza
+dell’atmosfera esplosiva, prevenendo la presenza di
+sorgenti di innesco efficaci e, ove necessario,
+adottando misure finalizzate a limitarne gli effetti.
+ 27
+ 4.MISURE DI PREVENZIONE INCENDI
+PREVENIRE GLI INNESCHI
+Tutti gli impianti devono essere progettati e realizzati secondo la regola dell’arte, nel rispetto
+della normativa vigente. Gli impianti realizzati in conformità alle norme UNI, CEI o alle norme
+emanate dagli altri enti di normalizzazione europei riconosciuti si considerano eseguiti secondo
+la regola dell’arte.
+Dichiarazione di conformità
+Per gli impianti soggetti al D.M. 37/2008, al termine dei lavori l’impresa installatrice abilitata
+rilascia la Dichiarazione di Conformità (Di.Co.), attestando la realizzazione a regola d’arte.
+Principali allegati:
+• Progetto
+• Schema di impianto
+• Relazione sui materiali
+ Regola d’arte + verifiche + manutenzione → riduzione del rischio
+Uso e manutenzione devono garantire nel tempo il mantenimento delle condizioni di sicurezza
+dell’impianto
+Per gli impianti non ricadenti nel DM 37/08 si utilizzano i modelli PIN 2.4 -Dich.imp o
+PIN 2.5 - Cert.imp
+ 28
+ 4.MISURE DI PREVENZIONE INCENDI
+ PREVENIRE GLI INNESCHI ATTRAVERSO COMPORTAMENTI E PROCEDURE (GSA)
+• controllo degli accessi e gestione delle interferenze con personale esterno (DUVRI), senza che ciò
+ possa limitare la disponibilità del sistema d’esodo;
+• in attività lavorative, formazione ed informazione del personale ai rischi specifici dell’attività,
+ secondo la normativa vigente;
+• istruzioni e segnaletica contenenti i divieti e le precauzioni da osservare.
+• Controllo delle lavorazioni che utilizzano fiamme libere e sostanze infiammabili
+ 29
+ 4.MISURE DI PREVENZIONE INCENDI
+PREVENIRE GLI INNESCHI ATTRAVERSO COMPORTAMENTI E PROCEDURE (SGA)
+ La GSA è l’insieme delle misure organizzative e gestionali finalizzate a mantenere nel tempo le
+ condizioni di sicurezza antincendio previste per l’attività.
+ Comprende principalmente:
+ • Sorveglianza e controllo delle condizioni di sicurezza
+ • Manutenzione dei sistemi antincendio
+ • Informazione e formazione degli occupanti
+ • Gestione dell’emergenza ed evacuazione
+ • Gestione di lavori, modifiche e situazioni temporanee
+ La GSA garantisce che le misure di prevenzione e protezione previste in fase di progetto
+ rimangano efficaci durante l’intero esercizio dell’attività.
+ 30
+ 4.MISURE DI PREVENZIONE INCENDI
+PREVENIRE LO SVILUPPO DELL’INCENDIO
+• riduzione del carico di incendio;
+• controllo e manutenzione regolare dei sistemi, dispositivi, attrezzature e degli impianti rilevanti
+ ai fini della sicurezza antincendio;
+• sostituzione di materiali incombustibili con velocità di propagazione dell’incendio rapida, con
+ altri con velocità d’incendio più lenta;
+• pulizia dei luoghi ed ordine ai fini della riduzione sostanziale della velocità di crescita dei focolari
+ (es. la stessa quantità di carta correttamente archiviata in armadi metallici riduce la velocità di
+ propagazione dell’incendio).
+Le misure di prevenzione degli incendi identificate nella fase di
+valutazione del rischio sono vincolanti per l’esercizio dell’attività.
+ 31
+ 4.MISURE DI PREVENZIONE INCENDI
+PREVENIRE LO SVILUPPO DELL’INCENDIO
+Con l’entrata in vigore del D.M. 1/09/2021 la
+manutenzione dei presidi antincendio deve essere
+effettuata da tecnici manutentori qualificati.
+MANUTENZIONE: operazione o intervento finalizzato a
+mantenere in efficienza ed in buono stato, impianti,
+attrezzature e altri sistemi di sicurezza antincendio;
+CONTROLLO PERIODICO: insieme di operazioni da effettuarsi con frequenza non superiore a quella
+indicata da disposizioni, norme, specifiche tecniche o manuali d'uso e manutenzione per verificare
+la completa e corretta funzionalità di impianti, attrezzature e altri sistemi di sicurezza antincendio;
+SORVEGLIANZA: insieme di controlli visivi atti a verificare, nel tempo che intercorre tra due
+controlli periodici, che gli impianti, le attrezzature e gli altri sistemi di sicurezza antincendio siano
+nelle normali condizioni operative, siano correttamente fruibili e non presentino danni materiali
+evidenti. La sorveglianza può essere effettuata dai lavoratori normalmente presenti dopo aver
+ricevuto adeguate istruzioni.
+ 32
+ 5.SISTEMI DI PROTEZIONE
+Le misure di protezione hanno come obiettivo la limitazione degli effetti
+dell’incendio nello spazio e nel tempo (garantire l’incolumità Degli
+occupanti , limitare gli effetti nocivi dei prodotti della combustione,
+contenere i danni a strutture, macchinari, beni).
+Si suddividono in:
+• Protezione passiva: tutte quelle misure che, per entrare in funzione,
+ necessitano di un intervento da parte dell’uomo o dell’attivazione di
+ un impianto;
+• Protezione attiva: le misure di protezione attiva necessitano di
+ interventi dell’uomo o l’attivazione di un dispositivo/impianto.
+ 33
+ 5.SISTEMI DI PROTEZIONE
+PROTEZIONI PASSIVE
+L’insieme di misure di protezione che
+non richiedono l’azione di un
+uomo o di un impianto;
+• Reazione al fuoco dei materiali
+• Resistenza al fuoco delle strutture
+• Compartimentazione
+• Sistema d’esodo
+ 34
+ 5.SISTEMI DI PROTEZIONE
+PROTEZIONI ATTIVE
+L’insieme di misure di protezione che richiedono l’azione di un uomo o di un impianto
+sono quelle finalizzate alla precoce rilevazione dell’incendio, alla segnalazione e
+all’azione di spegnimento dello stesso.
+• Sistemi di controllo dell’incendio (estintori,
+ idranti, etc)
+• Rilevazione ed allarme antincendio
+• Controllo fumi e calore
+• Operatività antincendio
+• Gestione della Sicurezza Antincendio (GSA)
+ 35
+ 6.SOSTANZE ESTINGUENTI
+L’estinzione dell’incendio si ottiene
+per raffreddamento, sottrazione del
+combustibile, soffocamento e azione
+chimica.
+Tali azioni possono essere ottenute
+singolarmente o
+contemporaneamente mediante
+l’uso delle sostanze estinguenti.
+Queste vanno scelte in funzione delle
+natura del combustibile e delle
+dimensioni del fuoco.
+ 36
+ 6.SOSTANZE ESTINGUENTI
+Le principali sostanze estinguenti sono:
+• Acqua
+• Schiuma
+• Polveri
+• Gas inerti
+Alcune sostanze sono state sempre usate in passato, mentre
+altre sono di più recente scoperta e rappresentano il risultato
+delle continue ricerche effettuate per disporre di mezzi e
+sistemi sempre più efficaci nella lotta contro gli incendi.
+ 37
+ 6.SOSTANZE ESTINGUENTI
+ACQUA
+L’acqua è l’estinguente principale per la facilità con cui può essere
+reperito.
+Azione estinguente:
+ Raffreddamento, abbassa la
+ taemperatura del combustibile per
+ assorbimento di calore;
+ Soffocamento, sostituzione
+ dell’ossigeno con il vapore acqueo;
+ Diluizione di sostanze combustibili
+ liquide;
+ Imbevimento dei combustibili solidi.
+ 38
+ 6.SOSTANZE ESTINGUENTI
+ACQUA
+Consigliata per incendi di combustibili solidi (classe A), con
+esclusione di sostanze incompatibili come sodio e potassio
+(a contatto con H2O liberano idrogeno), e carburi (liberano
+acetilene).
+Migliora considerevolmente la sua azione estinguente con il diminuire
+della dimensione delle gocce costituenti il getto liquido.
+Per stabilire se un estintore a base d'acqua può essere utilizzato su
+apparecchiature sotto tensione, deve essere effettuata la prova
+dielettrica prevista dalla norma UNI EN 3-7:2008.
+Esistono estintori ad acqua distillata frazionata/nebulizzata utilizzabili
+su apparecchi a tensione non superiore a 1000 V alla distanza di 1 m.
+L’acqua a getto pieno non è impiegabile su impianti e
+apparecchiature in tensione
+ 39
+ 6.SOSTANZE ESTINGUENTI
+SCHIUMA
+La schiuma è costituita da una miscela di acqua, liquido schiumogeno e
+aria (o altro gas inerte).
+Generalmente l’ordine di grandezza delle concentrazioni nella soluzione
+liquida sono: 90-95% di acqua e 5-10% di liquido schiumogeno.
+Azione estinguente:
+- Separazione del combustibile dal comburente;
+- Raffreddamento, in minima parte.
+Impiegato per Non utilizzabile su
+incendi di classe B apparecchiature
+ elettriche e sui
+ fuochi di classe D.
+ 40
+ 6.SOSTANZE ESTINGUENTI
+SCHIUMA
+In base al rapporto tra il volume della schiuma prodotta e la soluzione
+acqua-schiumogeno d’origine, le schiume si distinguono in:
+• Alta espansione: > 1:200
+• Media espansione: 1:20 – 1:200
+• Bassa espansione: < 1:20
+ 41
+ 6.SOSTANZE ESTINGUENTI
+SCHIUMA
+Esistono vari tipi di liquidi schiumogeni che vanno impiegati in relazione
+al tipo di combustibile tra cui:
+• Liquidi schiumogeni fluoro-proteinici
+• Liquidi schiumogeni sintetici
+• Liquidi schiumogeni fluoro-sintetici
+• Liquidi schiumogeni per alcoli
+ 42
+ 6.SOSTANZE ESTINGUENTI
+SCHIUMA
+ Le recenti normative in materia di tutela ambientale stanno
+ restringendo o addirittura vietando l’utilizzo di determinati composti
+ presenti in molte tipologie di schiumogeno (PFAS) di conseguenza
+ l’industria chimica ha recentemente avviato lo studio e la produzione di
+ sostanze prive di tali composti (Fluorine-Free Foam) prive di fluoro, con
+ caratteristiche di biodegradabilità e prestazionicomparabili.
+ 43
+ 6.SOSTANZE ESTINGUENTI
+POLVERE
+ La polvere utilizzata come estinguente è costituita da particelle solide
+ finissime a base di bicarbonato di sodio, potassio, fosfati e sali organici.
+ L’azione estinguente è prodotta dalla decomposizione delle stesse per
+ effetto delle alte temperature raggiunte nell’incendio, che dà luogo ad
+ effetti chimici sulla fiamma con azione anticatalitica, ed alla produzione
+ di anidride carbonica e vapore d’acqua.
+ Azione estinguente:
+ - Inibizione chimica
+ - Raffreddamento
+ - Soffocamento
+ 44
+ 6.SOSTANZE ESTINGUENTI
+POLVERE
+Adatte per fuochi di classe A, B e C, mentre per incendi di classe D
+devono essere utilizzate polveri speciali
+Risultano normalmente dielettriche, quindi utilizzabili su
+apparecchiature elettriche sotto tensione;
+ Ulteriori caratteristiche:
+ • non spengono efficacemente le braci;
+ • presentano un rischio di danneggiamento di apparecchiature;
+ • sono irritanti per le vie respiratorie.
+ 45
+ 6.SOSTANZE ESTINGUENTI
+GAS INERTI
+Sono l’anidride carbonica (CO2) e in minor
+misura l’azoto (N2).
+L’anidride carbonica riduce la concentrazione del comburente fino a
+impedire la combustione (Soffocamento).
+Inoltre risulta:
+ non tossica;
+ più pesante dell’aria;
+ dielettrica (non conduce elettricità);
+ normalmente conservata come gas liquefatto
+ sotto pressione;
+ anche azione estinguente per
+ raffreddamento.
+ 46
+ 6.SOSTANZE ESTINGUENTI
+GAS INERTI
+I sistemi a gas inerti sono utilizzati negli impianti fissi a deplezione di ossigeno,
+installati in ambienti in cui sono conservati beni da proteggere nei riguardi
+dell’incendio ma anche dagli effetti dannosi delle sostanze estinguenti a base d’acqua.
+Si possono prevedere indistintamente l’immissione di anidride carbonica o di azoto nel
+vano da proteggere, estinguendo l’incendio per soffocamento grazie alla riduzione
+della concentrazione di ossigeno nell’atmosfera.
+ Azoto CO2
+ Sostanza
+ (% in volume Percentuali in
+ da immettere) volume di CO2 e di
+ acetone 45,2 32,4 azoto necessarie
+ alcool etilico 49,6 38,5 per inertizzare
+ l’atmosfera in
+ benzolo 47,1 34,3 modo da renderla
+ idrogeno 76,4 72,1 incapace di
+ metano 42,8 31,0 alimentare la
+ propano 45,6 32,4 combustione.
+ benzina 45,2 31,9
+L'effettiva condizione di inertizzazione deve essere valutata in funzione della concentrazione limite
+di ossigeno (LOC)
+ 47
+ Comando dei Vigili del Fuoco di Trieste
+ Corso per professionisti antincendio
+ Grazie dell’attenzione
+RELATORE: V.D. Ing. Salvatore Biondi
+

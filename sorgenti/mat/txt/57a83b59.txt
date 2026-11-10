@@ -1,0 +1,723 @@
+                                                           Agenda
+
+
+1                L'evoluzione delle misure di sicurezza per l'esodo
+
+
+
+    2             L'esodo con il Codice: la misura antincendio S.4
+
+
+
+    3   Analisi delle ipotesi di base per l’esodo adottate nel Codice
+
+
+
+
+    4   Esempi applicativi di verifica del sistema d'esodo con FSE
+
+
+5                                      RSET - Modelli agent-based
+
+
+                                                                 1
+L'evoluzione delle misure di sicurezza per l'esodo
+
+
+
+
+                                            2
+L'evoluzione delle misure di sicurezza per l'esodo
+
+
+
+
+                                            3
+L'evoluzione delle misure di sicurezza per l'esodo
+
+
+
+
+                                            4
+L'evoluzione delle misure di sicurezza per l'esodo
+
+
+
+
+                                            5
+L'evoluzione delle misure di sicurezza per l'esodo
+
+
+
+
+                                            6
+L'evoluzione delle misure di sicurezza per l'esodo
+
+
+
+
+                                            7
+ L'evoluzione delle misure di sicurezza per l'esodo
+
+
+
+
+ISO/TR 16738:2009
+
+
+
+
+                                             8
+L'evoluzione delle misure di sicurezza per l'esodo
+
+
+
+
+                                            9
+                                                             L'evoluzione delle misure di sicurezza per l'esodo
+
+
+
+
+                            Figura [8] Diagramma del tempo di evacuazione per edifici a tre piani fuori terra
+
+
+
+
+[9] Diagramma del tempo di evacuazione per edifici con più di tre piani fuori terra e fino a cinque
+
+
+                                                                                                                10
+L'esodo con il Codice: la misura antincendio S.4
+
+
+
+
+                       Tabella [1]
+
+
+
+
+                                          11
+                                                                  L'esodo con il Codice: la misura antincendio S.4
+
+
+
+
+Tabella [2] Distribuzione percentuale del ricorso a soluzioni alternative o in deroga   Figura [12]Distribuzione numerica delle osservazioni trattate nella revisione del Codice
+
+
+
+
+                                                                                                                                                                        12
+                                    L'esodo con il Codice: la misura antincendio S.4
+
+
+                                           Generalità sul Codice
+
+
+
+
+Figura [13] Processo di progettazione secondo il Codice
+
+
+
+
+                                               Figura [14] La strategia antincendio del Codice
+
+
+
+                                                                                                 13
+                 L'esodo con il Codice: la misura antincendio S.4
+
+
+
+
+Progettazione delle soluzioni conformi per l’esodo
+
+
+
+
+                                                           14
+               L'esodo con il Codice: la misura antincendio S.4
+
+
+
+Progettazione delle soluzioni alternative per
+       l’esodo: metodo prestazionale
+
+
+
+
+                                                         15
+               L'esodo con il Codice: la misura antincendio S.4
+
+
+
+Progettazione delle soluzioni alternative per
+       l’esodo: metodo prestazionale
+
+
+
+
+                                                         16
+                                       L'esodo con il Codice: la misura antincendio S.4
+
+                      Progettazione delle soluzioni alternative per
+                             l’esodo: metodo prestazionale
+
+
+                        Soglie di                Modelli fluidodinamici di
+                     incapacitazione      +               calcolo
+
+
+
+
+                                                                              Modello numerico
+(ISO TR 16738)
+  semplificato
+    Metodo
+
+
+
+
+                                                                                  a zone
+                                         
+                    ZERO
+                    EXPOSURE
+
+
+
+
+                                                                              Modello numerico
+Metodo di calcolo
+
+  (ISO 13571)
+
+
+
+
+                                                                                 di campo
+    avanzato
+
+
+
+
+                                         
+
+
+                                                                                          17
+                                                L'esodo con il Codice: la misura antincendio S.4
+
+                  Progettazione delle soluzioni alternative per
+                         l’esodo: metodo prestazionale
+
+       Calcolo di RSET = tdet + ta + tpre + ttra
+       ttra: il modello idraulico
+Parametri di dimensionamento
+We   larghezza efficace delle via esodo [m]
+D    densità di affollamento lungo vie esodo [pp/m2]
+S    velocità d’esodo [m/s]
+Fs   portata specifica d’esodo [pp/m/s]
+Fc   portata d’esodo [pp/s]
+P    numero di persone [pp]
+
+Relazioni tra i parametri
+S = k (per D < 0,54)
+S = k – akD (per 0,54 < D < 3,8)
+Fs = S · D
+Fc = Fs· We
+ttra = P / Fc
+                                                                                          18
+                    L'esodo con il Codice: la misura antincendio S.4
+
+
+ Calcolo dei parametri per il dimensionamento delle
+geometrie dei sistemi d’esodo previsti nella soluzione
+                   conforme di S.4
+
+
+
+
+                               =
+
+
+                                           Tabella S.4-27:
+                                       Larghezze unitarie per
+                                       vie d ’esodo orizzontali
+
+
+                                                                  19
+                     L'esodo con il Codice: la misura antincendio S.4
+
+
+                   Calcolo di ASET
+
+
+
+
+Modello di calcolo per ASET
+
+
+
+                                  Ipotesi di esposizione
+
+
+                                                               20
+                  L'esodo con il Codice: la misura antincendio S.4
+
+
+             Calcolo di ASET
+
+
+
+
+          Caratteristiche degli occupanti
+δocc = A, δocc = B, δocc = Ciii, δocc = D, δocc = E
+
+                                                            21
+            L'esodo con il Codice: la misura antincendio S.4
+
+
+         Calcolo di ASET
+
+
+
+
+Risultati dell'elaborazione con CFAST
+
+
+
+
+                                                      22
+                                    L'esodo con il Codice: la misura antincendio S.4
+
+
+                                Calcolo di RSET
+
+
+
+
+ Tempo di rivelazione ed allarme
+
+
+
+
+                                                       Tempo di pre-evacuazione
+Velocità e flusso specifico orizzontali                                           23
+  L'esodo con il Codice: la misura antincendio S.4
+
+
+Calcolo di RSET
+
+        Analisi semplificata Annesso H ISO/TR 16738
+               RSET = max (RSET1; RSET2)
+
+        RSET = t + t + t
+                 1     det   a     pre(99° percentile)   +t   tra(pres)
+
+
+
+        RSET = t + t + t
+                 2     det   a     pre(1° percentile)   +t   tra(pres)   +t   tra(coda)
+
+
+
+        dove:
+        tpre(1° percentile) tempo di pre-evacuazione per i primi occupanti a
+        muoversi, secondo la distribuzione statistica di tpre
+
+        tpre(99° percentile) tempo di pre-evacuazione per gli ultimi occupanti a
+        muoversi, secondo la distribuzione statistica di tpre
+
+        ttra(pres) tempo necessario all'occupante piu lontano per presentarsi
+        all'uscita verso luogo sicuro temporaneo
+
+        ttra(coda) tempo di attesa in coda all'uscita verso luogo sicuro
+        temporaneo per l'ultimo occupante a muoversi, secondo la
+        distribuzione statistica del tempo di pre-evacuazione tpre
+
+                                                                                          24
+        L'esodo con il Codice: la misura antincendio S.4
+
+
+    Calcolo di RSET
+
+Assumendo valori di V, Les, ttra(coda) si
+    procede al calcolo di RSET
+
+
+
+
+                                                  25
+          L'esodo con il Codice: la misura antincendio S.4
+
+
+
+Valutazione del margine di sicurezza
+
+
+
+
+                                                    26
+                   L'esodo con il Codice: la misura antincendio S.4
+
+
+Determinazione delle larghezze unitarie Wu,orizz
+   previsti nella soluzione conforme di S.4
+
+       Wu,oriz = 1000 / (70% Fs,oriz * ttra(coda))
+
+
+
+
+                                                             27
+Esempio di verifica del sistema d'esodo con FSE
+
+                Dati d’ingresso
+
+
+
+
+                                         28
+Esempio di verifica del sistema d'esodo con FSE
+
+                Dati d’ingresso
+
+
+
+
+                                         29
+                                    Esempio di verifica del sistema d'esodo con FSE
+
+                Verifica di conformità con soluzioni alternative:
+                              metodo prestazionale
+
+
+
+    Analisi preliminare
+   Identificazione degli obiettivi di
+         sicurezza antincendio
+Vie di esodo: rispondere all'obiettivo
+ della sicurezza della vita umana in
+    caso d'incendio garantendo la
+possibilità che gli occupanti lascino
+ l'attività autonomamente o che gli
+ stessi siano soccorsi in altro modo
+          (life safety).
+
+
+
+                                                                             30
+                 Esempio di verifica del sistema d'esodo con FSE
+
+Verifica di conformità con soluzioni alternative:
+              metodo prestazionale
+
+
+             Scenari d’incendio
+
+
+
+
+Scenario 1                            Scenario 2
+
+                                                          31
+                                    Esempio di verifica del sistema d'esodo con FSE
+
+                 Verifica di conformità con soluzioni alternative:
+                               metodo prestazionale
+
+
+
+
+  Modellazione
+  dell’incendio
+
+
+
+Materasso: in schiuma poliestere 27 kg / m3,
+spessore 0,10 m, coperte in cotone.
+Soot Yeld = 0.04 Kg/Kg
+
+
+
+                                                                             32
+                              Esempio di verifica del sistema d'esodo con FSE
+
+          Verifica di conformità con soluzioni alternative:
+                        metodo prestazionale
+
+
+
+
+Codici di calcolo
+
+
+
+
+         Dominio di calcolo
+                                                    Mesh tridimensionale
+
+                                                                       33
+                   Esempio di verifica del sistema d'esodo con FSE
+
+       SCENARIO 1 - Visibilità a 2 m d’altezza
+
+
+
+
+29 s    83 s            112 s           167 s          230 s
+
+
+
+
+                                                               34 30
+                Esempio di verifica del sistema d'esodo con FSE
+
+SEGUE SCENARIO 1 - Visibilità a 2 m d’altezza
+
+
+
+
+                     275 s
+
+
+
+
+                     280 s
+
+
+
+
+                    300 s
+
+
+
+                                                         35
+                             Esempio di verifica del sistema d'esodo con FSE
+
+                 SCENARIO 2 - Visibilità a 2 m d’altezza
+
+
+
+
+ 23 s     32 s        60 s        112 s      130 s         145 s    164 s
+
+
+
+
+222 s   242 s        310 s       350 s                     410 s
+
+
+
+                                                                      36
+                 Esempio di verifica del sistema d'esodo con FSE
+
+Verifica di conformità con soluzioni alternative :
+              metodo prestazionale
+
+                   ASET
+
+
+
+
+                                                          37
+                      Esempio di verifica del sistema d'esodo con FSE
+
+Verifica di conformità con soluzioni alternative:
+              metodo prestazionale
+
+      RSET = tdet + ta + tpre(99°percentile) + ttra(pres)
+
+
+
+
+      ASET                    <           RSET
+                                                               38
+                 Esempio di verifica del sistema d'esodo con FSE
+
+Verifica di conformità con soluzioni alternative:
+              metodo prestazionale
+
+
+
+
+      ASET            >        RSET
+                                                          39
+                  Esempio di verifica del sistema d'esodo con FSE
+
+
+
+
+I modelli comportamentali
+            Altro esempio applicativoper l'esodo
+
+
+
+
+                                                           40
+                                                           RSET - Modelli agent-based
+
+
+
+RSET - Modelli agent-based
+
+    I modelli idraulici non includono fattori importanti
+    del comportamento umano, come la familiarità con
+    l’edificio e le interazioni persona-persona, se non
+    indirettamente.
+
+    I modelli comportamentali considerano ciascuna
+    persona una particella autonoma, con autonoma
+    capacità di scelta dei percorsi in relazione
+    all’ambiente ed alle altre persone in fuga.
+
+    Ciascuna persona può essere descritta nelle sue
+    abilita secondo lo scenario comportamentale di
+    progetto, per tenere conto delle differenti abilità
+    presenti nella popolazione considerata.
+
+    La complessità dei parametri e degli algoritmi non
+    permette di svolgere analiticamente tale tipo di
+    calcolo e si ricorre sempre alla simulazione
+    numerica al calcolatore.
+
+                                                                                41
+                    RSET - Modelli agent-based
+
+
+
+Caratteristiche principali dei
+     modelli di esodo
+
+
+
+
+                                         42
+             RSET - Modelli agent-based
+
+Caratteristiche principali dei
+     modelli di esodo
+
+
+
+
+                                  43
+             RSET - Modelli agent-based
+
+Caratteristiche principali dei
+     modelli di esodo
+
+
+
+
+                                  44
+             RSET - Modelli agent-based
+
+Caratteristiche principali dei
+     modelli di esodo
+
+
+
+
+                                  45
+             RSET - Modelli agent-based
+
+Caratteristiche principali dei
+     modelli di esodo
+
+
+
+
+                                  46
+             RSET - Modelli agent-based
+
+Caratteristiche principali dei
+     modelli di esodo
+
+
+
+
+                                  47
+             RSET - Modelli agent-based
+
+Caratteristiche principali dei
+     modelli di esodo
+
+
+
+
+                                  48
+             RSET - Modelli agent-based
+
+Caratteristiche principali dei
+     modelli di esodo
+
+
+
+
+                                  49
+             RSET - Modelli agent-based
+
+Caratteristiche principali dei
+     modelli di esodo
+
+
+
+
+                                  50
+             RSET - Modelli agent-based
+
+Caratteristiche principali dei
+     modelli di esodo
+
+
+
+
+                                  51
+RSET - Modelli agent-based
+
+
+
+
+                     52
+RSET - Modelli agent-based
+
+
+
+
+                     53
+                                                                                    Conclusioni
+
+                                                              PUNTI DI DEBOLEZZA
+        PUNTI DI FORZA
+                                                  • Necessità di formazione specifica del
+• Soluzioni conformi ed alternative basate su
+                                                    personale VF e dei professionisti
+  evidenza scientifica
+                                                  • Giudizio esperto necessario per scelta scenari
+• Metodologia progettazione in piena continuità
+                                                    più gravosi
+  con la tradizione
+                                                  • Criticità degli aspetti gestionali per il
+• Soluzioni conformi per l'esodo di facile e
+                             Conclusioni - Analisi SWOT
+  generale applicazione progettuale
+                                                    mantenimento delle condizioni di base
+
+
+                         Il nuovo modello d’esodo del Codice
+              OPPORTUNITA’                                            RISCHI
+• Superamento del “moduli di uscita”:             • Estrema sensibilità dell’approccio
+  risoluzione del problema dell'adeguamento di      ingegneristico alle condizioni di base imposte:
+  attività esistenti                                studio integrato dell’incendio-attività-
+• Possibilità di integrare le nuove tecnologie      occupanti
+                                                  • Programmi di simulazione eccessivamente
+                                                    user-friendly: uso “consapevole”
+
+
+
+
+                                                                                                54
+

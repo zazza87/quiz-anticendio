@@ -1,0 +1,249 @@
+              Parleremo di…
+
+-Principi fondamentali
+- Struttura della Norma
+- Le principali novità
+-Allineamento al DM 18/10/2019
+                                  POST DM 3/8/2015
+
+                                                               V.8 Attività
+V.4 Uffici DM                       V.6                       commerciali                  DM
+                                Autorimesse                   DM 23/11/18
+   8/6/16
+                                DM 21/2/17
+                                                                                       14/02/2020
+
+
+
+
+                 V.5 Attività                 V.7 Scuole DM                       DM
+                ricettive DM                      7/8/17
+                   9/8/16
+                                                                              18/10/2020
+
+
+
+
+                                                                                          V.10 Locali
+                                                                                      pubblico spettacolo
+                                                                                        V.10 … V.11…
+in vigore
+   dal
+ 5 Aprile
+  2020
+                       Schema RTV
+Lo schema base su cui sono impostate le RTV è il
+seguente:
+
+• CAMPO DI APPLICAZIONE
+• CLASSIFICAZIONI: in funzione di parametri come
+  numero degli occupanti, quota dei piani, posti letto,
+  ecc.;
+• VALUTAZIONE DEL RISCHIO DI INCENDIO: effettuata
+  secondo il capitolo G.2;
+• STRATEGIA ANTINCENDIO: devono essere applicate
+  tutte le misure antincendio della regola tecnica
+  orizzontale e le soluzioni complementari o sostitutive
+  delle soluzioni conformi previste dai corrispondenti
+  livelli di prestazione della RTO
+• ALTRO: se necessario, es. scenari per FSE, ecc…
+          Teniamo presente che
+- Le RTV del Codice non sono norme a sé stanti
+- Non possono essere utilizzate se non applicando l’intero
+Codice
+- Rispetto al “solo” Codice, introducono aspetti ulteriori (a
+volte anche sostitutivi) propri delle specifiche attività oggetto
+di normazione
+                 Come è fatta?
+- Si specifica il campo di applicazione
+- Si danno alcune definizioni specifiche
+- Si introducono alcune classificazioni utili nel prosieguo
+- Si descrive il procedimento di progettazione, con particolare
+rilievo per la strategia antincendio
+- Per finire: altre indicazioni
+- Bibliografia.
+                  Si applica a..
+- Attività commerciali ove sia prevista vendita ed esposizione di
+beni, con superficie lorda superiore a 400 m2
+Definizioni
+   Classificazioni delle attività commerciali
+Superficie lorda
+utile A                                                  HD       Quota dei piani
+                        AA                      24 m
+                                                                  h
+                               1500 m2                   HC
+                        AB                      12 m
+                                3000 m2                  HB
+                        AC                       6m
+                                5000 m2                  HA
+                        AD                      -1m
+                               10000 m2                  HB
+                        AE                      -5m
+                                                         HC
+                                               - 10 m
+                                                         HD
+         12 m       24 m       32 m
+
+          Nel computo della Superficie lorda utile vanno considerate
+          SOLO le aree direttamente funzionali alla a.c.
+          La superficie lorda utile NON è impiegabile ai fini del campo di
+          applicazione della V8.
+                        Classificazioni per le aree
+      TA                 TB1                 TB2                  TC               TK1               TK2
+                   Vendita ed esp.      Vendita da retro-                                      Aree esterne,
+Aree di vendita                                             Aree per uffici   Aree collegate
+                   ap. al pubblico in   banco, aperta al                                       coperte o
+ed esposizione                                              e servizi, non    alle TA, con
+                   n. limitato,         pubblico, con                                          scoperte, ad
+ap. al pubblico,   accompagnato,        sup ≤ 100 m2
+                                                            aperte al         lavorazioni
+                                                                                               uso deposito,
+compresi spazi     compresi spazi       compresi spazi      pubblico, con     pericolose e
+                                                                                               movim., carico
+comuni.            comuni.              comuni.             sup>200 m2        sup>150 m2
+                                                                                               scarico merci
+    TM1                 TM2                  TM3                 TT1               TT2                TZ
+Locali con         Locali con                               Locali con app.
+                   carico di                                                  Aree per la
+sup>200 m2 e                            Depositi con        elettrici ed
+                   incendio                                                   ricarica
+                                        articoli            elettronici in
+qf>600 MJ/m2       rilevante -                                                elettrica di     Altri spazi.
+                                        pirotecnici NSL     quantità
+Es. depositi,                                                                 batterie per
+                      più di 1200       fino a 150 kg       significative,
+archivi.                                                                      trazione
+                        MJ/m2                               locali tecnici.
+
+             Almeno TK1, TK2, TM2, TM3 e TT2 sono
+             da considerare aree a rischio specifico (V1) (aree di lavorazione,
+             depositi esterni, depositi con qf significativo, ..)
+         Necessità della
+Valutazione del rischio di incendio
+il DM 18/10/2020 dispone al G.2.6.1
+                     Profili di rischio
+       Rvita
+    attribuito ai
+       singoli
+   compartimenti
+
+
+
+
+I    profili    di
+rischio      sono
+determinati
+secondo         la
+metodologia di
+cui al capitolo
+G.3.
+                                Profili di rischio
+
+
+
+I profili di rischio sono determinati
+secondo la metodologia di cui al
+capitolo G.3.
+
+
+
+                Rbeni ed
+                Rambiente
+            attribuiti all’intera
+                  attività
+Strategia antincendio
+S.1 Reazione al fuoco
+S.2 Resistenza al fuoco
+              S.3 Compartimentazione
+- Come il Codice, con ulteriori precisazioni per le soluzioni conformi
+S.3 Compartimentazione
+S.3 Compartimentazione
+          S.3 Compartimentazione
+- per quanto riguarda le comunicazioni, purché ne sia dimostrata
+la necessità funzionale (cfr. S.3.10)…
+ Attività commerciali      Possono comunicare… Con altre attività …
+ con …
+ Tipologia AA + HA
+ Tipologia AA + HB         Senza requisiti di       aventi δocc = E
+ qualsiasi, con            compartimentazione       e vie d’esodo comuni
+ S.6 liv.V e S.8 liv.III
+ qualsiasi                 Con comunicazioni di     attività civili con vie
+                           tipo protetto            d’esodo indipendenti
+ con aree TB1 e TB2        com. di tipo protetto,   altre attività con vie
+                           chiusure min E30-Sa      d’esodo indipendenti
+ Tipologia AA + HA         Con comunicazioni di     attività civili con vie
+ Tipologia AA + HB         tipo a prova di fumo     d’esodo comuni
+ qualsiasi                 Con comunicazioni di     altre attività con vie
+                           tipo a prova di fumo     d’esodo indipendenti
+S.4 Esodo
+S.5 Gestione della Sicurezza
+S.6 Controllo dell’incendio
+I livelli di prestazione determinati in RTV per il controllo
+dell’incendio
+     S.6 Controllo dell’incendio
+- il tipo di estintori nella TA, TB1 e TB2 andrà scelto tenendo
+conto della presenza di occupanti; per fuochi di tipo A o B, si
+consigliano gli estintori idrici.
+
+
+
+
+- nelle TK2 con qf > 1200 MJ/m2, deve essere realizzata una
+rete idranti all’aperto. Se si applica la UNI 10779, almeno
+livello 2, capacità ordinaria e alimentazione idrica singola.
+     S.6 Controllo dell’incendio
+- Se per la rete idranti si applica la UNI 10779...
+     S.6 Controllo dell’incendio
+- Se per l’impianto automatico si applica la UNI EN 12845...
+S.7 Rivelazione e allarme
+S.8 Controllo di fumi e calore
+ S.9 Operatività antincendio
+
+
+
+
+- Vano protetto almeno classe 60
+- Tetto, pareti e pavimento cabina in materiali non
+  combustibili
+- Atri protetti con superficie almeno 5 m2 e caratteristiche
+  almeno di filtro
+- Sbarco al piano di riferimento in luogo sicuro,
+  direttamente o con percorso protetto.
+S.10 Sicurezza impianti tecnologici
+Altre indicazioni
+                    Bibliografia
+- Vengono citati diversi testi internazionali, di carattere
+scientifico e normativo
+         E se non ce la faccio?…
+Rvita   Rbeni   Se le soluzioni conformi non sono
+B3       1         applicabili, si può ricorrere a
+                   soluzioni alternative, delle quali
+                   bisognerà dimostrare l’efficacia in
+                   fase di approvazione del parere o in
+                   fase di deroga.
+          Principali differenze?
+                Resistenza al fuoco: in base al carico di
+Rvita   Rbeni      incendio di progetto, con minimi
+                   fissati in base all’altezza.
+B3       1      Reazione al fuoco: introduzione dei
+                   gruppi di materiali.
+                Impianto di spegnimento: non sempre
+                   necessario.
+                Impianto di rilevazione e allarme:
+                   sempre necessario.
+                Evacuazione prodotti della
+                   combustione (anche ventilazione):
+                   da considerare.
+                     …In conclusione…
+Maggiore comprensione del problema:
+  l’applicazione del Codice presuppone uno
+  studio ragionato del caso.
+
+Una ragionevole flessibilità: Approccio semi-
+  prestazionale.
+
+Soluzioni più leggere, a parità di sicurezza.
+
+Lavorare in sicurezza potrebbe addirittura
+   diventare CONVENIENTE.
+

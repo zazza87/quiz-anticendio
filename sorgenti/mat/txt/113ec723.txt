@@ -1,0 +1,512 @@
+ESEMPI DI DIMENSIONAMENTO IMPIANTI DI
+SPEGNIMENTO A GAS INERTE SECONDO UNI EN 15004
+Progettazione, installazione e manutenzione.
+    SCENARIO E OBIETTIVO
+
+
+•    Perché prevedere un impianto di spegnimento?
+
+•    Perché, e sulla base di quali condizioni, scegliere una tipologia di agente estinguente
+     rispetto ad un’altra?
+
+•    Perché progettare/installare un impianto di spegnimento ad estinguente gassoso?
+STRUMENTI DI LAVORO
+IMPIANTI DEDICATI
+
+
+
+
+         IMPIANTO SMISTATO
+DEFINIZIONE AGENTI ESTINGUENTI
+
+                Extinguishant                       Chemical                  Formula       EN
+ FK-5-1-12                      Dodecafluoro-2-methylpentan-3-one   CF3CF2C(O)CF(CF3)2   15004-2
+
+ HCFC Blend A                                                                            15004-3
+
+ HCFC-123                       Dichlorotrifluoroethane             CHCl2CF3
+
+ HCFC-22                        Chlorodifluoromethane               CHClF2
+
+ HCFC-124                       Chlorotetrafluoroethane             CHClFCF3
+
+                                Isopropenyl-1-methylcyclohexene     C10H16
+
+ HFC 125                        Pentafluoroethane                   CHF2CF3              15004-4
+
+ HFC 227ea                      Heptafluoropropane                  CF3CHFCF3            15004-5
+
+ HFC 23                         Trifluoromethane                    CHF3                 15004-6
+
+ IG-01                          Argon                               Ar                   15004-7
+
+ IG-100                         Nitrogen                            N2                   15004-8
+
+ IG-55                          Nitrogen (50 %)                     N2                   15004-9
+
+                                Argon (50 %)                        Ar
+
+ IG-541                         Nitrogen (52 %)                     N2                   15004-10
+
+                                Argon (40 %)                        Ar
+
+                                Carbon dioxide (8 %)                CO2
+DEFINIZIONE AGENTI ESTINGUENTI
+   AGENTE ESTINGUENTE   O.D.P.   G.W.P.   A.L.T
+
+                                                  O.D.P (Ozone Depletion Potential)
+        Halon 1301        12      6900    >65 y   G.W.P. (Global Warming Potential)
+                                                  A.L.T. (Atmosferic Life Time)
+       HCFC BlendA       0.03     1686
+
+
+         HFC 23           0      14800
+
+
+         HFC 125          0       3800
+
+        HFC 227ea         0       3800
+
+        HFC 236fa         0       9400
+
+       FK-5-1-12mmy       0        1      35 d
+
+          IG 01           0        0       0
+
+          IG 55           0        0       0
+
+          IG 100          0        0       0
+
+
+          IG 541          0        0       0
+SISTEMI DI SPEGNIMENTO
+
+
+
+
+                                                                TEMPERATURE
+
+
+
+
+                                                                                                                     PROGETTO PER
+                                                                                    RICOLLAUDO E
+                                                                                    SOSTITUZIONE
+                                                 SPEGNIMENTO
+
+
+
+
+                                                                                                                                     ESTINGUENTE
+                                                                                                                      QUANTITA' DI
+
+
+
+
+                                                                                                                                     QUANTITA' DI
+                                                                                                                                     PER COPRIRE
+      ESTINGUENTE
+
+
+
+
+                                                                 DI UTILIZZO
+                                                   TEMPO DI
+       PRODOTTO
+
+
+
+
+                                                                                                                                        1060 MC
+                    UTILIZZO IN                                                                    VISIBILITA'
+                                                                                                                                                     NUMERO DI
+
+
+
+
+                                                                                                                          MC
+                                  TEMPO DI
+                       AREE                                                                        DURANTE LA
+                    OCCUPATE
+                                  SCARICA                                                                                                             BOMBOLE
+                                                                                                    SCARICA
+
+
+
+
+                                                               - 20° C +          Ricollaudo                           18%
+ GAS CHMICO             SI         10 SEC.     < 30 SEC          50°C             decennale        NO/NEBBIA     (0,644 KG/MC)*      682,64 KG       6 X 150 LITRI
+
+                                                                                                       SI
+                                   60/120                      - 20° C +          Ricollaudo       TRASPARENT         44%
+  GAS INERTE            SI          SEC.       < 30 SEC          50°C             decennale             E        (0,848 MC/MC)       954,47 KG       24 X 80 LITRI
+
+                                                               - 20° C +          Ricollaudo                           50%
+      CO2              NO         120 SEC.     <60 SEC           50°C             decennale        NO/NEBBIA       1,33 KG/MC        1409,80 KG      32 X 60 LITRI
+
+                                                                                                                                       1590 lt       24 x 80 H2O
+                                                                                                                 0,3 lt/min per 5                     8 X 80 N2
+                                              In funzione
+                                                               > + 4 °C                            NO/NEBBIA            min            3180 lt       48 X 80 H2O
+                                                del test
+ WATER MIST                        >5 MIN.                                        Ricollaudo                     0,3 lt/min per 10                    16 X 80 N2
+ (spegnimento)          SI        > 10 MIN.                                       decennale                             min
+
+
+
+                                              In funzione
+  WATER MIST                                                   > + 4 °C         Sostituzione/      NO/NEBBIA                           9540 lt
+                                                del test
+(soppressione e/o                 > 30-60                                        ricollaudo                      0,3 lt/min per 30                   SERBATOIO +
+    controllo )         SI         MIN.                                           (Acqua)                               min                             POMPE
+
+                                                               - 20° C +       Sostituzione ogni   NO/NEBBIA
+   AEROSOL             NO         > 60 SEC.    < 30 SEC          50°C               10 anni                            100 g          106 KG        354 PZ DA 300 G
+SCOPO
+
+
+
+
+    •   Sistemi a saturazione totale che utilizzano gas:
+         – Non elettricamente conduttivi
+         – Che non lasciano residui dopo la scarica
+         – Con caratteristiche validate da Ente Terzo in merito alla efficienza e sicurezza
+
+    •   Non è applicabile per la soppressione delle esplosioni
+
+    •   Non comprende sistemi che utilizzano CO2, descritti in altre norme
+TERMINI E DEFINIZIONI
+
+
+
+      • Concentrazione di spegnimento: la minima concentrazione di estinguente
+        richiesta per:
+          - Estinguere un determinato fuoco ( classe A standard e High Hazard o B)
+          - In condizioni sperimentali definite
+          - Escluso ogni fattore di sicurezza
+      • Concentrazione di progetto: concentrazione di spegnimento + fattore di
+        sicurezza (+30%)
+      • Concentrazione massima: la concentrazione che si raggiunge in ambiente
+        quando tutto l’estinguente è stato scaricato.
+TERMINI E DEFINIZIONI
+
+
+
+     Volume netto: volume da proteggere racchiuso da elementi costruttivi escluso il
+     volume di tutti gli elementi costruttivi impermeabili all’interno del volume stesso
+
+
+
+
+                                   SEZIONE
+TERMINI E DEFINIZIONI
+
+
+
+     • Tempo di mantenimento (hold time): periodo di tempo in cui la
+       concentrazione di spegnimento raggiunta è maggiore della concentrazione di
+       spegnimento che copre il rischio
+     • Area normalmente occupata : ambiente che normalmente è occupato da esseri
+       umani
+     • Area normalmente non occupata : ambiente in cui di norma non sono
+       presenti esseri umani ma che può essere occasionalmente occupato per brevi
+       periodi
+     • Area non occupata (non occupabile): ambiente dove nessun essere umano
+       può essere presente
+          Per ragioni dimensionali
+          Per altri impedimenti fisici fissi e non removibli.
+SICUREZZA
+
+
+    AMBIENTE PROTETTO
+SICUREZZA
+
+
+              E’ SEMPRE PERICOLOSO
+               RIMANERE ESPOSTI A
+                  PRODOTTI DELLA
+              DECOMPOSIZIONE IN UN
+                     INCENDIO
+
+
+
+
+     I CHEMICAL AGENT          I GAS INERTI
+  CONTENGONO FLUORO E      NON DECOMPONGONO
+    DECOMPONGONO IN            IN QUANTITA’
+  FLUORURO DI IDROGENO      SIGNIFICATIVA MA….
+SICUREZZA
+
+
+
+ LOAEL             Livello minimo di effetti avversi osservati
+ Lowest Observed   La concentrazione minima alla quale
+                   sia stato osservato un effetto
+ Adverse Effect    tossicologico o fisiologico nocivo
+ Level
+
+
+
+ NOAEL             Livello di assenza di effetti avversi
+                   osservati
+ No Observed
+                   La massima concentrazione a cui non
+ Adverse Effect    siano stati osservati effetti avversi
+ Level             tossicologici o fisiologici
+SICUREZZA
+SICUREZZA
+
+
+
+Ogni cambiamento nel volume del locale ,
+nelle condizioni operative o nel contenuto del
+locale stesso può avere effetti sulla
+concentrazione originale di progetto
+PROGETTO DI DETTAGLIO
+
+
+
+
+LA QUANTITA’ DI GAS PER LA SATURAZIONE TOTALE
+
+
+Adottando:
+
+Q = la quantità di gas necessaria alla saturazione [kg]
+C = la Concentrazione di Progetto del gas [%]
+V = il Volume netto dell’ambiente da proteggere [m3]
+v = volume specifico [ m3/kg] = k1 + k2*T ove
+        k1, k2 = costanti specifiche del gas usato
+        T = temperatura minima prevedibile dell’ambiente protetto [°C]
+PROGETTO DI DETTAGLIO
+
+
+   • Per gas liquefatti   • Per Gas non liquefatti
+     (chemical agent)       (inert gas)
+PROGETTO DI DETTAGLIO
+
+
+   CALCOLI IDRAULICI
+
+
+   •   Eseguiti alla temperatura nominale di 20°C
+
+   •   Eseguiti con software validato da Ente Terzo secondo i test previsti nell’annesso H
+
+   •   Adeguatamente identificati come provenienza
+BASIC DESIGN
+
+
+    In generale
+     In accordo con le normative nazionali
+     Pulita, flussata e priva di ruggine o corrosione dentro e fuori
+
+     Con una “trappola per sporcizia” alla fine di ogni linea
+
+     Con un drenaggio nella parte più bassa per evitare ristagni di acqua
+
+     In sezione di tubazione chiusa , presenza di indicatore di pressione (PSH) e di una
+      valvola di sicurezza tarata.
+     Valvole di sfiato sulle linee pneumatiche di comando
+
+     I collettori delle bombole debbono essere collaudati idraulicamente ad una pressione
+      pari a 1,5 volte la pressione di esercizio
+BASIC DESIGN
+
+
+
+        Sistema bilanciato   Sistema sbilanciato
+IPOTESI DI DISTRIBUZIONE SBILANCIATA
+BASIC DESIGN
+
+
+
+
+       SOFFITTO     SOFFITTO     SOFFITTO
+       CEILING      CEILING      CEILING
+
+
+                                            10 CM
+
+
+
+
+           UGELLO       UGELLO       UGELLO
+           NOZZLE       NOZZLE       NOZZLE
+BASIC DESIGN
+CASO 1
+
+
+
+
+Pianta
+         Sezione
+CASO 1
+CASO 1
+CASO 1
+CASO 1
+CASO 1
+
+
+
+
+Pianta
+         Sezione
+CASO 1
+REGOLE PER LA DISTRIBUZIONE
+
+   1) Copertura singolo ugello: 25,00 mq per altezze standard fino a 4,50 mt (per
+      caso 1 necessari 4,76 ugelli – si arrotonda)
+   2) 2 tipologie: BILANCIATA e NON BILANCIATA
+   3) Dividere in parti uguali
+CASO 1
+CASO 1
+                                                          CASO 1
+
+
+                                                54 kg
+
+
+
+
+                   40 kg
+                                                diam. 1
+
+
+
+
+                   diam. ¾
+      80 kg                        108 kg
+       1 1/4                        1 1/4
+                                        2
+                                       216 kg
+
+
+
+
+           1 1/2
+          161 kg
+ 322 kg                       322 kg
+diam. 2 1/2                  diam. 2 1/2
+                                        1 1/4
+                                       108 kg
+
+
+
+
+                                   54 kg
+                                   diam. 1
+CASO 2
+
+
+
+
+Pianta   Sezione
+CASO 2
+CASO 2
+CASO 2
+CASO 2
+CASO 2 (Ambiente – 272 Kg + 9 Kg)
+
+
+
+                     46 kg
+                     diam. 3/4
+
+
+
+
+                                                                           46 kg
+                                                                            3/4
+                                      184 kg                92 kg
+                                      diam. 3/4             diam. 1 1/4
+
+
+
+
+                             1 1/4
+                            92 kg
+
+
+
+
+                                                   281 kg
+                                                    2
+                                                        Calata a sottopavimento
+
+
+                                                     321 kg diam. 2 1/2
+
+
+
+
+                      35 kg
+                      diam. 3/4
+                                     140 kg
+                                     diam. 1 1/2
+                            70 kg
+
+
+
+
+                                                   281 kg
+                             1
+
+
+
+
+                                                    2
+
+
+
+
+                                                        Calata a sottopavimento
+
+
+
+                                                     321 kg diam. 2 1/2
+CASO 2 (Sottopavimento - 30 kg + 9 Kg – circa 40 Kg )
+
+
+                   7 kg
+                   diam. 1/2
+                                 28 kg                14 kg
+
+
+
+
+                                                              diam.1/2
+                                  1/2                  1/2
+
+
+
+                         14 kg
+
+
+
+
+                                          diam. 3/4
+                          1/2
+
+
+
+
+                                                              7 kg
+                                           40 kg
+                   5 kg
+                   diam. 1/2
+                                 20 kg
+                                  1 1/2
+                         10 kg
+
+
+
+
+                                          diam. 3/4
+                          1/2
+
+
+
+
+                                           40 kg
+

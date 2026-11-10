@@ -1,0 +1,498 @@
+RTV V.11 – STRUTTURE SANITARIE
+         DM 29/03/2021
+
+
+
+
+              23 aprile 2026 – Collegio dei Geometri della provincia di Como
+        Aula Virtuale - MODALITA’ STREAMING SINCRONO Videoconferenza
+            Dott. Tinti Gianluca – gianluca.tinti@gmail.com – tel 339 6655966
+                                     INTRODUZIONE
+ Il 9 aprile. 2021 sulla Gazzetta Ufficiale della
+Repubblica Italiana è stata pubblicato li Decreto del
+Ministero dell'interno 29 marzo 2021 recante
+“Approvazione di norme tecniche di prevenzione
+incendi per le strutture sanitarie”
+
+Con l'emanazione del succitato decreto sono state
+aggiornate le norme tecniche di prevenzione incendi
+per le strutture sanitarie in base ai seguenti decreti
+di riferimento:
+
+
+        •   D.P.R. 1° agosto 2011, n. 151
+        •   D.M. interno 1 8 settembre 2002, regola tecnica di prevenzione incendi per la
+            progettazione, la costruzione e l'esercizio delle strutture sanitarie pubbliche e private;
+        •   D.M. interno 7 agosto 2012, modalità di presentazione dalle istanze concernenti i
+            procedimenti di prevenzione incendi;
+        •   D.M. interno 19 marzo 2015, aggiornamento della regola la tecnica di prevenzione
+            incendi per la progettazione, la costruzione e l’esercizio delle strutture sanitarie
+            pubbliche e private di cui al decreto 18 settembre 2002;
+        •   D.M. interno 3 agosto 2015, Codice di prevenzione incendi.
+                                 INTRODUZIONE
+
+
+
+
+Il Decreto è entrato in vigore il 9 maggio 2021 e si può applicare sia alle attività esistenti
+alla data di entrata in vigore del decreto che a quelle di nuova realizzazione.
+
+In alternativa, per le strutture sanitarie, si possono continuare ad applicare le norme
+tecniche di prevenzione incendi “tradizionali” di cui al D.M. 18 settembre 2002 recante
+“Approvazione della regola tecnica di prevenzione incendi per fa progettazione, le
+costruzione e l'esercizio delle strutture sanitarie pubbliche e private”.
+                                     INTRODUZIONE
+L'attività associata alle strutture sanitarie è
+individuata con il numero 68 dal decreto del
+Presidente della Repubblica del 1° agosto 2011 n.
+151 e suddivise nelle tre categorie in funzione
+della superficie e del numero di posti letto.
+                                     INTRODUZIONE
+Il Codice di prevenzione incendi
+costituisce il nuovo strumento
+normativo per la progettazione
+antincendio di diverse attività
+soggette ai controlli di prevenzione
+incendi.
+
+Il panorama delle attività rientranti
+nel suo campo di applicazione si è
+progressivamente ampliato grazie
+alla pubblicazione di alcune RTV
+(regole tecniche verticali).
+
+Dopo la pubblicazione delle regole
+tecniche verticali (RTV) per gli uffici,
+le attività ricettive, le autorimesse, le
+attività scolastiche, le attvita’
+commerciali, sono state emanate
+quelle sugli edifici tutelati aperti al
+pubblico e contenenti musei, mostre,
+biblioteche, archivi.
+INTRODUZIONE
+                 RTV V.11.1 – Scopo e campo applicazione
+In questo modo si è
+operato un sostanziale
+allineamento delle
+strutture rientranti nel
+campo di applicazione
+del codice di cui al D.M. 3
+agosto 2015 e s.m.i. e
+quelle soggette ai
+controlli di prevenzione
+incendi ai sensi del D.P.R.
+n. 151/2011.
+
+Relativamente alle case di riposo per anziani, queste non sono comprese nel campo di
+applicazione del D.M. 18 settembre 2002 (che fa riferimento alle strutture sanitarie
+individuate dal D.P.R. 14 gennaio 1997), trattandosi di strutture a carattere residenziale che
+forniscono a ospiti autosufficienti prestazioni di tipo alberghiero, essendo prive di qualsiasi
+servizio di assistenza sanitaria e infermieristica. Relativamente alle norme da applicare, il
+D.M. 18 settembre 2002, pur non cogente, può rappresentare un riferimento da ponderare
+in funzione delle reali condizioni psico-motorie degli ospiti.
+                 RTV V.11.1 – Scopo e campo applicazione
+In questo modo si è
+operato un sostanziale
+allineamento delle
+strutture rientranti nel
+campo di applicazione
+del codice di cui al D.M. 3
+agosto 2015 e s.m.i. e
+quelle soggette ai
+controlli di prevenzione
+incendi ai sensi del D.P.R.
+n. 151/2011.
+
+
+
+
+Per quanto concerne le strutture sanitarie che erogano prestazioni di assistenza specialistica (secondo
+capoverso della voce n. 68), qualora tali prestazioni di assistenza specialistica venissero erogate presso
+una struttura sanitaria con regime di ricovero ospedaliero e/o residenziale con numero di posti letto
+inferiore a 25 fruibile anche da pazienti esterni, l'eventuale assoggettabilità è determinata tenendo
+conto della superficie della parte di struttura destinata all'erogazione delle prestazioni stesse.
+RTV V.11.1 – Scopo e campo applicazione
+                          RTV V.9.2 - Definizioni
+
+
+
+
+I termini e le definizioni sono in genere compresi nel capitolo G1 del Codice di
+Prevenzione Incendi, mentre nelle Regole Tecniche Verticali sono definite solamente
+eventuali specifiche terminologie ad uso esclusivo delle stesse.
+                                  RTV V.9.3 - Classificazioni
+
+Per le strutture sanitarie, i
+parametri di classificazione
+identificati sono la tipologia
+della prestazione erogata,
+la quota massima dei piani
+nonché il numero di posti
+letto.
+
+In funzione dei suddetti
+parametri sono quindi
+previsti livelli di prestazioni
+differenziati per le singole
+misure antincendio.
+                           RTV V.9.3 - Classificazioni
+
+Piano: superﬁcie calpestabile.
+
+Piano di riferimento del compartimento: piano del luogo sicuro esterno verso cui
+avviene prevalentemente l'esodo degli occupanti del compartimento e da cui accedono
+i soccorritori. Se non è presente un piano con tali caratteristiche, si considera il piano di
+accesso dei soccorritori con le migliori caratteristiche di operatività antincendio
+(capitolo S.9). Per ogni compartimento è determinato un unico piano di riferimento, che
+generalmente corrisponde con la strada pubblica o privata di accesso.
+La determinazione del piano di
+riferimento del compartimento
+è riportata nel progetto.
+
+Quota di piano: dislivello tra il
+piano ed il relativo piano di
+riferimento del compartimento
+cui appartiene.
+Nota: La quota di piano può
+essere positiva, negativa o
+nulla.
+                 RTV V.11.3 – Classificazioni aree attività
+Aree dedicate allo
+svolgimento
+dell’attività
+                   RTV V.11.3 – Classificazioni aree attività
+Come previsto dalla RTV
+Aree a rischio specifico,
+anche per le strutture
+sanitarie la norma
+identifica a priori le aree
+da considerare a rischio
+specifico, secondo la
+definizione del Codice, e
+per le quali, pertanto, è
+necessario applicare le
+prescrizioni della
+relativa RTV (V.1).
+             RTV V.11.3 – Classificazioni aree attività
+Depositi
+
+
+
+
+Altre aree
+RTV V.11.3 – Classificazioni aree attività
+RTV V.11.3 – Modalità operativa
+RTV V.11.3 – Modalità operativa
+              RTV V.11.4 – Valutazione del rischio incendio
+L'intero processo di
+progettazione si fonda sul pilastro
+della valutazione del rischio.
+
+Il progettista assume piena
+responsabilità in merito alla
+valutazione del rischio d'incendio
+riportata nella documentazione
+progettuale relativa all’attività.
+
+E’ necessario che il progettista
+svolga bene la valutazione del
+rischio e non eluda quegli aspetti
+che possano portare a situazioni
+di potenziale conflitto in fase di
+controllo dell'attività.
+                    RTV V.9.4 – Valutazione del rischio incendio
+La regola tecnica verticale
+fornisce un'indicazione,
+non esaustiva, del profilo
+di rischio Rvita per alcune
+aree delle attività
+sanitarie, facendo
+presente che comunque il
+progettista può scegliere
+valori diversi da quelli
+proposti, purché indichi
+te motivazioni della
+scelta.
+RTV V.11.4 – Valutazione del rischio incendio
+RTV V.11.4 – Valutazione del rischio incendio
+RTV V.11.5 – Strategia antincendio
+              RTV V.11.5 – Strategia antincendio
+     Determinati i profili di rischio si può determinare il LIVELLO DI PRESTAZIONE
+
+Sulla base dei profili di rischio, per ogni aspetto rilevante (reazione al fuoco, resistenza al fuoco, ecc.), si
+determina il LIVELLO DI PRESTAZIONE
+
+Livello I
+Livello II
+Livello III
+…
+…
+                  RTV V.11.5 – Strategia antincendio
+Una volta stabiliti i tre profili di rischio, per ognuno degli argomento della
+Strategia antincendio
+          1. - Reazione al fuoco
+          2. - Resistenza al fuoco
+          3. - Compartimentazione
+          4. - Esodo
+          5. - Gestione della sicurezza antincendio
+          6. - Controllo dell’incendio
+          7. - Rivelazione ed allarme
+          8. - Controllo di fumi e calore
+          9. - Operatività antincendio
+          10. – Sicurezza degli impianti tecnologici e di servizio
+
+           si determina il Livello di Prestazione applicabile
+                    (Livello I, Livello II, Livello III….)
+                  e quindi le prestazione da garantire
+  RTV V.11.5 – Strategia antincendio
+
+
+    MISURE                                                    SOLUZIONI
+  ANTINCENDIO                                                PROGETTUALI
+
+                             SOLUZIONI CONFORMI
+ Soluzioni PRESCRITTIVE, di immediata applicazione che non richiedono ulteriori
+           valutazioni tecniche (es. “distanza di protezione pari a 5 m.”)
+
+
+                            SOLUZIONI ALTERNATIVE
+ Soluzioni progettuali PRESTAZIONALI, alternative alle soluzioni conformi (es. “La
+distanza di separazione deve essere calcolata imponendo irraggiamento massimo
+dal focolare verso l'obiettivo pari a 12,6 kW/m2.”). Il progettista deve dimostrare di
+               aver raggiunto il corrispondente livello di prestazione
+
+                             SOLUZIONI IN DEROGA
+ Soluzioni progettuali PRESTAZIONALI, per attività con RTV, qualora non possibile
+   applicare efficacemente né le soluzioni conformi, né le soluzioni alternative
+     RTV V.11.5 – Strategia antincendio
+
+
+           1) Si determina il PROFILO DI RISCHIO
+
+
+
+2) Si determina, per ogni aspetto, il LIVELLO DI PRESTAZIONE
+
+
+
+                 3) Si trovano le soluzioni:
+                 A) SOLUZIONI CONFORMI
+                B) SOLUZIONI ALTERNATIVE
+                 C) SOLUZIONI IN DEROGA
+                     RTV V.11.5.1 – Resistenza al fuoco
+
+
+
+
+I valori indicati in tabella V.11-2 sono solo valori
+minimi. Occorrerà comunque effettuare per
+ciascun compartimento il calcolo della relativa
+classe di resistenza al fuoco.
+
+Si dovrà applicare la misura antincendio S.2
+della RTO attribuendo i livelli di prestazione
+secondo i criteri di attribuzione e qualora si
+adotti la soluzione conforme, si dovrà verificare
+che la classe di resistenza al fuoco calcolata non
+sia inferiore ai valori minimi minimi
+                           RTV V.11.5.2 – Compartimentazione
+Anche in questo caso, le
+caratteristiche di
+compartimentazione dei
+diversi ambiti dell'attività
+andranno valutate secondo la
+procedura introdotta con il
+Codice, tenendo, tuttavia,
+conto di ulteriori indicazioni.
+
+Resta inteso che, qualora le
+misure proposte per le
+soluzioni conformi non siano
+applicabili, è sempre possibile
+adottare soluzioni alternative.
+RTV V.11.5.2 – Compartimentazione
+RTV V.11.5.2 – Compartimentazione
+RTV V.11.5.2 – Compartimentazione
+RTV V.11.5.2.1 – Compartimentazione - Ubicazione
+RTV V.11.5.2.1 – Compartimentazione - Ubicazione
+RTV V.11.5.2.2 – Compartimentazione - Comunicazione
+                               RTV V.11.5.3 – Esodo
+Differentemente dalle
+altre regole tecniche
+verticali, in questo caso
+viene data specifica
+indicazione
+sulla necessità di garantire
+l'esodo orizzontale
+progressivo per le aree
+destinate a ricovero in
+regime ospedaliero o
+residenziale e alle aree
+adibite ad unità speciali.
+
+
+
+
+                                Esodo orizzontale progressivo: modalità di esodo che prevede lo spostamento
+                                degli occupanti dal compartimento di primo innesco in un compartimento
+                                adiacente capace di contenerli e proteggerli fino a quando l'incendio non sia
+                                estinto o fino a che non si proceda ad una successiva evacuazione verso luogo
+                                sicuro.
+RTV V.11.5.3 – Esodo
+RTV V.11.5.3 – Esodo
+RTV V.11.5.3 – Esodo
+RTV V.11.5.3 – Esodo
+RTV V.11.5.3 – Esodo
+                       RTV V.11.5.4 –SGSA
+
+
+
+
+La RTV V.11 contiene
+indicazioni riferite
+alle attività che
+erogano prestazioni
+di assistenza
+specialistica in
+regime
+ambulatoriale.
+RTV V.11.5.4 –SGSA
+RTV V.11.5.4 –SGSA
+RTV V.11.5.4 –SGSA
+                          RTV V.11.5.5 – Controllo dell’incendio
+La RTV fissa i livelli di prestazione
+minimi da garantire per la misura
+antincendio “Controllo
+dell'incendio (S.6)”, in funzione
+delia tipologia delle aree che
+possono essere presenti in una
+Struttura sanitaria ed in relazione
+al numero di posti letto della
+struttura.
+
+Per alcune tipologie di aree
+destinate perlopiù ad aree
+tecniche e/o depositi, se ubicate i
+in opere da costruzione
+contenenti aree TA o TB (aree
+destinate a ricovero in regime
+ospedaliero o residenziale e aree
+destinate a prestazioni medico-
+sanitarie di tipo ambulatoriale, il
+livello di prestazione da garantire
+è IV.
+                      RTV V.11.5.5 – Controllo dell’incendio
+Per ogni tipologia di area
+vengono indicate le
+caratteristiche
+prestazionali che devono
+essere garantite dagli
+impianti di protezione
+attiva, con riferimento
+alle norme recanti la
+regola dell'arte.
+RTV V.11.5.5 – Controllo dell’incendio
+                    RTV V.11.5.6 – Rivelazione e allarme
+La RTV fissa i livelli di
+prestazione minimi da
+garantire, in funzione
+della tipologia delle
+aree che possono essere
+presenti in una struttura
+sanitaria, attraverso una
+specifica tabella.
+RTV V.11.5.6 – Rivelazione e allarme
+RTV V.11.5.7 – Controllo fumi e calore
+RTV V.11.5.7 – Controllo fumi e calore
+RTV V.11.5.7 – Controllo fumi e calore
+RTV V.11.5.7 – Controllo fumi e calore
+RTV V.11.5.7 – Controllo fumi e calore
+RTV V.11.5.7 – Controllo fumi e calore
+               RTV V.11.5.8 – Operatività antincendio
+
+
+
+
+La RTV evidenzia quanto richiesto nel capitolo S.4 del Codice di Prevenzione incendi
+relativamente alla necessità di un ascensore (montalettighe) antincendi in caso di presenza
+di compartimenti con profilo di rischio D1 e D2, cioè in caso di aree destinate a ricovero in
+regime ospedaliero o residenziale, aree adibite ad unità speciali.
+                   RTV V.11.5.9 – Sicurezza degli impianti tecnologici e di servizio
+Vengono fornite indicazioni
+specifiche per la sicurezza degli
+impianti tecnologici e di servizio
+allo scopo di evitare che un
+incendio sviluppatosi in un'area
+dell'attività comporti il
+malfunzionamento di tali
+impianti anche in aree non
+coinvolte dall'incendio.
+
+Gli impianti tecnologici e di
+servizio di ciascun
+compartimento delle aree di tipo
+TA2, cioè aree adibite ad unità
+speciali o cure intensive, devono
+essere realizzati in modo da
+garantire la continuità delle
+prestazioni sanitarie anche in
+caso di incendio coinvolgente un
+qualunque altro compartimento
+dell'attività.
+                                  RTV V.11.6 – Altre indicazioni
+La RTV contiene indicazioni
+attinenti alcune specifiche
+necessità individuate nelle
+attività sanitarie, quali la
+detenzione di bombole di
+gas medicali.
+
+In particolare si evidenzia
+che nelle attività che
+erogano prestazioni in
+regime       di       ricovero
+Ospedaliero ed in regime
+residenziale è consentito
+detenere bombole di gas
+medicali, con esclusione dei
+percorsi di esodo e nelle
+aree degli ambienti con
+presenza di visitatori non
+autorizzati     all'assistenza,
+sotto l'osservanza di alcune
+prescrizioni, indicate nel
+paragrafo stesso.
+                                   RTV V.11.6 – Altre indicazioni
+Inoltre viene confermata fa
+possibilità di utilizzare armadi
+metallici dotati di bacino di
+contenimento, all'interno dei
+quali è consentito detenere
+sostanze        infiammabili    per
+esigenze igienico sanitarie (es.
+Pulizia, igienizzazione, processi di
+analisi,     ...),    in   Quantità
+compatibili con il carico di
+incendio e sulla base delle
+risultanze della valutazione del
+rischio.
+                           RTV V.11.7 – Opere da costruzione con un numero di posti letto ≤ 25
+La RTV contiene indicazioni sulle
+attività con un numero di posti
+letto non superiore a 25.
+
+Per tali tipologie di attività, non
+soggette      ai    controlli     di
+prevenzione incendi ai sensi del
+D.P.R. n. 151/2011, il testo
+rimanda alle prescrizioni della
+regola      tecnica     orizzontale
+fornendo indicazioni sui livelli di
+prestazione che si applicano per
+le misure antincendio di cui ai
+capitoli S.3, 5.5, 5.66 5.7 per le
+aree destinate a ricovero in
+regime          ospedaliero       o
+residenziale, aree adibite ad
+unità speciali.
+

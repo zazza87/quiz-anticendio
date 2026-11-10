@@ -1,0 +1,4 @@
+# file generati dal build (si rifanno con sorgenti/tools/pubblica.sh)
+sorgenti/quiz/pagine.js
+sorgenti/quiz/quiz-professionista-antincendio.html
+node_modules/

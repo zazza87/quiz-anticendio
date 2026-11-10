@@ -1,0 +1,1129 @@
+ Corso di specializzazione in prevenzione incendi per l’iscrizione dei
+ professionisti negli elenchi del Ministero dell’Interno
+ (Art. 4 del D.M. 05.08.2011)
+ Modulo 2 – Fisica e chimica dell’incendio – Lezione 2.1
+«Generalità sulla combustione ed esplosione; effetti dell’incendio e
+ dell’esplosione; gli agenti estinguenti»
+ Data : 23 settembre 2026
+ Ing. Angelo Manna – Direzione Regionale VVF Friuli Venezia Giulia
+Generalità sulla combustione
+❑ Principi della combustione
+❑ Prodotti della combustione
+❑ Parametri fisici della combustione
+❑ Dinamica degli incendi
+❑ Effetti degli incendi sull’uomo
+La combustione:
+▪ E’ una reazione chimica sufficientemente rapida nella quale una
+ sostanza combustibile (sostanza ossidabile che cede elettroni)
+ reagisce con una sostanza comburente (sostanza ossidante che
+ riceve elettroni) liberando energia, in genere sotto forma di calore.
+L’incendio:
+▪ E’ una combustione con caratteristiche tali da rendere deducibile,
+ in via normale ed alla stregua di norme d'esperienza, il pericolo per
+ l'incolumità pubblica per proporzione, violenza, possibilità di
+ sviluppo o difficoltà di spegnimento.
+I comburenti:
+▪ Sono le sostanze che provocano l’ossidazione (si riducono).
+▪ Nella maggior parte dei casi, l’Ossigeno dell’aria, ma anche:
+ Nitriti e Nitrati (NOx), Cloro, Fluoro, Ozono, Ossidi,
+ Perossidi, Permanganati…
+▪ Alcuni sono instabili: la reazione può essere violenta.
+▪ In alcuni casi, durante la reazione si forma ossigeno, che a
+ sua volta contribuisce alla combustione.
+ Combustione reazione chimica
+ sufficientemente rapida
+ • calore,
+ • fiamma
+ • gas
+sostanza combustibile comburente innesco • fumo e
+ • luce
+ Prodotti della reazione
+ Reagente 1 Reagente 2
+Esempi di reazioni chimiche di combustione:
+▪ 2H2 + O2 = 2(H2O) + Energia
+ (2 molecole di idrogeno) + (1 molecola di ossigeno) = (2 molecole di acqua) + energia
+▪ C (Carbonio) + O2 (Ossigeno) = CO2 (Anidride carbonica)
+ 1 molecola di carbonio + 1 molecola di ossigeno = 1 molecola di anidride carbonica + energia
+▪ CH4 + 2O2 = CO2 + 2(H2O) + Energia
+▪ 1 molecola di metano + 2 molecole di ossigeno = 1 molecola di anidride carbonica + 2
+ molecole di acqua + energia
+Principi della combustione
+La combustione è una reazione chimica esotermica in quanto avviene con
+produzione di calore (i reagenti possiedono più energia dei prodotti di reazione).
+Infatti nelle reazioni di combustione i reagenti hanno più
+energia dei prodotti di reazione e la differenza di energia tra
+reagenti e prodotti è pari al calore emesso.
+Energia di attivazione
+Il processo di combustione è legato all'energia con la quale avviene l’urto
+tra molecole di combustibile e di comburente.
+Questa energia necessaria ad avviare il processo di combustione
+viene detta energia di attivazione
+La temperatura è il parametro che
+più influenza la velocità di
+reazione.
+Tutte le reazioni accelerano
+all'aumentare della temperatura.
+Energia di attivazione:
+AUTOCATALISI: la presenza di catalizzatori (radicali liberi) determina un
+abbassamento della energia di attivazione.
+Un catalizzatore fa procedere la reazione più velocemente perché fornisce un
+percorso alternativo in cui la barriera di attivazione è più bassa (curva b).
+Al contrario l’inibitore rallenta la reazione perché innalza la barriera stessa (curva
+ 52
+ c).
+Energia di accensione
+ ▪ L'energia di accensione deve consentire che almeno una parte
+ della miscela si porti alla temperatura di autoaccensione.
+ ▪ Il valore dell’energia richiesta dipende, quindi, dalla
+ concentrazione combustibile – comburente.
+ ▪ L'energia di accensione è minima alla concentrazione
+ stechiometrica.
+Energia di accensione:
+▪ Alcuni valori:
+ Acetilene 0.02 mJ
+ Carbone 60 “
+ Idrogeno 0.02 “
+ Metano 0.2 “
+ Ossido di etilene 0.087 “
+ Polipropilene 30 “
+ Propano 0.3 “
+ Propilene 0.282 “
+ Zolfo 15 “
+ Energia di accensione:
+▪ Esempi di fonti di ignizione:
+ - fiamme, calore diretto, superfici calde;
+ - saldature e taglio alla fiamma;
+ - scintille di origine meccanica;
+ - energia chimica;
+ - surriscaldamento;
+ - elettricità statica;
+ - archi elettrici
+ Velocità di combustione
+.
+ La velocità di combustione dipende da:
+ • Temperatura
+ • Pressione
+ • Miscelazione e concentrazione dei reagenti
+ • Catalizzatori
+ • Condizioni ambientali al contorno
+ La temperatura è il parametro che
+ più influenza la velocità di
+ reazione.
+ Tutte le reazioni accelerano
+ all'aumentare della temperatura.
+TRIANGOLO DEL FUOCO:
+ Condizioni necessarie affinché si
+ VERIFICHI la combustione sono:
+ ➢ presenza del combustibile
+ ➢ presenza del comburente
+ ➢ p resenza energia di attivazione
+ (innesco)
+ solo la contemporanea
+ presenza di questi tre elementi
+ dà luogo al fenomeno
+ dell’incendio, di conseguenza al
+ mancare di almeno uno di essi
+ l’incendio si spegne.
+QUADRILATERO DEL FUOCO:
+Condizioni necessarie affinché si MANTENGA la combustione
+sono:
+• Presenza del combustibile
+• Presenza del comburente
+• Presenza della temperatura
+• Presenza di radicali liberi (autocatalisi)
+Per ottenere lo spegnimento
+dell’incendio si può ricorrere a tre
+sistemi:
+➢ Eliminazione/esaurimento del combustibile
+➢ Soffocamento (con eliminazione del comburente)
+➢ Raffreddamento
+ Normalmente per lo spegnimento
+ di un incendio si utilizza una
+ combinazione delle tre operazioni
+Estinzione: rottura triangolo o quadrilatero
+▪ Nel caso del quadrilatero (processi di autocatalisi in corso) per
+ interrompere la combustione possiamo considerare il quarto fattore
+ (autocatalisi), cioè il quarto lato del quadrilatero, e pertanto
+ estinguere ricorrendo al blocco dell’autocatalisi (via chimica)
+ ESTINZIONE:
+▪ ESAURIMENTO DEL COMBUSTIBILE:
+▪ allontanamento o separazione della sostanza combustibile dal focolaio d’incendio
+▪ RAFFREDDAMENTO:
+▪ allontanamento o separazione della sostanza combustibile dal focolaio d’incendio
+▪ SOFFOCAMENTO:
+▪ separazione del comburente dal combustibile o riduzione della concentrazione di
+▪ comburente in aria
+ANTICATALISI
+Utilizzo di sostanze che catturano i radicali
+liberi bloccando le catene della reazione
+chimica
+ Riepilogando per spegnere un incendio
+ possiamo ricorrere a tre sistemi, ovvero:
+ RAFFREDDAMENTO, SOFFOCAMENTO,
+ ESAURIMENTO DEL COMBUSTIBILE, ma
+ dobbiamo considerare anche l’ulteriore
+ possibilità di contrastare un incendio con
+ l’ANTICATALISI
+▪ Normalmente per lo spegnimento di un incendio si
+ utilizza una combinazione delle varie modalità di
+ spegnimento che abbiamo visto
+ La classificazione degli incendi
+ CLASSE A
+ incendi di materiali solidi
+ CLASSE B
+ incendi di liquidi infiammabili
+ CLASSE C
+ incendi di gas infiammabili
+ CLASSE D
+ incendi di metalli combustibili
+Tale classificazione, prettamente operativa, consente un’opportuna
+scelta del tipo di estinguente
+Classificazione degli incendi (Norma EN 2)
+Incendi di apparecchiature elettriche in
+tensione (cosiddetti «fuochi di classe E»)
+▪ A tale categoria di fuochi si intendono
+ appartenere tutte le apparecchiature elettriche
+ ed i loro sistemi di servizio che, anche nel
+ corso della combustione, potrebbero trovarsi
+ sotto tensione.
+▪ La dicitura, anche se non garantita da esplicita
+ norma, fornisce un elemento utile per valutare i
+ limiti di un estintore, anche in riferimento alla
+ tensione dichiarata.
+Classe F: fuochi da oli e grassi vegetali o animali
+ ▪
+La recente norma EN2 del 2005 ha portato da 4 a 5 le classi di
+fuoco prese a riferimento per la qualificazione dei mezzi
+estinguenti aggiungendo la classe "F" che prevede i fuochi che
+interessano mezzi di cottura (oli e grassi vegetali o animali) in
+apparecchi di cottura.
+ Le sorgenti d’innesco
+Nella ricerca delle cause
+ • Accensione diretta
+d’incendio, sia a livello
+preventivo che a livello di • Accensione indiretta
+accertamento, • Attrito
+è fondamentale • Autocombustione o
+individuare tutte le
+possibili fonti d’innesco, riscaldamento
+che possono essere spontaneo
+suddivise in quattro
+categorie:
+Classificazione degli inneschi:
+ Cause
+ di Innesco
+ Cause Cause
+ Intrinseche Estrinseche
+ Termiche Meccaniche Elettriche Termiche Elettriche
+ Fiamme libere Attrito Apparecchiature Conduzione Scariche atmosferiche
+ Reazioni Surriscaldamento Convezione
+ chimiche
+ esotermiche
+ Faville Irraggiamento
+ Autocombustione
+ ACCENSIONE DIRETTA
+ quando una fiamma, una
+ scintilla o altro materiale
+ incandescente entra in
+ contatto con un materiale
+ combustibile in presenza di
+ ossigeno
+Esempi: operazioni di taglio e
+ saldatura, fiammiferi e
+ mozziconi di sigaretta,
+ lampade e resistenze
+ elettriche, scariche
+ elettrostatiche
+ACCENSIONE INDIRETTA
+quando il calore d’innesco si
+trasmette nelle forme della
+convezione, conduzione e
+irraggiamento termico.
+Esempi: correnti di aria calda
+ generate da un incendio e
+ diffuse attraverso un vano
+ scala o altri collegamenti
+ verticali negli edifici;
+ propagazione di calore
+ attraverso elementi
+ metallici strutturali degli
+ edifici
+ATTRITO
+quando il calore è prodotto
+dallo sfregamento di due
+materiali
+Esempi: malfunzionamento di parti
+ meccaniche rotanti quali
+ cuscinetti, motori; urti;
+ rottura violenta di
+ materiali metallici
+AUTOCOMBUSTIONE o
+RISCALDAMENTO SPONTANEO
+ quando il calore viene prodotto
+ dallo stesso combustibile come
+ ad esempio lenti processi di
+ ossidazione, reazione chimiche,
+ decomposizioni esotermiche in
+ assenza d’aria, azione biologica
+Esempi: cumuli di carbone, stracci o
+ segatura imbevuti di olio di lino,
+ polveri di ferro o nichel,
+ fermentazione di vegetali
+ Prodotti della combustione
+I prodotti della combustione
+sono suddivisibili in
+quattro categorie:
+ fiamme
+ gas di combustione
+ fumo
+ calore
+Prodotti della combustione
+ Fiamme
+Le fiamme sono costituite dall’emissione di luce
+conseguente alla combustione di gas sviluppatisi in un
+incendio
+Il calore generato innalza la temperatura a valori tali per cui
+i partecipanti alla reazione irradiano energia
+elettromagnetica con lunghezze d'onda comprese nel
+campo del visibile.
+Le zone di reazione ci appaiono allora luminose e si parla
+di fiamme
+ Fiamme
+In particolare nell’incendio di combustibili gassosi è possibile valutare
+approssimativamente il valore raggiunto dalla temperatura di combustione
+dal colore della fiamma.
+La colorazione dipende dalla composizione chimica della sostanza che
+brucia e dal tenore di ossigeno e dalla temperatura:
+ Scala cromatica delle temperature nella combustione dei gas
+ Colore della fiamma Temperatura (°C)
+ Rosso nascente 525
+ Rosso scuro 700
+ Rosso ciliegia 900
+ Giallo scuro 1100
+ Giallo chiaro 1200
+ Bianco 1300
+ Bianco abbagliante 1500
+ Gas di combustione
+• I gas di combustione sono quei
+ prodotti della combustione che
+ rimangono allo stato gassoso
+ anche quando raggiungono,
+ raffreddandosi, la temperatura
+ ambiente di riferimento (15 °C)
+• La produzione di tali gas dipende
+ dal tipo di combustibile, dalla
+ percentuale di ossigeno presente
+ e dalla temperatura raggiunta
+ nell’incendio
+ Nella stragrande maggioranza dei casi, la mortalità per incendio è da
+ attribuire all’inalazione di questi gas che producono danni biologici per
+ anossia o per tossicità
+Gas di combustione
+▪ Nelle combustioni in aria si ha la formazione di
+ acqua liquida o vaporizzata, e di anidride carbonica
+ dovuta alla presenza di carbonio e idrogeno nei
+ combustibili.
+▪ Se l'aria non è sufficiente ad ossidare
+ completamente il carbonio si ha presenza, più o
+ meno elevata, di ossido di carbonio, prodotto
+ tipico delle combustioni in atmosfera povera di
+ ossigeno
+Gas di combustione
+ Da altri elementi presenti nel combustibile saranno
+ prodotti altri gas di combustione:
+ • C → CO CO2
+ • H → H2O
+ • S → SO2 SO3
+ • N → NO2 NO3
+ • Cl → HCl
+ • C H N → HCN
+ • ………………
+Gas di combustione
+▪ Fra i principali:
+ ▪ Ossido di carbonio (CO) – è tossico perché si lega all’emoglobina
+ del sangue – è incolore e inodore.
+ ▪ Anidride carbonica (CO2) – è asfissiante perché riduce il
+ quantitativo di ossigeno ma non tossica.
+ ▪ Acido cianidrico (HCN) – è velenoso e odora come le mandorle
+ amare.
+ ▪ Fosgene (CCl2O) – è tossico – si libera con la combustione di
+ materie plastiche.
+Gas di combustione e tossicità per alcune sostanze:
+Gas di combustione: effetti sull’uomo
+Prodotti della combustione: Gas di combustione
+Altri gas presenti:
+• gas inerti già presenti nell’aria come l'azoto
+• gas derivanti dalla decomposizione termica di
+ eventuali sostanze organiche non combusti
+Prodotti della combustione: i fumi
+Tra i vari prodotti della combustione ci sono infine
+incombusti solidi o liquidi e residui minerali che
+vanno a formare i fumi.
+ Prodotti della combustione: i fumi
+• I fumi sono formati dalle particelle solide e liquide
+ (aerosol) incombuste, disperse nei gas di
+ combustione
+• Le particelle solide sono sostanze incombuste
+ (aerosol), trascinate dai gas caldi prodotti dalla
+ combustione stessa e rendono il fumo di colore
+ scuro.
+• Le particelle liquide (nebbie o vapori condensati)
+ invece, sono costituite essenzialmente da vapor
+ d’acqua che al di sotto dei 100°C condensa dando
+ luogo a fumo di color bianco.
+ Normalmente sono prodotti in quantità tali da
+ impedire la visibilità ostacolando l’attività dei
+ soccorritori e l’esodo delle persone
+Prodotti della combustione: i fumi
+ Il calore: effetti sulle strutture
+▪ L’energia termica rilasciata durante l’incendio, inoltre, alterare
+ in modo significativo le caratteristiche meccaniche delle
+ strutture:
+ ENERGIA (kW/m2): CONSEGUENZE:
+ 12 DANNEGGIAMENTO CAVI ELETTRICI
+ 13 DANNEGGIAMENTO SERBATOI METALLICI
+ 33 IGNIZIONE STRUTTURE IN LEGNO
+Prodotti della combustione: effetti sull’uomo
+ ▪ Le azioni sono:
+ ▪ Tossica irritante dei fumi e gas
+ ▪ Insufficienza di ossigeno (anossia)
+ ▪ Termica
+ ▪ Meccanica
+ ▪ Riduzione visibilità
+ ▪ Psicofisica
+ Il rischio maggiore negli incendi, che determina il maggio
+ numero di vittime, è dovuto all’inalazione dei gas e fumi prodotti
+ I parametri fisici della combustione
+• La combustione è caratterizzata da numerosi
+ parametri fisici e chimici, i principali dei quali sono i
+ seguenti:
+ temperatura di accensione
+ temperatura teorica di combustione
+ aria teorica di combustione
+ potere calorifico
+ temperatura di infiammabilità
+ limiti di infiammabilità e di esplodibilità
+ Temperatura di accensione
+ o di autoaccensione
+ Temperatura di accensione (°C)
+ SOSTANZE
+É la minima temperatura valori indicativi
+alla quale la miscela acetone 540
+combustibile/comburente benzina 250
+inizia a bruciare gasolio 220
+spontaneamente idrogeno 560
+in modo continuo senza alcool metilico 455
+ulteriore apporto di calore carta 230
+ legno 220-250
+o di energia dall’esterno.
+ gomma sintetica 300
+ metano 537
+ Potere calorifico (MJ/Kg o MJ/mc)
+ SOSTANZE Potere calorifico
+É la quantità di calore inferiore
+ (MJ/Kg)
+prodotta dalla legno 17
+combustione completa carbone 30-34
+ benzina 42
+dell’unità di massa o di
+ alcool etilico 25
+volume di una
+ polietilene 35-45
+determinata sostanza
+ propano 46
+combustibile idrogeno 120
+ Temperatura di infiammabilità (°C)
+É la temperatura minima SOSTANZE Temperatura di
+alla quale i LIQUIDI infiammabilità (°C)
+combustibili emettono gasolio 65
+vapori in quantità tali da acetone -18
+incendiarsi in caso di
+ benzina -20
+innesco
+ alcool 11
+ metilico
+ alcool 13
+ etilico
+ toluolo 4
+ olio 149
+ lubrificante
+Temperatura teorica di combustione
+Temperatura raggiunta dai prodotti della stessa combustione,
+cioè dai fumi, nell'ipotesi che non vi siano perdite di calore per
+convezione, conduzione e irraggiamento (T. di combustione
+adiabatica) e che la combustione sia completa ed avvenga con
+la quantità teorica di aria.
+Nella pratica i fumi non raggiungeranno mai la temperatura
+teorica, perché le perdite di calore sono inevitabili e perché è
+sempre necessario impiegare un certo eccesso di aria al fine di
+completare la combustione ed evitare la presenza di incombusti
+nei fumi
+Temperature di combustione (combustione completa)
+Temperatura di combustione negli incendi
+ Nel caso di incendi la temperatura di combustione effettiva
+ è molto più bassa di quella teorica:
+ ▪ Si hanno perdite di calore sensibile per conduzione, alle
+ quali si aggiungono le perdite per irraggiamento
+ ▪ Difetto di aria: si verificano forti perdite per calore latente,
+ dovute alla combustione incompleta, che ha come
+ conseguenza la presenza di incombusti nei fumi (CO,
+ particelle carboniose, gas prodotti dalla pirolisi,ecc.)
+Temperatura di combustione
+Aria teorica di combustione
+▪ E’ la quantità minima di aria necessaria
+ per raggiungere la combustione completa
+ di tutti i materiali combustibili
+Aria teorica di combustione
+Potere calorifico
+▪ Si definisce come la quantità di calore (kcal - MJ )
+ sviluppata dalla combustione di una quantità unitaria di
+ combustibile (kg per solidi e liquidi, in m3 in condizioni
+ normali, cioè a pressione atmosferica e a 0°C).
+ 1 Kg legna eq. = 4.400 kcal = 18,48 MJ
+ 1 MJ = 238 Kcal
+Potere calorifico
+il potere calorifico superiore, per il quale si
+considera il calore sviluppato dalla reazione
+allorché tutti i prodotti della combustione sono
+alla temperatura ambiente e quindi l’acqua
+prodotta è allo stato liquido
+il potere calorifico inferiore, per il quale invece
+si considera l’acqua prodotta allo stato di
+vapore
+Potere calorifico:
+ Limiti di infiammabilità (% in volume)
+LIMITE INFERIORE DI INFIAMMABILITÀ: Campo di infiammabilità
+ ( % in volume)
+la più bassa concentrazione in volume SOSTANZE
+di vapore della miscela al di sotto della
+quale non si ha accensione in presenza limite inferiore limite
+di innesco per carenza di combustibile superiore
+ acetone 2,5 13
+LIMITE SUPERIORE DI INFIAMMABILITÀ:
+la più alta concentrazione in volume di ammoniaca 15 18
+vapore della miscela al di sopra della
+quale non si ha accensione in presenza
+di innesco per eccesso di combustibile benzina 1 6,5
+ gasolio 0,6 6,5
+Tali limiti individuano il campo di
+infiammabilità all’interno del quale si
+ha, in caso d’innesco, l’accensione e la idrogeno 4 75,6
+propagazione della fiamma nella
+miscela metano 5 15
+Limiti di infiammabilità (% in volume)
+ Influenza della temperatura
+ sull'infiammabilità
+• La temperatura influenza il grado di
+ infiammabilità agendo sulla velocità di
+ reazione, sui limiti di infiammabilità, sulla
+ tensione di vapore, sulla velocità di
+ propagazione della fiamma, ecc.
+• Solitamente, aumentando la temperatura, la
+ zona di infiammabilità si allarga, attraverso la
+ diminuzione del limite inferiore e,
+ soprattutto, l'aumento del limite superiore.
+ Influenza della pressione
+ sull'infiammabilità
+• Anche la pressione influenza i limiti di
+ infiammabilità, la velocità di reazione, la
+ velocità di propagazione della fiamma, ecc.
+• All'aumentare della pressione la zona di
+ infiammabilità si allarga, soprattutto per
+ l'aumento del limite superiore, come
+ osservato in precedenza per gli effetti della
+ temperatura, mentre al diminuire della
+ pressione la sua ampiezza si riduce.
+ La Combustione (Riepilogo)
+ SOSTANZE CONDIZIONI
+ Temp.
+ REAZIONE CHIMICA
+Combustibile
+ Infiammabilità sufficientemente rapida che avviene
+ tra due sostanze diverse,
+ +
+ Campo
+ COMBUSTIBILE
+ Comburente e
+ Infiammabilità
+ +
+ COMBURENTE
+ dette
+ Innesco REAGENTI
+ a contatto tra loro in varia
+ composizione percentuale e
+ determinate condizioni fisiche (T, P)
+ producendo come effetto
+ Fuoco ENERGIA
+ (calore e luce)
+ + e
+ Prodotti
+Combustione
+ PRODOTTI DELLA
+ COMBUSTIONE
+ Esplosione
+• L’esplosione è il risultato di una rapida espansione di gas dovuta ad una reazione
+ chimica di combustione.
+• Gli effetti della esplosione sono: produzione di calore, una onda d’urto ed un picco
+ di pressione.
+• Quando la reazione di combustione si propaga alla miscela infiammabile non
+ ancora bruciata con una velocità minore di quella del suono la esplosione è
+ chiamata DEFLAGRAZIONE.
+• Quando la reazione procede nella miscela non ancora bruciata con velocità
+ superiore a quella del suono la esplosione è detta DETONAZIONE.
+• Gli effetti distruttivi delle detonazioni sono maggiori rispetto a quelli delle
+ deflagrazioni .
+• Una esplosione può aver luogo quando gas, vapori o polveri infiammabili, entro il
+ loro campo di esplosività, vengono innescati da una fonte di innesco avente
+ sufficiente energia.
+• In particolare in un ambiente chiuso saturo di gas, vapori o polveri l’aumento della
+ temperatura dovuto al processo di combustione sviluppa un aumento di pressione
+ che può arrivare fino ad 8 volte la pressione iniziale.
+• Il modo migliore di proteggersi dalle esplosioni sta nel prevenire la formazione di
+ miscele infiammabili nel luogo ove si lavora, in quanto è estremamente difficoltoso
+ disporre di misure che fronteggiano gli effetti delle esplosioni come è invece
+ possibile fare con gli incendi.
+ Esplosione e Limiti di esplosività
+Affinché l’esplosione possa avvenire occorre che la composizione
+della miscela sia compresa entro certi limiti detti di esplosività.
+All’esterno di tali limiti la miscela può ancora reagire, ma con
+velocità bassa non esplosiva
+ESPLOSIONE
+ESPLOSIONI
+ La combustione dei solidi
+PIROLISI:
+Fenomeno per il quale una sostanza solida portata ad una
+determinata temperatura emette vapori infiammabili.
+Terminato questo fenomeno di distillazione dei solidi la
+combustione continua in assenza di fiamma sotto forma di brace.
+Parte dell’energia rilasciata dalle fiamme sotto forma di irraggiamento termico,
+riscalda il solido stesso favorendo ulteriore pirolisi; così il processo si autoalimenta
+fino all’esaurimento di tutte le sostanza volatili, per proseguire senza fiamma
+sotto forma di braci.
+I principali fattori che influenzano la combustione dei solidi sono:
+ o natura;
+ o grado di porosità del materiale;
+ o pezzatura e forma (rapporto tra il volume e la superficie esterna);
+ o contenuto di umidità;
+ o condizioni di ventilazione.
+ La combustione dei solidi
+Alcune materie solide combustibili, come la CELLULOIDE e gli
+ESPLOSIVI, hanno nella loro composizione chimica l’ossigeno
+necessario alla loro combustione.
+Una materia è tanto più infiammabile quanto più bassa è la sua
+temperatura di accensione; da notare che il FOSFORO GIALLO ha
+una T di accensione di 30°C, ma se viene sottilmente diviso, si
+accende a T inferiori in quanto, a seguito della ossidazione in
+aria, le particelle di fosforo raggiungono la temperatura di
+accensione.
+La combustione dei liquidi infiammabili
+• Tutti i liquidi sono in equilibrio con i propri vapori che si
+ sviluppano in misura differente a seconda delle condizioni di
+ pressione e temperatura sulla superficie di separazione tra
+ pelo libero del liquido e mezzo che lo sovrasta.
+• Nei liquidi infiammabili la combustione avviene proprio
+ quando, in corrispondenza della suddetta superficie, i vapori
+ dei liquidi, miscelandosi con l’ossigeno dell’aria in
+ concentrazioni comprese nel campo di infiammabilità, sono
+ opportunamente innescati.
+CARATTERISTICHE DI PERICOLOSITÀ:
+ o elevato potere calorifico (1Kg 10.000 Kcal)
+ o naturale tendenza all’evaporazione
+ o rapida propagazione dell’incendio
+ o minima energia d’innesco
+ o minor peso specifico rispetto all’acqua (tendono a galleggiare)
+ o maggiore densità dei vapori rispetto all’aria
+ (tendono ad accumularsi in basso)
+La combustione dei liquidi infiammabili
+ Temperatura di
+ SOSTANZE infiammabilità Categoria
+L’indice della maggiore o (°C)
+minore combustibilità gasolio 65 C
+ (= pericolosità) di un liquido è
+fornito dalla acetone -18 A
+temperatura di infiammabilità benzina -20 A
+ alcool
+In base alla temperatura di 11 A
+ metilico
+infiammabilità i liquidi
+ alcool etilico 13 A
+infiammabili sono classificati
+come segue: toluolo 4 A
+ I gas infiammabili
+La combustione avviene quando il gas miscelandosi con l’ossigeno
+dell’aria in concentrazioni comprese nel campo di infiammabilità,
+viene opportunamente innescato.
+I gas infiammabili ai fini della combustione hanno un comportamento simile a
+quello dei vapori dei liquidi infiammabili, con la pericolosa differenza che si
+miscelano naturalmente con l’aria.
+Caratteristica principale che contraddistingue le sostanze gassose da quelle solide
+e liquide, è la capacità di diffondersi rapidamente nell’ambiente dando luogo a
+miscele che innescate, con apporti minimi di energia, in pochi secondi sviluppano
+fiamme che raggiungono temperature dell’ordine di 1000 o C.
+Nelle applicazioni civili ed industriali i gas, compresi quelli infiammabili, sono
+generalmente contenuti in recipienti atti ad impedirne la dispersione
+incontrollata nell’ambiente.
+ I gas infiammabili
+possono essere classificati come segue:
+GAS LEGGERO
+ Gas avente densità rispetto all’aria inferiore a 0,8 (idrogeno, metano,etc.)
+•Un gas leggero quando liberato dal proprio contenitore tende a
+ stratificare verso l’alto.
+ I gas infiammabili
+GAS PESANTE
+ Gas avente densità rispetto all’aria superiore a 0,8 (GPL, acetilene, etc.)
+•Un gas pesante quando liberato dal proprio contenitore tende a
+ stratificare ed a permanere nella parte bassa dell’ambiente ovvero a
+ penetrare in cunicoli o aperture praticate a livello del piano di calpestio.
+ GAS COMPRESSI
+•Gas che vengono conservati allo stato
+ Pressione di
+ gassoso ad una pressione superiore a GAS stoccaggio (bar)
+ quella atmosferica in appositi recipienti valori indicativi
+ detti bombole o trasportati attraverso
+ metano 300
+ tubazioni. La pressione di compressione
+ può variare da poche centinaia di
+ idrogeno 250
+ millimetri di colonna d’acqua (rete di
+ distribuzione gas metano per utenze gas
+ civili) a qualche centinaio di atmosfere 250
+ nobili
+ (bombole di gas metano e di aria
+ compressa) ossigeno 250
+ aria 250
+ CO2
+ 20
+ (gas)
+ GAS LIQUEFATTO GAS Grado di
+•Gas che per le sue caratteristiche chimico- LIQUEFATTO riempimento
+ fisiche può essere liquefatto a temperatura (kg/dm3)
+ ambiente mediante compressione (butano,
+ propano, ammoniaca, cloro). ammoniaca 0,53
+•Il vantaggio della conservazione di gas allo
+ stato liquido consiste nella possibilità di cloro 1,25
+ detenere grossi quantitativi di prodotto in spazi
+ contenuti, in quanto un litro di gas liquefatto
+ può sviluppare nel passaggio di fase fino a 800 butano 0,51
+ litri di gas.
+•I contenitori di gas liquefatto debbono propano 0,42
+ garantire una parte del loro volume geometrico
+ sempre libera dal liquido per consentire allo
+ stesso l’equilibrio con la propria fase vapore; GPL miscela 0,43-0,47
+ pertanto è prescritto un limite massimo di
+ riempimento dei contenitori detto grado di CO
+ 2 0,75
+ riempimento.
+• GAS REFRIGERATI
+• Gas che possono essere conservati in fase liquida
+ mediante refrigerazione alla temperatura di equilibrio
+ liquido-vapore con livelli di pressione estremamente
+ modesti, assimilabili alla pressione atmosferica.
+• GAS DISCIOLTI
+• Gas che sono conservati in fase gassosa disciolti entro un
+ liquido ad una determinata pressione (ad es.: acetilene
+ disciolto in acetone, anidride carbonica disciolta in acqua
+ gassata - acqua minerale)
+ L’acetilene viene immagazzinato in
+ bombole all’interno di una massa
+ solida porosa dove è disciolto grazie
+ all’introduzione di un solvente
+ (acetone o dimetilformammide) con
+ pressioni di carica che superano le 10
+ atm.
+Tale tecnica di caricamento è utilizzata in quanto l’acetilene
+semplicemente compresso a pressioni superiori a 1,5 – 2 atm
+può iniziare la sua reazione di dissociazione
+C2H2 → C2 +H2 + energia
+Molto pericolosa in quanto incontrollabile e con sviluppo di
+grande quantità di energia.
+ Per evitare ciò l’acetilene richiede di
+ essere immagazzinato allo stato
+ disciolto per pressioni superiori 1,5
+ atm.
+Il fenomeno distruttivo della dissociazione può avvenire
+comunque al verificarsi di una o più delle seguenti circostanze:
+• Riscaldamento oltre una certa Temperatura (350-500 °C) del
+ gas o della superficie metallica del contenitore;
+• Urto violentissimo del recipiente;
+• Accensione spontanea, per elettrizzazione, del gas secco
+ uscente ad alta velocità da una fessura;
+• Esplosione di acetiluri metallici nella massa gassosa (acetiluro
+ di rame)
+ Dinamica di un incendio tipo
+Nell’evoluzione dell’incendio si possono individuare quattro fasi caratteristiche :
+ 1. IGNIZIONE 3. INCENDIO
+ GENERALIZZATO
+ 2. PROPAGAZIONE 4. SPEGNIMENTO
+1. Fase di ignizione
+dipende dai seguenti fattori:
+ infiammabilità del combustibile;
+ possibilità di propagazione della fiamma;
+ grado di partecipazione al fuoco del combustibile (“reazione al
+ fuoco”);
+ geometria e volume degli ambienti;
+ possibilità di dissipazione del calore nel combustibile;
+ ventilazione dell’ambiente;
+ caratteristiche superficiali del combustibile;
+ distribuzione nel volume del combustibile, punti di contatto.
+2. Fase di
+ propagazione
+ è caratterizzata da:
+ produzione dei gas tossici e corrosivi;
+ riduzione di visibilità a causa dei fumi di
+ combustione;
+ aumento della partecipazione alla combustione dei
+ combustibili solidi e liquidi;
+ aumento rapido delle temperature;
+ aumento dell’energia di irraggiamento.
+ 3. Fase di incendio
+ generalizzato
+caratterizzato da:
+ brusco incremento della temperatura;
+ crescita esponenziale della velocità di combustione;
+ forte aumento di emissioni di gas e di particelle incandescenti, che si
+ espandono e vengono trasportate in senso orizzontale, e soprattutto in
+ senso ascensionale; si formano zone di turbolenze visibili;
+ i combustibili vicini al focolaio si autoaccendono, quelli più lontani si
+ riscaldano e raggiungono la loro temperatura di combustione con
+ produzione di gas di distillazione infiammabili;
+4. Fase di
+ spegnimento
+Quando l’incendio ha terminato di interessare tutto il
+materiale combustibile ha inizio la fase di decremento
+delle temperature all’interno del locale a causa della
+progressiva diminuzione dell’apporto termico residuo
+e della dissipazione di calore attraverso i fumi e di
+fenomeni di conduzione termica.
+ Meccanismi di propagazione dell’incendio
+ Le correnti di fumo nella zona di combustione
+ contribuiscono alla propagazione attraverso:
+• termo espansione dell’aria causata dall’aumento di
+ temperatura: un aumento della temperatura
+ provoca infatti un proporzionale aumento del
+ volume occupato dal gas. Durante un incendio
+ questo fenomeno provoca la rottura delle finestre e
+ delle porte;
+ Meccanismi di propagazione dell’incendio
+• effetti camino: quando la temperatura negli
+ ambienti si è stabilizzata il principale meccanismo di
+ movimento dei fumi diventa il tiraggio. Il tiraggio
+ per manifestarsi ha bisogno di camini quali scale,
+ vani ascensore, cavedii e così via. Di qui la
+ pericolosità negli edifici di tutti gli attraversamenti
+ di piano non protetti adeguatamente;
+ Meccanismi di propagazione dell’incendio
+• eventuali azioni del vento: il vento può far muovere verticalmente il
+ fumo, ma il suo effetto principale è di determinare un movimento
+ orizzontale non solo del fumo ma anche dell’incendio;
+• funzionamento improprio della ventilazione meccanica: gli impianti di
+ ventilazione se non progettati adeguatamente possono causare rapidi
+ trasferimenti di fumo e calore nell’edificio attraverso le condotte di
+ passaggio dell’aria. Di qui la necessità delle serrande tagliafuoco e di
+ sistemi di arresto automatico degli impianti. Gli impianti di ventilazione
+ possono tuttavia esser progettati anche per l’estrazione dei fumi in
+ caso di incendi e venire così integrati nel sistema di protezione
+ dell’edificio.
+ 68
+Meccanismi di propagazione dell’incendio
+La propagazione a distanza degli incendi, oltre che
+per effetto della convezione dei fumi caldi, può aver
+luogo per conduzione attraverso le strutture di
+separazione. A causa della continuità che esiste tra
+le diverse parti di un edificio, la propagazione
+termica attraverso le pareti e solette può portare
+alla temperatura di accensione anche sostanze
+combustibili contenute in locali non direttamente
+investiti dalle fiamme.
+Meccanismi di propagazione dell’incendio
+Altro meccanismo importante per la propagazione degli incendi è
+l’irraggiamento termico. Il calore per irraggiamento può essere
+trasmesso direttamente dalla sorgente al ricevitore per via
+elettromagnetica. La potenza irradiata diminuisce con il quadrato della
+distanza e quindi l’irraggiamento è tanto più pericoloso quanto più
+vicini sono i corpi interessati. Non tutta la superficie esterna di un
+edificio in preda a fiamme interne irradia poi in uguale misura: meno
+pericolose sono le pareti, soprattutto se dotate di buona resistenza al
+fuoco e quindi capaci di non aumentare troppo la temperatura. Al
+contrario risultano molto pericolose le aperture e, in genere, tutte le
+superfici che lasciano vedere le fiamme.
+ Effetti dell’incendio sull’uomo
+I principali effetti dell’incendio
+sull’uomo sono:
+ ANOSSIA (a causa della riduzione
+ del tasso di ossigeno nell’aria)
+ AZIONE TOSSICA DEI GAS
+ RIDUZIONE DELLA VISIBILITÀ
+ AZIONE TERMICA
+Essi sono determinati dai prodotti
+della combustione:
+ GAS DI COMBUSTIONE
+ FIAMMA
+ CALORE
+ FUMO
+Effetti dell’incendio sull’uomo:
+LE AZIONE SONO:
+▪ Tossica Irritante Fumi
+▪ Tossica Gas
+▪ Insufficienza di ossigeno (anossia)
+▪ Riduzione visibilità
+▪ Termica
+▪ Meccanica
+▪ Psicofisica
+Il rischio maggiore negli incendi è dovuto all’inalazione dei gas e
+fumi prodotti; sono questi che determinano il maggior numero di
+vittime!
+Effetti della carenza di ossigeno sull’uomo:
+ Condizioni di vivibilità:
+▪ Temperatura
+▪ Concentrazione O2
+▪ Opacità aria
+▪ Concentrazione CO ed altri gas
+▪ Altezza strato fumi
+ GAS DI COMBUSTIONE
+ossido di carbonio (CO)
+anidride carbonica (CO2)
+idrogeno solforato (H 2S)
+anidride solforosa (SO2)
+ammoniaca (NH3)
+acido cianidrico (HCN)
+acido cloridrico (HCl)
+perossido d’azoto (NO 2)
+aldeide acrilica (CH2CHCHO)
+fosgene (COCl2)
+ ANIDRIDE CARBONICA (CO2)
+• L’anidride carbonica è un gas asfissiante in quanto, pur non
+ producendo effetti tossici sull’organismo umano, si sostituisce
+ all’ossigeno dell’aria. Quando ne determina una diminuzione a
+ valori inferiori al 17% in volume, produce asfissia.
+• Inoltre è un gas che accelera e stimola il ritmo respiratorio;
+ con una percentuale del 2% di CO2 in aria la velocità e la
+ profondità del respiro aumentano del 50% rispetto alle
+ normali condizioni. Con una percentuale di CO2 al 3%
+ l’aumento è del 100%, cioè raddoppia.
+OSSIDO DI CARBONIO (CO)
+ L’acido cianidrico
+L’acido cianidrico si sviluppa in modesta quantità in incendi ordinari
+attraverso combustioni incomplete (carenza di ossigeno) di lana, seta,
+resine acriliche, uretaniche e poliammidiche. Possiede un odore
+caratteristico di mandorle amare.
+Meccanismo d’azione
+L’acido cianidrico è un aggressivo chimico che interrompe la catena
+respiratoria a livello cellulare generando grave sofferenza funzionale
+nei tessuti ad alto fabbisogno di ossigeno, quali il cuore e il sistema
+nervoso centrale
+Vie di penetrazione: inalatoria, cutanea, digerente
+I cianuri dell’acido cianidrico a contatto con l’acidità gastrica presente
+nello stomaco vengono idrolizzati bloccando la respirazione cellulare
+con la conseguente morte della cellula per anossia.
+Sintomatologia
+iperpnea (fame d’aria), aumento degli atti respiratori, colore della cute
+rosso, cefalea, ipersalivazione, bradicardia, ipertensione.
+ FOSGENE
+Il fosgene è un gas tossico che si sviluppa durante le combustioni di
+materiali che contengono il cloro, come per esempio alcune materie
+plastiche.
+Esso diventa particolarmente pericoloso in ambienti chiusi.
+Meccanismo d’azione
+Il fosgene a contatto con l’acqua o con l’umidità si scinde in anidride
+carbonica e acido cloridrico che è estremamente pericoloso in quanto
+intensamente caustico e capace di raggiungere le vie respiratorie.
+Sintomatologia
+ irritazione (occhi, naso, e gola)
+ lacrimazione
+ secchezza della bocca
+ costrizione toracica
+ vomito
+ mal di testa
+ EFFETTI DEL CALORE
+• Il calore è dannoso per l’uomo potendo causare la disidratazione dei
+ tessuti, difficoltà o blocco della respirazione e scottature. Una
+ temperatura dell’aria di circa 150°C è da ritenere la massima
+ sopportabile sulla pelle per brevissimo tempo, a condizione che l’aria
+ sia sufficientemente secca. Tale valore si abbassa se l’aria è umida.
+• Purtroppo negli incendi sono presenti notevoli quantità di vapore
+ acqueo. Una temperatura di circa 60 °C è da ritenere la massima
+ respirabile per breve tempo.
+ L’irraggiamento genera ustioni sull’organismo umano che possono
+ essere classificate a seconda della loro profondità in:
+ ustioni di I grado
+ •superficiali
+ •facilmente guaribili
+ ustioni di II grado
+ •formazione di bolle e vescicole
+ •consultazione struttura sanitaria
+ ustioni di III grado
+ •profonde
+ •urgente ospedalizzazione
+ Effetti del calore sui materiali da
+ costruzione
+DANNI CHE SI POSSONO VERIFICARE VALORI DI IRRAGGIAMENTO (kW/mq)
+ Strutture in calcestruzzo 60
+ Strutture in acciaio 40
+ Ignizione del legno entro un minuto 33
+ Danneggiamento di serbatoi metallici 12,6
+ Danneggiamento cavi elettrici 11,7
+Cause e Pericoli di Incendio più comuni
+o deposito o manipolazione non idonea di sostanze infiammabili o
+ combustibili;
+o accumulo di rifiuti , carta o altro materiale combustibile che può essere
+ facilmente incendiato (accidentalmente o deliberatamente);
+o negligenza nell'uso di fiamme libere e di apparecchi generatori di calore;
+o inadeguata pulizia delle aree di lavoro e scarsa manutenzione delle
+ apparecchiature;
+o impianti elettrici o utilizzatori difettosi, sovraccaricati e non
+ adeguatamente protetti ;
+o riparazioni o modifiche di impianti elettrici effettuate da persone non
+ qualificate ;
+o apparecchiature elettriche lasciate sotto tensione anche quando
+ inutilizzate ;
+o utilizzo non corretto di impianti di riscaldamento portatili ;
+o ostruire la ventilazione di apparecchi di riscaldamento, macchinari,
+ apparecchiature elettriche e di ufficio;
+o fumare in aree ove è proibito, o non usare il posacenere;
+o negligenze di appaltatori o di addetti alla manutenzione; etc. ;
+ SOSTANZE ESTINGUENTI
+▪ Le sostanze estinguenti normalmente
+ utilizzate sono:
+▪ ACQUA
+ SCHIUMA
+ POLVERI
+ GAS INERTI
+ IDROCARBURI ALOGENATI (HALON)
+ Agenti estinguenti alternativi all'halon
+ SOSTANZE ESTINGUENTI: ACQUA
+▪ Azione estinguente:
+▪ abbassamento della temperatura del combustibile
+▪ soffocamento
+▪ diluizione di sostanze infiammabili
+▪ imbevimento dei combustibili solidi
+▪ Uso:
+▪ incendi di combustibili solidi
+▪ (esclusione sostanze incompatibili: sodio, potassio, carburi,…)
+▪ non è impiegabile su impianti e apparecchiature in tensione
+ L’evaporazione dell’acqua richiede l’assorbimento di un
+ quantitativo significativo di calore
+Sostanze estinguenti: la schiuma
+▪ La schiuma è un agente estinguente costituito da una soluzione in acqua di un
+ liquido schiumogeno. L’azione estinguente delle schiume avviene per
+ separazione del combustibile dal comburente e per raffreddamento.
+▪ Esse sono impiegate normalmente per incendi di liquidi infiammabili, e non
+ possono essere utilizzate su parti in tensione in quanto contengono acqua.
+▪ In base al rapporto tra il volume della schiuma prodotta e la soluzione acqua-
+ schiumogeno d’origine, le schiume si distinguono in:
+▪ alta espansione 1:500 - 1:1000
+▪ media espansione 1:30 - 1:200
+▪ bassa espansione 1:6 - 1:12
+Sostanze estinguenti: la schiuma
+▪ liquidi schiumogeni fluoro-proteinici
+▪ Sono formati da una base proteinica addizionata con composti fluorurati. Essi sono adatti alla
+ formazione di schiume a bassa espansione, hanno un effetto rapido e molto efficace su incendi
+ di prodotti petroliferi.
+▪ liquidi schiumogeni sintetici
+▪ Sono formati da miscele di tensioattivi. Essi sono adatti alla formazione di tutti i tipi di schiume e
+ garantiscono una lunga conservabilità nel tempo, sono molto efficaci per azione di soffocamento
+ su grandi superfici e volumi.
+▪ liquidi schiumogeni fluoro-sintetici (AFFF - Acqueous Film Forming Foam)
+▪ Sono formati da composti fluorurati. Essi sono adatti alla formazione di schiume a bassa e
+ media espansione che hanno la caratteristica di scorrere rapidamente sulla superficie del liquido
+ incendiato. L’impiego degli schiumogeni AFFF realizza una più efficace azione estinguente in
+ quanto consente lo spegnimento in tempi più rapidi con una minore portata di soluzione
+ schiumogena per metro quadrato di superficie incendiata.
+▪ liquidi schiumogeni per alcoli
+▪ Sono formati da una base proteinica additivata con metalli organici. Essi sono adatti alla
+ formazione di schiume a bassa espansione e sono molto efficaci su incendi di alcoli, esteri,
+ chetoni, eteri, aldeidi, acidi, fenoli, etc.
+Sostanze estinguenti: la schiuma
+ ▪ Azione estinguente:
+ ▪ separazione del combustibile dal comburente
+ ▪ raffreddamento
+ ▪ Uso:
+ ▪ incendi di liquidi infiammabili
+ ▪ non possono essere utilizzate su parti in
+ tensione in quanto contengono acqua
+Sostanze estinguenti: polveri
+▪ Particelle solide finissime a base di bicarbonato di sodio, potassio,
+ fosfati e sali organici.
+ Azione estinguente:
+ decomposizione delle stesse per effetto delle alte
+ temperature raggiunte nell'incendio, che dà luogo ad
+ effetti chimici sulla fiamma con azione anticatalitica ed
+ alla produzione di anidride carbonica e vapore d'acqua.
+ I prodotti della decomposizione delle polveri pertanto
+ separano il combustibile dal comburente, raffreddano il
+ combustibile incendiato e inibiscono il processo della
+ combustione.
+ Uso:
+ Le polveri sono adatte per fuochi di classe A, B e C,
+ mentre per incendi di classe D devono essere utilizzate
+ polveri speciali.
+Sostanze estinguenti: gas inerti
+(Anidride carbonica – Azoto)
+L’anidride carbonica non risulta tossica per l’uomo,
+è un gas più pesante dell’aria perfettamente
+dielettrico, normalmente conservato come gas
+liquefatto sotto pressione.
+Essa produce differentemente dall’azoto anche
+un’azione estinguente per raffreddamento dovuta
+all’assorbimento di calore generato dal passaggio
+dalla fase liquida alla fase gassosa.
+Sostanze estinguenti: gas inerti
+▪ Azione estinguente:
+▪ riduce la concentrazione del comburente fino ad impedire
+ la combustione.
+▪ anidride carbonica anche raffreddamento
+▪ Uso:
+▪ Incendi di classe B e C (utilizzati anche per incendi di
+ apparecchiature elettriche).
+ Sostanze estinguenti: idrocarburi alogenati
+▪ Gli idrocarburi alogenati, detti anche HALON (HALogenated -
+ hydrocarbON), sono formati da idrocarburi saturi in cui gli atomi di
+ idrogeno sono stati parzialmente o totalmente sostituiti con atomi di
+ cromo, bromo o fluoro
+ Azione estinguente:
+ interruzione chimica della reazione di combustione (catalisi negativa)
+ Uso:
+ efficaci su incendi in ambienti chiusi, scarsamente ventilati
+ producono gas tossici per l'uomo a basse concentrazioni
+ L'utilizzo degli halon è stato limitato da disposizioni legislative
+ emanate per la protezione della fascia di ozono stratosferico
+Sostanze estinguenti: agenti sostitutivi degli halon
+▪ Gli agenti sostitutivi degli halon generalmente FC-3-1-10
+ combinano al vantaggio della salvaguardia HBFC-22B1
+ HCFC-124
+ ambientale lo svantaggio di una minore HFC-125
+ capacità estinguente rispetto agli halon. HFC-227ea
+▪ Esistono sul mercato prodotti inertizzanti e
+ prodotti che agiscono per azione
+ anticatalitica
+ SOSTANZA ANTINCENDIO
+ NATURA DELL'INCENDIO Acqua
+ Getto Nebulizz. Schiuma Polvere Anidride
+ pieno Vapore Carbonica
+Materiali comuni:
+Carbone, legname, tessuti, carta, SI SI SI SI SI
+paglia
+Liquidi infiammabili più leggeri
+dell'acqua e non miscibili: NO SI SI SI SI
+Vernici, benzine, olii, lubrificanti
+Liquidi infiammabili più leggeri
+dell'acqua o più pesanti anche
+non miscibili: SI SI SI SI SI
+Alcooli, acetone, acrilonitrile, acido
+acetico, clorobenzolo
+Sostanze comburenti:
+Nitrati, Nitriti Permanganati, clorati, SI NO NO NO NO
+perclorati
+Sostanze reagenti,
+pericolosamente con l'acqua:
+Carburo di calcio, sodio, potassio, NO NO NO SI SI
+acidi forti, metalli fusi
+Gas infiammabili:
+Etilene, idrogeno, gas liquefatti, NO SI NO SI SI
+metano, acetilene, CO
+Apparecchiature elettriche:
+Motori elettrici, cabine elettriche, NO NO NO SI SI
+interruttori, trasformatori
+Costruzioni particolari:
+Apparecchiature delicate, quadri, NO NO NO SI SI
+documenti, tappeti e mobili d'arte
+

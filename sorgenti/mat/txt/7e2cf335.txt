@@ -1,0 +1,693 @@
+CODICE DI PREVENZIONE INCENDI : SOLZIONE
+  ALTERNATIVA PER LA MISURA S.4 ESODO
+     AUTORIMESSA (fonte: Manuale Inail Codice di prevenzione incendi)
+
+                                          4 Novembre 2026 – Ordine dei periti della provincia di Trieste
+                                   Aula Virtuale - MODALITA’ STREAMING SINCRONO Videoconferenza
+                                       Dott. Tinti Gianluca - gianluca.tinti@gmail.com – tel 339 6655966
+                                            Introduzione
+Il Centro Ricerche, cui è asservita l’autorimessa in progetto sorge a Frascati (Roma), nell’ambito del contesto
+urbano illustrato nello stralcio planimetrico seguente; risulta realizzato nel 1987 ed ospita uffici non aperti al
+pubblico.
+
+L’autorimessa da realizzare è prevista su due piani interrati.
+Essa sarà realizzata all’interno degli spazi verdi del comprensorio di pertinenza del Centro Ricerche,
+esternamente all’impronta dell’edificazione esistente.
+
+Il progetto prevede, pertanto, che le aree interrate di parcheggio risulteranno indipendenti da quelle degli
+edifici e, in conclusione, l’autorimessa sarà classificata di tipo isolato.
+Parallelamente, onde consentire un adeguato sistema di circolazione all’interno del comprensorio ed
+un’agevole fruizione degli accessi ai piani dell’autorimessa, si prevede la realizzazione di un’apposita rete
+viaria a servizio dell’autorimessa, come si evince dalla planimetria seguente.
+Pertanto, gli accessi avverranno mediante rampe a cielo
+libero direttamente dalla viabilità interna al
+comprensorio.
+La distribuzione delle aree parcheggio si articola,
+quindi, su due piani interrati.
+Introduzione
+Introduzione
+Introduzione
+                                          Introduzione
+Nell’autorimessa in esame si ha il mancato rispetto della lunghezza del corridoio cieco. In particolare nella
+configurazione geometrica del compartimento tipo dell’autorimessa in esame, la lunghezza del corridoio è
+risultata essere pari a 48,25 m contro il massimo ammesso, in soluzione conforme, di 33,75 m.
+Il Codice consente di poter dimostrare che gli occupanti, anche in carenza di una previsione richiesta dalla
+soluzione conforme, possano disporre del tempo necessario ad evacuare in sicurezza, ricorrendo ad una
+progettazione con approccio prestazionale, denominata soluzione alternativa.
+Introduzione
+                  Progettazione della soluzione alternativa
+Studio della soluzione alternativa per il corridoio cieco
+Il metodo idoneo a dimostrare la soluzione alternativa ricade fra i metodi ordinari di progettazione della
+sicurezza antincendio di cui al par. G.2.6, (tab. G.2-1) “Ingegneria della sicurezza antincendio”.
+In tale tabella è previsto, infatti, che: “Il progettista applica i metodi dell'ingegneria della sicurezza
+antincendio secondo procedure, ipotesi e limiti indicati nel presente documento, in particolare nei capitoli
+M.1, M.2 e M.3, e secondo le procedure previste dalla normativa vigente”.
+
+Definizione del progetto
+Il cap. M.1 richiede, come primo passo dell’analisi preliminare, la definizione del progetto (par. M.1.3.1)
+dove, in sintesi, è necessario definire lo scopo della progettazione antincendio.
+Nel caso in esame, tale scopo consiste nel dimostrare che l’esodo dall’autorimessa, in caso di incendio,
+avvenga in sicurezza pur non essendo soddisfatto il requisito richiesto dalla soluzione conforme dell’esodo
+della lunghezza del corridoio cieco.
+
+Identificazione degli obiettivi di sicurezza antincendio
+Definito lo scopo, il par. M.1.3.2 richiede l’identificazione degli obiettivi di sicurezza antincendio; tali obiettivi
+consistono, nello specifico, nel garantire condizioni di “tenability” (tenibilità) per tutti gli occupanti, sino alla
+fine dell’esodo (raggiungimento del luogo sicuro).
+                   Progettazione della soluzione alternativa
+Definizione delle soglie di prestazione
+Il successivo par. M.1.3.3 prevede quindi la definizione delle soglie di prestazione; per la definizione di tali
+soglie è necessario ricorrere alle indicazioni contenute nel par. M.3.2 “Progettazione prestazionale per la
+salvaguardia della vita” dove, per la progettazione prestazionale del sistema di vie d'esodo, si applica il criterio del calcolo
+e del confronto del tempo disponibile per l’esodo in sicurezza (ASET) rispetto al tempo richiesto per l’esodo (RSET),
+dovendo risultare ASET > RSET.
+
+
+
+
+A favore di sicurezza, il Codice richiede, a meno di specifiche valutazioni, un margine di sicurezza del 100% del tempo
+ASET rispetto a RSET (vedi par. M.3.2.2.3); in ogni caso il margine di sicurezza non dovrà mai essere inferiore ai 30
+secondi.
+                 Progettazione della soluzione alternativa
+Definizione delle soglie di prestazione
+Per il calcolo di ASET debbono essere stabilite le soglie di prestazione per la vita (life safety criteria)
+impiegate per definire l'incapacitazione degli occupanti esposti all'incendio e ai suoi prodotti.
+Si segnala che, per definizione, gli occupanti raggiungono l'incapacitazione allorché divengono inabili a
+mettersi al sicuro autonomamente; a tale condizione segue, in breve tempo, il decesso.
+Nella progettazione in esame, si farà riferimento al par. M.3.3 Calcolo di ASET impiegando il Metodo di
+calcolo avanzato per ASET descritto al par. M.3.3.1.
+Considerato che la tipologia dell'incendio e la peculiarità dell'attività determinano complessivamente
+l'andamento nel tempo delle variabili concentrazioni di prodotti tossici, delle temperature e delle densità
+del fumo negli ambienti, Il metodo avanzato per il calcolo di ASET richiede la stima di tali fattori che, nei casi
+complessi può essere ragionevolmente elaborata solamente con modelli di calcolo fluidodinamici.
+
+A tal proposito, il Codice fa riferimento (punto 2 del par. M.3.3.1) alla norma ISO 13571 per il calcolo di ASET
+che risulterà essere il minore fra gli ASET calcolati secondo i quattro modelli seguenti:
+
+1) modello dei gas tossici;
+2) modello dei gas irritanti;
+3) modello del calore;
+4) modello dell’oscuramento delle visibilità da fumo.
+                 Progettazione della soluzione alternativa
+Individuazione degli scenari d'incendio di progetto
+Definite le soglie di prestazione (vedi par. M.1.3.3), in accordo al par. M.1.3.4, la fase successiva della
+progettazione prestazionale richiede l’Individuazione degli scenari di incendio di progetto.
+Al par. V.6.7.1 della nuova RTV autorimesse (d.m. 21 febbraio 2017), sono riportati gli scenari di incendio
+suggeriti per la verifica della capacità portante in caso di incendio.
+La scelta progettuale effettuata è stata quella di riferirsi alla curva RHR (t), Rate of Heat Released, funzione
+che esprime l'andamento temporale della potenza termica rilasciata dall’incendio, di cui alla tab. V.6-5 e allo
+scenario S3 di cui alla illustrazione V 6-1 c).
+Si sottolinea che in questa sede si verificherà, a titolo esemplificativo, esclusivamente uno scenario di
+incendio mentre, in una progettazione reale, occorre sempre analizzare una molteplicità di scenari, in base
+alle risultanze dell’analisi del rischio effettuata.
+                    Progettazione della soluzione alternativa
+Individuazione degli scenari d'incendio di progetto
+Lo scenario ipotizzato è caratterizzato dall’incendio di quattro veicoli posti intorno ad una colonna.
+L'incendio si avvia da uno di essi, dopo dodici minuti dall'innesco si propaga a due veicoli, dopo ulteriori dodici minuti si
+propaga all'ultimo veicolo; uno dei veicoli deve essere un autoveicolo commerciale.
+I quattro veicoli sono stati posizionati in prossimità del percorso di esodo identificato come corridoio cieco che non
+verifica la soluzione conforme.
+
+Per gli scopi dello studio, l’intervallo temporale considerato (pre-flashover) terminerà ben prima della
+propagazione dell’incendio agli altri veicoli.
+
+Definita la curva di rilascio termico RHR (t), sarà quindi
+necessario, al fine di descrivere quantitativamente il
+focolare (vedi par. M.2.7), definire i parametri caratteristici
+del medesimo, costituiti dalla resa in particolato,
+dalla resa in monossido di carbonio, dal calore di
+combustione effettivo, dalla formula chimica del
+combustibile ipotizzato e dalla frazione di RHR in
+irraggiamento.
+
+Considerata la molteplicità dei possibili materiali
+combustibili presenti nell’autoveicolo, è necessario
+scegliere i parametri di cui sopra, riferendosi a quelli
+presenti in quantità maggiore.
+                  Progettazione della soluzione alternativa
+Individuazione degli scenari d'incendio di progetto
+Peraltro, ogni materiale presenta parametri più o meno critici rispetto ai vari fattori da inserire nel modello; ad
+esempio, il poliuretano presenta una elevata quantità in termini di resa in particolato, pur non presentando
+produzione significativa di gas irritanti.
+
+Il PVC, invece, manifesta una produzione maggiore in termini di gas irritanti mentre la resa in particolato è
+inferiore.
+
+Nello scenario oggetto del presente studio si è scelto di analizzare, in prima approssimazione, un caso nel
+quale emergesse maggiormente la criticità dovuta alla perdita di visibilità.
+
+In secondo luogo, sarebbe poi necessario analizzare il caso in cui, all’interno dell’autoveicolo, fosse presente
+una quantità significativa di PVC, con conseguente emissione di gas irritanti.
+
+Tale scenario, come già evidenziato in precedenza, non è stato analizzato per gli scopi della presente
+pubblicazione, quantunque potrebbe essere opportuno approfondire l'analisi in questo senso.
+
+Nel caso in esame, in riferimento alla schiuma di poliuretano flessibile, si sono utilizzati i seguenti valori (fonte:
+SFPE Handbook of Fire Protection Engineering - 5th edition - Springer ed. 2016).
+                                                                          La frazione di RHR in irraggiamento è stata
+                                                                          posta pari a 35%, in riferimento alla tab. M.2-2
+                                                                          (focolari predefiniti).
+                   Progettazione della soluzione alternativa
+I Modelli di calcolo per FSE
+Negli ultimi decenni sono stati sviluppati numerosi strumenti di calcolo che consentono di stimare gli effetti di un
+incendio, in modo più o meno approssimato.
+La complessità del fenomeno che tali strumenti si prefiggono di simulare, fa sì che, a dispetto della loro notevole
+proliferazione, esistano ancora difficoltà nella loro applicazione dovute al fatto che il margine d’incertezza, associato ai
+risultati, può risultare comunque considerevole.
+Nella varietà di modelli disponibili se ne possono identificare due principali.
+
+Modelli a zone
+Suddividono ogni ambiente in un piccolo numero di volumi di controllo denominati layer (strati); lo stato di ognuno di
+questi layer viene assunto come uniforme al suo interno, ossia s’ipotizza che i valori di temperatura, quantità di fumo,
+concentrazione dei prodotti della combustione siano uguali in ciascun punto dello stesso volume, fatta eccezione per la
+zona ove si trova il focolare.
+                    Progettazione della soluzione alternativa
+I Modelli di calcolo per FSE
+Modelli fluidodinamici (di campo)
+L’ingegneria antincendio ha giovato del continuo progresso della fluidodinamica computazionale (CFD), sia sul piano della
+ricerca circa la modellazione dei fenomeni fisici, sia dal punto di vista dell’implementazione tecnologica di tali modelli,
+mediante algoritmi di calcolo e grazie alla potenza sempre crescente dei calcolatori elettronici.
+
+Parallelamente, numerosi istituti di ricerca e università in tutto il mondo hanno sviluppato codici di calcolo specifici per
+l’analisi del comportamento degli occupanti di un edificio in caso d’incendio. Sono così disponibili per il professionista
+strumenti che, seppur complessi, consentono di analizzare in dettaglio tutte le problematiche connesse con la
+progettazione antincendio di un edificio.
+I metodi simulativi, a partire dai dati e dalle evidenze raccolti in campo, tenendo conto della configurazione del
+combustibile, degli effetti della ventilazione, del layout dell'edificio, dell’impatto dei sistemi di protezione passiva/attiva e,
+ovviamente, della sorgente d’innesco, tendono a riprodurre lo scenario d’incendio, ricostruendo i processi di
+combustione, descrivendo lo sviluppo delle fiamme e valutando il movimento del fumo.
+Tali modelli forniscono la stima dell’evoluzione dell’incendio in uno spazio, per via numerica, risolvendo le equazioni di
+conservazione (della massa, dell’energia, della diffusione delle specie, ecc.) che risultano da un incendio; tale approccio è
+sviluppato attraverso il metodo ai volumi finiti.
+
+I modelli di campo dividono uno spazio in un numero elevato di elementi di volume e risolvono le equazioni di
+conservazione all’interno di ciascuno di essi: maggiore è il numero di elementi, più dettagliata sarà la soluzione; i risultati
+sono tridimensionali e, se comparati con i modelli a zone, molto più dettagliati. I modelli di campo si sono rivelati utili in
+caso d’investigazione dell’incendio e sono necessari quando gli altri modelli forniscono soluzioni eccessivamente
+conservative.
+                 Progettazione della soluzione alternativa
+Verifica del corridoio cieco con utilizzo di un modello di campo
+Lo studio è stato eseguito utilizzando il software gratuito Fire Dynamics Simulator (FDS) vers. 6.6.0, un
+modello di fluidodinamica computazionale (CFD) specifico per lo studio della dinamica dell'incendio, che
+implementa modelli di calcolo termici, chimici e fluidodinamici.
+Tale software, realizzato e rilasciato open source dal NIST (National Institute of Standards and Technology),
+Agenzia del governo degli U.S.A. che si occupa della gestione delle tecnologie, risolve numericamente
+le equazioni di Navier-Stokes con caratteristica di flussi a bassa velocità generati da gradienti termici, con
+particolare attenzione ai fenomeni di trasporto di fumo e calore caratteristici degli incendi.
+Per effettuare il post-processing grafico delle simulazioni FDS è stato utilizzato il visualizzatore Smokeview
+vers. 6.6.0, realizzato anch’esso dal NIST.
+Con FDS è stata modellata l’autorimessa in esame e sono state impostate le variabili necessarie alla
+fluidodinamica computazionale.
+                 Progettazione della soluzione alternativa
+Verifica del corridoio cieco con utilizzo di un modello di campo
+FDS consente la misurazione puntuale delle grandezze fisiche di interesse, tramite l’utilizzo dei devices
+(dispositivi che rappresentano sensori virtuali di misurazione).
+Inoltre FDS permette di visualizzare le medesime grandezze, tramite la rappresentazione su di un piano che
+seziona il dominio di calcolo; tale modalità, definita slice file, permette la quantificazione delle grandezze,
+con l'ausilio di una scala cromatica graduata.
+                  Progettazione della soluzione alternativa
+Calcolo di ASET
+Per gli scopi della presente verifica, i devices sono stati distribuiti sul percorso della via di esodo passante
+per l'asse mediano del tratto di corsia di manovra, considerato corridoio cieco, dove si è reso necessario
+verificare le condizioni di “tenability”. La modellazione è stata condotta in maniera che il sensore virtuale
+rilevasse il valore massimo della quantità di interesse non in uno spazio puntiforme, bensì lungo un
+segmento largo 2 metri, pari alla fascia di percorrenza ideale sulla via di esodo.
+La prima fra le soglie di prestazione per la vita che fallisce, riferita ai diversi modelli (dei gas tossici, dei gas
+irritanti, del calore e dell’oscuramento delle visibilità da fumo), determina il tempo a disposizione per
+l'esodo in sicurezza, ovvero l’ASET.
+I software FDS e Smokeview, sulla base delle ipotesi formulate, hanno fornito i seguenti output per il
+compartimento C al livello -2:
+Progettazione della soluzione alternativa
+Progettazione della soluzione alternativa
+                 Progettazione della soluzione alternativa
+Osservazioni
+Nella slice file relativa alla visibilità a 10 metri, si nota che l’area in prossimità della porta del vano scala a
+prova di fumo raggiunge un livello di visibilità inferiore ai 10 metri dopo 226 secondi dall’innesco del primo
+veicolo.
+Tale circostanza, tuttavia, acquista un significato relativo, in quanto dal punto VIS_10 sulla via di esodo
+(cerchiato in blu), distante circa 8 metri dalla porta, si ha una visibilità dell’ordine dei 9 metri; inoltre, dal
+punto VIS_ 11 sulla via di esodo (cerchiato in viola), distante circa 4 metri dalla porta, si ha una visibilità
+superiore agli 8 metri.
+Infine, dal punto VIS_12 sulla via di esodo (cerchiato in bianco), distante circa 1 metro dalla porta, risulta
+una visibilità dell’ordine dei 7 metri.
+
+Pertanto, l'ASET riferito alla visibilità, può essere stabilito a 226 secondi se si individua il piano di
+osservazione a quota Z = 1,80 m, in quanto, successivamente, la visibilità sulla via di esodo, corrispondente
+all'asse mediano della corsia di manovra, diviene inferiore ai 10 metri.
+                    Progettazione della soluzione alternativa
+Grafici relativi alla curva RHR (t) e ai parametri: visibilità, irraggiamento, frazione di CO e FED
+Di seguito si riportano i grafici relativi alla curva RHR (t) ottenuta in output dalla simulazione e quelli relativi
+alle curve ottenute tramite i sensori virtuali (devices) disposti sulla via di esodo.
+
+La curva RHR (t) presenta dapprima un andamento lineare, molto aderente alla curva imposta come input
+della simulazione; successivamente, inizia una fluttuazione della curva, con evidenti picchi rispetto al valore
+medio (pari a 1400 kW).
+
+Tali picchi trovano la seguente spiegazione: la curva RHR (t),
+assunta come input del modello, rappresenta
+una determinata quantità di gas di pirolisi uscente dalla
+superficie dove si è imposto il focolare;
+successivamente, se tale gas incontra un’atmosfera ricca di
+ossigeno, brucia, altrimenti rimane nell’ambiente
+per poi bruciare quando si raggiungono le corrette condizioni
+di concentrazione di ossigeno.
+
+Pertanto, a livello locale, all’interno dell’autoveicolo ove si
+trova la superficie che rappresenta il focolare, si
+osserva che, da un certo punto in poi, la concentrazione di
+ossigeno inizia a scendere ed il gas inizia a bruciare fuori dai
+finestrini, in maniera fluttuante, generando i picchi visibili in
+figura.
+                   Progettazione della soluzione alternativa
+visibilità
+Anche le curve della visibilità, rappresentate di
+seguito, evidenziano che il tempo ASET viene
+confermato, secondo le precedenti considerazioni,
+pari a 226 secondi.
+
+Infatti, anche se il sensore VIS_12 (distante un
+metro dalla porta del vano scala) supera la soglia
+del requisito relativo alla visibilità (10 metri)
+trascorsi circa 190 secondi, in questo punto si
+mantiene, comunque, una visibilità superiore a 1
+m, garantendo le condizioni di orientamento
+dell'occupante virtuale (fino a 400 secondi, infatti,
+si mantiene una visibilità di almeno 3,30 metri).
+
+Analoga considerazione vale per il sensore VIS_11
+che, pur presentando una fluttuazione che
+oltrepassa la soglia dei 10 metri, mantiene fino a
+400 secondi una visibilità di almeno 7,65 metri,
+superiore alla distanza che lo separa dalla porta (4
+metri).
+             Progettazione della soluzione alternativa
+visibilità
+                 Progettazione della soluzione alternativa
+visibilità
+
+Anche i sensori VIS_1 e VIS_2 oltrepassano la soglia di 10 metri di visibilità prima dell'ASET; tuttavia è
+verosimile che al tempo 140 secondi l'occupante virtuale abbia lasciato il punto VIS_1 e, poco dopo, il punto
+VIS_2.
+
+Infatti, è possibile stimare che dopo circa 20 secondi l'IRAI si attivi, creando le condizioni di allarme;
+successivamente, dato che all'interno dell'autorimessa si trovano occupanti in stato di veglia e a conoscenza
+dell'ambiente, si può stimare in 90 secondi il tempo di pre-movimento, necessario per l'organizzazione
+dell'esodo, per un totale di 110 secondi.
+
+Cautelativamente, non avendo modellato l'impianto IRAI presente nel compartimento, è opportuno
+aggiungere un margine di sicurezza di 30 secondi, pervenendo così ad un tempo stimato, per l'inizio
+dell'esodo, pari a 140secondi.
+
+Pertanto, il suddetto superamento della soglia di visibilità per i sensori VIS_1 e VIS_2, avvenendo dopo circa
+210 secondi dall'innesco, non costituisce un pericolo effettivo per l'occupante virtuale, che si trova ormai
+distante dal punto di partenza del corridoio cieco.
+             Progettazione della soluzione alternativa
+visibilità
+                 Progettazione della soluzione alternativa
+Irraggiamento in direzione dello strato dei fumi e
+irraggiamento in direzione del focolare
+Nell'intervallo temporale considerato (0 - ASET = 226
+s), rimangono ampiamente al di sotto delle relative
+soglie precedentemente specificate.
+
+In relazione alle successive immagini, raffiguranti le
+sezioni trasversali del corridoio cieco (passanti
+sull'asse
+mediano della corsia di manovra), che illustrano la
+distribuzione delle temperature al tempo ASET = 226
+secondi e a 400 secondi, è possibile evidenziare che
+l'altezza dei fumi rimane pressoché costante fino a
+400
+secondi, lasciando comunque uno strato libero dai
+fumi, che consente l'esodo in sicurezza.
+
+Tale considerazione potrebbe consentire l'adozione
+di un coefficiente inferiore al 100% (par. M.3.2.2), in
+relazione al margine di sicurezza tra ASET e RSET.
+Progettazione della soluzione alternativa
+Progettazione della soluzione alternativa
+                  Progettazione della soluzione alternativa
+Rcapitolando:
+Pper determinare il tempo disponibile per l’esodo (ASET), si è fatto ricorso ad alcune simulazioni di incendio
+utilizzando FDS.
+I valori delle soglie di prestazione per la vita (life safety criteria) da verificare sono stati riferiti al metodo di
+calcolo avanzato per ASET descritto al par. M.3.3.1.
+
+Per determinare ASET, bisogna garantire agli occupanti in posizione più svantaggiata (in corrispondenza del
+corridoio cieco) che dovranno raggiungere il vano scala a prova di fumo, le necessarie condizioni di "tenability".
+
+Fatte salve le approssimazioni connesse alle ipotesi di calcolo assunte, tenendo conto delle considerazioni alla
+base dello scenario di incendio analizzato, si è rilevato che il valore di ASET, in relazione al primo dei valori
+soglia di prestazione per la vita che fallisce (visibilità), risulta pari a:
+
+                                                 ASET = 226 secondi
+
+Tale valore deriva dalla considerazione che i punti a distanza maggiore di 10 metri dalla porta di uscita, sul
+vano scala a prova di fumo, perdono il requisito della visibilità trascorsi 226 secondi.
+
+Al fine di poter operare il raffronto con ASET previsto al par. M.3.2, il tempo RSET dovrà essere considerato
+in relazione al percorso conducente all’interno del vano scala a prova di fumo.
+
+Una volta verificato positivamente il margine di sicurezza di ASET rispetto a RSET, si potrà concludere che la
+soluzione alternativa relativa al corridoio cieco sarà soddisfatta.
+                                    Obiettivi dello studio
+I metodo idoneo a dimostrare la soluzione alternativa ricade fra i metodi ordinari di progettazione della
+sicurezza antincendio di cui al par. G.2.6, (tab. G.2-1) “Ingegneria della sicurezza antincendio”.
+
+Nel caso in esame si è proceduto al calcolo di ASET, che e risultato pari a 226 s.
+Al fine di poter operare il raffronto con ASET previsto al par. M.3.2, il tempo RSET dovrà essere considerato
+in relazione al percorso conducente all’interno del vano scala a prova di fumo. Una volta verificato
+positivamente il margine di sicurezza di ASET rispetto a RSET, si potrà concludere che la soluzione alternativa
+relativa al corridoio cieco sarà soddisfatta.
+                                                   RSET
+RSET è il tempo tra l’innesco dell’incendio ed il momento in cui gli occupanti dell’edificio raggiungono un
+luogo sicuro. Con riferimento al rapporto tecnico ISO/TR 16738 esso è dato dalla somma dei seguenti
+termini, espressi in secondi:
+• tdet: tempo di rivelazione (detection);
+• ta: tempo di allarme generale;
+• tore: tempo di attivita di pre-movimento (pre-travel activity time, PTAT);
+• tra: tempo di movimento (travel).
+
+RSET dipende dalle interazioni del sistema incendio-edificio-occupanti: l’esodo degli occupanti, infatti è
+fortemente condizionato dalle geometrie dell'edificio e viene rallentato dagli effetti dell’incendio.
+
+Ai fini del calcolo di RSET il professionista antincendio deve sviluppare lo scenario comportamentale di
+progetto più appropriato per il caso specifico, perché l’attività di pre-movimento e le velocità dell’esodo
+dipendono dalla tipologia di popolazione considerata e dalle modalità di impiego dell'edificio.
+
+I parametri variano notevolmente se gli occupanti sono svegli ed hanno familiarità con l’edificio, come in
+un edificio scolastico, ovvero dormono e/o non conoscono la struttura, come in una struttura alberghiera.
+Come del resto ASET, ciascun occupante possiede un proprio valore di RSET.
+                                                    RSET
+Tempo di rivelazione (tdet)
+E’ determinato dalla tipologia di sistema di rivelazione e dallo scenario d'incendio: è il tempo necessario al
+sistema di rivelazione automatico per accorgersi dell'incendio.
+Viene calcolato analiticamente o mediante le metodologie utilizzate per la determinazione di ASET, la sua
+durata varia tra 1e 2 min.
+
+Tempo di allarme generale (ts)
+E il tempo che intercorre tra la rivelazione dell’incendio e la diffusione dell’informazione agli occupanti
+(allarme generale); si assume:
+ts = 0 quando la rivelazione attiva direttamente l’allarme generale dell'edificio:
+ts = al ritardo valutato dal professionista, se la rivelazione allerta una centrale di gestione dell’emergenza che
+verifica l’evento ed attiva poi l’allarme manuale.
+
+I valori dei tempi di allarme sono verificati impiegando le valutazioni analitiche disponibili in letteratura.
+I valori dei tempi di rivelazione ed allarme sono stimati, in modo deterministico, in funzione delle soluzioni
+conformi che il Codice propone per le singole tipologie d'attività in merito agli IRAI, seguendo le indicazioni
+qualitative del rapporto tecnico ISO/TR 16738.
+                                                  RSET
+Tabella utile per la determinazione della somma di tdet e ta:
+                                                    RSET
+Tempo di attività di pre-movimento (tpre)
+E il tempo necessario agli occupanti per svolgere una serie di attività che precedono il movimento vero e
+proprio verso il luogo sicuro; secondo la letteratura questa fase occupa spesso la maggior parte del tempo
+totale di esodo.
+                  tpre = tempo di riconoscimento (recognition) + tempo di risposta (response)|
+
+I tempi di pre-evacuazione tpre delle varie tipologie d'attività, sono stimati secondo distribuzioni statistiche,
+in accordo con quanto previsto nella tab. E.2 del rapporto tecnico ISO/TR16738 (tabella tratta dalla norma
+BS PD 7974-6:2019), secondo gli scenari comportamentali e le ipotesi sulle misure di sicurezza contenute
+nelle prescrizioni delle soluzioni conformi del Codice.
+                                                    RSET
+Tempo di movimento (ttra)
+E il tempo impiegato dagli occupanti per raggiungere un luogo sicuro dal termine delle attività di pre-
+movimento.
+Viene calcolato in riferimento ad alcune variabili indicate al par. M.3.4.4. Per il calcolo di ttra si impiegano
+due tipologie di modelli:
+• Modelli idraulici, che predicono alcuni aspetti degli occupanti (es.: i flussi atttraverso le uscite), ma non
+    includono fattori importanti del comportamento umano (es.: la familiarità con I’edificio, le interazioni
+    persona-persona e l'effetto del fumo sul movimento);
+• Modelli agent-based, basati sul comportamento, che studiano i sistemi complessi partendo dallo studio
+    delle interazioni tra le singole unità.
+                                                  RSET
+Il modello idraulico
+Il modello idraulico, descritto dettagliatamente nella letteratura, si utilizza per calcolare in modo
+deterministico il tempo di movimento degli occupanti in relazione alle geometrie del sistema di esodo. Si
+tratta di un modello di flusso che permette di ottenere i tempi di evacuazione impiegando una serie di
+espressioni che correlano i dati sperimentali ad approssimazioni idrauliche del moto degli occupanti.
+
+a. Per bassa densità di affollamento
+Secondo il modello idraulico, quando la densità di affollamento negli ambienti è bassa, il percorso degli
+occupanti lungo le vie di esodo non è disturbato dalla presenza di altre persone: non c’è sostanzialmente
+interazione tra le velocita gli occupanti, non si formano code in corrispondenza dei componenti critici del
+sistema di esodo. Ouindi il tempo impiegato da un occupante per percorrere un tratto di via di esodo di
+lunghezza Les a velocità costante v e pari a: tra(es)= Les/ V
+                                                  RSET
+Il modello idraulico
+Il modello idraulico, descritto dettagliatamente nella letteratura, si utilizza per calcolare in modo
+deterministico il tempo di movimento degli occupanti in relazione alle geometrie del sistema di esodo. Si
+tratta di un modello di flusso che permette di ottenere i tempi di evacuazione impiegando una serie di
+espressioni che correlano i dati sperimentali ad approssimazioni idrauliche del moto degli occupanti.
+b. Per elevata densità di affollamento
+Quando invece la densità di affollamento negli ambienti è elevata, c’è interazione tra le velocita gli
+occupanti in movimento, si formano code significative in corrispondenza dei componenti critici del
+sistema di esodo, che ritardano il termine dell’esodo.
+Secondo il modello idraulico, il flusso calcolato di occupanti che impiegane una via di esodo aumenta
+linearmente con la larghezza efficace Weff della stessa.
+Infatti il numero di occupanti P che transitano attraverso un
+componente orizzontale o verticale del sistema di esodo nel
+tempo tttra(1) é pari a:
+                         P = Fs * ttra(1) * Weff
+
+Dove Fs è il flusso specifico p/m/s;
+ttra(1) è il tempo di superamento del componente della via di
+esodo, s;
+Weff è la larghezza efficace della via di esodo, m;
+                                                    RSET
+Il modello idraulico – Larghezza efficace delle vie di esodo
+Secondo la letteratura gli occupanti che si muovono lungo le vie di esodo di un’attività non impegnano
+completamente la larghezza geometrica disponibile W, ma mantengono una certa distanza costante dagli
+ostacoli e dai confini del percorso. La larghezza utile del percorso di esodo Weff corrisponde quindi alla sua
+larghezza geometrica W ridotta della larghezza degli strati limite (boundary layers) generati dagli ostacoli.
+
+Per tali strati limite può essere mediamente assuntala larghezza paria 0,15 m per lato. Pertanto,
+supponendo una via di esodo larga W = 1 m, la larghezza paria 0,15 * 2 = 0,30 m non viene utilizzata per
+l’esodo. In questo caso vale proprio Weff = 70% W.
+Per larghezze W superiori ad 1 m la riduzione necessaria è proporzionalmente inferiore: ad esempio se W =
+2 m allora vale Weff= 85% W.
+
+Ai fini della semplicità del calcolo progettuale, si sceglie pertanto di approssimare la larghezza efficace Weff
+come segue:
+                                                   Weff = 70% W
+
+Pertanto l’equazione precedente può essere approssimata come segue:
+                                         P = Fs * ttra(1) * 0,7 * W
+                                                  RSET
+Il modello idraulico – Ai nodi
+II modello idraulico definisce le caratteristiche del moto degli occupanti secondo un approccio fluido
+dinamico, senza considerare i processi decisionali delle persone, ad esempio di fronte ad un bivio nel
+percorso seguito.
+
+I nodi della rete di vie di esodo ove avviene convergenza o divergenza dei flussi di occupanti possono essere
+modellati assegnando un rateo di mescolamento (merge ratio) o di suddivisione. Un esempio di nodo
+convergente si trova presso ogni pianerottolo di un edificio multipiano, ove il flusso di occupanti che
+provengono dai piani superiori debbono convergere con il flusso di occupanti che sta evacuando dal piano.
+                                                          RSET
+Modelli agent- based
+Sono basati sul comportamento; essi studiano i sistemi complessi partendo dallo studio delle interazioni tra le singole
+unità. Tali modelli sono tuttora oggetto di ricerca scientifica e di sperimentazioni e possono essere ulteriormente suddivisi
+in base ai sistemi comportamentali adottati.
+
+-   Nessuna regola comportamentale: Questi modelli non applicano regole di comportamento e affidano le scelte
+    decisionali solo sulla base di influenze fisiche. Quindi il movimento della popolazione e la rappresentazione fisica della
+    geometria influenzano e determinano il processo d'evacuazione;
+-   Analogia funzionale del comportamento: I modelli di analogia funzionale del comportamento applicano delle
+    equazioni alla popolazione, che complessivamente governano la risposta, minando il comportamento individuale.
+    Questa funzione non deriva necessariamente dal comportamento di vita reale degli occupanti, ma molto più spesso
+    proviene da altri ambiti di ricerca che si presumono essere analoghi al comportamento umano;
+-   Comportamento implicito: Nei modelli di comportamento implicito viene spesso dichiarato l’uso di metodi fisici
+    complessi basati sull’applicazione di dati secondari, che incorporano le influenze psicologiche o sociologiche;
+-   Regole basate sul sistema comportamentale: modelli in cui vengono riconosciuti esplicitamente i tratti
+    comportamentali dei singoli occupanti solitamente adottano il modello con regola basata sul sistema
+    comportamentale, permettendo di adottare scelte decisionali in base al set predefinito di regole. Queste regole
+    possono essere attivate in circostanze specifiche e solo in tali circostanze, hanno effetto;
+-   Intelligenza artificiale basata su sistema comportamentale: Solo di recente, [intelligenza artificiale à stata applicata ai
+    modelli di comportamento dove gli occupanti individuali sono progettati per mimare l’intelligenza umana, o
+    approssimativamente ad essa, nel rispetto dell’ambiente circostante.
+                                                    RSET
+Calcolo del tempo di movimento
+Il tempo necessario al movimento degli occupanti dal luogo in cui si trovano fino a raggiungere un luogo
+sicuro, dipende dalla geometria dei sistemi di esodo, oltre che dalla tipologia degli occupanti presenti.
+
+RSET termina quando tutti gli occupanti raggiungono il primo luogo sicuro incontrato lungo la via di esodo.
+In tali ipotesi, il tempo di movimento ttra,i; per l'iesimo occupante, per percorrere la via di esodo dal luogo in
+cui si trova nel compartimento di primo innesco fino al luogo sicuro è dato dalla somma dei seguenti
+addendi:
+                                                ttra,i = ttra(pres),i + ttra(coda),i
+dove:
+ttra(pres),i è il tempo di presentazione necessario all'i-esimo occupante per presentarsi all'uscita verso il luogo
+sicuro dal luogo in cui si trova, espresso in s
+ttra(coda),i è il tempo di coda che l'i-esimo occupante attende in coda all'uscita verso il luogo sicuro, espresso
+in s.
+
+Supponendo velocita costante, il tempo di presentazione all'uscita trra(pres) dell'i-esimo occupante dipende
+dalla distanza che percorre, quindi dalla sua posizione iniziale nel compartimento e dal suo percorso di
+esodo.
+Il tempo di coda dipende invece dalla geometria della via di esodo e dal numero di occupanti in attesa
+prima dell'i-esimo occupante.
+                                                         RSET
+Calcolo del tempo di movimento
+Al fine di ridurre la complessità delle iterazioni tra la distribuzione statistica del tempo di pre-evacuazione e
+gli altri tempi elementari che compongono RSET, si impiega l'analisi semplificata descritta nell'Annex H del
+rapporto tecnico ISO/TR 16738
+In relazione a tale semplificazione, per il tempo RSET può essere assunto il più gravoso tra i tempi calcolati
+come segue:
+
+                   RSET1 = tdet + ta + tpre(99° percentile) + ttra(pres) (densità di affollamento bassa)
+              RSET2 = tdet + ta + tpre(1° percentile) + ttra(pres) + ttra(coda) (densità di affollamento elevata)
+Dove:
+tdet é il tempo necessario al sistema di rivelazione automatico per accorgersi dellincendio [s]
+ ta é il tempo che intercorre tra la rivelazione dell’incendio e la diffusione dell’informazione agli occupanti
+(allarme generale) [s]
+tpre(1° percentile) è il tempo di pre-evacuazione per i primi occupanti a muoversi, secondo la distribuzione
+statistica di tpre [s]
+ tpre(99° percentile) è il tempo di pre-evacuazione per gli ultimi occupanti a muoversi, secondo la distribuzione
+statistica di tpre [s]
+ ttra(pres) è il tempo necessario all’occupante piu lontano per presentarsi al/uscita verso il luogo sicuro [s]
+ ttra(coda) è il tempo di attesa in coda all’uscita verso il luogo sicuro per l’ultimo occupante a muoversi,
+secondo la distribuzione statistica del tempo di pre-evacuazione tpre [s]
+                                                     RSET
+Calcolo del tempo di movimento
+Come previsto in ISO/TR 16738:2009, ed in favore di sicurezza, nel calcolo si assume che:
+• la distanza percorsa dall’occupante più lontano corrisponda alla massima lunghezza di esodo ammessa al
+  cap. S.4 per la specifica tipologia d'attività;
+• nel calcolo del tempo ttra(coda) NON vengano scontati gli occupanti che dalla coda hanno già raggiunto il
+  luogo sicuro, nell'istante in cui si presentano gli ultimi occupanti.
+
+Il valore di RSET1 , dipende dalla somma
+
+                                            tpre(99° percentile) + ttra(pres)
+
+cioè il tempo che gli ultimi occupanti a muoversi, secondo la distribuzione statistica di tpre, impiegano per
+avviare l’esodo e presentarsi all’uscita verso il luogo sicuro.
+                                                           RSET
+II valore di RSET2 dipende dalla somma di:
+
+tpre(1° percentile) + ttra(pres) : tempo che i primi occupanti
+a muoversi, secondo la distribuzione statistica di
+tpre, impiegano per avviare l'esodo e presentarsi
+all’uscita verso il luogo sicuro [s];
+
+ttra(coda) : tempo che gli ultimi occupanti a muoversi,
+secondo la distribuzione statistica di tpre,
+trascorrono in coda [s]
+
+Infatti i primi occupanti a muoversi non incontrano
+alcuna coda all’uscita, la coda si forma
+immediatamente dopo ed ostacola i successivi
+occupanti.
+                            Analisi soluzione alternativa
+Valutazione delle soluzioni progettuali
+Si impiega la metodologia descritta nel cap. M.3 per l'obiettivo di sicurezza sopra definito. Nelle condizioni
+di affollamento presenti nell'autorimessa RSET è dato da:
+
+                  RSET1 = tdet + ta + tpre(99° percentile) + ttra(pres) (densità di affollamento bassa)
+
+E’ possibile stimare che dopo circa 20 s l'IRAI si attivi, creando le condizioni di allarme; successivamente,
+dato che all'interno dell'autorimessa si trovano occupanti in stato di veglia e a conoscenza dell'ambiente,
+si può stimare in 90 s il tempo di pre-movimento, necessario per l'organizzazione dell'esodo, per un totale
+di 110 s.
+Cautelativamente, non avendo modellato l'impianto IRAI presente nel compartimento, è opportuno
+aggiungere un margine di sicurezza di 30 s, pervenendo così ad un tempo stimato, per l'inizio dell'esodo,
+pari a 140 s.
+
+L'adozione di tale valore per il tempo di pre-movimento, rispetto ai valori più conservativi proposti dal
+rapporto tecnico ISO/TR 16738, è giustificata dalla presenza dell'impianto EVAC che grazie alla diffusione
+di allarmi vocali dedicati, garantisce una maggiore consapevolezza degli occupanti sulla situazione di
+emergenza.
+                             Analisi soluzione alternativa
+Valutazione delle soluzioni progettuali
+Il tempo di presentazione è calcolato come quoziente tra la massima lunghezza del percorso fino all'uscita di
+piano e la velocità di traslazione orizzontale assunta per gli occupanti come segue:
+
+                                  ttra(pres) = Les / v = 48,25 m / 0,57 m/s = 85 s
+
+È stata assunta, in considerazione della distribuzione planimetrica degli stalli nell'autorimessa, per la
+velocità di traslazione orizzontale un valore pari a 0,57 m/s, relativa ad occupanti con disabilità locomotoria
+(tab. G.4del rapporto tecnico ISO/TR 16738).
+Si ottiene pertanto:
+                           RSET1 = tdet + ta + tpre(99° percentile) + ttra(pres) = 140 + 85 = 225 s
+
+Dalle simulazioni in FDS secondo le ipotesi già descritte si è ottenuto un valore di ASET pari a 226 s; tale
+valore deriva dalla considerazione che i punti a distanza maggiore di 10 metri dalla porta di uscita, sul vano
+scala a prova di fumo, perdono il requisito della visibilità trascorsi 226 s.
+
+
+Risulta evidente che il margine di sicurezza della progettazione prestazione per la salvaguardia della vita di
+cui al par. M.3.2.2.3 non risulta soddisfatto.
+                               Analisi soluzione alternativa
+Valutazione delle soluzioni progettuali
+AI fine di ovviare alla problematica, si prevede, a livello di gestione dell'autorimessa, lo spostamento degli
+stalli riservati ai disabili in altra area, prossima alle uscite di piano; in tale ipotesi è possibile adottare per la
+velocità di traslazione orizzontale un valore pari a 1,00 m/s (tab. G.4 del rapporto tecnico ISO/TR 16738),
+ottenendo:
+
+                          RSET1 = tdet + ta + tpre(99° percentile) + ttra(pres = 140 + 48,25 = 189s
+                               Analisi soluzione alternativa
+Criterio di ASET > RSET
+Considerazioni generali:
+a) Le restanti quantità considerate per la determinazione di ASET, oltre alla visibilità, (irraggiamento in direzione
+    dello strato dei fumi e irraggiamento in direzione del focolare; temperatura; frazione in volume di CO;FED)
+    nell'intervallo temporale considerato (0 - ASET s), rimangono ampiamente al di sotto delle relative soglie
+    individuate;
+b) in relazione alle sezioni trasversali del corridoio cieco (passanti sull'asse mediano della corsia di manovra), che
+    illustrano la distribuzione delle temperature al tempo ASET e a 400 s, è possibile rilevare che l'altezza dei fumi
+    rimane pressoché costante fino a 400 s, lasciando comunque uno strato libero dai fumi, che consente l'esodo
+    in sicurezza;
+c) considerata la configurazione geometrica del compartimento, la previsione di ulteriori 30 s prima dell'inizio
+    dell'esodo (a causa della mancata modellazione dell'impianto IRAI) appare oltremodo cautelativa.
+
+Tali considerazioni possono consentire l'adozione di un coefficiente inferiore al 100% (par. M.3.2.2), in relazione al
+margine di sicurezza tra ASET e RSET. Pertanto, anche in considerazione della cospicua conservatività del focolare
+assunto, la soglia di prestazione può dirsi verificata secondo le indicazioni del par. M.3.2.2, con un margine di
+sicurezza pari a:
+                           tmarg = ASET - RSET = 37 s (> 30 s ed equivalente al 20% di RSET)
+
+Selezione delle soluzioni progettuali idonee
+Grazie alle verifiche positive ottenute, la soluzione progettuale ipotizzata è idonea al raggiungimento degli obiettivi
+di sicurezza prefissati.
+                                         Analisi dei risultati
+Nel presente caso studio è stata dimostrata la soluzione alternativa con riferimento alla progettazione
+dell'esodo di un'autorimessa in soluzione conforme, essendo stato evidenziato il mancato rispetto della
+lunghezza del corridoio cieco.
+Il caso studio è circoscritto al solo calcolo di RSET, rinviando al volume INAIL “Il Codice di prevenzione
+incendi” per la determinazione di ASET.
+
+AI fine di poter operare il raffronto con ASET previsto al par. M.3.2, il tempo RSET dovrà essere considerato
+in relazione al percorso conducente all'interno del vano scala a prova di fumo.
+
+Una volta verificato positivamente il margine di sicurezza di ASET rispetto a RSET, si potrà concludere che la
+soluzione alternativa relativa al corridoio cieco sarà soddisfatta.
+Illustrati gli aspetti teorici legati alle problematiche di valutazione di RSET, si è proceduto al calcolo di tale
+tempo nella configurazione del compartimento dell'autorimessa che prevede la disposizione degli stalli
+riservati ai disabili in corrispondenza dell'inizio del corridoio cieco. In tale ipotesi è risultato che il margine di
+sicurezza della progettazione prestazione per la salvaguardia della vita di cui al par. M.3.2.2.3 non risulta
+soddisfatto.
+Tuttavia, provvedendo a spostare i predetti stalli in altra area, con conseguente sensibile ricaduta sul tempo
+di movimento, e tenendo conto di una serie di considerazioni tese a valutare l'affidabilità degli input
+utilizzati nella progettazione prestazionale, si è potuto dimostrare che il valore ottenuto per RSET (189 s)
+attesta chela soluzione progettuale ipotizzata è idonea al raggiungimento degli obiettivi di sicurezza
+prefissati.
+                                                         RSET
+Software utilizzabili per la valutazione di Rset:
+
+CPI win@ FSE, sviluppato da Namirial SPA, è un software (basato sul comportamento) che, attraverso l’applicazione dei
+principi della Fire Safety Engineering, consente lo studio della genesi dell’incendio e la simulazione dello sviluppo, della
+propagazione e degli effetti conseguenti su persone, strutture e beni, secondo gli indirizzi del Codice, utilizzando il motore
+di calcolo FDS+EVAC. Il software permette, inoltre, di studiare soluzioni innovative legate ai principi della FDS, tramite la
+simulazione dell’evacuazione delle persone verso luoghi sicuri, tenendo conto del contesto strutturale, ambientale e
+comportamentale degli occupanti.
+
+Pathfinder, prodotto da Thunderhead Engineering Consultants, ê un simulatore di vie di esodo (basato sul movimento) che
+utilizza comportamenti guida per modellare il movimento degli occupanti. Ogni occupante é definito mediante un set di
+parametri che ne definisce il comportamento durante l’evacuazione in maniera indipendente dagli altri occupanti. II
+software è costituito da tre moduli: un'interfaccia utente grafica, il simulatore ed un visualizzatore di risultati 3D. Il
+software si basa su modelli di calcolo mutuati dal campo di ricerca sui movimenti degli individui che si basano sulla
+tecnologia sviluppata nello sviluppo dei videogames e dei programmi di grafica.
+
+Pyrosim, anch'esso prodotto da Thunderhead Engineering Consultants, è un modello di calcolo che si basa sulle equazioni
+di Navier-Stokes dedicato, specificatamente, all’analisi dei possibili scenari di incendio. Il software rappresenta
+un'interfaccia grafica dei file FDS che consente di creare, modificare e analizzare, in modo rapido e pratico, modelli di
+sviluppo di incendi anche complessi.
+

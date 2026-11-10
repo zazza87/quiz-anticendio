@@ -1,0 +1,341 @@
+ Parleremo di…
+- metodologia di progettazione con RTV
+- applicazione a caso pratico
+ DM 9/8/2016 – RTV attività ricettive
+Sono inclusi alberghi, pensioni, motel, villaggi albergo, residenze turistico -
+alberghiere, studentati, alloggi agrituristici, ostelli per la gioventù, bed &
+breakfast, dormitori, case per ferie.
+Sono escluse le strutture turistico – ricettive all’aria aperta e i rifugi alpini.
+ RTV Alberghi in vigore dal 22 settembre 2016
+ MODALITÀ DI PROGETTAZIONE
+Sono riportate, per alcune misure antincendio,
+indicazioni complementari o sostitutive delle
+soluzioni conformi della RTO:
+S.1 Reazione al fuoco
+S.2 Resistenza al fuoco
+S.3 Compartimentazione
+S.4 Esodo
+S.5 Gestione della sicurezza antincendio
+S.6 Controllo dell’incendio
+S.7 Rivelazione ed allarme
+ STRUTTURA RICETTIVA TURISTICO-ALBERGHIERA CON CAPIENZA
+ MASSIMA PARI A 171 POSTI LETTO
+• L'attività rientra tra quelle dell’allegato I del DPR 151/2011: 66.4.C: Alberghi,
+ pensioni, motel, villaggi albergo, residenze turistico - alberghiere, studentati,
+ villaggi turistici, alloggi agrituristici, ostelli per la gioventù, rifugi alpini, bed
+ & breakfast, dormitori, case per ferie, con oltre 100 posti-letto
+• L’hotel è ubicato nella periferia del centro urbano in fabbricato isolato
+ CONSISTENZA:
+ Numero di piani: 4 + coperture
+ Lunghezza in pianta: 77,5 m
+ Larghezza in pianta: 13,60 m
+ Superfici: P.T. 1030 m2 – altri piani 958 m2
+ 2
+ Superficie totale coperta : 3904 m
+ Numero posti letto: 171 (57 x piano)
+STRUTTURA RICETTIVA TURISTICO-ALBERGHIERA CON CAPIENZA
+ MASSIMA PARI A 171 POSTI LETTO
+STRUTTURA RICETTIVA TURISTICO-ALBERGHIERA CON CAPIENZA
+ MASSIMA PARI A 171 POSTI LETTO
+ Superficie: 1030 mq
+ Ristorante + servizi
+STRUTTURA RICETTIVA TURISTICO-ALBERGHIERA CON CAPIENZA
+ MASSIMA PARI A 171 POSTI LETTO
+ Superficie: 958 mq
+ 28 camere e 57 posti letto
+STRUTTURA RICETTIVA TURISTICO-ALBERGHIERA CON CAPIENZA
+ MASSIMA PARI A 171 POSTI LETTO
+ Altezza edificio: 17,20 m
+ Lunghezza in pianta: 77,50 m
+ Larghezza in pianta: 13,60 m
+ CLASSIFICAZIONE SECONDO DM 9/8/2016
+ CLASSIFICAZIONE
+In relazione al numero dei posti In relazione alla massima quota
+letto p: dei piani h:
+PA: 25 < p ≤ 50; HA: h ≤ 12 m;
+PB: 50 < p ≤ 100; HB: 12 m < h ≤ 24 m;
+PC: 100 < p ≤ 500; HC: 24 m < h ≤ 32 m;
+PD: 500 < p ≤ 1000; HD: 32 m < h ≤ 54 m;
+PE: p > 1000. HE: h > 54 m.
+ CLASSIFICAZIONE SECONDO DM 9/8/2016
+ Classificazione aree attività
+TA spazi riservati, aree in cui la maggior parte degli Presenti al piano terra
+ occupanti è in stato di veglia e conosce l’edificio
+ (spazi ad uso del personale)
+TB spazi comuni, aree in cui la maggior parte degli Hall – sala colazione – sale riunioni (piano terra)
+ occupanti è in stato di veglia e non conosce
+ l’edificio
+TC spazi di riposo, aree in cui la maggior parte degli Camere ospiti (primo, secondo e terzo piano)
+ occupanti può essere addormentata
+TM depositi o archivi di superficie lorda superiore a Presenti al piano terra
+ 25 m2 e carico di incendio specifico qf > 600
+ MJ/m2
+TO locali con affollamento > 100 occupanti Non presenti
+TK locali con carico di incendio specifico qf > 1200 Non presenti
+ MJ/m2
+TT locali in cui siano presenti quantità significative di Non presenti
+ apparecchiature elettriche ed elettroniche, locali
+PROFILI DI RISCHIO
+S.1 – REAZIONE AL FUOCO
+ Rvita = Ciii2
+S.1 – REAZIONE AL FUOCO – Vie d’esodo
+S.1 – REAZIONE AL FUOCO – Altri locali
+ S.1 – REAZIONE AL FUOCO – Altri locali
+DM 9/8/2016: all’interno delle aree TC i mobili imbottiti e i tendaggi
+devono appartenere al gruppo materiali GM2 (tabella S.1-5)
+S.2 – RESISTENZA AL FUOCO
+S.2 – RESISTENZA AL FUOCO
+ valutazione del carico di incendio specifico di progetto
+ qf,d secondo le modalità indicate nel paragrafo S.2.9
+ S.2 – RESISTENZA AL FUOCO
+dove:
+qf valore nominale del carico d'incendio specifico [MJ/m2]
+δq1 fattore legato alla dimensione del compartimento (tabella S.2-6)
+δq2 fattore legato al tipo di attività svolta nel compartimento (tabella S.2-7)
+δn fattore dipendente dalle differenti misure antincendio previste nel compartimento
+ S.2 – RESISTENZA AL FUOCO
+dove:
+qf valore nominale del carico d'incendio specifico [MJ/m2]
+δq1 fattore legato alla dimensione del compartimento (tabella S.2-6)
+δq2 fattore legato al tipo di attività svolta nel compartimento (tabella S.2-7)
+δn fattore dipendente dalle differenti misure antincendio previste nel compartimento (tabella S.2-8)
+ 0,558
+S.2 – RESISTENZA AL FUOCO
+ DM 9/8/2016: la classe di resistenza al fuoco dei
+ compartimenti non può essere inferiore a quanto
+ previsto in tabella V.5-1.
+S.3 – COMPARTIMENTAZIONE
+S.3 – COMPARTIMENTAZIONE
+ DM 3/8/2015
+ La soluzione conforme per il livello di prestazione III prevede la
+ compartimentazione impiegando elementi a tenuta di fumo (Sa)
+ per la realizzazione dei compartimenti antincendio.
+ S.3 – COMPARTIMENTAZIONE
+✔
+✔
+✔
+S.3 – COMPARTIMENTAZIONE
+S.4 – ESODO
+S.4 – ESODO
+ S.4 – ESODO: caratteristiche delle porte
+Sale riunioni piano terra
+S.4 – ESODO: numero uscite indipendenti
+ Con due sole uscite non sarebbe
+ rispettata la max lunghezza d’esodo Les
+ di 30 m (lunghezza complessiva
+ compartimento 77 m)
+S.4 – ESODO: larghezza minima vie d’esodo orizzontali
+ LO = LU · n O
+ • Lu =4,10 mm/persona
+ • no = 57 persone
+ LO = 233,7 mm
+Ambito considerato: piano camere
+ ✔
+ SOLUZIONE CONFORME: 3 USCITE
+ INDIPENDENTI DI LARGHEZZA ≥ 900 mm
+ RTV: Le camere con affollamento non superiore a
+ 10 occupanti sono escluse dai limiti minimi previsti
+ per le larghezze delle vie d’esodo
+ S.4 – ESODO: larghezza minima vie d’esodo verticali
+Esodo simultaneo LV = Lu · n v
+ • Lu =3,80 mm/persona
+ • nV = 171 persone
+ LV = 649,8 mm
+ ✔
+ SOLUZIONE CONFORME:
+ 3 SCALE DI LARGHEZZA ≥ 900 mm
+ RTV: Le camere con affollamento non superiore a
+ 10 occupanti sono escluse dai limiti minimi previsti
+ per le larghezze delle vie d’esodo
+S.4 – ESODO: soluzioni progettuali
+ NO uscite
+ finali
+S.4 – ESODO: superamento barriere architettoniche
+ Piano camere
+S.5 – GESTIONE DELLA SICUREZZA ANTINCENDIO
+S.5 – GESTIONE DELLA SICUREZZA ANTINCENDIO
+ Una corretta progettazione
+ della gestione della
+ sicurezza implica uno
+ scambio di informazioni tra
+ progettista e responsabile
+ dell’attività
+ • Limitazioni d’esercizio
+ dell’attività
+ • Misure antincendio
+ • Manutenzione e
+ controllo periodico
+ • Numero occupanti
+ • Gestione dell’emergenza
+ • Nomina del coordinatore
+ unità gestionale GSA
+ • Centro emergenza
+ S.5 – GESTIONE DELLA SICUREZZA ANTINCENDIO
+Il responsabile dell’attività deve predisporre un registro dei controlli periodici dove
+siano annotati:
+• i controlli, le verifiche, gli interventi di manutenzione su sistemi, dispositivi,
+ attrezzature e le altre misure antincendio adottate;
+• le attività di informazione,
+ formazione ed
+ addestramento
+• le prove di evacuazione
+S.5 – GESTIONE DELLA SICUREZZA ANTINCENDIO
+ Adempimenti minimi per preparazione all’emergenza
+ S.5 – GESTIONE DELLA SICUREZZA ANTINCENDIO
+In prossimità degli accessi di ciascun
+piano dell’attività, devono essere
+esposte:
+a. planimetrie esplicative del
+ sistema d’esodo e dell’ubicazione
+ delle attrezzature antincendio;
+b. istruzioni sul comportamento
+ degli occupanti in caso di
+ emergenza
+ Tali prescrizioni devono essere applicate anche all’interno di
+ ciascuna camera e devono essere multilingua
+S.6 – CONTROLLO DELL’INCENDIO
+S.6 – CONTROLLO DELL’INCENDIO
+ DM 9/8/2016: In relazione al tipo di aree presenti,
+ l’attività deve essere dotata di misure di controllo
+ degli incendio (S6) secondo i livelli di prestazione
+ previsti in tabella V.5.3
+ PROTEZIONE DI
+ BASE
+ +
+ PROTEZIONE
+ MANUALE
+ S.6 – CONTROLLO DELL’INCENDIO
+ PROTEZIONE DI
+ BASE:
+Soluzione conforme
+  estintori
+ ESTINTORI POLIVALENTI
+ • in posizione facilmente visibile e raggiungibile, lungo i percorsi
+ d’esodo in prossimità delle uscite dei locali, di piano o finali
+ • in prossimità delle aree a rischio specifico
+ • con impugnature collocate a circa 110 cm dal piano di calpestio
+S.6 – CONTROLLO DELL’INCENDIO
+ DM 9/8/2016: In relazione al tipo di aree presenti,
+ l’attività deve essere dotata di misure di controllo
+ degli incendio (S6) secondo i livelli di prestazione
+ previsti in tabella V.5.3
+ PROTEZIONE MANUALE:
+ Soluzione conforme  rete idranti
+ progettata, installata ed esercita
+ secondo la norma UNI 10779 o
+ equivalente
+S.7 – RIVELAZIONE E ALLARME
+S.7 – RIVELAZIONE E ALLARME
+S.8 – CONTROLLO FUMI E CALORE
+ S.8 – CONTROLLO FUMI E CALORE
+SOLUZIONE CONFORME PER LIVELLO DI PRESTAZIONE II
+Per ogni compartimento deve essere prevista la
+possibilità di effettuare lo smaltimento di fumo e calore
+d’emergenza
+ Le aperture di smaltimento (≅infissi) saranno
+ uniformemente distribuite nella porzione
+ superiore di tutti i locali nel rispetto della
+ verifica del raggio di influenza roffset pari a 20 m
+ Superficie utile complessiva SE
+ • è funzione del carico di incendio specifico qf (e della
+ superficie lorda di ciascun piano del compartimento A
+ • può essere suddivisa in più aperture con ciascuna apertura di
+ forma possibilmente regolare e superficie utile ≥ 0,10 m2
+ S.9 – OPERATIVITÀ ANTINCENDIO
+Nessuna richiesta
+aggiuntiva da RTV
+ S.9 – OPERATIVITÀ ANTINCENDIO
+SOLUZIONE CONFORME PER LIVELLO DI PRESTAZIONE IV
+• Deve essere permanentemente assicurata la possibilità di avvicinare i
+ mezzi di soccorso antincendio, adeguati al rischio d'incendio, agli accessi
+ ai piani di riferimento dei compartimenti di ciascuna opera da
+ costruzione dell'attività; di norma la distanza dei mezzi di soccorso dagli
+ accessi non dovrebbe essere superiore a 50 m.
+• Deve essere disponibile almeno un idrante, derivato dalla rete medesima
+ oppure collegato alla rete pubblica, raggiungibile con un percorso
+ massimo di 500 m dai confini dell’attività; tale idrante deve assicurare
+ un’erogazione minima di 300 litri/minuto per una durata ≥ 60 minuti.
+ S.9 – OPERATIVITÀ ANTINCENDIO
+SOLUZIONE CONFORME PER LIVELLO DI PRESTAZIONE IV
+• I sistemi di controllo e comando dei servizi di sicurezza destinati a funzionare
+ in caso di incendio (es. quadri di controllo degli IRAI, …) devono essere
+ ubicati nel centro di gestione delle emergenze.
+• Gli organi di intercettazione, controllo, arresto e manovra degli impianti
+ tecnologici e di processo al servizio dell’attività rilevanti ai fini dell’incendio
+ (es. impianto elettrico, adduzione gas naturale, impianti di ventilazione, …)
+ devono essere ubicati in posizione segnalata e facilmente raggiungibile
+ durante l’incendio.
+ La posizione e le logiche di funzionamento devono
+ essere considerate nella gestione della sicurezza
+ antincendio (Capitolo S.5), anche ai fini di agevolare
+ l’operato delle squadre dei Vigili del fuoco.
+ S.9 – OPERATIVITÀ ANTINCENDIO
+SOLUZIONE CONFORME PER LIVELLO DI PRESTAZIONE IV
+• Deve essere assicurata l’accostabilità a tutti i piani
+ dell’autoscala o mezzo equivalente dei Vigili del fuoco.
+ Gli accessi all’attività dalla via pubblica devono
+ possedere i requisiti minimi della tabella
+Deve essere assicurata la possibilità d’accostamento agli edifici dell’autoscala
+sviluppata ad almeno una finestra o balcone di ogni piano a quota > 12 m.
+ S.10 – SICUREZZA DEGLI IMPIANTI TECNOLOGICI E DI
+ SERVIZIO
+Ai fini della sicurezza antincendio devono essere considerati gli impianti
+tecnologici e di servizio presenti.
+SOLUZIONE CONFORME PER LIVELLO DI PRESTAZIONE I
+si ritengono conformi gli impianti tecnologici e di servizio progettati, installati, verificati,
+eserciti e manutenuti a regola d'arte, in conformità alla regolamentazione vigente,
+secondo le norme di buona tecnica applicabili.
+ S.10 – SICUREZZA DEGLI IMPIANTI TECNOLOGICI E DI
+ SERVIZIO
+Gli impianti tecnologici e di servizio devono rispettare i seguenti obiettivi
+di sicurezza antincendio:
+ • limitare la probabilità di costituire causa di incendio o di
+ esplosione;
+ • limitare la propagazione di un incendio all’interno degli ambienti di
+ installazione e contigui;
+ • non rendere inefficaci le altre misure antincendio, con particolare
+ riferimento agli elementi di compartimentazione;
+ • consentire agli occupanti di lasciare gli ambienti in condizione di
+ sicurezza;
+ • consentire alle squadre di soccorso di operare in condizioni di
+ sicurezza;
+ • essere disattivabili, o altrimenti gestibili, a seguito di incendio
+ S.10 – SICUREZZA DEGLI IMPIANTI TECNOLOGICI E DI
+ SERVIZIO
+La gestione e la disattivazione di impianti tecnologici e di servizio,
+anche quelli destinati a rimanere in servizio durante l’emergenza,
+deve:
+ • poter essere effettuata da posizioni protette, segnalate e
+ facilmente raggiungibili;
+ • essere prevista e descritta nel piano d'emergenza.
+ S.10 – SICUREZZA DEGLI IMPIANTI TECNOLOGICI E DI
+ SERVIZIO
+• Impianti per la produzione, trasformazione, trasporto,
+ distribuzione e di utilizzazione dell’energia elettrica
+• Impianti fotovoltaici
+• Infrastrutture per la ricarica di veicoli elettrici
+• Protezione contro le scariche atmosferiche
+• Impianti di sollevamento e trasporto di cose e persone
+• Impianti di distribuzione gas combustibili
+• Deposito di combustibili
+• Impianti centralizzati di climatizzazione e condizionamento
+ S.10 – SICUREZZA DEGLI IMPIANTI TECNOLOGICI E DI
+ SERVIZIO
+Gli impianti dell’attività che hanno una funzione nella gestione dell'emergenza
+devono disporre di alimentazione elettrica di sicurezza con le caratteristiche
+minime
+ V.3 – VANI DEGLI ASCENSORI
+I vani degli ascensori sono classificati:
+SA: aperti;
+SB: protetti;
+SC: a prova di fumo;
+SD: per ascensori antincendio;
+SE: per ascensori di soccorso.
+ DM 9/8/2016: laddove siano previsti vani scala di
+ tipo protetto o a prova di fumo, i vani degli ascensori
+ (Capitolo V.3) a servizio dell'attività, qualora non
+ inseriti all'interno di vani scala di tipo protetto o a
+ prova di fumo e vi sia la necessità di
+ compartimentazioni orizzontali, devono essere almeno
+ di "tipo SB."
+

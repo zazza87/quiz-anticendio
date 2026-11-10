@@ -1,0 +1,1010 @@
+ CORSO BASE DI SPECIALIZZAZIONE IN
+ MATERIA DI PREVENZIONE INCENDI
+ 27 OTTOBRE 2025
+D ing Grazia PIOMBINI – Direzione interregionale Veneto e Trentino Alto Adige
+grazia.piombini@vigilfuoco.it
+ DM 3 AGOSTO 2015
+ REGOLE TECNICHE VERTICALI (RTV)
+SCHEMA REGOLE TECNICHE TRADIZIONALI
+ Prevenzione Incendi – Norme da
+ utilizzare
+ Iter procedurale-Amministrativo
+ Misure tecniche di sicurezza antincendio
+ DPR 151/2011 Norme prescrittive
+ DM 07/08/2012 - regole tecniche
+ - misure generali (resistenza al fuoco, reazione al
+ fuoco, ...)
+ Metodo tradizionale linee guida; circolari;
+ + Ex DM 10/03/1998 per attività non normate.
+ Ingegneria antincendio (FSE)
+ (misure prestazionali)
+N.B. Con l’entrata in vigore del DM 03/08/2015 (cd Codice di CODICE DI PREVENZIONE
+ prevenzione incendi), l’iter procedurale-amministrativo non INCENDI
+ viene modificato (DM 03/08/2015)
+ 2
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ D.M. 3 agosto 2015
+ Art. 1.
+ Approvazione e modalità applicative delle norme tecniche di prevenzione incendi
+ 1. Sono approvate, ai sensi dell’articolo 15 del decreto legislativo 8 marzo 2006, n. 139, le norme tecniche di prevenzione incendi di cui all’allegato 1, che costituisce parte
+integrante del presente decreto.
+ Art. 2
+ Campo di applicazione e modalità applicative
+ 1. Le norme tecniche di cui all’art. 1, comma 1, si applicano alla progettazione, alla realizzazione e all’esercizio delle attività di cui all’allegato I del decreto del Presidente della
+Repubblica 1° agosto 2011, n. 151, individuate con i numeri: 9; 14; da 19 a 40; da 42 a 47; da 50 a 54; 56; 57; 63; 64; 65, limitatamente ai locali di spettacolo e di trattenimento;
+66, ad esclusione delle strutture turistico-ricettive all’aria aperta e dei rifugi alpini; da 67 a 71; 72; 73; 75; 76; 77, limitatamente agli edifici destinati a civile abitazione. Sono fatte
+salve le modalità applicative alternative di cui all’art. 2 -bis.
+ 2. Le norme tecniche di cui all’art. 1, comma 1, si applicano alle attività di cui al comma 1 di nuova realizzazione.
+ 3. Per gli interventi di modifica ovvero di ampliamento alle attività di cui al comma 1, esistenti alla data di entrata in vigore del presente decreto, le norme tecniche di cui
+all’art. 1, comma 1, si applicano a condizione che le misure di sicurezza antincendio esistenti, nella parte dell’attività non interessata dall’intervento, siano compatibili con gli
+interventi da realizzare.
+ 4. Per gli interventi di modifica o di ampliamento delle attività esistenti di cui al comma 1, non rientranti nei casi di cui al comma 3, si continuano ad applicare le specifiche
+norme tecniche di prevenzione incendi di cui all’art. 5 comma 1 -bis e, per quanto non disciplinato dalle stesse, i criteri tecnici di prevenzione incendi di cui all’art. 15, comma 3,
+del decreto legislativo 8 marzo 2006, n. 139. Nei casi previsti dal presente comma, è fatta salva, altresì, la possibilità per il responsabile dell’attività di applicare le disposizioni di
+cui all’art. 1, comma 1, all’intera attività.
+ 5. Le norme tecniche di cui all’art. 1, comma 1, possono essere di riferimento per la progettazione, la realizzazione e l’esercizio delle attività che non rientrano nei limiti di
+assoggettabilità previsti nell’allegato I del decreto del Presidente della Repubblica 1° agosto 2011, n. 151, o che non siano elencate nel medesimo allegato.
+ 3
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ D.M. 3 settembre 2021
+ Art. 3.
+ Criteri di progettazione, realizzazione ed esercizio della sicurezza antincendio
+ 1. Le regole tecniche di prevenzione incendi stabiliscono i criteri di progettazione, realizzazione ed
+ esercizio della sicurezza antincendio per i luoghi di lavoro per i quali risultano applicabili.
+ 2. Per i luoghi di lavoro a basso rischio di incendio, così come definiti al punto 1, comma 2,
+ dell’allegato I, che costituisce parte integrante del presente decreto, i criteri di progettazione,
+ realizzazione ed esercizio della sicurezza antincendio sono riportati nel medesimo allegato.
+ 3. Per i luoghi di lavoro non ricadenti nei commi 1 e 2, i criteri di progettazione, realizzazione ed
+ esercizio della sicurezza antincendio sono quelli riportati nel decreto del Ministro dell’interno 3
+ agosto 2015.
+ 4. Per i luoghi di lavoro di cui al comma 2, i criteri di progettazione, realizzazione ed esercizio della
+ sicurezza antincendio possono essere quelli riportati nel decreto del Ministro dell’interno 3 agosto
+ 2015.
+ Il comma 3 dell’articolo 3 del DM 03/09/2021 supera, per i luoghi di lavoro, le limitazioni del campo di applicazione del DM
+03/08/2015, infatti la Nota prot. n. 16700 del 08/011/2021 riporta:
+“Inoltre il comma 3 dell’art. 3 supera, per i luoghi di lavoro, l’art. 2 comma 1 del Decreto del Ministero dell’Interno del 3
+agosto 2015 e s.m.i., estendendone il campo di applicazione a tutti i luoghi di lavoro non dotati di regole tecniche, e, in
+particolare, a tutti i luoghi di lavoro che comprendono attività soggette ai controlli di prevenzione incendi.”
+ 4
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Si applicano le pertinenti regole tecniche
+ A. Attività provviste di regola tecnica
+ (specifiche disposizioni antincendio o
+ di prevenzione incendi
+ codice di prevenzione incendi con RTV)
+D.M. 3 settembre 2021
+ a basso rischio
+ Art. 3.
+Criteri di progettazione, realizzazione ed B. Attività ‘a basso rischio d’incendio’ Si applicano le misure riportate
+ esercizio della sicurezza antincendio (Allegato I, comma 2, punto 1) nell’allegato I
+ Profili di
+ Rischio
+ C. Attività non ricadenti nelle Si applica il DM 03/08/2015
+ casistiche A e B (c.d. Codice di prevenzione incendi)
+ B’. In alternativa all’applicazione delle
+ misure riportate nell’allegato I, Il DM 10/03/1998 si applicava a tutte le
+ possono essere utilizzate quelle attività non provviste di regola tecnica di
+ del DM 03/08/2015 prevenzione incendi
+ (c.d. Codice di prevenzione incendi)
+ 5
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ D.M. 3 agosto 2015
+ Art. 2 -bis
+ Modalità applicative alternative
+1. In alternativa alle norme tecniche di cui all’art. 1, comma 1, è fatta salva la possibilità di applicare le norme
+tecniche indicate all’art. 5, comma 1-bis, per le seguenti attività, così come individuate ai punti di cui all’allegato I
+del decreto del Presidente della Repubblica 1° agosto 2011, n. 151:
+0a) 65, limitatamente ai locali di spettacolo e di trattenimento;
+a) 66, ad esclusione delle strutture turistico-ricettive all’aria aperta e dei rifugi alpini;
+b) 67 (Scuole e asili nido);
+b-bis) 68 (strutture sanitarie);
+c) 69, limitatamente alle attività commerciali ove sia prevista la vendita e l’esposizione di beni;
+d) 71 (uffici);
+e) 72, limitatamente agli edifici sottoposti a tutela ai sensi del decreto legislativo 22 gennaio 2004, n. 42,
+ aperti al pubblico, destinati a contenere musei, gallerie, esposizioni, mostre, biblioteche e archivi;
+f) 77, limitatamente agli edifici destinati a civile abitazione.
+ 6
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ DM 03/08/2015. Art. 5, comma 1 -bis. Alle attività per le quali vengono applicate le norme tecniche di cui all’art. 1, comma 1, non si applicano le seguenti:
+a) decreto del 30 novembre 1983 recante «Termini, definizioni generali e simboli grafici di prevenzione incendi e successive modificazioni»;
+b) decreto del 31 marzo 2003 recante «Requisiti di reazione al fuoco dei materiali costituenti le condotte di distribuzione e ripresa dell’aria degli impianti di condizionamento e ventilazione»;
+c) decreto del 3 novembre 2004 recante «disposizioni relative all’installazione ed alla manutenzione dei dispositivi per l’apertura delle porte installate lungo le vie di esodo, relativamente alla sicurezza in caso di
+ incendio»;
+d) decreto del 15 marzo 2005 recante «Requisiti di reazione al fuoco dei prodotti da costruzione installati in attività disciplinate da specifiche disposizioni tecniche di prevenzione incendi in base al sistema di
+ classificazione europeo»;
+e) decreto del 15 settembre 2005 recante «Approvazione della regola tecnica di prevenzione incendi per i vani degli impianti di sollevamento ubicati nelle attività soggette ai controlli di prevenzione incendi;
+f) decreto del 16 febbraio 2007, recante «Classificazione di resistenza al fuoco di prodotti ed elementi costruttivi di opere da costruzione»;
+g) decreto del 9 marzo 2007, recante «Prestazioni di resistenza al fuoco delle costruzioni nelle attività soggette al controllo del Corpo nazionale dei vigili del fuoco»;
+h) decreto del 20 dicembre 2012 recante «Regola tecnica di prevenzione incendi per gli impianti di protezione attiva contro l’incendio installati nelle attività soggette ai controlli di prevenzione incendi»;
+i) decreto del Ministro dell’interno 22 febbraio 2006 recante «Approvazione della regola tecnica di prevenzione incendi per la progettazione, la costruzione e esercizio di edifici e/o locali destinati ad uffici»;
+l) decreto del Ministro dell’interno 9 aprile 1994 recante «Approvazione della regola tecnica di prevenzione incendi per la costruzione e l’esercizio delle attività ricettive turistico-alberghiere»;
+m) decreto del Ministro dell’interno 6 ottobre 2003 recante «Approvazione della regola tecnica recante l’aggiornamento delle disposizioni di prevenzione incendi per le attività ricettive turistico-alberghiere esistenti di cui
+ al decreto 9 aprile 1994»;
+n) decreto del Ministro dell’interno 14 luglio 2015 recante «Disposizioni di prevenzione incendi per le attività ricettive turistico-alberghiere con numero di posti letto superiore a 25 e fino a 50»;
+o) decreto del Ministro dell’interno 1° febbraio 1986 recante «Norme di sicurezza antincendi per la costruzione e l’esercizio delle autorimesse e simili»;
+p) decreto del Ministro dell’interno 22 novembre 2002 recante «Disposizioni in materia di parcamento di autoveicoli alimentati a gas di petrolio liquefatto all’interno di autorimesse in relazione al sistema di sicurezza
+ dell’impianto;
+q) decreto del Ministro dell’interno 26 agosto 1992 recante «Norme di prevenzione incendi nell’edilizia scolastica e successive integrazioni»;
+r) decreto del Ministro dell’interno 27 luglio 2010 recante «Approvazione della regola tecnica di prevenzione incendi per la progettazione, costruzione ed esercizio delle attività commerciali con superficie superiore a 400
+ mq»;
+s) decreto del Ministro dell’interno 16 luglio 2014 recante “Regola tecnica di prevenzione incendi per la progettazione, costruzione ed esercizio degli asili nido”
+t) Regio decreto 7 novembre 1942, n. 1564, recante le “Norme per l’esecuzione, il collaudo e l’esercizio degli impianti tecnici degli edifici di interesse artistico e storico destinati a contenere musei, gallerie, collezioni e
+ oggetti di interesse storico culturale”;
+u) decreto del Ministro per i beni culturali e ambientali di concerto con il Ministro dell’interno 20 maggio 1992, n. 569, recante il “Regolamento concernente norme di sicurezza antincendio per gli edifici storici e artistici
+ destinati a musei, gallerie, esposizioni e mostre”;
+v) decreto del Presidente della Repubblica 30 giugno 1995, n. 418, recante il “Regolamento concernente norme di sicurezza antincendio per gli edifici di interesse storico-artistico destinati a biblioteche ed archivi.
+z) decreto del Ministro dell’interno 18 settembre 2002 recante «Approvazione della regola tecnica di prevenzione incendi per la progettazione, la costruzione e l’esercizio delle strutture sanitarie pubbliche e private».
+aa) decreto del Ministro dell’interno 16 maggio 1987, n. 246, recante “Norme di sicurezza antincendi per gli edifici di civile abitazione” e successive modificazioni
+bb) decreto del Ministro dell’interno 19 agosto 1996, recante “Approvazione della regola tecnica di prevenzione incendi per la progettazione, costruzione ed esercizio dei locali di intrattenimento e di pubblico spettacolo”
+ 7
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ D.M. 3 agosto 2015
+G.1.3 Prevenzione incendi
+....
+3. Regola tecnica di prevenzione incendi (o regola tecnica): disposizione regolamentare cogente in
+ materia di prevenzione incendi.
+4. Regola tecnica orizzontale (RTO): regola tecnica di prevenzione incendi applicabile a tutte le
+ attività.
+Nota Ai fini del presente documento è considerata regola tecnica orizzontale l’insieme dei capitoli
+ compresi nelle sezioni Generalità, Strategia antincendio e Metodi.
+5. Regola tecnica verticale (RTV): regola tecnica di prevenzione incendi applicabile ad una specifica
+ attività o ad ambiti di essa, con specifiche indicazioni, complementari o sostitutive di quelle
+ previste nella regola tecnica orizzontale.
+ 8
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ DM 7 agosto 2012
+ ALLEGATO I
+DOCUMENTAZIONE TECNICA ALLEGATA ALL’ISTANZA DI VALUTAZIONE DEI PROGETTI
+La documentazione tecnica di prevenzione incendi attiene alle caratteristiche di sicurezza antincendio delle attività soggette ai controlli di prevenzione incendi riportate nell’Allegato I del
+decreto del Presidente della Repubblica 1° agosto 2011, n. 151 e consente di accertare la loro rispondenza alle vigenti norme o, in mancanza, ai criteri generali di prevenzione incendi.
+In particolare comprende:
+- relazione tecnica;
+- elaborati grafici.
+A - DOCUMENTAZIONE RELATIVA AD ATTIVITÀ NON REGOLATE DA SPECIFICHE DISPOSIZIONI ANTINCENDIO
+A.1 RELAZIONE TECNICA
+A.1.1 Individuazione dei pericoli di incendio
+ RTO
+A.1.2 Descrizione delle condizioni ambientali
+……
+B - DOCUMENTAZIONE RELATIVA AD ATTIVITÁ REGOLATE DA SPECIFICHE DISPOSIZIONI ANTINCENDI
+B.1 RELAZIONE TECNICA
+La relazione tecnica può limitarsi a dimostrare l’osservanza delle specifiche disposizioni tecniche di prevenzione incendi.
+B.2 ELABORATI GRAFICI
+ Codice con RTV o metodo tradizionale
+Gli elaborati grafici comprendono i medesimi elementi richiesti al punto A.2.
+ 9
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+ 10
+DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Premessa
+Il Codice è strutturato in quattro sezioni.
+  Sezione G: Generalità - Contiene i principi fondamentali per la
+ progettazione della sicurezza antincendio applicabili
+ indistintamente a tutte le attività soggette
+È importante stare attenti nella modifica della  Sezione S: Strategia antincendio - Contiene le misure antincendio
+scelta progettuale di una misura, in quanto essa di prevenzione, protezione e gestionali applicabili a tutte le attività,
+potrebbe influire su un’altra essendo spesso fra per comporre la strategia antincendio al fine di mitigare il rischio
+ d’incendio
+loro collegate.
+  Sezione V: Regole tecniche verticali - Contiene le regole tecniche
+ verticali, che completano, integrano o sostituiscono le misure della
+ precedente sezione S per specifiche applicazioni tecniche o
+ determinate tipologie d’attività
+  Sezione M: Metodi - Contiene la descrizione di metodologie
+ progettuali quantitative per la progettazione di misure antincendio,
+ calibrate sulle particolari problematiche tecniche affrontate nella
+ determinata attività
+ NB. è considerata regola tecnica orizzontale l’insieme dei capitoli
+ compresi nelle sezioni Generalità, Strategia antincendio e Metodi
+ 11
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Sezioni
+• Sezione G: Generalità - Contiene i principi fondamentali per la
+ progettazione della sicurezza antincendio applicabili indistintamente a
+ tutte le attività soggette)
+ • G.1 - Termini, definizioni e simboli grafici
+ • G.2 - Progettazione per la sicurezza antincendio
+ • G.3 - Determinazione dei profili di rischio delle attività
+ 12
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+Sezione S: Strategia antincendio - Contiene le misure antincendio di prevenzione, protezione e gestionali applicabili a
+tutte le attività, per comporre la strategia antincendio al fine di mitigare il rischio d’incendio.
+• S.1 Reazione al fuoco • V.1 (se presenti aree a rischio specifico)
+• S.2 Resistenza al fuoco • V.2 (se presenti ATEX)
+• S.3 Compartimentazione • V.3 (se presenti ascensori)
+• S.4 Esodo • V.XX (se esiste attività specifica)
+• S.5 Gestione della sicurezza antincendio • V.12 (se in edificio vincolato)
+• S.6 Controllo dell’incendio • V.13 (chiusura d'ambito di edifici civili)
+• S.7 Rivelazione ed allarme
+ S.3.5.6 Superfici vulnerabili di chiusura esterna del compartimento
+• S.8 Controllo di fumi e calore 1. L’adozione di particolari tipi di superfici di chiusura verso l’esterno (es.
+• S.9 Operatività antincendio facciate continue, facciate ventilate, coperture, …) non deve costituire
+ pregiudizio per l’efficacia della compartimentazione di piano o di qualsiasi
+• S.10 Sicurezza degli impianti tecnologici e di altra compartimentazione orizzontale e verticale presente all’interno
+ servizio. dell’edificio.
+ 13
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+ Sezione V: Regole tecniche verticali - Contiene le regole tecniche verticali, che
+ completano, integrano o sostituiscono le misure della precedente sezione S per
+ specifiche applicazioni tecniche o determinate tipologie d’attività.
+ - V.1 - Aree a rischio specifico
+ - V.2 - Aree a rischio per atmosfere esplosive
+ - V.3 - Vani degli ascensori
+ - V.4 Uffici
+ - V.5 Attività ricettive turistico-alberghiere
+Ambiti o impianti che potrebbero essere presenti nella - V.6 Attività di autorimessa
+struttura e che devono essere trattati secondo quanto - V.7 Attività scolastiche
+riportato in tali capitoli
+ - V.8 Attività commerciali
+Attività per le quali esiste già una regola tecnica col
+ - V.9 Asili nido
+metodo tradizionale.
+ - V.10 Musei, gallerie, esposizioni, mostre, biblioteche e archivi
+Aspetto legato alla chiusura d’ambito che deve essere
+trattato con tale RTV negli edifici civili - V.11 Strutture sanitarie
+ - V.12 Altre attività in edifici tutelati
+Autorimesse
+ - V.13 Chiusure d’ambito degli edifici civili
+ - V.14 Edifici di civile abitazione
+ - V.15 Attività di intrattenimento e di spettacolo a carattere pubblico
+ 14
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+ V.x.y - Valutazione del rischio di incendio
+ Caratteristiche prevalenti Velocità caratteristica prevalente dell’incendio δα
+ 1 2 3 4
+ degli occupanti δocc
+ lenta media rapida ultra-rapida
+ Gli occupanti sono in stato di veglia ed
+ A A1 A2 A3 A4
+ hanno familiarità con l’edificio
+ Gli occupanti sono in stato di veglia e non Non Ammesso
+ 1. La progettazione della sicurezza antincendio deve essere B
+ hanno familiarità con l’edificio
+ B1 B2 B3 [1]
+ effettuata attuando la metodologia di cui al capitolo G.2. C
+ Gli occupanti possono essere
+ C1 C2 C3
+ Non Ammesso
+ addormentati: [2] [1]
+ • in attività individuale di lunga Non Ammesso
+ Ci Ci1 Ci2 Ci3 [1]
+ durata
+ G.2.6.1 Valutazione del rischio d’incendio per l’attività Cii • in attività gestita di lunga durata Cii1 Cii2 Cii3
+ Non Ammesso
+ [1]
+Il progettista impiega uno dei metodi di regola dell’arte per la valutazione del rischio
+ Non Ammesso
+d’incendio, in relazione alla complessità dell’attività trattata. Ciii • in attività gestita di breve durata Ciii1 Ciii2 Ciii3 [1]
+ Non Ammesso
+ D Gli occupanti ricevono cure mediche D1 D2 Non Ammesso
+ [1]
+ Non Ammesso
+ 2. I profili di rischio sono determinati secondo la E Occupanti in transito E1 E2 E3
+ [1]
+ metodologia di cui al capitolo G.3. [1] Per raggiungere un valore ammesso, δα può essere ridotto di un livello come specificato nel comma 3 del pa-
+ ragrafo G.3.2.1.
+ [2] Quando nel presente documento si usa il valore C1 la relativa indicazione è valida per Ci1, Cii1 e Ciii1. Se si
+ usa C2 l’indicazione è valida per Ci2, Cii2 e Ciii2. Se si usa C3 l’indicazione è valida per Ci3, Cii3 e Ciii3..
+ Tabella G.3-3: Determinazione di Rvita
+ NB Tutte le RTV specifiche di attività prevedono l'applicazione della RTO e, quindi, della determinazione dei profili di rischio
+ 15
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+ V.x.y - Valutazione del rischio di incendio
+ Tipologie di attività Rvita
+ Palestra scolastica A1
+ Autorimessa privata A2
+ Ufficio non aperto al pubblico, sala mensa, aula scolastica, sala riunioni aziendale, archivio, deposito librario, centro sportivo A2-A3
+ privato
+ Attività commerciale non aperta al pubblico (es. all’ingrosso, …) A2-A4
+ Laboratorio scolastico, sala server A3
+ Attività produttive, attività artigianali, impianti di processo, laboratorio di ricerca, magazzino, officina meccanica A1-A4
+ G.3.2.2 Profili di rischio Rvita per alcune tipologie di
+destinazione d’uso Depositi sostanze o miscele pericolose A4
+In tabella G.3-4 si riporta un’indicazione, non esaustiva, sul Galleria d’arte, sala d’attesa, ristorante, studio medico, ambulatorio medico B1-B2
+profilo di rischio Rvita per le tipologie di destinazione d’uso Autorimessa pubblica B2
+(occupancy) più comuni. Qualora il progettista scelga valori Ufficio aperto al pubblico, centro sportivo pubblico, sala conferenze aperta al pubblico, discoteca, museo, teatro, cinema, locale di B2-B3
+diversi da quelli proposti, è tenuto a indicare le motiva- trattenimento, area lettura di biblioteca, attività espositiva, autosalone
+zioni della scelta nei documenti progettuali.
+ Attività commerciale aperta al pubblico (es. al dettaglio, …) B2-B4 [1]
+ Civile abitazione Ci2-Ci3
+ Dormitorio, residence, studentato, residenza per persone autosufficienti Cii2-Cii3
+ Camera d’albergo Ciii2-Ciii3
+ Degenza ospedaliera, terapia intensiva, sala operatoria, residenza per persone non autosufficienti e con assistenza sanitaria D2
+ Stazione ferroviaria, aeroporto, stazione metropolitana E2
+ [1] Per raggiungere un valore ammesso fra quelli indicati alla tabella G.3-3, δα può essere ridotto di un livello come specificato nel comma 3 del
+ paragrafo G.3.2.1.
+ Tabella G.3-4: Profilo di rischio Rvita per alcune tipologie di destinazione d’uso
+ 16
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+ G.2.6.1 Valutazione del rischio d’incendio per l’attività
+1. Il progettista impiega uno dei metodi di regola dell’arte per la valutazione del rischio d’incendio, in relazione alla complessità dell’attività trattata.
+Nota La valutazione del rischio d’incendio rappresenta un’analisi della specifica attività, finalizzata all’individuazione delle più severe ma credibili ipotesi d’incendio e delle corrispondenti
+ conseguenze per gli occupanti, i beni e l’ambiente. Tale analisi consente al progettista di implementare e, se necessario, integrare le soluzioni progettuali previste nel presente
+ documento.
+2. In ogni caso la valutazione del rischio d’incendio deve ricomprendere almeno i seguenti argomenti:
+ a. individuazione dei pericoli d’incendio;
+Nota Ad esempio, si valutano: sorgenti d’innesco, materiali combustibili o infiammabili, carico incendio, interazione inneschi-combustibili, eventuali quantitativi rilevanti di miscele o sostanze
+ pericolose, lavorazioni pericolose ai fini dell’incendio o dell’esplosione, possibile formazione di atmosfere esplosive, …
+ b. descrizione del contesto e dell’ambiente nei quali i pericoli sono inseriti;
+Nota Si indicano ad esempio: condizioni di accessibilità e viabilità, layout aziendale, distanziamenti, separazioni, isolamento, caratteristiche degli edifici, tipologia edilizia, complessità
+ geometrica, volumetria, superfici, altezza, piani interrati, articolazione plano-volumetrica, compartimentazione, aerazione, ventilazione e superfici utili allo smaltimento di fumi e di
+ calore, …
+ c. determinazione di quantità e tipologia degli occupanti esposti al rischio d’incendio;
+ d. individuazione dei beni esposti al rischio d’incendio;
+ e. valutazione qualitativa o quantitativa delle conseguenze dell’incendio su occupanti, beni ed ambiente;
+ f. individuazione delle misure preventive che possano rimuovere o ridurre i pericoli che determinano rischi significativi.
+3. Qualora siano disponibili pertinenti regole tecniche verticali, la valutazione del rischio d’incendio da parte del progettista è limitata agli aspetti peculiari della specifica attività trattata.
+4. Negli ambiti delle attività in cui sono presenti sostanze infiammabili allo stato di gas, vapori, nebbie o polveri combustibili, la valutazione del rischio d’incendio deve includere anche la
+ valutazione del rischio per atmosfere esplosive (capitolo V.2).
+ 17
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+ G.2.9 Valutazione del progetto antincendio
+1. Ai fini della valutazione del progetto da parte del Corpo nazionale dei Vigili del fuoco,
+ secondo le procedure previste dalla vigente normativa, il progettista deve garantire tramite
+ la documentazione progettuale:
+ a. l’appropriatezza degli obiettivi di sicurezza antincendio perseguiti, delle ipotesi di
+ base, dei dati d’ingresso, dei metodi, dei modelli, degli strumenti normativi selezionati
+ ed impiegati a supporto della progettazione antincendio;
+ Nota Ad esempio: appropriata applicazione delle soluzioni conformi, …
+ b. la corrispondenza delle misure di prevenzione incendi agli obiettivi di sicurezza
+ perseguiti secondo le indicazioni del presente documento;
+ Nota Ad esempio: previsione di adeguato sistema di vie d’esodo per soddisfare l’obiettivo di
+ sicurezza della vita umana, …
+ c. la correttezza nell’applicazione di metodi, modelli e strumenti normativi.
+ Nota Ad esempio: assenza di grossolani errori di calcolo, corrispondenza tra i risultati
+ numerici dei calcoli e le effettive misure antincendio, …
+2. Il progettista assume piena responsabilità in merito alla valutazione del rischio d’incendio
+ riportata nella documentazione progettuale relativa all’attività.
+ 18
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+ Nota 06/11/2020, n. 14809
+.....
+«Il compito assegnato al funzionario istruttore è quindi quello di verificare la "corrispondenza delle misure di prevenzione incendi"
+adottate dal progettista, focalizzando l'attenzione sull’"appropriatezza degli obiettivi di sicurezza antincendio perseguiti, delle ipotesi di
+base, dei dati d'ingresso" che devono essere necessariamente approfonditi e puntualmente verificati. Rispetto a "scenari, metodi,
+modelli e strumenti normativi" è necessario, inoltre, accertare sia «l'appropriatezza" che "la correttezza nell'applicazione" delle
+soluzioni progettuali proposte, in particolare laddove i livelli di prestazione relativi alle singole misure antincendio siano conseguiti
+attraverso soluzioni alternative, con le modalità indicate dalla tabella G.2.1.
+Da quanto sopra riportato, risulta evidente il diverso approccio rispetto al passato, e quindi anche la diversa forma che devono
+assumere gli atti conclusivi dei procedimenti di valutazione del progetto, secondo quanto disposto dal punto G.2.9. Infatti, i pareri
+espressi dal Comando devono dare evidenza della completezza e dell'adeguatezza del progetto, senza impartire prescrizioni,
+fornendo eventualmente indicazioni correttive per il superamento delle non conformità rilevate rispetto a quanto richiesto dal
+predetto punto G.2.9, tenendo conto che la valutazione del rischio di incendio riportata nella documentazione progettuale relativa
+all’attività rimane nella piena responsabilità del progettista.»
+.....
+ 19
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+ G.1.14 Protezione attiva
+12. Specifica d’impianto: documento di sintesi dei dati tecnici che descrivono le prestazioni dell’impianto di
+ protezione attiva contro l’incendio, le sue caratteristiche dimensionali (es. portate specifiche, pressioni
+ operative, caratteristiche e durata dell’alimentazione dell’agente estinguente, estensione dettagliata
+ dell’impianto, …) e le caratteristiche dei componenti da impiegare nella sua realizzazione (es. tubazioni,
+ erogatori, sensori, riserve di agente estinguente, aperture di evacuazione, aperture di afflusso, …). La
+ specifica comprende il richiamo della norma di progettazione che si intende applicare, la classificazione del
+ livello di pericolosità, ove previsto, lo schema a blocchi e gli schemi funzionali dell’impianto che si intende
+ realizzare, nonché l’attestazione dell’idoneità in relazione al pericolo di incendio presente nell’attività.
+ 20
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+ Le RTV prevedono, oltre ai profili di rischio, anche delle classificazioni specifiche dell’attività.
+ Uffici Attività ricettive Autorimesse
+ V.4.2 Classificazioni V.5.2 Classificazioni V.6.3 Classificazioni
+ 1. Ai fini della presente regola tecnica verticale, 1. Ai fini della presente regola tecnica, 1. Ai fini della presente regola tecnica, le autorimesse sono classificate
+ gli uffici sono classificati come segue: le attività ricettive sono classificate come segue: come segue:
+ a. in relazione al numero degli occupanti n: a. in relazione al numero dei posti letto p: a. in relazione alle caratteristiche prevalenti degli occupanti:
+ OA: 300 < n ≤ 500; PA: 25 < p ≤ 50; SA: δocc = A;
+ OB: 500 < n ≤ 800; PB: 50 < P ≤ 100; SB: δocc = B;
+ OC: n > 800. PC: 100 < P ≤ 500; SC: autosilo.
+ b. in relazione alla massima quota dei piani h: PD: 500 < P ≤ 1000; b. in relazione alla superficie lorda A:
+ HA: h ≤ 12 m; PE: p > 1000. AA: 300 m2 < A ≤ 1000 m2;
+ HB: 12 m < h ≤ 24 m; b. in relazione alla massima quota dei piani h: AB: 1000 m2 < A ≤ 5000 m2;
+ HC: 24 m < h ≤ 32 m; HA: h ≤ 12 m; AC: 5000 m2 < A ≤ 10000 m2;
+ HD: 32 m < h ≤ 54 m; HB: 12 m < h ≤ 24m; AD: A > 10000 m2;
+ HE: h > 54 m. HC: 24 m < h ≤ 32m; c. in relazione alla quota di tutti i piani h:
+ HD: 32 m < h ≤ 54m; HA: - 1 m ≤ h ≤ 6 m;
+ HE: h > 54m HB: - 5 m ≤ h ≤ 12 m;
+ HC: - 10 m ≤ h ≤ 24 m;
+ HD: tutti i casi non rientranti nelle classificazioni precedenti.
+Le aree dell’attività sono classificate come segue:
+TA: locali destinali agli uffici e a spazi comuni; TA: aree destinate al ricovero, alla sosta ed alla
+TM: depositi o archivi di superficie lorda > 25 m2 e carico di incendio specifico qf > 600 MJ/m2; manovra di veicoli;
+TO: locali con affollamento > 100 persone;
+TK: locali con carico di incendio specifico qf > 1200 MJ/m2;
+TT: locali in cui siano presenti quantità significative di apparecchiature elettriche ed elettroniche, locali tecnici
+rilevanti ai fini della sicurezza antincendio;
+TZ: altre aree.
+ 21
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+ OA, OB, …
+ Rvita Rbeni Rambiente HA, HB, …
+ PA, B, …
+ SA, SB, …
+ TA: locali destinali agli uffici e a spazi comuni;
+ TM: depositi o archivi di superficie lorda > 25 m2 e carico di incendio specifico qf > 600 MJ/m2;
+ G.3.1 Definizione dei profili di rischio G.3.1 Definizione dei profili di rischio TO: locali con affollamento > 100 persone;
+ TK: locali con carico di incendio specifico qf > 1200 MJ/m2;
+ …….. ………..
+ TT: locali in cui siano presenti quantità significative di apparecchiature elettriche ed
+2. Il profilo di rischio Rvita è attribuito per 3. Il profilo di rischio Rbeni è attribuito elettroniche, locali tecnici rilevanti ai fini della sicurezza antincendio;
+ ciascun compartimento e, ove necessario, all’intera attività o ad ambiti di essa,
+ TZ: altre aree.
+ per ciascuno spazio a cielo libero come indicato nel paragrafo G.3.3.
+ dell’attività, come indicato nel paragrafo 4. Il profilo di rischio Rambiente è attribuito
+ G.3.2. all’intera attività o ad ambiti di essa,
+ Nota Ad esempio, l’attribuzione del profilo di come indicato nel paragrafo G.3.4.
+ rischio Rvita negli spazi a cielo libero è
+ necessaria per la progettazione Le RTV classificano gli occupanti, la struttura, le aree o i locali o gli ambiti, … in relazione a
+ dell’esodo delle attività all’aperto. determinate caratteristiche indicate nella stessa RTV.
+ Sono utilizzate per determinare le strategie antincendio, S.1, S.2, …, con la RTO, nel Sono utilizzate per determinare le strategie antincendio, S.1, S.2, …, con la RTV, a specifiche
+compartimento. attività, compartimenti o ad ambiti di essa.
+ Determinazione strategia finale
+ 22
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Capitolo V.4: Uffici Schema RTV
+Campo di applicazione Importante anche per quanto indicato dal comma 3 dell'art. 3 del DM 03/09/2021
+Classificazioni Parametri per determinare le misure antincendio nella RTV
+Valutazione del rischio di incendio Obbligatoria anche se attività con RTV
+Strategia antincendio
+ Reazione al fuoco Misura da confrontare con quella determinata con la RTO per la determinazione definitiva
+ Resistenza al fuoco Misura da confrontare con quella determinata con la RTO per la determinazione definitiva
+ Compartimentazione Misura da confrontare con quella determinata con la RTO per la determinazione definitiva
+ S.4 - Esodo
+ Gestione della sicurezza antincendio Misura da confrontare con quella determinata con la RTO per la determinazione definitiva
+ Controllo dell’incendio Misura da confrontare con quella determinata con la RTO per la determinazione definitiva
+ Rivelazione ed allarme Misura da confrontare con quella determinata con la RTO per la determinazione definitiva
+ S.8 - Controllo di fumi e calore
+ S.9 - Operatività antincendio
+ Sicurezza degli impianti tecnologici e di servizio Misura da confrontare con quella determinata con la RTO per la determinazione definitiva
+ In assenza di RTV si applicano le RTO senza apportare modifiche
+ 23
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Capitolo V.4: Uffici Schema RTV
+ V.4.1 Campo di applicazione
+1. La presente regola tecnica verticale reca disposizioni di prevenzione incendi riguardanti attività di ufficio con oltre 300 occupanti.
+ Nota Include le aree destinate ad attività non strettamente riconducibili all’ufficio stesso, ma in ogni caso funzionali e compatibili con tale destinazione d’uso
+ quali ad esempio: pubblici esercizi per la somministrazione di alimenti e bevande, agenzie di servizi, aree commerciali di modeste superfici con
+ quantitativi di materiali combustibili non significativi, …
+ V.4.2 Classificazioni
+1. Ai fini della presente regola tecnica verticale, gli uffici sono classificati come segue:
+ a. in relazione al numero degli occupanti n:
+ OA: 300 < n ≤ 500;
+ Classificazione in base agli occupanti
+ OB: 500 < n ≤ 800;
+ OC: n > 800.
+ b. in relazione alla massima quota dei piani h:
+ HA: h ≤ 12m;
+ HB: 12 m < h ≤ 24 m; Classificazione in base alle quote piani
+ HC: 24 m < h ≤ 32 m;
+ HD: 32 m < h ≤ 54 m;
+ HE: h > 54 m.
+2. Le aree dell’attività sono classificate come segue:
+ TA: locali destinali agli uffici e a spazi comuni;
+ TM: depositi o archivi di superficie lorda > 25 m2 e carico di incendio specifico qf > 600 MJ/m2;
+ TO: locali con affollamento > 100 persone;
+ Nota Ad esempio: sale conferenza, sala riunione, mense …
+ TK: locali con carico di incendio specifico qf > 1200 MJ/m2; Classificazione in base alle caratteristiche delle aree/locali
+ TT: locali in cui siano presenti quantità significative di apparecchiature elettriche ed
+ elettroniche, locali tecnici rilevanti ai fini della sicurezza antincendio;
+ Nota Ad esempio: centri elaborazione dati, stamperie, cabine elettriche, …
+ TZ: altre aree.
+3. Sono considerate aree a rischio specifico (Capitalo V.1) almeno le seguenti aree: aree TK.
+ 24
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+ V.4.4.2 Resistenza al fuoco
+1. La classe di resistenza al fuoco dei compartimenti (Capitolo S.2) non può essere inferiore a quanto previsto in tabella V.4-1.
+2. Qualora l’attività occupi un unico piano a quota ≥ -1 m e < 1 m, in opera da costruzione destinata esclusivamente a tale attività e compartimentata rispetto ad altre
+ opere da costruzione, e tutte le aree TA e TO dispongano di vie d’esodo che non attraversino altre aree è ammessa la classe 15 di resistenza al fuoco (capitolo S.2).
+ Attività
+ Compartimenti
+ HA HB HC HD HE
+ Fuori terra 30 60 90
+ Interrati 60 90
+ Tabella V.4-1: Classe di resistenza al fuoco
+ 25
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+ V.4.4.3 Compartimentazione
+ 1. Le aree di tipo TA, TO devono essere ubicate a quota di piano ≥ -5 m.
+ 2. Le aree di tipo TA e TO con controllo dell’incendio (capitolo S.6) di livello di prestazione IV e con vie di esodo verticali protette possono essere ubicate a quote ≥ - 10 m.
+ 3. Le aree dell’attività devono avere le caratteristiche di compartimentazione (Capitolo S.3) previste in tabella V.4-2.
+ 4. Gli uffici afferenti a responsabili dell’attività diversi possono essere ubicati all’interno dello stesso compartimento, avere comunicazioni dirette (capitolo S.3) e sistema di esodo
+ comune.
+ Quota del compartimento
+ Rvita
+ < -15 m < -10 m < -5 m < -1 m ≤ 12 m ≤ 24 m ≤ 32 m ≤ 54 m > 54 m
+ Attività A1 2000 4000 8000 16000 [1] 32000 16000 8000 4000
+ Area A2 1000 2000 4000 8000 64000 16000 8000 4000 2000
+ HA HB HC HD HE A3 [na] 1000 2000 4000 32000 4000 2000 1000 [na]
+ A4 [na] [na] [na] [na] 16000 [na] [na] [na] [na]
+ TA Nessun requisito aggiuntivo
+ B1 [na] 2000 8000 16000 64000 16000 8000 4000 2000
+ TM, TO, TT Di tipo protetto B2 [na] 1000 4000 8000 32000 8000 4000 2000 1000
+ B3 [na] [na] 1000 2000 16000 4000 2000 1000 [na]
+ Il resto dell’attività deve essere Cii1, Ciii1 [na] [na] [na] 2000 16000 8000 8000 8000 4000
+ TK Di tipo protetto [1] a prova di fumo proveniente Cii2, Ciii2 [na] [na] [na] 1000 8000 4000 4000 2000 2000
+ Cii3, Ciii3 [na] [na] [na] [na] 4000 2000 2000 1000 1000
+ dall’area TK D1 [na] [na] [na] 1000 2000 2000 1000 1000 1000
+ TZ Secondo risultanze dell’analisi del rischio D2 [na] [na] [na] 1000 2000 1000 1000 1000 [na]
+ E1 2000 4000 8000 16000 [1] 32000 16000 8000 4000
+ E2 1000 2000 4000 8000 [1] 16000 8000 4000 2000
+[1] Di tipo protetto se ubicate a quota ≥ -5 m; in caso l’area TK sia ubicata a quota E3 [na] [na] 2000 4000 16000 4000 2000 [na] [na]
+< -5 m, il resto dell’attività deve essere a prova di fumo proveniente dall’area TK. La massima superficie lorda è ridotta del 50%. per i compartimenti con Rambiente significativo.
+ [na] Non ammesso
+ Tabella V.4-2: Compartimentazione [1] Senza limite
+ Tabella S.3-6: Massima superficie lorda dei compartimenti in m2
+ 26
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+ V.4.4.6 Rivelazione ed allarme
+ 1. L’attività deve essere dotata di misure di rivelazione ed allarme (Capitolo S.7) secondo i livelli di prestazione di cui alla tabella V.4-6.
+ 2. Per il livello di prestazione IV deve essere previsto il sistema EVAC esteso almeno alle aree TA e TO.
+ A, Rivelazione automatica dell’incendio
+ B, Funzione di controllo e segnalazione
+ D, Funzione di segnalazione manuale
+ L, Funzione di alimentazione
+ C, Funzione di allarme incendio
+ Attività Tabella S.7-5: Funzioni principali degli IRAI secondo EN 54-1 e UNI 9795
+ Attività
+ HA HB HC HD HE
+ E, Funzione di trasmissione dell’allarme incendio
+ OA II [1] II [1] [2] III [2] IV
+ OB II [1] [2] III [2] IV F, Funzione di ricezione dell’allarme incendio
+ OC III [2] IV G, Funzione di comando del sistema o attrezzatura di protezione
+ contro l’incendio
+[1] Se presenti, le aree TM, TK, TT devono essere sorvegliate da rivelazione automatica
+ H, Sistema o impianto automatico di protezione contro l’incendio
+d’incendio (funzione A, capitolo S.7).
+[2] incremento di un livello di prestazione per attività aperte al pubblico. J, Funzione di trasmissione dei segnali di guasto
+Tabella V.4-6: Livelli di prestazione per rivelazione ed allarme K, Funzione di ricezione dei segnali di guasto
+ M, Funzione di controllo e segnalazione degli allarmi vocali
+ N, Funzione di ingresso e uscita ausiliaria
+ O, Funzione di gestione ausiliaria (building management)
+ Tabella S.7-6: Funzioni secondarie degli IRAI secondo EN 54-1 e UNI 9795
+ 27
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema RTV
+ Funzioni minime degli IRAI Funzioni di
+ Livello di Aree evacuazione Funzioni di
+ prestazione sorvegliate Funzioni principali Funzioni secondarie ed Impianti [1]
+ allarme
+ I - [2] [3] [4]
+ II - B, D, L, C - [9] [4]
+ III [12] A, B, D, L, C E, F [5], G, H, N [6] [9] [4] o [11]
+ E, F [5],
+ IV Tutte A, B, D, L, C [9] o [10] [11]
+ G, H, M [7], N, O [8]
+ [1] Funzioni di avvio protezione attiva ed arresto o controllo di altri impianti o sistemi.
+ [2] Non sono previste funzioni, la rivelazione e l’allarme sono demandate agli occupanti.
+ [3] L’allarme è trasmesso tramite segnali convenzionali codificati nelle procedure di emergenza (es. a voce, suono di campana, accensione di segnali
+ luminosi, …) comunque percepibili da parte degli occupanti.
+ [4] Demandate a procedure operative nella pianificazione d’emergenza.
+ [5] Funzioni E ed F previste solo quando è necessario trasmettere e ricevere l’allarme incendio.
+ [6] Funzioni G, H ed N non previste ove l’avvio dei sistemi di protezione attiva e controllo o arresto altri impianti sia demandato a procedure operative nella
+ pianificazione d’emergenza.
+ [7] Funzione M prevista solo se richiesta l’installazione di un EVAC.
+ [8] Funzione O prevista solo in attività dove si prevedono applicazioni domotiche (building automation).
+ [9] Con dispositivi di diffusione visuale e sonora o altri dispositivi adeguati alle capacità percettive degli occupanti ed alle condizioni ambientali (es.
+ segnalazione di allarme ottica, a vibrazione, …).
+ [10] Per elevati affollamenti, geometrie complesse, può essere previsto un sistema EVAC secondo norma UNI ISO 7240-19.
+ [11] Automatiche su comando della centrale o mediante centrali autonome di azionamento (asservite alla centrale master), richiede le funzioni secondarie
+ E, F, G, H ed N della EN 54-1.
+ [12] Spazi comuni, percorsi d’esodo (anche facenti parte di sistema d’esodo comune) e spazi limitrofi, compartimenti con profili di rischio Rvita in Cii1, Cii2,
+ Cii3, Ciii1, Ciii2, Ciii3, D1 e D2, aree dei beni da proteggere, aree a rischio specifico.
+Tabella S.7-3: Soluzioni conformi per rivelazione ed allarme incendio 28
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+Schema Regola tecnica "tradizionale"
+ 57
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ DM 03/08/2015. Art. 5, comma 1 -bis. Alle attività per le quali vengono applicate le norme tecniche di cui all’art. 1, comma 1, non si applicano le seguenti:
+a) decreto del 30 novembre 1983 recante «Termini, definizioni generali e simboli grafici di prevenzione incendi e successive modificazioni»;
+b) decreto del 31 marzo 2003 recante «Requisiti di reazione al fuoco dei materiali costituenti le condotte di distribuzione e ripresa dell’aria degli impianti di condizionamento e ventilazione»;
+c) decreto del 3 novembre 2004 recante «disposizioni relative all’installazione ed alla manutenzione dei dispositivi per l’apertura delle porte installate lungo le vie di esodo, relativamente alla sicurezza in caso di
+ incendio»;
+d) decreto del 15 marzo 2005 recante «Requisiti di reazione al fuoco dei prodotti da costruzione installati in attività disciplinate da specifiche disposizioni tecniche di prevenzione incendi in base al sistema di
+ classificazione europeo»;
+e) decreto del 15 settembre 2005 recante «Approvazione della regola tecnica di prevenzione incendi per i vani degli impianti di sollevamento ubicati nelle attività soggette ai controlli di prevenzione incendi;
+f) decreto del 16 febbraio 2007, recante «Classificazione di resistenza al fuoco di prodotti ed elementi costruttivi di opere da costruzione»;
+g) decreto del 9 marzo 2007, recante «Prestazioni di resistenza al fuoco delle costruzioni nelle attività soggette al controllo del Corpo nazionale dei vigili del fuoco»;
+h) decreto del 20 dicembre 2012 recante «Regola tecnica di prevenzione incendi per gli impianti di protezione attiva contro l’incendio installati nelle attività soggette ai controlli di prevenzione incendi»;
+i) decreto del Ministro dell’interno 22 febbraio 2006 recante «Approvazione della regola tecnica di prevenzione incendi per la progettazione, la costruzione e esercizio di edifici e/o locali destinati ad uffici»;
+l) decreto del Ministro dell’interno 9 aprile 1994 recante «Approvazione della regola tecnica di prevenzione incendi per la costruzione e l’esercizio delle attività ricettive turistico-alberghiere»;
+m) decreto del Ministro dell’interno 6 ottobre 2003 recante «Approvazione della regola tecnica recante l’aggiornamento delle disposizioni di prevenzione incendi per le attività ricettive turistico-alberghiere esistenti di cui
+ al decreto 9 aprile 1994»;
+n) decreto del Ministro dell’interno 14 luglio 2015 recante «Disposizioni di prevenzione incendi per le attività ricettive turistico-alberghiere con numero di posti letto superiore a 25 e fino a 50»;
+o) decreto del Ministro dell’interno 1° febbraio 1986 recante «Norme di sicurezza antincendi per la costruzione e l’esercizio delle autorimesse e simili»;
+p) decreto del Ministro dell’interno 22 novembre 2002 recante «Disposizioni in materia di parcamento di autoveicoli alimentati a gas di petrolio liquefatto all’interno di autorimesse in relazione al sistema di sicurezza
+ dell’impianto;
+q) decreto del Ministro dell’interno 26 agosto 1992 recante «Norme di prevenzione incendi nell’edilizia scolastica e successive integrazioni»;
+r) decreto del Ministro dell’interno 27 luglio 2010 recante «Approvazione della regola tecnica di prevenzione incendi per la progettazione, costruzione ed esercizio delle attività commerciali con superficie superiore a 400
+ mq»;
+s) decreto del Ministro dell’interno 16 luglio 2014 recante “Regola tecnica di prevenzione incendi per la progettazione, costruzione ed esercizio degli asili nido”
+t) Regio decreto 7 novembre 1942, n. 1564, recante le “Norme per l’esecuzione, il collaudo e l’esercizio degli impianti tecnici degli edifici di interesse artistico e storico destinati a contenere musei, gallerie, collezioni e
+ oggetti di interesse storico culturale”;
+u) decreto del Ministro per i beni culturali e ambientali di concerto con il Ministro dell’interno 20 maggio 1992, n. 569, recante il “Regolamento concernente norme di sicurezza antincendio per gli edifici storici e artistici
+ destinati a musei, gallerie, esposizioni e mostre”;
+v) decreto del Presidente della Repubblica 30 giugno 1995, n. 418, recante il “Regolamento concernente norme di sicurezza antincendio per gli edifici di interesse storico-artistico destinati a biblioteche ed archivi.
+z) decreto del Ministro dell’interno 18 settembre 2002 recante «Approvazione della regola tecnica di prevenzione incendi per la progettazione, la costruzione e l’esercizio delle strutture sanitarie pubbliche e private».
+aa) decreto del Ministro dell’interno 16 maggio 1987, n. 246, recante “Norme di sicurezza antincendi per gli edifici di civile abitazione” e successive modificazioni
+bb) decreto del Ministro dell’interno 19 agosto 1996, recante “Approvazione della regola tecnica di prevenzione incendi per la progettazione, costruzione ed esercizio dei locali di intrattenimento e di pubblico spettacolo”
+ 58
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Metodo tradizionale
+ Regole tecniche specifiche per "Impianti"
+ Regole tecniche specifiche per "Edifici"
+- DM 31/07/1934 (Deposito oli minerali)
+ - DM 26/08/1992 (Scuole)
+- C. 10/02/1969, n. 10 (Distributori carburanti)
+ - DM 09/04/1994 (Alberghi)
+- DM 18/05/1995 (Soluzioni idroalcoliche)
+ - DM 19/08/1996 (Pubblico Spettacolo)
+- DM 14/05/2004 (Depositi gpl in serbatoi fissi)
+ - DM 18/09/2002 (Strutture sanitarie)
+- C. 20/09/1956, n. 74 (Depositi gpl in bombole)
+ - DM 22/02/2006 (Uffici)
+- C. 15/10/1964, n. 99 (Depositi di ossigeno liquido in
+ - DM 27/07/2010 (Attività commerciali)
+ serbatoi fissi)
+ - ...
+- DM 08/11/2019 (CT alimentate a combustibili gassosi)
+- DM 28/04/2005 (CT alimentate a combustibili liquidi)
+- DM 03/02/2006 (Depositi gas naturale e biogas)
+- ……
+ 59
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Metodo tradizionale
+ Regole tecniche "complementari"
+ Regole tecniche specifiche per "Edifici"
+ - DM 30/11/1983 (Termini e definizioni)
+- DM 26/08/1992 (Scuole) - DM 09/03/2007 e DM 16/02/2007(Resistenza al fuoco)
+- DM 09/04/1994 (Alberghi) - DM 15/03/2005 (Reazione al fuoco)
+- DM 19/08/1996 (Pubblico Spettacolo) - DM 15/09/2005 (Ascensori)
+- DM 18/09/2002 (Strutture sanitarie) - DM 31/03/2002 (Condotte impianti condizionamento)
+- DM 22/02/2006 (Uffici) - DM 20/12/2012 (Impianti protezione attiva antincendi)
+- DM 27/07/2010 (Attività commerciali) - L.C. 15/04/13, n° 5043 (Facciate edifici civili)
+- ... - NOTA 07/02/2012, n. 1324 (Impianti fotovoltaici)
+ - ...
+NB Diverse norme di "impianti" richiedono caratteristiche che rimandano ad altre norme (p.e. la resistenza al fuoco richiesta dalle CT.
+ 60
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ DM 22 febbraio 2006 - Uffici (28 chiarimenti)
+ Art. 1. - Oggetto e campo di applicazione Importante anche per quanto indicato dal comma 3 dell'art. 3 del DM 03/09/2021
+ Art. 2. - Obiettivi ≈ Rvita, Rbeni
+ Art. 3. - Disposizioni tecniche Approvazione regola tecnica allegata al decreto
+ Art. 4. - Commercializzazione CE Prodotti provenienti da UE o dalla Turchia, o da EFTA firmatari dell’accordo SEE
+ Art. 5. - Disposizioni complementari e finali Casi particolari per deroga, entrata in vigore
+ Allegato
+NB i riferimenti ai decreti precedenti , p.e. DM 04/05/1998, sono da intendere al corrispondente in vigore (DM 07/08/2012)
+ 61
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ Titolo I - Generalità
+ 9. Servizi tecnologici
+1. Termini, definizioni e tolleranze dimensionali 9.1. Impianti di produzione di calore
+2. Classificazione 9.2. Impianti di condizionamento e ventilazione
+ 9.3. Impianti elettrici
+ Titolo II - Uffici di nuova costruzione con oltre 10. Mezzi ed impianti di estinzione degli incendi
+ cinquecento presenze 10.1. Estintori
+3. Ubicazione 10.2. Impianti di estinzione incendi
+ 3.1. Generalità. 11. Impianti di rivelazione, segnalazione e allarme
+ 3.2. Accesso all’area 11.1. Generalità
+4. Separazioni - Comunicazioni 11.2. Caratteristiche
+5. Caratteristiche costruttive 12. Sistema di allarme
+ 5.1. Resistenza al fuoco 13. Segnaletica di sicurezza
+ 5.2. Reazione al fuoco 14. Organizzazione e gestione della sicurezza antincendio
+ 5.3. Compartimentazione
+6. Misure per l’evacuazione in caso di emergenza
+ 6.1. Affollamento
+ 6.2. Capacità di deflusso Titolo III - Uffici di nuova costruzione fino a cinquecento
+ 6.3. Sistema di vie di uscita presenze
+ 6.4. Numero delle uscite 15. Uffici di tipo 1
+ 6.5. Larghezza delle vie di uscita 16. Uffici di tipo 2
+ 6.6. Lunghezza delle vie di uscita 17. Uffici di tipo 3
+ 6.7. Porte
+ 6.8. Scale
+ 6.9. Impianti di sollevamento - scale mobili Titolo IV - Uffici esistenti soggetti ai controlli di
+ 6.10. Ascensori antincendio e di soccorso prevenzione incendi
+7. Aerazione
+8. Attività accessorie 1. Devono essere rispettati i seguenti punti del titolo II della Non c'è la possibilità della misura
+ 8.1. Locali per riunioni e trattenimenti presente regola tecnica:1 alternativa ma solo della deroga
+ 8.2. Locali per servizi logistici …….
+ 8.3. Archivi e depositi
+ 8.4. Autorimesse 62
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ Titolo I - Generalità
+ Viene richiamato il DM 30/11/1983 e indicate le
+ definizioni che valgono solo per il decreto specifico. Anche
+1. Termini, definizioni e tolleranze dimensionali se il termine può essere lo stesso del codice le
+ caratteristiche sono spesso diverse (luogo sicuro, spazio
+ calmo, altezza antincendio,…).
+ Definizione codice da DM 22/2/2006
+ Sono riportate le classi di uffici in relazione al n. di persone presenti per la determinazione
+2. Classificazione delle misure di sicurezza
+ 1. In relazione al numero di presenze, gli uffici sono suddivisi nelle seguenti tipologie:
+ tipo 1: da 26 fino a 100 presenze;
+ tipo 2: da 101 fino a 300 presenze;
+ tipo 3: da 301 fino a 500 presenze;
+ tipo 4: da 501 fino a 1000 presenze;
+ tipo 5: con oltre 1000 presenze.
+ 63
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ Titolo II - Uffici di nuova costruzione con
+ oltre cinquecento presenze
+ 3. Ubicazione
+ Sono riportate le possibili ubicazioni/posizioni rispetto
+ 3.1. Generalità. ad attività diverse (distanze di sicurezza, edifici isolati,
+ misti, quota dei piani, …)
+ 3.2. Accesso all’area ≈ Operatività antincendio del codice
+ 1. Per consentire l’intervento dei mezzi di soccorso dei Vigili del fuoco, gli accessi alle aree dove sono
+ubicati gli uffici devono avere i seguenti requisiti minimi:
+ larghezza: 3,50 m;
+ altezza libera: 4 m;
+ raggio di volta: 13 m;
+ pendenza: non superiore al 10%;
+ resistenza al carico: almeno 20 tonnellate (8 sull’asse anteriore, 12 sull’asse posteriore, passo 4 m).
+ 2. Per gli uffici ubicati in edifici di altezza antincendi superiore a 12 m, deve essere assicurata la possibilità di accostamento all’edificio delle autoscale dei
+Vigili del fuoco, almeno ad una qualsiasi finestra o balcone di ogni piano, purché ciò consenta di raggiungere tutti i locali di piano tramite percorsi interni al piano.
+ 64
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ Titolo II - Uffici di nuova costruzione
+ con oltre cinquecento presenze
+4. Separazioni - Comunicazioni Riporta le condizioni per le interazioni con altre attività
+ Struttura REI Separazione ≠ Compartimentazione
+ 65
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ Titolo II - Uffici di nuova costruzione con
+ oltre cinquecento presenze
+5. Caratteristiche costruttive
+ 5.1. Resistenza al fuoco Va calcolata secondo il DM 09/03/2007
+ ClaRaf 2.0
+ 5.2. Reazione al fuoco Va tenuto in considerazione il DM 15/03/2005
+ Classe italiana Classe europea
+ Classe italiana Classe europea
+ (A2-s1,d0), (A2-s2,d0), (A2-s3,d0), (A2-s1,d1), (A2-s2,d1), (A2-s3,d1),
+ I Classe 1 (A2FL-s1), (A2FL-s2), (BFL-s1), (BFL-s2), (CFL-s1) I Classe 1
+ (B-s1,d0), (B-s2,d0), (B-s1,d1), (B-s2,d1),
+ (A2-s1,d2), (A2-s2,d2), (A2-s3,d2), (B-s3,d0), (B-s3,d1), (B-s1,d2),
+ II Classe 2 (CFL-s2), (DFL-s1) II Classe 2
+ (B-s2,d2), (B-s3,d2), (C-s1,d0), (C-s2,d0), (C-s1,d1), (C-s2,d1),
+ III Classe 3 (DFL-s2), (C-s3,d0), (C-s3,d1), (C-s1,d2), (C-s2,d2), (C-s3,d2), (D-s1,d0),
+ III Classe 3
+ (D-s2,d0), (D-s1,d1), (D-s2,d1)
+ Impiego a Pavimento
+ Impiego a Parete
+ 5.3. Compartimentazione Determina la superficie massima dei compartimenti
+ Altezza antincendi (in metri) Attività di cui al punto 3.1., comma 2, lettera a) (in m2) Attività di cui al punto 3.1., comma 2, lettera b) (in m2)
+ sino a 12.... 6.000 4.000
+ da 12 a 24.... 4.000 3.000
+ da 24 a 54.... 2.000 1.500
+ oltre 54.... 1.000 1.000
+ 66
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ Titolo II - Uffici di nuova costruzione con
+ 60 cm
+ oltre cinquecento presenze
+6. Misure per l’evacuazione in caso di emergenza
+ 6.1. Affollamento Fissa la densità di affollamento ≈ Codice
+ 6.2. Capacità di deflusso Fissa il numero di persone che possono attraversare un modulo
+ ≠ dai mm/persona del Codice
+ Riporta le caratteristiche generali (altezza minima,
+ 6.3. Sistema di vie di uscita
+ possibilità di usufruirne, eventuale spazio calmo, …)
+ 67
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+Titolo II - Uffici di nuova costruzione con oltre
+ cinquecento presenze
+6. Misure per l’evacuazione in caso di emergenza
+ Fissa il numero minimo delle uscite dai piani
+ 6.4. Numero delle uscite
+ (indipendentemente dall'affollamento)
+ 6.5. Larghezza delle vie di uscita Fissa la larghezza minima ed i criteri di calcolo
+ Esempio:
+ CD (Capacità di Deflusso) = 50 p/mod
+ DA (Densità di Affollamento) = 0,7 p/m2;
+ S (Superficie) = 270 m2;
+ A (Affollamento) = 270 x 0,7 = 189 persone
+ n. di moduli minimo = A/CD = 189/50 = 3,78 = 4 moduli Verifica
+ Larghezza porte = 0,7 +1,50 +0,9
+ Verifica
+ N moduli presenti = intero (L1/0,6 + L2/06 + … + Ln/0,6)
+ Larghezza totale porte = 0,7 + 1,50 +0,9 = 3,1 m N moduli presenti = 1,5/0,6 + 0,9/0,6 = 2, 5 + 1,5 = 2 + 1 = 3 NON VERIFICATO
+ N moduli presenti = 3,1/0,6 = 5 > 4 Verificato
+ N moduli presenti = 2,4/0,6 = 4 Verificato
+ 68
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ 6.6. Lunghezza delle vie di uscita.
+ Titolo II - Uffici di nuova costruzione con oltre 1. La lunghezza massima del percorso di esodo è fissata in:
+ cinquecento presenze - 45 m sino a raggiungere un luogo sicuro dinamico oppure
+ l’esterno dell’attività;
+6. Misure per l’evacuazione in caso di emergenza - 30 m per raggiungere una scala protetta.
+ 2. La misurazione della lunghezza va effettuata dalla porta di uscita
+ di ciascun locale con presenza di persone e da ogni punto degli
+ spazi comuni (atri, disimpegni, uffici senza divisori, ecc.) sino a
+ Fissa la lunghezza massima delle luogo sicuro o scala protetta.
+ 6.6. Lunghezza delle vie di uscita 3. La lunghezza dei corridoi ciechi non deve essere superiore a 15 m.
+ vie di uscita e del corridoio cieco
+ UNI EN 179
+ Deve essere considerato il
+ 6.7. Porte
+ DM 03/11/2004
+ UNI EN 1125A
+ UNI EN 1125B
+ 69
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ Titolo II - Uffici di nuova costruzione con oltre
+ cinquecento presenze
+6. Misure per l’evacuazione in caso di emergenza
+ Fissa le caratteristiche delle scale in
+ 6.8. Scale relazione all'altezza dell'edificio
+ 6.8. Scale.
+ 1. I vani scala, in funzione dell’altezza antincendi degli edifici, devono essere:
+ di tipo protetto: fino a 24 m;
+ a prova di fumo o esterne: oltre 24 m.
+ 2. Sono ammesse scale di tipo aperto in edifici fino a 2 piani fuori terra.
+ STRUTTURE E PORTE REI
+ 3. Le caratteristiche di resistenza al fuoco devono essere conformi a quanto
+stabilito al punto 5.1.
+ 4. Le rampe delle scale utilizzate per l’esodo devono essere rettilinee, non
+devono presentare restringimenti, devono avere non meno di tre gradini e non più
+di quindici. I gradini devono essere a pianta rettangolare, alzata e pedata costanti,
+rispettivamente non superiore a 17 cm e non inferiore a 30 cm. Sono ammesse
+rampe non rettilinee a condizione che vi siano pianerottoli di riposo almeno ogni
+quindici gradini e che la pedata del gradino sia almeno 30 cm misurata a 40 cm dal
+montante centrale o dal parapetto interno.
+ 5. I vani scala devono essere provvisti di aperture di aerazione in sommità (a
+parete o a soffitto) di superficie non inferiore ad 1 m2, con sistema di apertura
+degli infissi comandato sia automaticamente da rivelatori di incendio, che
+manualmente mediante dispositivo posto in prossimità dell’entrata alle scale, in
+posizione segnalata.
+ 70
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+Titolo II - Uffici di nuova costruzione con oltre
+ cinquecento presenze
+6. Misure per l’evacuazione in caso di emergenza DM 15/09/2005
+ 3. Vano di corsa.
+ 6.9
+ 1. Le caratteristiche dei vani degli • vano aperto ≈ SA
+ Rimanda alla norme specifiche impianti di sollevamento debbono • vano protetto ≈ SB
+ 6.9. Impianti di sollevamento - scale mobili degli ascensori (DM 15/09/2005) rispondere alle specifiche • vano a prova di fumo ≈ SC
+ disposizioni vigenti di prevenzione • ascensore antincendio ≈ SD
+ incendi • ascensore di soccorso ≈ SE
+ 6.10. Ascensori antincendio e di soccorso Fissa condizione per la realizzazione di
+ S ≥ 5 m2
+ ascensori antincendio e di soccorso
+ A
+ 7. Aerazione V. Punto 9.2.
+ corridoio
+ 71
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ Titolo II - Uffici di nuova costruzione
+ con oltre cinquecento presenze
+8. Attività accessorie
+ Fissa le misure per tali locali
+ rinviando alle norme specifiche in
+ 8.1. Locali per riunioni e trattenimenti caso di pubblico spettacolo.
+ Rimanda alle norme specifiche per le
+ 8.2. Locali per servizi logistici cucine/mense (DM 08/11/2019 se
+ alimentati a gas) e per le foresterie
+ fino a 25 posti letto.
+ 72
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ Titolo II - Uffici di nuova costruzione
+ con oltre cinquecento presenze
+8. Attività accessorie
+ Fissa le misure per tali locali
+ 8.3. Archivi e depositi
+ soprattutto in funzione della
+ superficie.
+ Rimanda alle norme specifiche di
+ 8.4. Autorimesse prevenzione incendi (Adesso solo
+ RTV.6 e non più DM 01/02/1986.)
+ 73
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ Titolo II - Uffici di nuova costruzione con oltre
+ cinquecento presenze
+9. Servizi tecnologici
+ Rimanda alle norme specifiche di
+ 9.1. Impianti di produzione di calore prevenzione incendi (DM 08/11/2019 e
+ DM 28/04/2005)
+ 2. I seguenti sistemi di utenza devono
+ disporre di impianti di sicurezza:
+ a) illuminazione;
+ b) allarme;
+ 9.3. Impianti elettrici Riporta che essi devono essere realizzati a c) rivelazione;
+ regola d'arte e ne fissa dei requisiti di sicurezza d) impianti di estinzione;
+ e) ascensori antincendio;
+ f) ascensori di soccorso;
+ g) impianto di diffusione sonora.
+ 74
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+Titolo II - Uffici di nuova costruzione con oltre
+ cinquecento presenze Rimanda alle norme di buona
+ DM 31/03/2002
+ Articolo 1 - Scopo e campo di applicazione
+ tecnica per la loro realizzazione. 1. Il presente decreto stabilisce i requisiti di reazione al fuoco dei
+ 9.2. Impianti di condizionamento e ventilazione Da considerare il DM 31/03/2002 materiali costituenti le condotte di distribuzione e ripresa
+ per la reazione al fuoco e gli dell’aria degli impianti di condizionamento e ventilazione a
+ attraversamenti. servizio di attività soggette ai controlli di prevenzione incendi.
+ 75
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ Titolo II - Uffici di nuova costruzione con oltre
+ cinquecento presenze
+10. Mezzi ed impianti di estinzione degli incendi
+ Rimanda al DM 10/03/1998 per
+ 10.1. Estintori attività a rischio di incendio elevato
+ Rimanda alle norme UNI con livello di rischio 3.
+ In caso di carico d'incendio superiore a 50
+ 10.2. Impianti di estinzione incendi kg/m2 prevede l'impianto sprinkler.
+ Da considerare DM 20/12/2012 (decreto
+ impianti), in particolare la specifica d'impianto.
+ 76
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ Titolo II - Uffici di nuova costruzione con oltre
+ cinquecento presenze
+11. Impianti di rivelazione, segnalazione e allarme
+ Prescrive che in tutte le aree siano
+ 11.1. Generalità installati pulsanti manuali di
+ segnalazione allarme e rivelatori
+ automatici di principio d'incendio.
+ Rimanda alla regola dell'arte .
+ Da considerare DM 20/12/2012
+ 11.2. Caratteristiche (decreto impianti), in particolare la
+ specifica d'impianto.
+ 77
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ Titolo II - Uffici di nuova costruzione con oltre
+ cinquecento presenze
+ Gli uffici devono essere dotati di un
+ sistema di allarme in grado di
+ avvertire le persone presenti delle
+12. Sistema di allarme
+ condizioni di pericolo in caso di
+ incendio anche con l'uso di
+ altoparlanti.
+ Rimanda al DM 10/03/1998 (adesso
+14. Organizzazione e gestione della sicurezza antincendio DM 02/09/2021.)
+ 78
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+ Schema regola tecnica tradizionale
+ 13. Segnaletica di sicurezza
+ SEGNALI DI PRESCRIZIONE
+ Protezione degli occhi Casco di protezione Protezione vie respiratorie Guanti di protezione Protezione dell’udito
+ SEGNALI DI SALVATAGGIO
+ Uscita d’emergenza Freccia di direzione Pronto soccorso Scala d’emergenza
+Direzione uscita d’emergenza
+ SEGNALETICA ANTINCENDIO
+ Allarme antincendio Estintore Estintore carrellato Lancia antincendio Idrante
+ 79
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+Grazie per l’attenzione
+ DOMANDE?
+ 80
+ DM 03/08/2015: RTV -- Schema regola tecnica tradizionale
+

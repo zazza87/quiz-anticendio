@@ -1,0 +1,898 @@
+ Diapositiva 38
+ PARTE SECONDA:
+DEFINIZIONI, CARATTERISTICHE E
+ PROGETTAZIONE DEL SISTEMA
+ D'ESODO
+ Diapositiva 39
+ ARGOMENTI
+• Definizioni
+• Finalità
+• Modalità di esodo
+• Livelli di prestazione per l'esodo
+• Progettazione del sistema d'esodo: soluzioni
+ conformi
+• Eliminazione o superamento delle barriere
+ architettoniche per l’esodo
+• Esodo per attività all’aperto
+ Diapositiva 40
+ DEFINIZIONI
+Sistema d’esodo: insieme
+delle misure di salvaguardia
+della vita che consentono agli
+occupanti di raggiungere un ≠ morte
+luogo sicuro o permanere al
+sicuro, autonomamente o con
+assistenza, prima che
+l’incendio determini
+condizioni incapacitanti negli
+ambiti dell’attività ove si
+trovano.
+ Diapositiva 41
+ DEFINIZIONI
+Sistema di esodo
+È costituito da luoghi sicuri,
+vie d’esodo, uscite, porte,
+illuminazione di sicurezza,
+segnaletica…
+ Diapositiva 42
+ DEFINIZIONI
+ Luogo sicuro
+ luogo in cui è permanentemente trascurabile il rischio d’incendio
+ per gli occupanti che vi stazionano o vi transitano; tale rischio è
+ riferito ad un incendio nell’attività
+ • pubblica via
+ • ogni altro spazio a cielo libero sicuramente collegato alla pubblica via
+ o irraggiamento max su occupanti 2,5 kW/m2 Cap. S.3: distanza di separazione
+ o no pericolo di crolli Cap. S.2 ovvero distanza minima = max altezza edificio
+ o spazi idonei a contenere gli occupanti Tab. S.4-35
+segnale UNI EN ISO 7010- E007
+o equivalente
+ Diapositiva 43
+ DEFINIZIONI
+ Tipologie vie d’esodo • I percorsi d’esodo protetti/a prova di fumo
+ (es. corridoi, scale, rampe, atri, …) devono
+  protette essere inseriti in vani (*) protetti/a prova di
+ fumo ad essi dedicati.
+ • Le scale d’esodo protette/a prova di fumo
+  a prova di fumo devono condurre in luogo sicuro
+ direttamente o almeno tramite percorso
+  esterne d’esodo protetto/a prova di fumo
+  senza protezione • completamente esterne alle opere da costruzione
+ (es. scale, rampe, passerelle, camminamenti…)
+ • soggette ad irraggiamento ≤ 2,5 kW/m2
+ • non investite dagli effetti dell’incendio
+(*) In tali vani è generalmente ammessa la presenza di impianti tecnologici e di servizi
+ausiliari al funzionamento dell’attività, nel rispetto dei vincoli imposti nei capitoli S.10 e
+V.3 (es. ascensori, montacarichi, montalettighe, scale mobili, marciapiedi mobili, impianti
+elettrici civili, impianti antincendio, …)
+ Diapositiva 44
+ DEFINIZIONI
+Luogo sicuro temporaneo
+luogo in cui è temporaneamente trascurabile il rischio d’incendio
+per gli occupanti che vi stazionano o vi transitano; tale rischio è
+riferito ad un incendio in ambiti dell’attività specificati, diversi dal
+luogo considerato.
+ Relativamente ad un compartimento, si considera luogo sicuro temporaneo qualsiasi
+ altro compartimento o spazio scoperto, che può essere attraversato dagli occupanti per
+ raggiungere il luogo sicuro tramite il sistema d’esodo senza rientrare nel compartimento
+ in esame.
+ Diapositiva 45
+ DEFINIZIONI
+Via d’esodo (o via d’emergenza): percorso senza ostacoli al
+deflusso, appartenente al sistema d’esodo, che consente agli
+occupanti di raggiungere un luogo sicuro dal luogo in cui si trovano
+• Via d’esodo orizzontale: porzione di via d’esodo a quota costante o
+ con pendenza non superiore al 5%.
+• Via d’esodo verticale: porzione di via d’esodo che consente agli
+ occupanti variazioni di quota con pendenza superiore al 5%.
+RAMPE • scale portatili;
+• pendenza > 5% = vie d’esodo verticali • ascensori;
+• pendenza max = 8% per gli occupanti • rampe con pendenza > 20%;
+ con disabilità motorie (in autonomia) • scale e marciapiedi mobili (non
+• pendenza > 12% da impiegare per progettati secondo par. S.4.5.5)
+ l’esodo solo eccezionalmente. No vie d’esodo
+ Diapositiva 46
+ DEFINIZIONI
+• La porzione di chiusura d’ambito Tab. S.4-5: criteri per la realizzazione di vie
+ d’esodo esterne orizzontali o verticali
+ dell’opera da costruzione su cui è collocata
+ la via d’esodo esterna deve essere ≥ EI 30,
+ oppure E 30 nel caso di vie d’esodo
+ realizzate con materiali e strutture
+ incombustibili.
+• Tale porzione è ottenuta come area di
+ influenza della proiezione del piano di
+ calpestio della via d’esodo sulla
+ costruzione con roffset pari a 1,80 m e si
+ prolunga perpendicolarmente fino al più
+ basso piano di riferimento o fino a terra.
+• Gli infissi, anche parzialmente ricompresi
+ nella porzione, devono avere pari classe di • completamente esterne alle opere da
+ resistenza al fuoco. costruzione
+ • soggette ad irraggiamento < 2,5 kW/m2
+ • non investite dagli effetti dell’incendio
+ Diapositiva 47
+ DEFINIZIONI
+ • completamente esterne alle opere da
+ • La via d’esodo esterna deve essere distaccata di costruzione
+ • soggette ad irraggiamento < 2,5 kW/m2
+ almeno 2,50 m dall’opera da costruzione, da • non investite dagli effetti dell’incendio
+ aperture di smaltimento o di evacuazione di
+ fumi e calore dell’incendio. • passerelle realizzate con
+ materiali incombustibili e
+ protette dall’incendio
+Tab. S.4-5: criteri per la realizzazione di vie
+d’esodo esterne orizzontali o verticali
+ hsetti ≥ 2 m
+ Diapositiva 48
+ DEFINIZIONI
+• Le vie d’esodo senza protezione sono
+ tutte quelle che non possono essere
+ classificate come protette, a prova di
+ fumo o esterne.
+≠ gradi di protezione
+ Diapositiva 49
+ DEFINIZIONI
+ Le scale ed i marciapiedi mobili
+Scale e marciapiedi mobili d’esodo d’esodo devono soddisfare anche i
+ requisiti previsti nel capitolo S.10.
+Possono essere considerati vie di esodo se:
+• Attività con livello di prestazione IV per IRAI (Capitolo S.7)
+• Attività con livello di prestazione III per GSA (Capitolo S.5) e con
+ modalità di gestione delle scale e dei marciapiedi mobili inserita
+ nel piano d’emergenza. Modalità di gestione
+ • fermata e mantenimento in posizione;
+ • mantenimento del moto;
+ • fermata ed inversione del moto.
+ L’attuazione di ciascuna modalità di gestione deve essere finalizzata
+ alla migliore gestione dell’esodo in sicurezza (es. attraverso modalità di
+ fermata o di inversione del moto graduali, accompagnate da segnalazioni visive
+ o acustiche)
+ Diapositiva 50
+ DEFINIZIONI
+Percorso d’esodo: parte della via d’esodo che conduce
+dall’uscita dei locali dedicati all’attività fino all’uscita finale
+Non comprende i locali dedicati all’attività ed è costituito da corridoi,
+scale, rampe, atri, passerelle, camminamenti, …
+Scale alla marinara ammesse SOLO Superfici vie d’esodo non
+a servizio di locali con basso sdrucciolevoli o irregolari
+affollamento ed esclusiva presenza
+di personale specificatamente
+ Il fumo ed il calore dell’incendio smaltiti
+formato (es. locali impianti o di
+ o evacuati dall’attività non devono
+servizio, cabine di manovra, cavedi
+ interferire con le vie d’esodo.
+impiantistici, …)
+ Diapositiva 51
+ DEFINIZIONI
+ Ad es, le porte che si aprono su pianerottoli
+Porte lungo le vie d’esodo o corridoi non devono ridurre la larghezza
+ calcolata del percorso d’esodo, né creare
+• facilmente identificabili ed apribili pericolo per gli occupanti durante l’esodo
+ ✔
+• non ostacolo al deflusso degli occupanti
+• aprirsi su aree piane orizzontali, di profondità
+ almeno pari alla larghezza complessiva del varco
+• se necessari idonei e sicuri sistemi di controllo ed
+ apertura delle porte in GSA riportare modalità
+ di apertura in caso di emergenza.
+ Diapositiva 52
+ DEFINIZIONI
+Porte ad apertura manuale Funzione delle caratteristiche
+ dell’ambito servito e del
+ numero di occupanti
+ dell’ambito che impiegano
+ tale porta nella condizione
+ d’esodo più gravosa
+ UNI EN UNI EN 1125
+ 179 Tipo A
+ UNI EN 1125
+ Tipo B
+ In alternativa porte apribili nel verso dell’esodo con apertura
+ a semplice spinta sull’intera superficie della porta.
+ Diapositiva 53
+ DEFINIZIONI
+ Porte ad apertura manuale
+ Con verifica di ridondanza, ipotizzando indisponibile una
+ qualsiasi delle vie d’esodo del locale 1
+• Locali aperti al pubblico Rvita = B2
+• Locale 1 = 120 persone e 4 uscite
+• Locale 2 = 20 persone e 1 uscita
+• Tre U.S. di cui due su corridoio
+ Esempi Tab. S.4-7
+Numero occupanti serviti dalla singola
+porta nella condizione d’esodo più gravosa
+ Nella condizione d’esodo più gravosa per
+ verifica di ridondanza, ipotizzando
+ indisponibile il varco U2 o U3 del corridoio
+ Diapositiva 54
+ DEFINIZIONI
+ Varchi automatici
+ Tornelli Porte ad azionamento automatico
+Ammessi se non costituiscono intralcio
+all’esodo degli occupanti, in particolare in caso
+di emergenza, in assenza di alimentazione
+elettrica, in caso di guasto.
+ Diapositiva 55
+ DEFINIZIONI
+Uscite finali
+• Devono essere posizionate in modo da
+ garantire l’esodo rapido degli occupanti verso
+ luogo sicuro.
+• Devono essere contrassegnate sul lato verso
+ luogo sicuro con Segnale UNI EN ISO 7010-
+ M001 o equivalente, riportante il messaggio
+ “Uscita di emergenza, lasciare libero il
+ passaggio”
+ Diapositiva 56
+ DEFINIZIONI
+Illuminazione di sicurezza
+• Lungo le vie d’esodo
+• Conforme a UNI EN 1838 o equivalente
+• Illuminazione segnapasso per gradini in
+ ambiti con assente o ridotta illuminazione
+ ordinaria (es. teatri, cinema, …)
+ Diapositiva 57
+ DEFINIZIONI
+ Il sistema d’esodo deve essere facilmente riconosciuto ed
+ impiegato dagli occupanti
+SEGNALETICA DI SICUREZZA Indicatori ambientali
+ • accesso visivo e tattile alle
+ informazioni;
+ • grado di differenziazione
+ architettonica;
+ • ordinata configurazione geometrica
+ dell’edificio, anche in relazione ad
+ allestimenti mobili o temporanei.
+ SEGNALI UNI EN ISO 7010
+UNI ISO 23601 “Identificazione di sicurezza -
+Planimetrie per l’emergenza” o equivalente
+ Diapositiva 58
+ DEFINIZIONI
+ Sistemi d’esodo comuni
+• Devono essere effettuate specifiche valutazioni atte a determinare
+ se sia necessario prevedere sistemi d’esodo distinti o se siano
+ sufficienti specifici accorgimenti progettuali.
+ Ad esempio: vie d’esodo protette, a prova di fumo, misure gestionali,
+ pianificazione d’emergenza e procedura d’allarme condivisa tra le diverse attività,
+ …
+• Se un’attività civile condivide vie d’esodo con altre attività di
+ qualsiasi tipologia, anche afferenti a diversi responsabili d’attività,
+ dette vie d’esodo devono essere a prova di fumo, in assenza di
+ specifici accorgimenti gestionali, di pianificazione d’emergenza e
+ procedura d’allarme condivise.
+ Diapositiva 59
+ FINALITÀ
+Finalità del sistema d’esodo: assicurare che gli occupanti dell’attività
+possano raggiungere un luogo sicuro o permanere al sicuro,
+autonomamente o con assistenza, prima che l’incendio determini
+condizioni incapacitanti negli ambiti dell’attività ove si trovano.
+ Diapositiva 60
+ MODALITÀ D’ESODO
+Esodo simultaneo Protezione sul posto
+prevede lo spostamento prevede la protezione degli occupanti
+contemporaneo degli occupanti fino a nell’ambito in cui si trovano
+luogo sicuro
+Esodo orizzontale progressivo Esodo per fasi
+prevede lo spostamento degli occupanti previsto per strutture organizzate con
+dal compartimento di primo innesco in più compartimenti, in cui l’evacuazione
+un compartimento adiacente capace di degli occupanti fino a luogo sicuro
+contenerli e proteggerli fino a quando avviene in successione dopo
+l’incendio non sia estinto o fino a che l’evacuazione del compartimento di
+non si proceda ad una successiva primo innesco. Si attua con l’ausilio di
+evacuazione fino a luogo sicuro misure antincendio di protezione attiva,
+ passiva e gestionali.
+ Edifici di grande altezza, ospedali, multisale, centri
+Ospedali, strutture sanitarie,… commerciali, grandi uffici, attività distribuite, attività con
+ profilo di rischio Rambiente significativo…
+ Diapositiva 61
+LIVELLI DI PRESTAZIONE PER L’ESODO
+ Diapositiva 62
+MODALITÀ D’ESODO
+ Diapositiva 63
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Dati di ingresso Non trattata Gestione della folla
+Rvita e affollamento (crowd management)
+  Paragrafo S.4.6
+ Requisiti
+ antincendio Dimensionamento
+ minimi sistema di esodo
+  Paragrafi S.4.8 e S.4.9
+  Paragrafo S.4.7
+ Possono essere previsti i requisiti
+ antincendio aggiuntivi (paragrafo S.4.10)
+ Verifica rispondenza alle
+ Verifica soddisfatta? caratteristiche generali
+ no  Paragrafo S.4.5
+ si
+ Qualora l’attività sia svolta prevalentemente all’aperto,
+ Soluzione conforme devono essere impiegate nella loro completezza anche le
+ indicazioni di cui al paragrafo S.4.11.
+ Diapositiva 64
+ PROGETTAZIONE DEL SISTEMA
+D’ESODO: SOLUZIONI CONFORMI
+ Diapositiva 65
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ Soluzioni alternative
+• Applicazione di norme o documenti tecnici Solo soluzioni alternative per livello di
+ prestazione II (par. S.4.4.2)
+• Prodotti o tecnologie di tipo innovativo
+ Possono essere usate anche per livello
+• Ingegneria della sicurezza antincendio di prestazione I qualora le soluzioni
+• Prove sperimentali conformi fossero non adottabili o
+ Par. G.2.7 troppo onerose.
+ Alcune modalità
+ generalmente
+ accettate per
+ soluzioni
+ alternative della
+ misura ESODO
+ Diapositiva 66
+ PROGETTAZIONE DEL SISTEMA
+D’ESODO: SOLUZIONI CONFORMI
+ Soluzioni alternative
+ Diapositiva 67
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ Dati di ingresso per la progettazione del sistema d’esodo
+Pro filo di rischio Rvita d i riferim en to
+Affollame nto m a s s i m o d i c i a s c u n l o c a l e
+ - da tabelle (moltiplicando la densità di affollamento per
+ la superficie lorda del locale della tab. S.4-12 o usando
+ i criteri della tabella S.4-13)
+ - da regola tecnica verticale
+ - riferito a norme o documenti tecnici
+ - dichiarato dal responsabile dell’attività
+Valore dell’affollamento inferiore a quello determinato che il responsabile
+dell’attività dichiara e si impegna a rispettare per ogni ambito ed in ogni condizione
+d’esercizio dell’attività
+ Diapositiva 68
+ PROGETTAZIONE DEL SISTEMA
+D’ESODO: SOLUZIONI CONFORMI
+ Diapositiva 69
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ REQUISITI MINIMI PER L’ESODO
+• Numero minimo di vie d’esodo verticali ed orizzontali determinato in relazione ai
+ vincoli per il dei corridoi ciechi (par. S.4.8.2)
+• Vie d’esodo verticali tra compartimenti protette (classe determinata secondo
+ capitolo S.2 e comunque non inferiore a 30 e chiusure almeno E 30-Sa)
+• Per vie d’esodo verticali a prova di fumo proveniente dai compartimenti collegati
+ sono ammesse chiusure almeno E 30
+• Per edifici con piani a quota inferiore a -5 m, le vie d’esodo interrate, se non a
+ prova di fumo, devono essere inserite in compartimento distinto dalle vie d’esodo
+ fuori terra
+• Per le casistiche previste in tabella S.4.14 devono essere previste almeno 2 vie
+ d’esodo verticali indipendenti
+ Diapositiva 70
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ REQUISITI MINIMI PER L’ESODO
+• Le vie d’esodo da ambiti aperti al pubblico non devono attraversare
+ ambiti non aperti al pubblico se non esclusivamente dedicati all’esodo.
+• Nella progettazione del sistema d’esodo tenere presente che, in caso
+ di emergenza, gli occupanti tendono solitamente ad uscire
+ percorrendo in senso inverso la via d’ingresso.
+• La convergenza dei flussi di occupanti da distinte vie d’esodo non deve
+ essere ostacolata (es. arredi, geometrie, ecc…).
+• Con elevato affollamento deve essere evitato, per quanto possibile, il
+ controflusso di soccorritori o di occupanti lungo le vie d’esodo:
+ prevedere percorsi separati.
+ Diapositiva 71
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ REQUISITI ANTINCENDIO IN CASO DI ESODO PER FASI
+In caso di esodo per fasi devono essere garantiti anche i seguenti requisiti:
+ a. tutti i piani dell’attività serviti da almeno due vie d’esodo indipendenti;
+ b. l’attività sorvegliata da IRAI con livello di prestazione III e sistema EVAC;
+ c. gestione della sicurezza con livello di prestazione II;
+ d. ciascun piano dell’attività in compartimento autonomo e
+ compartimentazione con livello di prestazione III.
+ ESODO PER FASI ammesso solo
+ per piani a quota ≥ - 5 m
+ Diapositiva 72
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ VIE D’ESODO ED USCITE INDIPENDENTI
+• Vie d’esodo indipendenti: al fine di limitare la probabilità che
+ l’esodo degli occupanti sia impedito dall’incendio: almeno
+ due vie d’esodo indipendenti
+• Ammessi i corridoi ciechi nei limiti del paragrafo S.4.8.2;
+• Richieste comunque almeno due vie d’esodo indipendenti in
+ funzione del profilo di rischio Rvita e della quota dei piani,
+ paragrafo S.4.7. comma 4
+ Diapositiva 73
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ VIE D’ESODO ED USCITE INDIPENDENTI
+• Uscite indipendenti: al fine di limitare la probabilità che si
+ sviluppi sovraffollamento localizzato alle uscite da ciascun
+ locale o spazio a cielo libero
+• Numero minimo di uscite indipendenti: funzione di Rvita e
+ affollamento
+ Diapositiva 74
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Vie d’esodo orizzontali e uscite indipendenti
+ • angolo formato dai percorsi
+ rettilinei ≥ 45°;
+ • tra i percorsi separazione di
+ adeguata resistenza al fuoco a
+ tutta altezza (almeno EI 30)
+ Alcuni esempi
+ Diapositiva 75
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ Vie d’esodo verticali indipendenti
+1. coppie di vie d’esodo verticali se inserite in compartimenti distinti, oppure almeno
+ una sia via d’esodo esterna
+2. coppie di vie d’esodo verticali non protette, inserite nello stesso compartimento, alle
+ seguenti condizioni:
+ • ciascuna sia impiegata da non più di 100 occupanti,
+ • nessun piano servito a quota inferiore a -1 m,
+ • nei percorsi collegati a monte ed a valle non vi sia corridoio cieco.
+3. coppie di vie d’esodo verticali non
+ protette che colleghino diversi
+ piani di uno stesso locale a gradoni
+ o inclinato, a condizione che le vie
+ d’esodo ad esse collegate a valle
+ siano indipendenti.
+ Diapositiva 76
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Corridoio cieco (o percorso unidirezionale): porzione di via
+d’esodo da cui è possibile l’esodo in un’unica direzione.
+ Dall’ambito servito, il corridoio cieco offre agli occupanti una sola via d’esodo
+ senza alternative (da evitare per quanto possibile percorsi unidirezionali).
+Lunghezza di corridoio cieco: distanza che ciascun
+occupante deve percorrere lungo una via d’esodo dal punto in
+cui si trova fino a raggiungere:
+a. un punto in cui diventa possibile l’esodo in più di una
+ direzione,
+b. oppure un luogo sicuro.
+ Diapositiva 77
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ Condizioni per i corridoi ciechi
+Max affollamento e max Max affollamento per Max lunghezza per limitare la
+lunghezza del corridoio limitare il numero di probabilità che gli occupanti
+cieco Lcc in funzione di Rvita occupanti eventualmente siano bloccati dall’incendio
+ bloccati dall’incendio
+ Diapositiva 78
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Condizioni per i corridoi ciechi
+ Se non viene omessa alcuna porzione di corridoio
+ cieco, è necessario verificare l’affollamento e la
+ lunghezza di corridoio cieco Lcc per l’intero
+ percorso unidirezionale. In questo caso
+ l’affollamento da considerare nella scala è quello
+ totale dei piani serviti a prescindere dalla modalità
+ d’esodo selezionata (es. simultaneo o per fasi)
+ Diapositiva 79
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Omissione di porzione di corridoio cieco
+ Condizioni e
+ prescrizioni
+ aggiuntive per
+ l’omissione di una
+ porzione continua e
+ finale Lcc,o di
+ corridoio cieco
+ La porzione omessa è
+ finale perché termina nel
+ punto dove diventano
+ disponibili almeno due
+ vie d’esodo indipendenti
+ o direttamente in luogo
+ sicuro
+ Diapositiva 80
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Omissione di porzione di corridoio cieco
+ La lunghezza della scala è misurata
+ con il metodo del filo teso.
+ Generalmente negli edifici civili la
+ lunghezza della scala per un singolo
+ piano è pari a circa 12,50 m.
+ Diapositiva 81
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Omissione di porzione di corridoio cieco
+ In questo caso vengono omessi
+ l’unica scala al servizio
+ dell’edificio multipiano ed i
+ corridoi di piano, che hanno
+ caratteristiche differenti. La max
+ lunghezza omessa Lom è pari alla
+ media pesata dei relativi valori
+ da tabella S.4-20:
+ Diapositiva 82
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Omissione di porzione di corridoio cieco
+ L’atrio, anche senza protezione,
+ termina direttamente all’uscita
+ finale (es. atrio condominiale).
+ Se ha le caratteristiche richieste
+ dalla tabella S.4-20, può essere
+ considerato porzione di corridoio
+ cieco omessa.
+ Diapositiva 83
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Omissione di porzione di corridoio cieco
+ Il percorso unidirezionale
+ all’aperto dall’uscita finale fino al
+ luogo sicuro, in via d’esodo
+ esterna (paragrafo S.4.5.3.3), può
+ essere considerato porzione di
+ corridoio cieco omessa.
+ In questo caso l’opera da costruzione ha due
+ vie d’esodo indipendenti fino a luogo sicuro,
+ pertanto il corridoio cieco termina all’uscita
+ finale.
+ Diapositiva 84
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Lunghezza d’esodo: distanza che ciascun occupante deve percorrere
+lungo una via d’esodo dal punto in cui si trova fino a raggiungere un
+luogo sicuro temporaneo oppure un luogo sicuro.
+ metodo del filo teso
+ (non tenere conto
+ degli arredi mobili)
+ almeno una delle
+ lunghezze d’esodo
+ determinate da
+ qualsiasi punto
+ dell’attività non deve
+ superare i valori
+Quando la prima porzione della via d’esodo è costituita
+da corridoio cieco, devono essere contemporaneamente massimi Les (v. tabella)
+verificate le limitazioni relativa a lunghezza d’esodo e
+corridoi ciechi.
+ Diapositiva 85
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Lunghezza d’esodo
+ • vie d’esodo verticali con
+ caratteristiche di filtro
+ No verifica max Les • vie d’esodo esterne
+ Diapositiva 86
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ Altezza delle vie d’esodo
+• L’altezza minima delle vie di esodo è pari a 2 m.
+• Sono ammesse altezze inferiori solo per brevi tratti
+ segnalati, lungo le vie d’esodo da ambiti ove vi sia
+ esclusiva presenza di personale specificamente
+ formato od occasionale e di breve durata di un
+ numero limitato di occupanti (es. locali impianti o
+ di servizio, piccoli depositi, …), oppure secondo le
+ risultanze di specifica valutazione del rischio.
+ Diapositiva 87
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ Larghezza delle vie d’esodo
+• è la minima misurata, dal piano di calpestio fino
+ all’altezza di 2 m, deducendo l’ingombro di
+ eventuali elementi sporgenti
+• deve essere valutata lungo tutta la via d’esodo.
+• deve essere calcolata larghezza minima nelle
+ condizioni più gravose e considerando la verifica di
+ ridondanza
+• per attività con elevato affollamento (>0,7
+ persone/m2), ciascuna via d’esodo orizzontale non
+ deve presentare riduzioni di larghezza da monte a
+ valle nella direzione dell’esodo
+• Devono essere adeguatamente dimensionate le
+ porzioni di via d’esodo impiegate come percorso di
+ accesso ai piani per soccorritori
+ Diapositiva 88
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ Verifica di ridondanza delle vie d’esodo
+1. L’incendio può rendere indisponibile una via d’esodo
+2. Ai fini della verifica di ridondanza, si deve rendere indisponibile una via
+ d’esodo alla volta e verificare che le restanti vie d’esodo indipendenti
+ siano sufficienti a garantire l’esodo degli occupanti.
+3. Le vie d’esodo a prova di fumo aventi le caratteristiche di filtro sono
+ considerate sempre disponibili e non devono essere sottoposte a verifica
+ di ridondanza (vie d’esodo esterne equivalenti con i limiti del paragrafo
+ S.4.5.3.3. comma 3 lettera a)
+4. Nella verifica di ridondanza non è necessario procedere ad ulteriore
+ verifica dei corridoi ciechi e delle lunghezze d’esodo.
+ eventuali vie d’esodo non indipendenti tra loro devono
+ essere rese contemporaneamente indisponibili
+ Diapositiva 89
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Larghezza minima delle vie d’esodo orizzontali
+ LO = LU · n O
+• LO larghezza minima della via d’esodo orizzontale [mm]
+• Lu larghezza unitaria per le vie d’esodo orizzontali determinata dalla tabella
+ S.4-29 in funzione del profilo di rischio Rvita di riferimento [mm/persona]
+• no numero degli occupanti che impiegano tale via d’esodo orizzontale, nelle
+ condizioni d’esodo più gravose
+ Larghezza unitaria delle vie
+ d'esodo:
+ indice quantitativo della
+ potenzialità di una via d'esodo in
+ relazione al profilo di rischio Rvita
+ dell'attività (larghezza in millimetri
+ necessaria all'esodo di un singolo
+ occupante [mm/persona]).
+ Diapositiva 90
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ Larghezza minima delle vie d’esodo orizzontali
+• può essere suddivisa tra più percorsi ognuno dei quali deve rispettare i
+ criteri della tabella S.4-27, oppure essere oggetto di specifica valutazione
+ del rischio.
+ Diapositiva 91
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Esempio di dimensionamento delle vie d’esodo orizzontali
+ • Rvita = B2 e affollamento
+ totale 390 persone
+ • Compartimento 1: 210
+ persone
+ • Compartimento 2: 180
+ persone
+ 2 U.S. verso luogo sicuro
+ Solo esiti più gravosi
+ Diapositiva 92
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Esempio di dimensionamento delle vie d’esodo orizzontali
+ Diapositiva 93
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ Larghezza minima delle vie d’esodo verticali
+ LV = LU · nV
+• LV larghezza minima della via Esodo simultaneo
+ d’esodo verticale [mm] le vie d'esodo verticali devono essere in grado di
+• Lu larghezza unitaria determinata consentire l'evacuazione contemporanea di tutti
+ dalla tabella S.4-31 in funzione del gli occupanti in evacuazione da tutti i piani serviti
+ profilo di rischio Rvita di riferimento
+ e del numero totale dei piani serviti
+ dalla via d’esodo verticale
+ [mm/persona]
+• nV numero totale degli occupanti
+ che impiegano tale via d’esodo
+ verticale, provenienti da tutti i piani
+ serviti, nelle condizioni d’esodo più
+ gravose
+ Diapositiva 94
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ Larghezza minima delle vie d’esodo verticali
+ LV = LU · nV
+• LV larghezza minima della via Esodo per fasi
+ d’esodo verticale [mm]
+ le vie d’esodo verticali devono essere in grado di
+• Lu larghezza unitaria determinata consentire l’evacuazione degli occupanti dei piani
+ da tabella S.4-31 in funzione del
+ profilo di rischio Rvita di riferimento serviti durante ciascuna fase.
+ ed imponendo pari a 2 il numero
+ totale dei piani serviti dalla via
+ d’esodo verticale [mm/persona]
+• nV numero totale degli occupanti
+ che impiegano tale via d’esodo
+ verticale, provenienti da due dei
+ piani serviti, considerando i due
+ piani, anche non consecutivi, aventi
+ maggiore affollamento, nelle
+ condizioni d’esodo più gravose
+ Diapositiva 95
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Larghezza minima delle vie d’esodo verticali
+ Diapositiva 96
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ Larghezza minima delle vie d’esodo verticali
+• può essere suddivisa tra più percorsi ognuno dei quali deve rispettare i
+ criteri della tabella S.4-27, oppure essere oggetto di specifica valutazione
+ del rischio.
+ Diapositiva 97
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Calcolo della larghezza minima delle uscite finali
+• LF larghezza minima dell’uscita finale [mm]
+• LO,i larghezza della i-esima via d’esodo orizzontale che adduce all’uscita finale
+ [mm]
+• LV,j larghezza della j-esima via d’esodo verticale che adduce all’uscita finale [mm]
+ La larghezza LF può essere
+ suddivisa tra più percorsi, nel
+ rispetto dei requisiti della
+ tabella S.4-28
+L0,i, LV,j computate senza i
+requisiti minimi delle tabelle
+S.4-28, S.4-32.
+ Diapositiva 98
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+ Calcolo della larghezza minima delle uscite finali
+La convergenza dei flussi di occupanti dalle vie d’esodo orizzontali e verticali
+verso l’uscita finale non deve essere ostacolata (es. da arredi fissi o mobili, …).
+A tal fine, qualora almeno due delle vie d’esodo convergenti verso la stessa
+uscita finale siano impiegate da più di 50 occupanti ciascuna, la distanza
+misurata in pianta tra l’uscita finale e lo sbarco di tutte le vie d’esodo ad essa
+convergenti deve essere non inferiore a 2 m.
+ Diapositiva 99
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Esempio di dimensionamento delle vie d’esodo verticali
+ • Rvita = A2 e affollamento
+ totale 660 persone
+ • 4 piani fuori terra
+ • 200 persone per ciascuno
+ dei piani P0, P1 e P2
+ • 60 persone piano P3
+ • 2 scale protette e 1 scala
+ senza protezione
+ Solo esiti più gravosi
+ Diapositiva 100
+ PROGETTAZIONE DEL SISTEMA
+D’ESODO: SOLUZIONI CONFORMI
+Esempio di dimensionamento delle vie d’esodo verticali
+ Diapositiva 101
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Scale e marciapiedi mobili d’esodo
+ Si calcola larghezza
+ Mantenuti in minima come se
+ posizione durante fossero vie di esodo
+ emergenza
+ Scale e marciapiedi orizzontali o verticali
+ mobili facenti parte
+ del sistema di esodo Si applica
+ Impiegati in moto
+ durante emergenza specifica
+ procedura
+ Diapositiva 102
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Procedura utilizzo scale e marciapiedi mobili impiegati in moto durante emergenza
+a. si determina la capacità di trasporto teorica (es.
+ secondo norma EN 115-1 o equivalente) e la si
+ riduce del 50%;
+b. si determina il tempo, dalla ricezione
+ dell’allarme, necessario per l’eventuale
+ inversione del moto nel senso dell’esodo;
+c. si somma il tempo necessario al trasporto degli
+ occupanti che impiegano tale via d’esodo con il
+ tempo per l’inversione del moto, ottenendo la
+ durata massima dell’attesa in coda per gli
+ occupanti;
+d. se il tempo così calcolato è inferiore ai valori
+ Δtcoda delle tabelle S.4-29 ed S.4-31, in funzione
+ del profilo di rischio Rvita di riferimento, allora La larghezza del gradino o segmento di scale
+ l’uso per l’esodo degli occupanti della scala o del e marciapiedi mobili d’esodo deve essere
+ marciapiede mobile è verificato. non inferiore a 800 mm.
+ Dapositiva 103
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+Esempio di calcolo di scale e marciapiedi mobili impiegati in moto
+ Diapositiva 104
+ PROGETTAZIONE DEL SISTEMA
+ D’ESODO: SOLUZIONI CONFORMI
+In relazione alla presenza di requisiti antincendio aggiuntivi, è possibile
+incrementare le lunghezze d’esodo ed i corridoi ciechi
+ Les,d = (1 + δm) · Les Lcc,d = (1 + δm) · Lcc
+ con: con:
+ Lcc,d max lunghezza di corridoio cieco progetto [m]
+ Les,d max lunghezza d’esodo di progetto [m]
+ Lcc max lunghezza di corridoio cieco [m]
+ Les max lunghezza d’esodo [m]
+δm fattore relativo a requisito
+antincendio aggiuntivo del
+compartimento servito dalla via d’esodo
+ δm non può superare la massima variazione ammessa pari a
+ 36%
+ Diapositiva 105
+ ELIMINAZIONE O SUPERAMENTO DELLE BARRIERE
+ ARCHITETTONICHE PER L’ESODO
+In tutti i piani dell’attività con presenza non occasionale di occupanti che non
+abbiano sufficienti abilità per raggiungere autonomamente un luogo sicuro tramite
+vie d’esodo verticali, deve essere adottata almeno una delle seguenti modalità:
+ a. impiego di spazi calmi
+ b. esodo orizzontale progressivo
+ c. esodo orizzontale verso luogo sicuro.
+Applicabili i requisiti e le raccomandazioni contenute nella norma ISO 21542 “Building
+construction - Accessibility and usability of the built environment”
+ Richieste aggiuntive per i luoghi di Bisogna rispettare il DPR 6 giugno
+Per rischio Rvita = D1, D2: degenza e assistenza sanitaria 2001, n. 380 “Testo unico delle
+• ascensore antincendio dimensionato per occupanti disposizioni legislative e
+ anche non deambulanti (es. sedia a ruote, barella, …); regolamentari in materia edilizia”:
+ eliminazione o superamento delle
+• vie d’esodo orizzontali di dimensioni adeguate da barriere architettoniche.
+ consentire l’agevole movimentazione di letti e barelle
+ Diapositiva 106
+ ELIMINAZIONE O SUPERAMENTO DELLE BARRIERE
+ ARCHITETTONICHE PER L’ESODO
+Spazio calmo: luogo sicuro temporaneo ove gli DOTAZIONI
+occupanti possono attendere e ricevere assistenza • sistema di comunicazione
+per completare l’esodo verso luogo sicuro bidirezionale (segnalazione
+ presenza e richiesta di assistenza)
+Caratteristiche:
+ a. contiguo e comunicante con una via d’esodo o in • eventuali attrezzature da
+ impiegare per l’assistenza (es.
+ essa inserito, senza costituire intralcio all’esodo
+ sedia o barella di evacuazione, …)
+ b. di dimensioni tali da poter ospitare tutti gli • indicazioni sui comportamenti da
+ occupanti del piano che ne abbiano necessità tenere in attesa dell’assistenza.
+Lo spazio calmo deve essere contrassegnato
+con segnale UNI EN ISO 7010-E024 o
+equivalente.
+ Diapositiva 107
+ ELIMINAZIONE O SUPERAMENTO DELLE BARRIERE
+ ARCHITETTONICHE PER L’ESODO
+Esodo orizzontale progressivo
+spostamento degli occupanti dal compartimento di primo innesco in un
+compartimento adiacente capace di contenerli e proteggerli fino a quando
+l’incendio non sia estinto o fino a che non si proceda ad una successiva
+evacuazione fino a luogo sicuro.
+ Diapositiva 108
+ ELIMINAZIONE O SUPERAMENTO DELLE BARRIERE
+ ARCHITETTONICHE PER L’ESODO
+Per attuare l’esodo orizzontale progressivo, il piano dell’attività deve essere suddiviso in
+almeno due compartimenti, ognuno con le seguenti caratteristiche:
+ a. poter contenere in emergenza, oltre ai suoi normali occupanti, il massimo numero
+ di occupanti che lo impiegano per l’esodo orizzontale progressivo
+ a. avere vie d’esodo adeguate ad evacuare il numero dei suoi occupanti, maggiorato
+ del 50% del massimo numero di occupanti che lo impiegano per l’esodo
+ orizzontale progressivo;
+ b. avere almeno due vie d’esodo indipendenti verso distinti compartimenti adiacenti,
+ oppure una via d’esodo a prova di fumo con caratteristiche di filtro.
+ Con assistenza di personale specificatamente formato, il verso di apertura delle porte tra i
+ compartimenti può essere limitato alla sola direzione prevalente dell’esodo
+ Diapositiva 109
+ ESODO PER ATTIVITÀ ALL’APERTO
+Attività all’aperto: attività, comprensiva delle sue vie d’esodo, svolta in
+area delimitata e prevalentemente in spazio a cielo libero, che consente a
+fumo e calore dell’incendio di disperdersi direttamente in atmosfera
+ Non sono considerate attività all’aperto quelle svolte su terrazze, aventi vie d’esodo
+ all’interno di opere da costruzione
+Nelle attività all’aperto la probabilità che gli effetti dell’incendio impediscano l’esodo
+degli occupanti è considerata meno rilevante rispetto alle altre attività, perché fumo e
+calore dell’incendio si disperdono direttamente in atmosfera.
+ Progettazione
+ Progettazione
+ sistema
+ sistema
+ d’esodo Indicazioni
+ d’esodo
+ all’interno di complementari
+ attività
+ opere da
+ all’aperto
+ costruzione
+ Diapositiva 110
+ ESODO PER ATTIVITÀ ALL’APERTO
+Il sistema d’esodo delle attività all’aperto è dimensionato limitando il massimo intervallo di tempo
+Δtcoda che gli occupanti passano in coda lungo le vie d’esodo prima di potersi allontanare.
+ x2
+ si omette
+ Diapositiva 111
+ ESODO PER ATTIVITÀ ALL’APERTO
+Il sistema d’esodo delle attività all’aperto è dimensionato limitando il massimo intervallo di tempo
+Δtcoda che gli occupanti passano in coda lungo le vie d’esodo prima di potersi allontanare.
+ Diapositiva 112
+ ESODO PER ATTIVITÀ ALL’APERTO
+ Eliminazione o superamento delle barriere architettoniche per
+ l’esodo all’aperto
+• È possibile impiegare come spazio calmo uno spazio a cielo libero con
+ caratteristiche pari a quelle del luogo sicuro, chiaramente delimitato e
+ contiguo ad una via d’esodo, a tal scopo esclusivamente destinato e
+ facilmente raggiungibile dai soccorritori.
+• È possibile effettuare esodo orizzontale progressivo verso spazio a
+ cielo libero con caratteristiche pari a quelle del luogo sicuro,
+ chiaramente delimitato e contiguo ad una via d’esodo, a tal scopo
+ esclusivamente destinato e facilmente raggiungibile dai soccorritori.
+

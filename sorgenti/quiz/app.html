@@ -1,0 +1,1182 @@
+<title>Quiz Professionista Antincendio</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<style>
+/* Layout: colonna unica centrata (max 760px); barra di navigazione fissa in basso; nel quiz comandi fissi in basso e correzione in un pannello che sale dal basso; visore PDF a schermo intero. */
+:root {
+  --bg: #eef1f0;
+  --surface: #ffffff;
+  --surface-2: #e4e9e7;
+  --line: #cfd7d4;
+  --fg: #1a2124;
+  --muted: #5a666a;
+  --accent: #c4161c;      /* rosso segnaletica antincendio */
+  --accent-ink: #ffffff;
+  --accent-soft: #fbe5e5;
+  --ok: #0b7a46;          /* verde segnaletica di esodo */
+  --ok-soft: #dff1e7;
+  --ko: #b3261e;
+  --ko-soft: #f9e1df;
+  --warn: #8a5a00;
+  --warn-soft: #fbefd3;
+  --focus: #1d5fd1;
+  --ink-bg: #1a2124; --ink-fg: #ffffff; --ink-muted: #b9c4c7; --ink-track: #3a454a; --ink-ring: #4fd18b;
+  --font-display: "Barlow Condensed", "Arial Narrow", "Roboto Condensed", sans-serif;
+  --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  --r: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #121618; --surface: #1b2124; --surface-2: #242c30; --line: #34404a;
+    --fg: #e6ecee; --muted: #9aa8ad; --accent: #ff4d4f; --accent-ink: #1a0b0b; --accent-soft: #3a1c1d;
+    --ok: #4fd18b; --ok-soft: #17342a; --ko: #ff7a70; --ko-soft: #3b1f1d; --warn: #f2c25c; --warn-soft: #3a2f16; --focus: #7fb0ff;
+    --ink-bg: #242c30; --ink-track: #3a454a;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #121618; --surface: #1b2124; --surface-2: #242c30; --line: #34404a;
+  --fg: #e6ecee; --muted: #9aa8ad; --accent: #ff4d4f; --accent-ink: #1a0b0b; --accent-soft: #3a1c1d;
+  --ok: #4fd18b; --ok-soft: #17342a; --ko: #ff7a70; --ko-soft: #3b1f1d; --warn: #f2c25c; --warn-soft: #3a2f16; --focus: #7fb0ff;
+  --ink-bg: #242c30; --ink-track: #3a454a;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--fg); font: 15px/1.55 var(--font-body); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.wrap { max-width: 760px; margin: 0 auto; padding-block: 20px 56px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+h1, h2, h3 { font-family: var(--font-display); font-weight: 700; letter-spacing: .01em; text-wrap: balance; margin: 0; line-height: 1.1; }
+h1 { font-size: 2.1rem; }
+h2 { font-size: 1.45rem; }
+h3 { font-size: 1.15rem; font-weight: 600; }
+p { margin: 0; }
+.muted { color: var(--muted); }
+.small { font-size: .86rem; }
+.mono { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+.stack { display: flex; flex-direction: column; gap: 14px; }
+.row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.spacer { flex: 1; }
+
+button { font: inherit; color: inherit; cursor: pointer; }
+button:focus-visible, input:focus-visible, select:focus-visible, .opt:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.btn { border: 1px solid var(--line); background: var(--surface); padding: 10px 16px; border-radius: 8px; font-weight: 600; min-height: 44px; }
+.btn:hover { border-color: var(--muted); }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.btn.primary:hover { filter: brightness(1.06); }
+.btn.ghost { background: transparent; }
+.btn:disabled { opacity: .45; cursor: not-allowed; }
+.linkbtn { background: none; border: 0; padding: 0; color: var(--accent); font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
+
+/* Testata */
+.mast { display: flex; flex-direction: column; gap: 6px; padding-bottom: 18px; border-bottom: 3px solid var(--accent); margin-bottom: 22px; }
+.eyebrow { font-family: var(--font-mono); font-size: .74rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+
+/* Riquadri */
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 18px; display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+.panel.exam { border-color: var(--accent); border-width: 2px; }
+.facts { display: flex; gap: 22px; flex-wrap: wrap; }
+.fact b { display: block; font-family: var(--font-display); font-size: 2rem; line-height: 1; font-weight: 700; }
+.fact span { font-size: .8rem; color: var(--muted); }
+
+/* Selezione argomenti e controlli segmentati */
+.topics { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr)); grid-auto-rows: 1fr; gap: 8px; }
+.tbtn { display: grid; grid-template-columns: 18px minmax(0, 1fr) auto; gap: 10px; align-items: center; text-align: left; width: 100%; height: 100%; min-height: 58px; padding: 8px 12px; border: 1.5px solid var(--line); border-radius: 8px; background: var(--surface); font-size: .86rem; line-height: 1.25; }
+.tbtn:hover { border-color: var(--muted); }
+.tbtn .box { width: 18px; height: 18px; border-radius: 4px; border: 1.5px solid var(--line); display: grid; place-items: center; font-size: .72rem; font-weight: 700; color: transparent; }
+.tbtn[aria-pressed="true"] { border-color: var(--accent); background: var(--accent-soft); }
+.tbtn[aria-pressed="true"] .box { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.tbtn .n { color: var(--muted); font-family: var(--font-mono); font-size: .78rem; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.seg button { border: 0; background: var(--surface); padding: 8px 14px; min-height: 40px; font-variant-numeric: tabular-nums; }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed="true"] { background: var(--fg); color: var(--bg); font-weight: 600; }
+
+/* Navigazione in basso */
+.nav { position: fixed; left: 0; right: 0; bottom: 0; z-index: 20; background: var(--surface); border-top: 1px solid var(--line); padding-bottom: env(safe-area-inset-bottom, 0px); }
+.nav > div { max-width: 760px; margin: 0 auto; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.nav button { border: 0; background: none; min-height: 58px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; font-size: .75rem; font-weight: 500; color: var(--muted); position: relative; }
+.nav button svg { width: 22px; height: 22px; }
+.nav button[aria-current="page"] { color: var(--accent); font-weight: 600; }
+.nav .cnt { position: absolute; top: 5px; left: calc(50% + 9px); min-width: 18px; height: 18px; padding: 0 5px; box-sizing: border-box; border-radius: 9px; background: var(--surface-2); color: var(--fg); font-family: var(--font-mono); font-size: .68rem; display: grid; place-items: center; }
+.wrap.has-nav { padding-bottom: calc(92px + env(safe-area-inset-bottom, 0px)); }
+.wrap.has-bar { padding-bottom: calc(100px + env(safe-area-inset-bottom, 0px)); }
+.wrap.has-sheet { padding-bottom: 380px; }
+
+/* Pagina iniziale: cruscotto */
+.hero { background: var(--ink-bg); color: var(--ink-fg); border-radius: 14px; padding: 18px; display: flex; flex-direction: column; gap: 16px; }
+.hero .top { display: flex; align-items: center; gap: 16px; }
+.hero .ring { width: 88px; height: 88px; border-radius: 50%; flex: none; display: grid; place-items: center; }
+.hero .ring > span { width: 70px; height: 70px; border-radius: 50%; background: var(--ink-bg); display: grid; place-items: center; font-family: var(--font-display); font-weight: 700; font-size: 1.6rem; }
+.hero .txt { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.hero .txt small { font-size: .82rem; color: var(--ink-muted); }
+.hero .txt b { font-family: var(--font-display); font-size: 1.45rem; font-weight: 600; line-height: 1.1; }
+.hero-cta { display: flex; align-items: center; justify-content: space-between; gap: 10px; width: 100%; min-height: 54px; padding: 0 16px; border: 0; border-radius: 10px; background: var(--accent); color: var(--accent-ink); font-weight: 600; font-size: 1rem; }
+.hero-cta small { font-family: var(--font-mono); font-size: .76rem; opacity: .9; }
+.hero-cta span { text-align: left; }
+.hero-cta small { white-space: nowrap; }
+.btn svg { width: 20px; height: 20px; flex: none; }
+.tiles { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.tile { text-align: left; border: 1px solid var(--line); background: var(--surface); border-radius: 12px; padding: 12px 14px; min-height: 88px; display: flex; flex-direction: column; gap: 3px; }
+.tile:hover:not(:disabled) { border-color: var(--muted); }
+.tile:disabled { opacity: .55; cursor: default; }
+.tile b { font-family: var(--font-display); font-size: 1.8rem; line-height: 1; }
+.tile span { font-size: .88rem; font-weight: 600; }
+.tile small { font-size: .78rem; color: var(--muted); }
+.tlist { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; display: flex; flex-direction: column; overflow: hidden; }
+.trow { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 12px; align-items: center; text-align: left; width: 100%; min-height: 58px; border: 0; border-bottom: 1px solid var(--surface-2); background: none; padding: 10px 14px; }
+.trow:last-child { border-bottom: 0; }
+.trow:hover { background: var(--surface-2); }
+.trow .nm { font-size: .92rem; font-weight: 500; }
+.trow .pc { font-family: var(--font-mono); font-size: .78rem; white-space: nowrap; }
+.trow .pc.hi { color: var(--ok); } .trow .pc.mid { color: var(--warn); } .trow .pc.low { color: var(--ko); } .trow .pc.na { color: var(--muted); }
+.trow .track { grid-column: 1 / -1; height: 6px; border-radius: 3px; background: var(--surface-2); overflow: hidden; }
+.trow .track i { display: block; height: 100%; }
+.trow .track i.hi { background: var(--ok); } .trow .track i.mid { background: var(--warn); } .trow .track i.low { background: var(--ko); }
+
+/* Barre per argomento (cliccabili) */
+.bars { display: flex; flex-direction: column; gap: 8px; }
+.bar { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 4px 10px; align-items: center; font-size: .86rem;
+  width: 100%; border: 0; background: none; padding: 6px 4px; margin: -2px -4px; border-radius: 6px; text-align: left; box-sizing: content-box; }
+.bar:hover { background: var(--surface-2); }
+.bar .nm { text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.bar:hover .nm { text-decoration-color: var(--fg); }
+.bar .pct { text-align: right; font-variant-numeric: tabular-nums; color: var(--muted); }
+.bar .track { grid-column: 1 / -1; height: 8px; background: var(--surface-2); border-radius: 4px; overflow: hidden; }
+.bar .fill { height: 100%; background: var(--ok); }
+.bar .fill.mid { background: var(--warn); }
+.bar .fill.low { background: var(--ko); }
+
+/* Storico dei test */
+.hlist { display: flex; flex-direction: column; gap: 8px; }
+.hrow { display: grid; grid-template-columns: 6px minmax(0, 1fr) auto; gap: 12px; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px 10px 0; overflow: hidden; text-align: left; width: 100%; }
+button.hrow:hover { border-color: var(--muted); }
+.hrow .stripe { align-self: stretch; margin: -10px 0; background: var(--line); }
+.hrow .stripe.hi { background: var(--ok); } .hrow .stripe.mid { background: var(--warn); } .hrow .stripe.low { background: var(--ko); }
+.hrow .sc { font-family: var(--font-display); font-weight: 700; font-size: 1.5rem; line-height: 1; font-variant-numeric: tabular-nums; text-align: right; }
+.hrow .sc small { display: block; font-family: var(--font-mono); font-size: .74rem; font-weight: 500; color: var(--muted); margin-top: 3px; }
+.tag { font-family: var(--font-mono); font-size: .7rem; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; padding: 2px 7px; border-radius: 4px; background: var(--surface-2); }
+.tag.exam { background: var(--accent-soft); color: var(--accent); }
+
+/* Materiale di riferimento */
+.matlink { display: inline-flex; align-items: center; gap: 6px; font-weight: 600; color: var(--accent); text-decoration: none; border: 1px solid var(--accent); border-radius: 6px; padding: 5px 10px; min-height: 34px; font-size: .84rem; background: var(--surface); }
+.matlink:hover { background: var(--accent-soft); }
+.matlink svg { width: 15px; height: 15px; flex: none; }
+.mlist { display: flex; flex-direction: column; gap: 8px; }
+.mitem { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 12px; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; }
+.mitem .files { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 6px; }
+.st { font-family: var(--font-mono); font-size: .72rem; font-weight: 600; padding: 2px 7px; border-radius: 4px; white-space: nowrap; }
+.st.ok { background: var(--ok-soft); color: var(--ok); } .st.ko { background: var(--ko-soft); color: var(--ko); } .st.na { background: var(--surface-2); color: var(--muted); }
+
+/* Quiz */
+.qhead { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding: 8px 0 10px; margin-bottom: 14px; border-bottom: 1px solid var(--line); display: flex; flex-direction: column; gap: 10px; }
+.qhead .row { flex-wrap: nowrap; }
+.qhead .who { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+.qhead .who .eyebrow, .qhead .who strong { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.iconbtn { width: 44px; height: 44px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); display: grid; place-items: center; flex: none; color: var(--fg); }
+.iconbtn svg { width: 20px; height: 20px; }
+.iconbtn[aria-pressed="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.timer { font-family: var(--font-mono); font-weight: 600; font-size: 1.15rem; padding: 6px 10px; border-radius: 8px; background: var(--surface); border: 1px solid var(--line); font-variant-numeric: tabular-nums; }
+.timer.low { color: var(--accent-ink); background: var(--accent); border-color: var(--accent); }
+.strip { display: grid; gap: 2px; height: 6px; }
+.strip i { border-radius: 1px; background: var(--surface-2); }
+.strip i.d { background: var(--fg); } .strip i.f { background: var(--warn); } .strip i.ok { background: var(--ok); } .strip i.ko { background: var(--ko); }
+.strip i.c { background: var(--accent); }
+.progress { height: 6px; background: var(--surface-2); border-radius: 3px; overflow: hidden; }
+.progress > div { height: 100%; background: var(--fg); transition: width .2s; }
+.qcard { display: flex; flex-direction: column; gap: 16px; }
+.qtag { align-self: flex-start; font-family: var(--font-mono); font-size: .7rem; letter-spacing: .06em; text-transform: uppercase; padding: 4px 8px; border-radius: 6px; background: var(--surface-2); color: var(--muted); }
+.qtext { font-size: 1.15rem; font-weight: 500; line-height: 1.5; }
+.opts { display: flex; flex-direction: column; gap: 10px; }
+.opt { display: grid; grid-template-columns: 32px 1fr; gap: 12px; align-items: start; text-align: left; width: 100%; padding: 14px; border: 1.5px solid var(--line); border-radius: 12px; background: var(--surface); line-height: 1.45; min-height: 56px; }
+.opt:hover:not(:disabled) { border-color: var(--muted); }
+.opt .let { font-family: var(--font-mono); font-weight: 600; width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center; border: 1.5px solid var(--line); font-size: .85rem; }
+.opt.sel { border-color: var(--fg); background: var(--surface-2); }
+.opt.sel .let { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.opt.right { border-color: var(--ok); background: var(--ok-soft); }
+.opt.right .let { background: var(--ok); border-color: var(--ok); color: var(--surface); }
+.opt.wrong { border-color: var(--ko); background: var(--ko-soft); }
+.opt.wrong .let { background: var(--ko); border-color: var(--ko); color: var(--surface); }
+.opt:disabled { cursor: default; }
+.note { border-radius: 8px; padding: 10px 12px; font-size: .88rem; background: var(--warn-soft); color: var(--fg); border-left: 4px solid var(--warn); }
+/* barra comandi e pannelli dal basso */
+.actbar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 20; background: var(--surface); border-top: 1px solid var(--line); padding: 10px 0 calc(12px + env(safe-area-inset-bottom, 0px)); }
+.actbar > div, .sheet > div { max-width: 760px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); box-sizing: border-box; }
+.actbar > div { display: flex; gap: 8px; align-items: center; }
+.actbar .btn { min-height: 52px; border-radius: 12px; display: inline-flex; align-items: center; justify-content: center; gap: 6px; }
+.actbar .iconbtn { width: 52px; height: 52px; border-radius: 12px; }
+.actbar .grow { flex: 1; }
+.sheet { position: fixed; left: 0; right: 0; bottom: 0; z-index: 25; background: var(--surface); border-radius: 18px 18px 0 0; box-shadow: 0 -8px 28px rgba(0, 0, 0, .18); max-height: 75vh; overflow-y: auto; }
+.sheet > div { padding-top: 10px; padding-bottom: calc(16px + env(safe-area-inset-bottom, 0px)); display: flex; flex-direction: column; gap: 12px; }
+.sheet .grip { align-self: center; width: 40px; height: 4px; border-radius: 2px; background: var(--line); }
+.sheet .vhead { display: flex; align-items: center; gap: 10px; font-size: 1.08rem; font-weight: 600; }
+.vicon { width: 32px; height: 32px; border-radius: 50%; display: grid; place-items: center; flex: none; }
+.vicon svg { width: 18px; height: 18px; }
+.vicon.ok { background: var(--ok-soft); color: var(--ok); } .vicon.ko { background: var(--ko-soft); color: var(--ko); }
+.sheet .row .btn { min-height: 52px; border-radius: 12px; }
+.matcard { display: flex; align-items: center; gap: 12px; padding: 12px; border: 1px solid var(--line); border-radius: 12px; background: var(--bg); text-decoration: none; color: var(--fg); }
+.matcard:hover { border-color: var(--muted); }
+.matcard .doc { width: 40px; height: 48px; border-radius: 6px; background: var(--surface); border: 1px solid var(--line); display: grid; place-items: center; color: var(--accent); flex: none; }
+.matcard .doc svg { width: 20px; height: 20px; }
+.matcard .t { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+.matcard .t small { font-size: .78rem; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.verdict { font-weight: 600; }
+.verdict.ok { color: var(--ok); }
+.verdict.ko { color: var(--ko); }
+.flag[aria-pressed="true"] { border-color: var(--warn); background: var(--warn-soft); color: var(--fg); }
+
+.qgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(40px, 1fr)); gap: 6px; }
+.qgrid button { height: 40px; border: 1px solid var(--line); background: var(--surface); border-radius: 6px; font-family: var(--font-mono); font-size: .82rem; position: relative; }
+.qgrid button.done { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.qgrid button.cur { outline: 2px solid var(--accent); outline-offset: 1px; }
+.qgrid button.flagged::after { content: ""; position: absolute; top: 3px; right: 3px; width: 7px; height: 7px; border-radius: 50%; background: var(--warn); }
+.qgrid button.ok { background: var(--ok-soft); border-color: var(--ok); color: var(--fg); }
+.qgrid button.ko { background: var(--ko-soft); border-color: var(--ko); color: var(--fg); }
+.qgrid button.na { background: var(--surface-2); color: var(--muted); }
+.legend { display: flex; gap: 14px; flex-wrap: wrap; font-size: .8rem; color: var(--muted); }
+.legend i { display: inline-block; width: 11px; height: 11px; border-radius: 3px; vertical-align: -1px; margin-right: 5px; border: 1px solid var(--line); }
+
+.confirm { border: 2px solid var(--accent); background: var(--accent-soft); border-radius: var(--r); padding: 14px; display: flex; flex-direction: column; gap: 10px; }
+
+/* Risultati */
+.score { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; }
+.score b { font-family: var(--font-display); font-size: 4rem; line-height: .9; font-weight: 700; font-variant-numeric: tabular-nums; }
+.review { display: flex; flex-direction: column; gap: 10px; }
+.ritem { background: var(--surface); border: 1px solid var(--line); border-left: 5px solid var(--line); border-radius: 8px; padding: 12px 14px; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.ritem.ok { border-left-color: var(--ok); }
+.ritem.ko { border-left-color: var(--ko); }
+.ritem.na { border-left-color: var(--muted); }
+.ans { font-size: .9rem; }
+.ans.your { color: var(--ko); }
+.ans.good { color: var(--ok); font-weight: 500; }
+
+/* Archivio */
+.search { width: 100%; padding: 10px 12px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--fg); font: inherit; min-height: 44px; }
+details.topic { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); }
+details.topic > summary { padding: 12px 14px; cursor: pointer; display: flex; gap: 10px; align-items: center; list-style: none; }
+details.topic > summary::-webkit-details-marker { display: none; }
+details.topic > summary::after { content: "+"; margin-left: auto; font-family: var(--font-mono); color: var(--muted); }
+details.topic[open] > summary::after { content: "−"; }
+.alist { display: flex; flex-direction: column; border-top: 1px solid var(--line); }
+.aitem { padding: 12px 14px; border-bottom: 1px solid var(--line); display: flex; flex-direction: column; gap: 4px; }
+.aitem:last-child { border-bottom: 0; }
+
+.footer { margin-top: 28px; font-size: .8rem; color: var(--muted); }
+
+/* Visore PDF interno */
+.pv { position: fixed; inset: 0; z-index: 50; display: none; flex-direction: column; background: var(--bg); }
+.pv.open { display: flex; }
+.pv-bar { display: flex; align-items: center; gap: 8px; padding: 8px 12px; background: var(--surface); border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+.pv-title { flex: 1 1 200px; min-width: 0; font-weight: 600; font-size: .9rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.pv-bar button, .pv-bar a { min-height: 40px; min-width: 40px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--fg); font: inherit; font-size: .85rem; padding: 0 10px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none; }
+.pv-bar button:disabled { opacity: .4; }
+.pv-pg { font-family: var(--font-mono); font-size: .82rem; color: var(--muted); white-space: nowrap; }
+.pv-body { flex: 1; overflow: auto; padding: 12px; display: flex; justify-content: center; align-items: flex-start; -webkit-overflow-scrolling: touch; }
+.pv-body canvas { background: #fff; box-shadow: 0 1px 6px rgba(0,0,0,.25); max-width: none; }
+.pv-msg { margin: 40px auto; max-width: 420px; text-align: center; color: var(--muted); line-height: 1.5; }
+
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap" id="app"></div>
+<div class="pv" id="pv" role="dialog" aria-modal="true" aria-labelledby="pv-title">
+  <div class="pv-bar">
+    <button id="pv-close" aria-label="Chiudi il documento">&times; Chiudi</button>
+    <span class="pv-title" id="pv-title"></span>
+    <button id="pv-prev" aria-label="Pagina precedente">&lsaquo;</button>
+    <span class="pv-pg" id="pv-pg"></span>
+    <button id="pv-next" aria-label="Pagina successiva">&rsaquo;</button>
+    <button id="pv-zout" aria-label="Riduci">&minus;</button>
+    <button id="pv-zin" aria-label="Ingrandisci">+</button>
+    <a id="pv-ext" target="_blank" rel="noopener">Apri fuori</a>
+  </div>
+  <div class="pv-body" id="pv-body"></div>
+</div>
+
+<script>
+/*__DOMANDE__*/
+</script>
+<script>
+(function () {
+  "use strict";
+
+  // =====================================================================
+  // Costanti e dati
+  // =====================================================================
+  const ESAME_N = 50, ESAME_MIN = 60;          // formato dell'esame
+  const PRATICA_ARG_N = 20;                     // domande dell'esercitazione dalla scheda argomento
+  const STORICO_MAX = 300;                      // test conservati nello storico
+  const KEY = "qpa.v1";                         // chiave di localStorage
+  const LET = ["A", "B", "C", "D", "E"];
+  const PDFJS = "https://cdn.jsdelivr.net/npm/pdfjs-dist@4.10.38/build/";
+
+  const app = document.getElementById("app");
+  const byId = Object.fromEntries(DOMANDE.map(d => [d.id, d]));
+  const COUNT = {};
+  DOMANDE.forEach(d => { COUNT[d.s] = (COUNT[d.s] || 0) + 1; });
+
+  // materiale PDF (generato dal build in pagine.js; assente = nessun link)
+  const HAS_MAT = typeof MATERIALE !== "undefined";
+  const MAT = HAS_MAT ? MATERIALE : {};
+  const PAG = HAS_MAT ? PAGINE : {};
+  const TIT = HAS_MAT ? FILE_TIT : {};
+  const VERSIONE = typeof AGGIORNATO !== "undefined" ? AGGIORNATO : "";
+  const FID2SRC = {};
+  Object.entries(MAT).forEach(([src, ids]) => ids.forEach(id => {
+    if (!FID2SRC[id]) FID2SRC[id] = ids.length > 1 ? `${src} · ${TIT[id] || ""}` : src;
+  }));
+
+  // =====================================================================
+  // Memoria locale (solo su questo dispositivo)
+  // =====================================================================
+  function load() {
+    try {
+      const s = JSON.parse(localStorage.getItem(KEY) || "{}");
+      // le versioni precedenti salvavano solo le simulazioni, senza correzione
+      const hist = s.hist || (s.sims || []).map(x => ({ t: x.t, mode: "esame", label: "Simulazione d'esame", ok: x.ok, tot: x.tot, secs: x.secs, items: null }));
+      // le sessioni salvate dalle versioni precedenti possono non avere l'etichetta
+      const label = x => x.label || (x.mode === "esame" ? "Simulazione d'esame" : "Esercitazione");
+      hist.forEach(h => { h.label = label(h); });
+      let sess = s.sess || null;
+      if (sess) {
+        sess.label = label(sess);
+        sess.items = (sess.items || []).filter(i => byId[i.id]);
+        if (!sess.items.length) sess = null;     // niente da riprendere né da correggere
+        else sess.cur = Math.min(Math.max(0, sess.cur || 0), sess.items.length - 1);
+      }
+      return { stats: s.stats || {}, hist, sess };
+    } catch (e) {
+      return { stats: {}, hist: [], sess: null };
+    }
+  }
+  const db = load();
+  function save() { try { localStorage.setItem(KEY, JSON.stringify(db)); } catch (e) { /* storage non disponibile */ } }
+  save();   // riscrive subito i dati nel formato attuale (migrazione dalle versioni precedenti)
+
+  // =====================================================================
+  // Utilità
+  // =====================================================================
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  function shuffle(a) { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+  const fmt = s => { s = Math.max(0, Math.round(s)); return String(Math.floor(s / 60)).padStart(2, "0") + ":" + String(s % 60).padStart(2, "0"); };
+  const dateIt = t => { const d = new Date(t); return d.toLocaleDateString("it-IT", { day: "2-digit", month: "2-digit", year: "numeric" }) + " " + d.toLocaleTimeString("it-IT", { hour: "2-digit", minute: "2-digit" }); };
+  const pct = (ok, n) => n ? Math.round(ok / n * 100) : 0;
+  const rifai = n => n === 1 ? "Rifai la domanda sbagliata" : `Rifai le ${n} sbagliate`;
+  const pctCls = p => p >= 80 ? "hi" : p >= 60 ? "mid" : "low";
+  const topicName = k => ARGOMENTI[k].nome;
+
+  const isRight = it => it.ans !== null && it.order[it.ans] === byId[it.id].c;
+  const lastResult = id => { const x = db.stats[id]; return !x ? "na" : x.last === 1 ? "ok" : "ko"; };
+  const wrongIds = () => Object.entries(db.stats).filter(([id, s]) => byId[id] && s.last === 0).map(([id]) => id);
+
+  function makeItems(ids) {
+    return ids.map(id => {
+      const d = byId[id], idx = d.o.map((_, i) => i);
+      return { id, order: d.fix ? idx : shuffle(idx), ans: null, flag: false };
+    });
+  }
+
+  function topicStats() {
+    const out = {};
+    Object.entries(db.stats).forEach(([id, s]) => {
+      const d = byId[id]; if (!d) return;
+      const t = out[d.s] || (out[d.s] = { n: 0, ok: 0 });
+      t.n += s.n; t.ok += s.ok;
+    });
+    return out;
+  }
+
+  // =====================================================================
+  // Pezzi di interfaccia riutilizzati
+  // =====================================================================
+  const ICON_PDF = `<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M4 1.5h5.5L13 5v9.5H4z"/><path d="M9.5 1.5V5H13"/><path d="M6 9h5M6 11.5h5"/></svg>`;
+  const pdfUrl = (fid, pg) => `materiale/${fid}.pdf${pg ? "#page=" + pg : ""}`;
+  const pdfLink = (fid, pg, label) => `<a class="matlink" href="${pdfUrl(fid, pg)}" target="_blank" rel="noopener">${ICON_PDF}${esc(label)}</a>`;
+
+  // link a tutti i PDF di una fonte (uno o più file)
+  function sourceLinks(src) {
+    const ids = MAT[src] || [];
+    return ids.map(fid => pdfLink(fid, 0, ids.length > 1 ? (TIT[fid] || "Apri il PDF") : "Apri il PDF")).join("");
+  }
+
+  // «Ripassa sulla scheda» (pagina più pertinente) e, se richiesto, link alla scheda argomento
+  function ripassa(d, withTopic) {
+    const p = PAG[d.id];
+    let h = p ? pdfLink(p[0], p[1], "Ripassa sulla scheda" + (p[1] ? " · pag. " + p[1] : "")) : "";
+    if (withTopic) h += `<button class="linkbtn small" data-tv="${d.s}">${p ? "Tutto l'argomento" : "Ripassa l'argomento: domande e materiale"} →</button>`;
+    return h ? `<div class="row small">${h}</div>` : "";
+  }
+
+  // corpo di una domanda con la risposta corretta (correzione, scheda argomento, archivio)
+  function answerBlock(d, { your = null, meta = null, topicLink = false } = {}) {
+    return `<p>${esc(d.q)}</p>
+      ${your !== null ? `<p class="ans your">✗ Tua risposta: ${esc(your)}</p>` : ""}
+      <p class="ans good">✓ ${esc(d.o[d.c])}</p>
+      ${d.dubbia ? `<div class="note"><strong>Risposta da verificare.</strong> ${esc(d.n || "")}</div>` : ""}
+      <p class="small muted">${meta !== null ? meta : "Fonte: " + esc(d.f.join(", "))}</p>
+      ${ripassa(d, topicLink)}`;
+  }
+
+  // barra di navigazione fissa in basso
+  const NAV_ICON = {
+    home: '<path d="M12 3c2 3 5 5 5 9a5 5 0 0 1-10 0c0-2 1-3.5 2-4.5 0 2 1 3 2 3 0-3 0-5 1-7.5z"/>',
+    risultati: '<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
+    archivio: '<path d="M4 5h16M4 12h16M4 19h10"/>',
+  };
+  function tabs(cur) {
+    const t = [["home", "Allenamento"], ["risultati", "Risultati", db.hist.length], ["archivio", "Archivio"]];
+    return `<nav class="nav" aria-label="Sezioni"><div>${t.map(([k, l, n]) =>
+      `<button data-nav="${k}" ${k === cur ? 'aria-current="page"' : ""}><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${NAV_ICON[k]}</svg>${l}${n ? `<span class="cnt">${n}</span>` : ""}</button>`).join("")}</div></nav>`;
+  }
+
+  // scrive la vista e adatta il margine inferiore a barre e pannelli fissi
+  function paint(html) {
+    app.innerHTML = html;
+    app.classList.toggle("has-nav", !!app.querySelector(".nav"));
+    app.classList.toggle("has-bar", !!app.querySelector(".actbar"));
+    app.classList.toggle("has-sheet", !!app.querySelector(".sheet"));
+  }
+
+  // barre «risposte corrette per argomento», dalla più debole; ogni barra apre la scheda argomento
+  function barsHtml(stats, right) {
+    return `<div class="bars">${Object.entries(stats).filter(([, v]) => v.n)
+      .sort((a, b) => a[1].ok / a[1].n - b[1].ok / b[1].n)
+      .map(([k, v]) => {
+        const q = pct(v.ok, v.n), cls = q >= 80 ? "" : q >= 60 ? "mid" : "low";
+        return `<button class="bar" data-tv="${k}" aria-label="${esc(topicName(k))}: apri domande e materiale"><span class="nm">${esc(topicName(k))}</span><span class="pct">${right(v, q)} ›</span><div class="track"><div class="fill ${cls}" style="width:${q}%"></div></div></button>`;
+      }).join("")}</div>`;
+  }
+
+  const confirmBox = (text, yesAct, yesLabel, noAct, noLabel) =>
+    `<div class="confirm" role="alertdialog"><span>${text}</span><div class="row"><button class="btn primary" data-act="${yesAct}">${yesLabel}</button><button class="btn ghost" data-act="${noAct}">${noLabel}</button></div></div>`;
+
+  // =====================================================================
+  // Stato dell'interfaccia e navigazione
+  // =====================================================================
+  const ui = {
+    view: "home",
+    topics: new Set(Object.keys(ARGOMENTI)), nPrat: 20,   // allenamento
+    allTopics: false, multiOpen: false, discardAsk: false,
+    showGrid: false, confirm: false,                      // quiz
+    filter: "ko",                                         // correzione
+    hf: "all", hIdx: null, resetAsk: false,               // risultati
+    tk: null, tf: "auto", prev: "home",                   // scheda argomento
+    q: "", ag: "arg",                                     // archivio
+  };
+  let timerH = null;
+  let onClick = null;   // gestore dei pulsanti della vista corrente (impostato da ogni render*)
+
+  function go(view) { ui.view = view; ui.resetAsk = false; ui.discardAsk = false; render(); }
+  function openTopic(k) {
+    if (ui.view !== "argomento") ui.prev = ui.view;
+    ui.tk = k; ui.tf = "auto"; go("argomento");
+  }
+
+  function render() {
+    clearInterval(timerH);
+    const sess = db.sess;
+    if (ui.view === "quiz" && sess && !sess.done) renderQuiz();
+    else if (ui.view === "result" && sess) renderResult(sess, false);
+    else if (ui.view === "dettaglio" && db.hist[ui.hIdx] && db.hist[ui.hIdx].items) renderResult(histSess(db.hist[ui.hIdx]), true);
+    else if (ui.view === "risultati") renderRisultati();
+    else if (ui.view === "argomento" && ARGOMENTI[ui.tk]) renderTopic();
+    else if (ui.view === "archivio") renderArchive();
+    else { ui.view = "home"; renderHome(); }
+    try { window.scrollTo(0, 0); } catch (e) { /* ignorato */ }
+  }
+
+  // un solo gestore dei clic per tutta l'app
+  app.addEventListener("click", e => {
+    const a = e.target.closest("a.matlink, a.matcard");
+    if (a) {
+      const m = (a.getAttribute("href") || "").match(/^materiale\/([^.]+)\.pdf(?:#page=(\d+))?/);
+      if (m) { e.preventDefault(); openPdf(m[1], m[2] ? +m[2] : 1); }
+      return;
+    }
+    const b = e.target.closest("button");
+    if (!b || b.disabled) return;
+    if (b.dataset.nav) return go(b.dataset.nav);
+    if (b.dataset.tv) return openTopic(b.dataset.tv);
+    if (onClick) onClick(b);
+  });
+
+  // =====================================================================
+  // Sessioni: simulazione, esercitazione, consegna
+  // =====================================================================
+  function startSession(mode, ids, label) {
+    if (!ids.length) return;
+    const now = Date.now();
+    db.sess = { mode, label, items: makeItems(ids), cur: 0, start: now, end: mode === "esame" ? now + ESAME_MIN * 60000 : null, done: false };
+    ui.confirm = false; ui.showGrid = false;
+    save(); go("quiz");
+  }
+  const startExam = () => startSession("esame", shuffle(DOMANDE.map(d => d.id)).slice(0, ESAME_N), "Simulazione d'esame");
+  const startPractice = (ids, label) => startSession("pratica", shuffle(ids), label);
+
+  function finish() {
+    const s = db.sess;
+    if (!s || s.done) return;
+    s.done = true;
+    s.stop = s.end ? Math.min(Date.now(), s.end) : Date.now();   // una simulazione scaduta si ferma al limite
+    const counted = s.mode === "esame" ? s.items : s.items.filter(i => i.ans !== null);
+    counted.forEach(it => {
+      const st = db.stats[it.id] || { n: 0, ok: 0, last: null };
+      st.n++;
+      if (isRight(it)) { st.ok++; st.last = 1; } else st.last = 0;
+      db.stats[it.id] = st;
+    });
+    if (counted.length) {
+      db.hist.unshift({
+        t: s.start, mode: s.mode, label: s.label,
+        ok: counted.filter(isRight).length, tot: counted.length, secs: Math.round((s.stop - s.start) / 1000),
+        items: s.items.map(i => [i.id, i.order, i.ans]),
+      });
+      db.hist.length = Math.min(db.hist.length, STORICO_MAX);
+    }
+    ui.filter = "ko";
+    save(); go("result");
+  }
+
+  // ricostruisce una sessione conclusa dallo storico (salta le domande non più presenti)
+  function histSess(h) {
+    const items = h.items.filter(x => byId[x[0]]).map(x => ({ id: x[0], order: x[1], ans: x[2], flag: false }));
+    return { mode: h.mode, label: h.label, items, start: h.t, stop: h.t + h.secs * 1000, done: true };
+  }
+
+  // =====================================================================
+  // Vista: Allenamento (cruscotto)
+  // =====================================================================
+  function renderHome() {
+    const tot = DOMANDE.length;
+    const wrong = wrongIds();
+    const sess = db.sess && !db.sess.done ? db.sess : null;
+    const sims = db.hist.filter(h => h.mode === "esame").slice(0, 3);
+    const media = sims.length ? Math.round(sims.reduce((a, h) => a + h.ok / h.tot, 0) / sims.length * 100) : null;
+    const mediaOk = sims.length ? Math.round(sims.reduce((a, h) => a + h.ok, 0) / sims.length) : 0;
+    const ultima = sims[0];
+
+    // argomenti: prima quelli già affrontati, dal più debole; poi i mai fatti
+    const ts = topicStats();
+    const rows = Object.keys(ARGOMENTI).map(k => ({ k, st: ts[k], p: ts[k] ? pct(ts[k].ok, ts[k].n) : null }))
+      .sort((a, b) => (a.p === null) - (b.p === null) || (a.p ?? 0) - (b.p ?? 0) || (COUNT[b.k] || 0) - (COUNT[a.k] || 0));
+    const shown = ui.allTopics ? rows : rows.slice(0, 8);
+    const selCount = DOMANDE.filter(d => ui.topics.has(d.s)).length;
+    const nSel = ui.nPrat ? Math.min(ui.nPrat, selCount) : selCount;
+
+    paint(`
+      <header class="mast" style="border-bottom:0;padding-bottom:4px;margin-bottom:14px">
+        <span class="eyebrow">Corso base 120 ore · D.M. 5 agosto 2011</span>
+        <h1>Quiz Professionista Antincendio</h1>
+      </header>
+      <div class="stack">
+        ${sess ? `<div class="confirm" role="status">
+          <strong>Hai una ${sess.mode === "esame" ? "simulazione" : "esercitazione"} in corso</strong>
+          <span class="small">${sess.items.filter(i => i.ans !== null).length} risposte date su ${sess.items.length}${sess.mode === "esame" ? " · tempo residuo " + fmt((sess.end - Date.now()) / 1000) : ""}.</span>
+          ${ui.discardAsk
+            ? `<span class="small">Abbandonare? Le risposte date finora andranno perse.</span><div class="row"><button class="btn primary" data-act="discardyes">Sì, abbandona</button><button class="btn ghost" data-act="discardno">No</button></div>`
+            : `<div class="row"><button class="btn primary" data-act="resume">Riprendi</button><button class="btn ghost" data-act="discard">Abbandona</button></div>`}
+        </div>` : ""}
+
+        <section class="hero" aria-label="Simulazione d'esame">
+          <div class="top">
+            <div class="ring" style="background:conic-gradient(var(--ink-ring) 0 ${media ?? 0}%, var(--ink-track) ${media ?? 0}% 100%)" aria-hidden="true"><span>${media === null ? "–" : media + "%"}</span></div>
+            <div class="txt">
+              ${sims.length
+                ? `<small>Media ${sims.length === 1 ? "dell'ultima simulazione" : `delle ultime ${sims.length} simulazioni`}</small><b>${mediaOk} su ${ESAME_N} in media</b><small>Ultima: ${dateIt(ultima.t)} · ${ultima.ok}/${ultima.tot} in ${Math.round(ultima.secs / 60)} min</small>`
+                : `<small>Nessuna simulazione ancora</small><b>Misurati con una prova d'esame</b><small>${ESAME_N} domande casuali da ${tot}</small>`}
+            </div>
+          </div>
+          <button class="hero-cta" data-act="exam"><span>Inizia la simulazione</span><small>${Math.min(ESAME_N, tot)} dom. · ${ESAME_MIN}′</small></button>
+        </section>
+
+        <div class="tiles">
+          <button class="tile" data-act="wrong" ${wrong.length ? "" : "disabled"}>
+            <b style="color:var(--ko)">${wrong.length}</b><span>Errori da ripassare</span><small>${wrong.length ? "sbagliate l'ultima volta" : "nessun errore aperto"}</small>
+          </button>
+          <button class="tile" data-act="mix">
+            <b>${PRATICA_ARG_N}</b><span>Esercitazione mista</span><small>domande casuali, correzione subito</small>
+          </button>
+        </div>
+
+        <div class="row" style="align-items:baseline">
+          <h2>Argomenti</h2><span class="spacer"></span>
+          <span class="small muted">dal più debole · tocca per aprire</span>
+        </div>
+        <div class="tlist">
+          ${shown.map(({ k, st, p }) => {
+            const c = p === null ? "na" : pctCls(p);
+            return `<button class="trow" data-tv="${k}">
+              <span class="nm">${esc(topicName(k))}</span>
+              <span class="pc ${c}">${p === null ? `${COUNT[k] || 0} dom. · mai fatto` : `${p}% · ${st.n} risp.`}</span>
+              <span class="track">${p === null ? "" : `<i class="${c}" style="width:${p}%"></i>`}</span>
+            </button>`;
+          }).join("")}
+        </div>
+        ${rows.length > 8 ? `<div class="row"><button class="linkbtn small" data-act="alltopics">${ui.allTopics ? "Mostra meno" : `Mostra tutti gli argomenti (${rows.length})`}</button></div>` : ""}
+
+        <details class="topic" id="multi" ${ui.multiOpen ? "open" : ""}>
+          <summary><strong>Esercitazione su più argomenti</strong><span class="muted small">scegli argomenti e numero di domande</span></summary>
+          <div class="stack" style="padding:0 14px 14px">
+            <div class="row small"><button class="linkbtn" data-act="all">Seleziona tutti</button><button class="linkbtn" data-act="none">Deseleziona tutti</button></div>
+            <div class="topics">
+              ${Object.entries(ARGOMENTI).map(([k, a]) => `<button class="tbtn" data-topic="${k}" aria-pressed="${ui.topics.has(k)}"><span class="box" aria-hidden="true">✓</span><span>${esc(a.nome)}</span><span class="n">${COUNT[k] || 0}</span></button>`).join("")}
+            </div>
+            <div class="row">
+              <span class="small muted">Domande</span>
+              <div class="seg" role="group" aria-label="Numero di domande">
+                ${[10, 20, 30, 0].map(n => `<button data-n="${n}" aria-pressed="${ui.nPrat === n}">${n || "Tutte"}</button>`).join("")}
+              </div>
+            </div>
+            <div class="row"><button class="btn primary" data-act="practice" ${selCount ? "" : "disabled"}>Inizia esercitazione (${nSel})</button></div>
+          </div>
+        </details>
+
+        <p class="footer">${tot} domande tratte dai test e dal materiale del corso${VERSIONE ? " · versione del " + VERSIONE : ""}. I risultati restano salvati solo su questo dispositivo e browser.</p>
+      </div>
+      ${tabs("home")}`);
+
+    const det = document.getElementById("multi");
+    det.addEventListener("toggle", () => { ui.multiOpen = det.open; });
+
+    // ridisegna la pagina mantenendo la posizione di scorrimento
+    const keep = () => { const y = window.scrollY; renderHome(); window.scrollTo(0, y); };
+    onClick = b => {
+      if (b.dataset.topic) { const k = b.dataset.topic; ui.topics.has(k) ? ui.topics.delete(k) : ui.topics.add(k); return keep(); }
+      if (b.dataset.n !== undefined) { ui.nPrat = +b.dataset.n; return keep(); }
+      switch (b.dataset.act) {
+        case "exam": return startExam();
+        case "resume":
+          if (sess.mode === "esame" && Date.now() > sess.end) return finish();   // tempo scaduto mentre era in pausa
+          return go("quiz");
+        case "discard": ui.discardAsk = true; return keep();
+        case "discardno": ui.discardAsk = false; return keep();
+        case "discardyes": ui.discardAsk = false; db.sess = null; save(); return keep();
+        case "alltopics": ui.allTopics = !ui.allTopics; return keep();
+        case "all": ui.topics = new Set(Object.keys(ARGOMENTI)); return keep();
+        case "none": ui.topics = new Set(); return keep();
+        case "mix": return startPractice(shuffle(DOMANDE.map(d => d.id)).slice(0, PRATICA_ARG_N), "Esercitazione mista");
+        case "practice": {
+          const ids = shuffle(DOMANDE.filter(d => ui.topics.has(d.s)).map(d => d.id));
+          return startPractice(ui.nPrat ? ids.slice(0, ui.nPrat) : ids, "Esercitazione");
+        }
+        case "wrong": return startPractice(wrongIds(), "Ripasso errori");
+      }
+    };
+  }
+
+  // =====================================================================
+  // Vista: Quiz (simulazione o esercitazione)
+  // =====================================================================
+  const ICONS = {
+    close: '<path d="M6 6l12 12M18 6L6 18"/>',
+    prev: '<path d="M15 6l-6 6 6 6"/>',
+    next: '<path d="M9 6l6 6-6 6"/>',
+    grid: '<path d="M4 4h6v6H4zM14 4h6v6h-6zM4 14h6v6H4zM14 14h6v6h-6z"/>',
+    flag: '<path d="M6 3v18l6-4 6 4V3z"/>',
+    ok: '<path d="M5 12.5l4.5 4.5L19 7"/>',
+    doc: '<path d="M6 2.5h8l5 5v14H6z"/><path d="M14 2.5V7.5h5"/><path d="M9 13h7M9 16.5h7"/>',
+  };
+  const icon = (name, w = 2) => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="${w}" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICONS[name]}</svg>`;
+
+  function renderQuiz() {
+    const s = db.sess, it = s.items[s.cur], d = byId[it.id];
+    const exam = s.mode === "esame";
+    const N = s.items.length;
+    const answered = s.items.filter(i => i.ans !== null).length;
+    const blank = N - answered;
+    const flagged = s.items.filter(x => x.flag).length;
+    const revealed = !exam && it.ans !== null;
+    const last = s.cur === N - 1;
+    const endLabel = exam ? "Consegna" : "Termina";
+
+    // striscia di avanzamento: una tacca per domanda fino a 60, altrimenti barra continua
+    const strip = N <= 60
+      ? `<div class="strip" style="grid-template-columns:repeat(${N},minmax(0,1fr))" aria-hidden="true">${s.items.map((x, i) =>
+          `<i class="${i === s.cur ? "c" : x.flag ? "f" : x.ans === null ? "" : exam ? "d" : isRight(x) ? "ok" : "ko"}"></i>`).join("")}</div>`
+      : `<div class="progress" aria-hidden="true"><div style="width:${answered / N * 100}%"></div></div>`;
+
+    // pannello in basso: conferma consegna, correzione (esercitazione) o barra comandi
+    let bottom;
+    if (ui.confirm) {
+      bottom = `<div class="sheet" role="alertdialog" aria-label="Conferma consegna"><div>
+        <span class="grip"></span>
+        <div class="vhead">${exam ? "Consegnare la simulazione?" : "Terminare l'esercitazione?"}</div>
+        <p class="small">${blank ? `Hai ${blank} ${blank === 1 ? "domanda" : "domande"} senza risposta${exam ? ", che contano come errate" : ""}.` : "Hai risposto a tutte le domande."}${flagged ? ` ${flagged} segnate per dopo.` : ""}</p>
+        <div class="row"><button class="btn primary grow" style="flex:1" data-act="endyes">${endLabel}</button><button class="btn ghost" style="flex:1" data-act="endno">Continua</button></div>
+      </div></div>`;
+    } else if (revealed) {
+      const right = isRight(it);
+      const okLetter = LET[it.order.indexOf(d.c)];
+      const p = PAG[d.id];
+      bottom = `<section class="sheet" aria-label="Correzione"><div>
+        <span class="grip"></span>
+        <div class="vhead"><span class="vicon ${right ? "ok" : "ko"}">${icon(right ? "ok" : "close", 2.4)}</span>${right ? "Risposta corretta" : `Risposta sbagliata: la corretta è la ${okLetter}`}</div>
+        <p class="small muted">Fonte: ${esc(d.f.join(", "))}</p>
+        ${d.dubbia ? `<div class="note"><strong>Risposta da verificare.</strong> ${esc(d.n || "")}</div>` : ""}
+        ${p ? `<a class="matcard" href="${pdfUrl(p[0], p[1])}" target="_blank" rel="noopener"><span class="doc">${icon("doc", 1.8)}</span><span class="t"><strong>Ripassa sulla scheda</strong><small>${esc(FID2SRC[p[0]] || "")}${p[1] ? " · pagina " + p[1] : ""}</small></span><span class="muted" aria-hidden="true">›</span></a>` : ""}
+        <div class="row" style="flex-wrap:nowrap">
+          <button class="iconbtn" style="width:52px;height:52px;border-radius:12px" data-act="prev" aria-label="Domanda precedente" ${s.cur === 0 ? "disabled" : ""}>${icon("prev")}</button>
+          <button class="btn primary" style="flex:1" data-act="${last ? "end" : "next"}">${last ? endLabel : "Continua"}</button>
+        </div>
+      </div></section>`;
+    } else {
+      bottom = `<div class="actbar"><div>
+        <button class="iconbtn" data-act="prev" aria-label="Domanda precedente" ${s.cur === 0 ? "disabled" : ""}>${icon("prev")}</button>
+        ${exam ? `<button class="btn ghost flag" data-act="flag" aria-pressed="${it.flag}">${icon("flag")}<span>${it.flag ? "Segnata" : "Segna"}</span></button>` : ""}
+        ${last
+          ? `<button class="btn primary grow" data-act="end">${endLabel}</button>`
+          : `<button class="btn primary grow" data-act="next">${exam || it.ans !== null ? "Successiva" : "Salta"}${icon("next")}</button>`}
+      </div></div>`;
+    }
+
+    paint(`
+      <div class="qhead">
+        <div class="row">
+          <button class="iconbtn" data-act="home" aria-label="Esci: la sessione resta salvata e puoi riprenderla">${icon("close")}</button>
+          <div class="who">
+            <span class="eyebrow">${esc(s.label)}</span>
+            <strong>Domanda ${s.cur + 1} di ${N}</strong>
+          </div>
+          <button class="iconbtn" data-act="grid" aria-label="Elenco delle domande" aria-pressed="${ui.showGrid}">${icon("grid")}</button>
+          ${exam ? `<span class="timer" id="timer" aria-live="off">${fmt((s.end - Date.now()) / 1000)}</span>` : ""}
+        </div>
+        ${strip}
+      </div>
+      <div class="stack">
+        ${ui.showGrid ? `<div class="panel">
+          <div class="qgrid">${s.items.map((x, i) => {
+            const cls = x.ans === null ? "" : exam ? "done" : isRight(x) ? "ok" : "ko";
+            return `<button class="${cls} ${x.flag ? "flagged" : ""} ${i === s.cur ? "cur" : ""}" data-go="${i}" aria-label="Domanda ${i + 1}">${i + 1}</button>`;
+          }).join("")}</div>
+          <div class="legend"><span><i style="background:var(--fg)"></i>Risposta data</span><span><i style="background:var(--warn)"></i>Segnata per dopo</span></div>
+          <div class="row"><span class="small muted">${answered} risposte date su ${N}</span><span class="spacer"></span><button class="linkbtn small" data-act="end">${exam ? "Consegna ora" : "Termina esercitazione"}</button></div>
+        </div>` : ""}
+
+        <article class="qcard">
+          <span class="qtag">${esc(topicName(d.s))}</span>
+          <p class="qtext">${esc(d.q)}</p>
+          <div class="opts" role="radiogroup" aria-label="Risposte">
+            ${it.order.map((oi, k) => {
+              let cls = "";
+              if (revealed) cls = oi === d.c ? "right" : k === it.ans ? "wrong" : "";
+              else if (k === it.ans) cls = "sel";
+              return `<button class="opt ${cls}" role="radio" aria-checked="${k === it.ans}" data-opt="${k}" ${revealed ? "disabled" : ""}><span class="let">${LET[k]}</span><span>${esc(d.o[oi])}</span></button>`;
+            }).join("")}
+          </div>
+        </article>
+        ${ui.showGrid ? "" : `<div class="row"><span class="spacer"></span><button class="linkbtn small" data-act="end">${exam ? "Consegna ora" : "Termina esercitazione"}</button></div>`}
+      </div>
+      ${bottom}`);
+
+    const move = i => { s.cur = Math.max(0, Math.min(N - 1, i)); ui.confirm = false; save(); render(); };
+    onClick = b => {
+      if (b.dataset.opt !== undefined) {
+        const k = +b.dataset.opt;
+        if (revealed) return;
+        it.ans = exam && it.ans === k ? null : k;   // in simulazione un secondo tocco toglie la risposta
+        save(); return renderQuiz();
+      }
+      if (b.dataset.go !== undefined) return move(+b.dataset.go);
+      switch (b.dataset.act) {
+        case "prev": return move(s.cur - 1);
+        case "next": return move(s.cur + 1);
+        case "flag": it.flag = !it.flag; save(); return renderQuiz();
+        case "grid": ui.showGrid = !ui.showGrid; return renderQuiz();
+        case "end": ui.confirm = true; return renderQuiz();
+        case "endno": ui.confirm = false; return renderQuiz();
+        case "endyes": ui.confirm = false; return finish();
+        case "home": ui.confirm = false; return go("home");
+      }
+    };
+
+    if (exam) {
+      const t = document.getElementById("timer");
+      const tick = () => {
+        const left = (s.end - Date.now()) / 1000;
+        if (left <= 0) { clearInterval(timerH); finish(); return false; }
+        t.textContent = fmt(left); t.classList.toggle("low", left <= 300);
+        return true;
+      };
+      clearInterval(timerH);
+      if (tick()) timerH = setInterval(tick, 1000);
+    }
+  }
+
+  // =====================================================================
+  // Vista: Correzione (test appena concluso o dallo storico)
+  // =====================================================================
+  function renderResult(s, fromHist) {
+    const items = s.mode === "pratica" ? s.items.filter(i => i.ans !== null) : s.items;
+    const ok = items.filter(isRight).length, na = items.filter(i => i.ans === null).length, ko = items.length - ok - na;
+    const byT = {};
+    items.forEach(i => { const k = byId[i.id].s, t = byT[k] || (byT[k] = { n: 0, ok: 0 }); t.n++; if (isRight(i)) t.ok++; });
+    const list = ui.filter === "all" ? items : items.filter(i => !isRight(i));
+
+    paint(`
+      <header class="mast">
+        <span class="eyebrow">${esc(s.label)} · ${dateIt(s.start)}</span>
+        <div class="score"><b>${ok}/${items.length}</b><span class="muted">${pct(ok, items.length)}% di risposte corrette · tempo ${fmt((s.stop - s.start) / 1000)}</span></div>
+      </header>
+      ${tabs(fromHist ? "risultati" : "")}
+      <div class="stack">
+        ${fromHist ? `<div class="row"><button class="btn ghost" data-nav="risultati">← Torna ai risultati</button></div>` : ""}
+        <section class="panel">
+          <div class="facts">
+            <div class="fact"><b class="mono" style="color:var(--ok)">${ok}</b><span>corrette</span></div>
+            <div class="fact"><b class="mono" style="color:var(--ko)">${ko}</b><span>sbagliate</span></div>
+            <div class="fact"><b class="mono">${na}</b><span>senza risposta</span></div>
+          </div>
+          <h3>Risposte corrette per argomento</h3>
+          ${barsHtml(byT, v => `${v.ok}/${v.n}`)}
+          <div class="row">
+            ${ko + na ? `<button class="btn primary" data-act="redo">${rifai(ko + na)}</button>` : ""}
+            ${fromHist ? "" : `<button class="btn" data-act="exam">Nuova simulazione</button><button class="btn ghost" data-act="tores">Tutti i risultati</button><button class="btn ghost" data-act="home">Torna all'inizio</button>`}
+          </div>
+        </section>
+
+        <div class="row">
+          <h2>Correzione</h2><span class="spacer"></span>
+          <div class="seg" role="group" aria-label="Filtro">
+            <button data-f="ko" aria-pressed="${ui.filter !== "all"}">Errori (${ko + na})</button>
+            <button data-f="all" aria-pressed="${ui.filter === "all"}">Tutte (${items.length})</button>
+          </div>
+        </div>
+        <div class="review">
+          ${list.length ? list.map(i => {
+            const d = byId[i.id], st = i.ans === null ? "na" : isRight(i) ? "ok" : "ko";
+            const head = `<div class="row small"><span class="mono muted">${s.items.indexOf(i) + 1}.</span><span class="eyebrow">${esc(topicName(d.s))}</span><span class="spacer"></span><span class="verdict ${st === "ok" ? "ok" : "ko"} small">${st === "ok" ? "Corretta" : st === "ko" ? "Sbagliata" : "Senza risposta"}</span></div>`;
+            return `<div class="ritem ${st}">${head}${answerBlock(d, { your: st === "ko" ? d.o[i.order[i.ans]] : null, topicLink: true })}</div>`;
+          }).join("") : `<p class="muted">Nessun errore. Ottimo lavoro.</p>`}
+        </div>
+      </div>`);
+
+    onClick = b => {
+      if (b.dataset.f) { ui.filter = b.dataset.f; return render(); }
+      switch (b.dataset.act) {
+        case "redo": return startPractice(items.filter(i => !isRight(i)).map(i => i.id), "Ripasso errori");
+        case "exam": return startExam();
+        case "tores": db.sess = null; save(); return go("risultati");
+        case "home": db.sess = null; save(); return go("home");
+      }
+    };
+  }
+
+  // =====================================================================
+  // Vista: Risultati (storico e statistiche per argomento)
+  // =====================================================================
+  function renderRisultati() {
+    const rows = db.hist.map((h, i) => ({ h, i })).filter(({ h }) => ui.hf === "all" || (ui.hf === "esame") === (h.mode === "esame"));
+    const sims = db.hist.filter(h => h.mode === "esame");
+    const media = sims.length ? Math.round(sims.reduce((a, h) => a + h.ok / h.tot, 0) / sims.length * 100) : null;
+    const best = sims.length ? sims.reduce((a, h) => h.ok / h.tot > a.ok / a.tot ? h : a) : null;
+    const ts = topicStats();
+    const hasStats = Object.keys(ts).length > 0;
+
+    const histRow = ({ h, i }) => {
+      const p = pct(h.ok, h.tot), exam = h.mode === "esame";
+      const inner = `<span class="stripe ${pctCls(p)}"></span>
+        <span class="stack" style="gap:4px;min-width:0">
+          <span class="row small" style="gap:8px"><span class="tag ${exam ? "exam" : ""}">${exam ? "Simulazione" : "Esercitazione"}</span><span class="muted">${dateIt(h.t)}</span></span>
+          <span class="small">${exam ? "" : esc(h.label) + " · "}tempo ${fmt(h.secs)}${h.items ? "" : " · correzione non disponibile"}</span>
+        </span>
+        <span class="sc">${h.ok}/${h.tot}<small>${p}%</small></span>`;
+      return h.items ? `<button class="hrow" data-h="${i}" aria-label="Apri la correzione del test del ${dateIt(h.t)}">${inner}</button>` : `<div class="hrow">${inner}</div>`;
+    };
+
+    paint(`
+      <header class="mast">
+        <span class="eyebrow">Storico su questo dispositivo</span>
+        <h1>Risultati</h1>
+      </header>
+      ${tabs("risultati")}
+      <div class="stack">
+        <section class="panel">
+          <div class="facts">
+            <div class="fact"><b class="mono">${db.hist.length}</b><span>test conclusi</span></div>
+            <div class="fact"><b class="mono">${sims.length}</b><span>simulazioni d'esame</span></div>
+            <div class="fact"><b class="mono">${media === null ? "–" : media + "%"}</b><span>media simulazioni</span></div>
+            <div class="fact"><b class="mono">${best ? best.ok + "/" + best.tot : "–"}</b><span>miglior simulazione</span></div>
+          </div>
+        </section>
+
+        <div class="row">
+          <h2>Test fatti</h2><span class="spacer"></span>
+          <div class="seg" role="group" aria-label="Tipo di test">
+            ${[["all", "Tutti"], ["esame", "Simulazioni"], ["pratica", "Esercitazioni"]].map(([k, l]) => `<button data-hf="${k}" aria-pressed="${ui.hf === k}">${l}</button>`).join("")}
+          </div>
+        </div>
+        ${rows.length
+          ? `<div class="hlist">${rows.map(histRow).join("")}</div><p class="small muted">Tocca un test per rivedere domande, risposte date e correzione.</p>`
+          : `<p class="muted">${db.hist.length ? "Nessun test di questo tipo." : "Non hai ancora concluso nessun test. Le simulazioni e le esercitazioni compariranno qui."}</p>`}
+
+        ${hasStats ? `<section class="panel">
+          <h3>Risposte corrette per argomento</h3>
+          <p class="small muted">Tutte le risposte date, in simulazioni ed esercitazioni. Argomenti ordinati dal più debole; a destra la percentuale e il numero di risposte. Tocca un argomento per aprire domande e materiale.</p>
+          ${barsHtml(ts, (v, q) => `${q}% · ${v.n}`)}
+        </section>` : ""}
+
+        ${db.hist.length || hasStats ? `<div class="row"><button class="linkbtn small" data-act="reset">Azzera tutti i risultati</button></div>` : ""}
+        ${ui.resetAsk ? confirmBox("Cancellare lo storico dei test e le statistiche salvate su questo dispositivo?", "resetyes", "Azzera", "resetno", "Annulla") : ""}
+      </div>`);
+
+    onClick = b => {
+      if (b.dataset.hf) { ui.hf = b.dataset.hf; return renderRisultati(); }
+      if (b.dataset.h !== undefined) { ui.hIdx = +b.dataset.h; ui.filter = "ko"; return go("dettaglio"); }
+      switch (b.dataset.act) {
+        case "reset": ui.resetAsk = true; return renderRisultati();
+        case "resetno": ui.resetAsk = false; return renderRisultati();
+        case "resetyes": db.stats = {}; db.hist = []; ui.resetAsk = false; save(); return renderRisultati();
+      }
+    };
+  }
+
+  // =====================================================================
+  // Vista: Scheda argomento (statistiche, materiale, domande)
+  // =====================================================================
+  function renderTopic() {
+    const k = ui.tk, nome = topicName(k);
+    const qs = DOMANDE.filter(d => d.s === k);
+    let n = 0, ok = 0;
+    qs.forEach(d => { const x = db.stats[d.id]; if (x) { n += x.n; ok += x.ok; } });
+    const errs = qs.filter(d => lastResult(d.id) === "ko"), mai = qs.filter(d => lastResult(d.id) === "na");
+    const fc = {};
+    qs.forEach(d => d.f.forEach(f => { fc[f] = (fc[f] || 0) + 1; }));
+    const fonti = Object.entries(fc).sort((x, y) => y[1] - x[1]);
+    const conPdf = fonti.filter(([f]) => MAT[f]), senza = fonti.filter(([f]) => !MAT[f]);
+    if (ui.tf === "auto") ui.tf = errs.length ? "ko" : "all";
+    const list = ui.tf === "ko" ? errs : ui.tf === "na" ? mai : qs;
+    const back = { risultati: "Torna ai risultati", archivio: "Torna all'archivio", result: "Torna alla correzione", dettaglio: "Torna alla correzione", quiz: "Torna al quiz" }[ui.prev] || "Torna all'inizio";
+    const stLabel = { ok: "Ultima: corretta", ko: "Ultima: sbagliata", na: "Mai affrontata" };
+
+    paint(`
+      <header class="mast">
+        <span class="eyebrow">Argomento · ${qs.length} domande</span>
+        <h1>${esc(nome)}</h1>
+      </header>
+      ${tabs(["home", "risultati", "archivio"].includes(ui.prev) ? ui.prev : "")}
+      <div class="stack">
+        <div class="row"><button class="btn ghost" data-act="back">← ${back}</button></div>
+        <section class="panel">
+          <div class="facts">
+            <div class="fact"><b class="mono">${n ? pct(ok, n) + "%" : "–"}</b><span>risposte corrette${n ? ` (${ok}/${n})` : ""}</span></div>
+            <div class="fact"><b class="mono" style="color:var(--ko)">${errs.length}</b><span>da ripassare</span></div>
+            <div class="fact"><b class="mono">${mai.length}</b><span>mai affrontate</span></div>
+          </div>
+          <div class="row">
+            <button class="btn primary" data-act="tprat">Esercitati su ${Math.min(PRATICA_ARG_N, qs.length)} domande</button>
+            ${errs.length ? `<button class="btn" data-act="tko">${rifai(errs.length)}</button>` : ""}
+          </div>
+        </section>
+
+        <h2>Materiale di riferimento</h2>
+        ${conPdf.length ? `<div class="mlist">${conPdf.map(([f, c]) => `<div class="mitem">
+            <strong>${esc(f)}</strong><span class="small muted mono">${c} dom.</span>
+            <div class="files">${sourceLinks(f)}</div>
+          </div>`).join("")}</div>` : `<p class="muted small">Nessun PDF collegato a questo argomento.</p>`}
+        ${senza.length ? `<p class="small muted">Domande tratte anche da: ${senza.map(([f, c]) => `${esc(f)} (${c})`).join(", ")}.</p>` : ""}
+
+        <div class="row">
+          <h2>Domande</h2><span class="spacer"></span>
+          <div class="seg" role="group" aria-label="Filtro domande">
+            <button data-tf="all" aria-pressed="${ui.tf === "all"}">Tutte (${qs.length})</button>
+            <button data-tf="ko" aria-pressed="${ui.tf === "ko"}">Sbagliate (${errs.length})</button>
+            <button data-tf="na" aria-pressed="${ui.tf === "na"}">Mai fatte (${mai.length})</button>
+          </div>
+        </div>
+        ${list.length ? `<div class="review">${list.map(d => {
+          const st = lastResult(d.id);
+          return `<div class="ritem ${st}"><div class="row small"><span class="st ${st}">${stLabel[st]}</span></div>${answerBlock(d)}</div>`;
+        }).join("")}</div>` : `<p class="muted">Nessuna domanda in questo elenco.</p>`}
+      </div>`);
+
+    onClick = b => {
+      if (b.dataset.tf) { ui.tf = b.dataset.tf; return renderTopic(); }
+      switch (b.dataset.act) {
+        case "back": return go(ui.prev && ui.prev !== "argomento" ? ui.prev : "home");
+        case "tprat": return startPractice(shuffle(qs.map(d => d.id)).slice(0, PRATICA_ARG_N), "Esercitazione · " + nome);
+        case "tko": return startPractice(errs.map(d => d.id), "Ripasso errori · " + nome);
+      }
+    };
+  }
+
+  // =====================================================================
+  // Vista: Archivio (per argomento o per documento, con ricerca)
+  // =====================================================================
+  function renderArchive() {
+    const q = ui.q.trim().toLowerCase();
+    const byDoc = ui.ag === "doc";
+    const match = d => !q || (d.q + " " + d.o.join(" ") + " " + d.f.join(" ")).toLowerCase().includes(q);
+    let groups;
+    if (byDoc) {
+      const m = {};
+      DOMANDE.forEach(d => { if (match(d)) d.f.forEach(f => (m[f] = m[f] || []).push(d)); });
+      groups = Object.entries(m).sort((x, y) => x[0].localeCompare(y[0], "it"))
+        .map(([f, qs]) => ({ title: f, qs, top: MAT[f] ? sourceLinks(f) : `<span class="small muted">Domande tratte dai test d'esempio: nessun PDF collegato.</span>` }));
+    } else {
+      groups = Object.entries(ARGOMENTI)
+        .map(([k, a]) => ({ title: a.nome, qs: DOMANDE.filter(d => d.s === k && match(d)), top: `<button class="btn" data-tv="${k}">Apri la scheda dell'argomento: materiale ed esercitazione</button>` }))
+        .filter(g => g.qs.length);
+    }
+    const found = groups.reduce((n, g) => n + g.qs.length, 0);
+    const nDoc = new Set(DOMANDE.flatMap(d => d.f)).size;
+
+    paint(`
+      <header class="mast">
+        <span class="eyebrow">Archivio · ${DOMANDE.length} domande${VERSIONE ? " · aggiornato il " + VERSIONE : ""}</span>
+        <h1>Archivio domande</h1>
+      </header>
+      ${tabs("archivio")}
+      <div class="stack">
+        <div class="row">
+          <span class="small muted">Raggruppa</span>
+          <div class="seg" role="group" aria-label="Raggruppa le domande">
+            <button data-ag="arg" aria-pressed="${!byDoc}">Per argomento</button>
+            <button data-ag="doc" aria-pressed="${byDoc}">Per documento (${nDoc})</button>
+          </div>
+        </div>
+        <input class="search" id="cerca" type="search" placeholder="Cerca una parola, es. ASET, compartimento, UNI 9795" value="${esc(ui.q)}" aria-label="Cerca nelle domande">
+        ${q ? `<p class="small muted">${found} domande trovate.</p>` : ""}
+        ${groups.map(g => `<details class="topic" ${q ? "open" : ""}>
+          <summary><strong>${esc(g.title)}</strong><span class="muted small mono">${g.qs.length}</span></summary>
+          <div class="alist">
+            <div class="aitem"><div class="row">${g.top}</div></div>
+            ${g.qs.map(d => `<div class="aitem">${answerBlock(d, byDoc ? { meta: esc(topicName(d.s)) } : {})}</div>`).join("")}
+          </div>
+        </details>`).join("")}
+      </div>`);
+
+    // ricerca con breve attesa, mantenendo il cursore nel campo
+    const inp = document.getElementById("cerca");
+    let deb = null;
+    inp.oninput = () => {
+      clearTimeout(deb);
+      deb = setTimeout(() => {
+        if (ui.view !== "archivio" || !inp.isConnected) return;
+        ui.q = inp.value;
+        const pos = inp.selectionStart;
+        renderArchive();
+        const n = document.getElementById("cerca");
+        n.focus();
+        try { n.setSelectionRange(pos, pos); } catch (e) { /* ignorato */ }
+      }, 200);
+    };
+    onClick = b => { if (b.dataset.ag) { ui.ag = b.dataset.ag; renderArchive(); } };
+  }
+
+  // =====================================================================
+  // Visore PDF interno (pdf.js): i link «materiale/…» si aprono qui
+  // =====================================================================
+  const $ = id => document.getElementById(id);
+  const pv = { el: $("pv"), body: $("pv-body"), docs: {}, doc: null, fid: null, page: 1, zoom: 1, lib: null, task: 0 };
+
+  function loadLib() {
+    if (!pv.lib) {
+      pv.lib = import(PDFJS + "pdf.min.mjs")
+        .then(lib => { lib.GlobalWorkerOptions.workerSrc = PDFJS + "pdf.worker.min.mjs"; return lib; })
+        .catch(e => { pv.lib = null; throw e; });
+    }
+    return pv.lib;
+  }
+  function getDoc(fid) {
+    if (!pv.docs[fid]) {
+      pv.docs[fid] = (async () => {
+        const lib = await loadLib();
+        const r = await fetch(pdfUrl(fid, 0));
+        if (!r.ok) throw new Error("http " + r.status);
+        return lib.getDocument({ data: new Uint8Array(await r.arrayBuffer()) }).promise;
+      })().catch(e => { delete pv.docs[fid]; throw e; });
+    }
+    return pv.docs[fid];
+  }
+  function pvMessage(html) { pv.body.innerHTML = `<div class="pv-msg">${html}</div>`; }
+  function pvBar() {
+    const n = pv.doc ? pv.doc.numPages : 0;
+    $("pv-pg").textContent = n ? `pag. ${pv.page} / ${n}` : "";
+    $("pv-prev").disabled = !n || pv.page <= 1;
+    $("pv-next").disabled = !n || pv.page >= n;
+    $("pv-ext").href = pdfUrl(pv.fid, pv.page);
+  }
+  async function pvRender() {
+    const my = ++pv.task;       // scarta i render superati da un cambio pagina più recente
+    pvBar();
+    if (!pv.doc) return;
+    const page = await pv.doc.getPage(pv.page);
+    if (my !== pv.task) return;
+    const avail = Math.max(240, pv.body.clientWidth - 24);
+    const dpr = Math.min(window.devicePixelRatio || 1, 2);
+    const scale = avail / page.getViewport({ scale: 1 }).width * pv.zoom;
+    const vp = page.getViewport({ scale: scale * dpr });
+    const c = document.createElement("canvas");
+    c.width = Math.floor(vp.width); c.height = Math.floor(vp.height);
+    c.style.width = Math.floor(vp.width / dpr) + "px"; c.style.height = Math.floor(vp.height / dpr) + "px";
+    await page.render({ canvasContext: c.getContext("2d"), viewport: vp }).promise;
+    if (my !== pv.task) return;
+    pv.body.replaceChildren(c);
+    pv.body.scrollTop = 0;
+  }
+  async function openPdf(fid, pg) {
+    Object.assign(pv, { fid, page: Math.max(1, pg || 1), zoom: 1, doc: null });
+    $("pv-title").textContent = FID2SRC[fid] || TIT[fid] || "Documento";
+    pv.el.classList.add("open");
+    document.body.style.overflow = "hidden";
+    pvBar(); pvMessage("Caricamento del documento…");
+    $("pv-close").focus();
+    try {
+      const d = await getDoc(fid);
+      if (pv.fid !== fid) return;
+      pv.doc = d; pv.page = Math.min(pv.page, d.numPages);
+      await pvRender();
+    } catch (e) {
+      if (pv.fid !== fid) return;
+      pvMessage(`Non riesco a mostrare il documento qui.<br><a href="${pdfUrl(fid, pv.page)}" target="_blank" rel="noopener">Prova ad aprirlo in una nuova scheda</a>.`);
+    }
+  }
+  function closePdf() {
+    pv.el.classList.remove("open");
+    Object.assign(pv, { fid: null, doc: null });
+    pv.task++;
+    pv.body.replaceChildren();
+    document.body.style.overflow = "";
+  }
+  const pvGo = delta => { if (pv.doc && pv.page + delta >= 1 && pv.page + delta <= pv.doc.numPages) { pv.page += delta; pvRender(); } };
+  const pvZoom = f => { pv.zoom = Math.min(3, Math.max(.5, pv.zoom * f)); pvRender(); };
+  $("pv-close").onclick = closePdf;
+  $("pv-prev").onclick = () => pvGo(-1);
+  $("pv-next").onclick = () => pvGo(1);
+  $("pv-zin").onclick = () => pvZoom(1.25);
+  $("pv-zout").onclick = () => pvZoom(1 / 1.25);
+  window.addEventListener("resize", () => { if (pv.doc) pvRender(); });
+
+  // =====================================================================
+  // Tastiera
+  // =====================================================================
+  document.addEventListener("keydown", e => {
+    // visore aperto: Esc chiude, frecce cambiano pagina
+    if (pv.el.classList.contains("open")) {
+      const k = { Escape: closePdf, ArrowRight: () => pvGo(1), ArrowLeft: () => pvGo(-1) }[e.key];
+      if (k) { e.preventDefault(); k(); }
+      return;
+    }
+    // quiz: 1-4 o A-D per rispondere, frecce per spostarsi
+    const s = db.sess;
+    if (ui.view !== "quiz" || !s || s.done || e.target.tagName === "INPUT") return;
+    const key = e.key.toUpperCase();
+    let idx = "1234".indexOf(key); if (idx < 0) idx = "ABCD".indexOf(key);
+    if (e.key.length === 1 && idx >= 0 && idx < s.items[s.cur].order.length) {
+      const b = app.querySelector(`[data-opt="${idx}"]`);
+      if (b && !b.disabled) b.click();
+    } else if (e.key === "ArrowRight" && s.cur < s.items.length - 1) { s.cur++; ui.confirm = false; save(); render(); }
+    else if (e.key === "ArrowLeft" && s.cur > 0) { s.cur--; ui.confirm = false; save(); render(); }
+    else if (e.key === "Escape" && (ui.confirm || ui.showGrid)) { ui.confirm = false; ui.showGrid = false; renderQuiz(); }
+  });
+
+  // =====================================================================
+  // Avvio: una simulazione scaduta mentre la pagina era chiusa viene consegnata
+  // =====================================================================
+  if (db.sess && !db.sess.done && db.sess.mode === "esame" && Date.now() > db.sess.end) finish();
+  else render();
+})();
+</script>

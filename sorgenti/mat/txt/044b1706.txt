@@ -1,0 +1,226 @@
+                                                                  m_it.DCPREV.REGISTRO
+                                                             UFFICIALE.U.0015002.22-07-2026
+
+
+
+
+DIPARTIMENTO DEI VIGILI DEL FUOCO, DEL SOCCORSO PUBBLICO E DELLA DIFESA CIVILE
+  DIREZIONE CENTRALE PER LA PREVENZIONE E LA SICUREZZA TECNICA, ANTINCENDIO ED ENERGETICA
+
+
+
+                                                          Alle Direzioni Regionali/Interregionale dei vigili
+                                                          del fuoco, del soccorso pubblico e della difesa
+                                                          civile
+
+                                                          Ai Comandi dei vigili del fuoco
+
+                                                          Ai Consigli nazionali degli Ingegneri, degli
+                                                          Architetti, alla Federazione Nazionale degli Ordini
+                                                          dei Chimici e dei Fisici, ai Consigli nazionali dei
+                                                          Dottori Agronomi e Forestali, dei Geometri e dei
+                                                          Geometri Laureati, dei Periti Industriali e Periti
+                                                          Industriali laureati, dei Periti Agrari e Periti Agrari
+                                                          laureati, degli Agrotecnici e Agrotecnici laureati
+
+                                                          e, p.c.
+
+                                                          Alle Direzioni Centrali del Dipartimento dei vigili
+                                                          del fuoco, del soccorso pubblico e della difesa
+                                                          civile
+
+                                                          All’ Ufficio del Capo del Corpo Nazionale dei
+                                                          Vigili del fuoco
+
+
+
+ OGGETTO: Decreto del Ministro dell'interno 3 agosto 2015 e s.m.i. Paragrafo G.2.7. Applicazione di
+          norme o documenti tecnici adottati da organismi europei o internazionali.
+
+   1. Premessa e riferimenti normativi
+Il paragrafo G.2.7 del decreto del Ministro dell'interno del 3 agosto 2015 (nel seguito "Codice") include, tra i
+metodi di progettazione della sicurezza antincendio, la possibilità di applicare norme o documenti tecnici
+adottati da organismi europei o internazionali, riconosciuti nel settore della sicurezza antincendio.
+Come esplicitato nella Tabella G.2-1 del Codice, tale applicazione, fatti salvi gli obblighi connessi all'impiego
+di prodotti soggetti a disposizioni dell’UE di armonizzazione (marcatura CE) o nazionali (omologazione), deve
+essere attuata nella sua completezza, ricorrendo a soluzioni, configurazioni e componenti richiamati nelle
+norme o nei documenti tecnici impiegati, evidenziandone l'idoneità, per la specifica configurazione
+considerata, in relazione ai profili di rischio dell'attività.
+
+
+
+                                                  Pagina 1 di 5
+DIPARTIMENTO DEI VIGILI DEL FUOCO, DEL SOCCORSO PUBBLICO E DELLA DIFESA CIVILE
+  DIREZIONE CENTRALE PER LA PREVENZIONE E LA SICUREZZA TECNICA, ANTINCENDIO ED ENERGETICA
+
+Al riguardo, il paragrafo G.1.4 del Codice, in nota alla definizione di norma riconosciuta a livello
+internazionale, chiarisce che si tratta di un’ampia categoria di documenti che sono rilasciati sia da organismi
+di normazione extra europei che da organizzazioni ed associazioni tradizionalmente riconosciute nel settore
+antincendio e cita ad esempio: “NFPA, ANSI/UL, ASTM, API, FM Global, FPA, NIST, SFPE, TNO, VDS,
+Energy Institute, IGEM, VTT, BRANZ, …”.
+Nell’applicazione del paragrafo G.2.7, Tabella G.2-1, è fondamentale notare che è data pari possibilità di scelta
+fra norme o documenti tecnici emanati da organizzazioni europee ed extra UE. Tuttavia, in relazione al diverso
+sistema di qualifica dei prodotti applicato nei diversi paesi del mondo, risulterà in generale più agevole
+l’applicazione di quelli di origine europea in particolare per quanto concerne la dimostrazione degli obblighi
+riguardanti l’apposizione della marcatura CE dei prodotti o il rispetto delle classificazioni armonizzate a livello
+europeo (ad esempio in materia di reazione al fuoco o di resistenza al fuoco).
+Oltre alla qualifica dei prodotti, è da notare l'importanza delle indicazioni riguardanti:
+   a) la necessità di applicare delle norme o documenti tecnici in argomento nella loro completezza (per
+      evitare un’applicazione non corretta perché basata su concetti e realizzazioni parziali ed incomplete);
+   b) dimostrare l’idoneità della soluzione progettuale all’impiego previsto in relazione ai profili di rischio
+      dell’attività considerata.
+   2. Valutazione di norme o documenti tecnici nelle applicazioni del paragrafo G.2.7 nell’ambito dei
+      procedimenti di prevenzione incendi disciplinati dal DM 7 agosto 2012
+Per le attività soggette di categoria B e C ai sensi del DPR 151/2011, il progettista che intenda avvalersi del
+Capitolo G.2.7 del Codice per proporre l’applicazione di norme o documenti tecnici diversi da quelli previsti
+nelle soluzioni conformi è tenuto ad evidenziare nella documentazione tecnica allegata all’istanza di
+valutazione del progetto presentata al Comando territorialmente competente, i seguenti contenuti specifici.
+   1. Motivazione del ricorso a norme e documenti tecnici diversi da quelli previsti nel Codice per le soluzioni
+      conformi per l’applicazione all’attività in esame in relazione a:
+       a) inadeguatezza dei metodi previsti nelle soluzioni conformi;
+       b) possibilità di conseguire più elevati livelli di sicurezza (prestazioni migliori) rispetto all’applicazione
+          dei metodi previsti nelle soluzioni conformi (ad esempio una norma/documento tecnico più recente
+          recepisce il progresso tecnologico nel settore di riferimento).
+   2. Specificazione della finalità, tra:
+       a) verifica delle soluzioni alternative (par. G.2.6.5.2);
+       b) verifica del livello di prestazione delle misure antincendio (par. G.2.6.4);
+   3. Descrizione della norma o documento tecnico di cui si propone l’utilizzo ed evidenza dell’idoneità della
+      soluzione progettuale proposta in relazione alla finalità ed ai profili di rischio dell'attività considerata.
+
+                                                    Pagina 2 di 5
+DIPARTIMENTO DEI VIGILI DEL FUOCO, DEL SOCCORSO PUBBLICO E DELLA DIFESA CIVILE
+  DIREZIONE CENTRALE PER LA PREVENZIONE E LA SICUREZZA TECNICA, ANTINCENDIO ED ENERGETICA
+
+   4. Modalità di qualificazione dei prodotti, con evidenza del rispetto degli obblighi connessi alla marcatura
+      CE e delle disposizioni nazionali in materia di omologazione/approvazione di tipo.
+   5. Risultati dell’applicazione delle norme/documenti tecnici all’attività in esame, con indicazione dei
+      principali parametri di progetto e del soddisfacimento dei criteri di prestazione previsti nelle
+      norme/documenti tecnici adottati.
+Il Comando, per le attività di categoria B e C, tiene conto della documentazione tecnica acquisita per formulare
+la valutazione conclusiva sul progetto.
+   3. Indicazioni operative
+Tenuto conto che il settore della protezione passiva è da decenni armonizzato a livello europeo, il ricorso a
+norme o documenti tecnici in applicazione del paragrafo G.2.7 trova maggior possibilità di applicazione
+nell’ambito delle strategie riguardanti la protezione attiva - strategie S.6, S.7, S.8 - cui nel seguito si farà
+pertanto specifico riferimento.
+La Tabella S.6-11 del Capitolo S.6 del Codice riporta le norme, TS e TR relative a sistemi di inibizione,
+controllo o estinzione dell’incendi che rappresentano le soluzioni considerate conformi. Nella tabella che segue
+si riportano alcuni esempi, indicativi e non esaustivi, di possibili applicazioni di norme e documenti tecnici
+alternativi, adottati da organismi europei o internazionali, riconosciuti nel settore della sicurezza antincendio.
+                Capitolo S.6 Sistema di inibizione, controllo o estinzione dell’incendio Nota 1
+                                    Soluzione conforme                Esempi di soluzioni alternative
+ Sistemi automatici a sprinkler     UNI EN 12845          NFPA 13
+                                                          FM DS 2.0
+                                                          CEA 4001
+                                                          UNI EN 12845-2 Nota 2
+ Sistemi a estinguenti gassosi      UNI EN 15004-1        NFPA 2001
+                                    Nota 3
+                                                          FM DS 4.9
+                                                          CEA 4008
+ Sistemi a polvere                  UNI EN 12416-2        NFPA 17
+                                                          FM DS 4.10
+ Sistemi IRAI                       UNI 9795              NFPA 11 (NFPA 409 per hangars)
+                                                          FM DS 4.12
+ Sistemi EVAC                       UNI CEN/TS 14816 NFPA 15
+                                                          FM DS 4-1N
+ Sistemi ad acqua nebulizzata       UNI EN 14972-1        NFPA 750
+ (water mist)                       [ex UNI CEN/TS 14972] FM DS 4.2
+
+
+
+
+                                                   Pagina 3 di 5
+DIPARTIMENTO DEI VIGILI DEL FUOCO, DEL SOCCORSO PUBBLICO E DELLA DIFESA CIVILE
+     DIREZIONE CENTRALE PER LA PREVENZIONE E LA SICUREZZA TECNICA, ANTINCENDIO ED ENERGETICA
+
+    Componenti per impianti di             UNI 11512                  Nota 4
+    estinzione a gas - Requisiti e         [ex UNI/TS 11512]
+    metodi di prova per la compatibilità
+
+    Sistemi di estinzione ad aerosol UNI EN 15276-2                   NFPA 2010
+    condensato                       [ex UNI ISO 15779]
+
+    Sistemi a riduzione di ossigeno        UNI EN 16750               FM DS 4.13
+                                                                      VDS 3527
+1
+  In tabella sono riportati i riferimenti della norma/documento tecnico maggiormente rilevante, ma è spesso necessario applicarla
+  congiuntamente ad altri emananti dalla medesima organizzazione
+2
+  La parte 2 della norma UNI EN 12845, riguardante le applicazioni speciali relative a sistemi ESFR e CMSA, è stata pubblicata per
+  la prima volta nel 2025, successivamente all’ultima revisione del Codice attualmente vigente. Non è pertanto ancora annoverabile
+  quale soluzione conforme
+3
+  Si noti che la serie EN 15004-1 esclude dal suo campo di applicazione i sistemi a CO2
+4
+  Questa norma si applica esclusivamente con riferimento alle norme della serie EN 15004. Non è possibile applicare soluzioni
+  alternative
+
+
+Con riferimento ai Capitoli S.7 ed S.8 del Codice, nelle tabelle che seguono si riportano alcuni esempi,
+indicativi e non esaustivi, di possibili applicazioni di norme e documenti tecnici alternativi, adottati da
+organismi europei o internazionali, riconosciuti nel settore della sicurezza antincendio.
+                                  Capitolo S.7 Rivelazione ed allarme dell’incendio Nota 1
+                                           Soluzione conforme                      Esempi di soluzioni alternative
+    Sistemi di rivelazione ed              UNI 9795                    UNI CEN/TS 54-14
+    allarme incendio (IRAI)                                            BS 8539 -1 (edifici non residenziali)
+                                                                       BS 8539-6 (edifici residenziali)
+                                                                       NFPA 72
+                                                                       FM DS 5.48
+    Valutazione della compatibilità        UNI EN 54-13                Nota 2
+    e connettività dei componenti
+    di un sistema IRAI
+    Sistemi di diffusione dei UNI 11988             BS 8539 -8 (messaggi pre-registrati o annunci)
+    messaggi di emergenza ad [ex UNI ISO 7240-19]   BS 8539-9 (sistemi interfonici bidirezionali protetti
+    altoparlante (EVAC)       o UNI CEN/TS    54-32 NFPA 72 (Capitoli 18 e 24 in particolare)
+                                                    FM DS 5.40
+1
+  In tabella sono riportati i riferimenti della norma/documento tecnico maggiormente rilevante, ma è spesso necessario applicarla
+  congiuntamente ad altri emananti dalla medesima organizzazione
+2
+  Questa norma si applica esclusivamente con riferimento alle norme della serie EN 54. Non è possibile applicare soluzioni alternative
+
+
+                                                            Pagina 4 di 5
+DIPARTIMENTO DEI VIGILI DEL FUOCO, DEL SOCCORSO PUBBLICO E DELLA DIFESA CIVILE
+    DIREZIONE CENTRALE PER LA PREVENZIONE E LA SICUREZZA TECNICA, ANTINCENDIO ED ENERGETICA
+
+
+
+
+                                        Capitolo S.8 Controllo di fumi e calore Nota 1
+                                         Soluzione conforme                        Esempi di soluzioni alternative
+    Sistemi di ventilazione        § S.8.6 del Codice               UNI CEN/TS 12101-11 (parcheggi)
+    forzata orizzontale del fumo e                                  NFPA 88A (parcheggi)
+    del calore (SFOV)
+    Sistemi per l’evacuazione di         UNI 9494-1                 CEN/TR 12101-5
+    fumo e calore di tipo naturale                                  DIN 18232-2
+    (SENFC)                                                         BS 7346-4
+                                                                    NFPA 92
+    Sistemi per l’evacuazione di UNI 9494-2                         CEN/TR 12101-5
+    fumo e calore di tipo forzato                                   DIN 18232-5
+    (SEFFC)                                                         BS 7346-4
+                                                                    NFPA 92
+1
+    In tabella sono riportati i riferimenti della norma/documento tecnico maggiormente rilevante, ma è spesso necessario applicarla
+    congiuntamente ad altri emananti dalla medesima organizzazione
+
+L'impiego di ciascuno dei già menzionati norme/documenti tecnici resta in ogni caso subordinato al rispetto
+delle condizioni previste dal Capitolo G.2, in particolare nei paragrafi G.2.6.5.2, G.2.9, G.2.10.
+
+
+
+
+                                                                    IL CAPO DEL CORPO NAZIONALE
+                                                                         DEI VIGILI DEL FUOCO
+                                                                               (MANNINO)
+                                                                      (documento firmato digitalmente ai sensi di legge)
+
+
+
+GB/FAP/at
+
+
+
+
+                                                            Pagina 5 di 5
+

@@ -1,0 +1,362 @@
+ REGOLE TECNICHE VERTICALI
+Capitolo V.8 Attività commerciali
+ Campo di applicazione
+ Definizioni
+ Classificazioni
+ Valutazione del rischio di incendio
+ Strategia antincendio
+ Reazione al fuoco
+ Resistenza al fuoco
+ Compartimentazione
+ Esodo
+ Gestione della sicurezza antincendio
+ Controllo dell’incendio
+ Rivelazione ed allarme
+ Controllo di fumi e calore
+ Operatività antincendio
+ Sicurezza impianti tecnologici e di servizio
+ Altre indicazioni
+ Riferimenti
+V.8.1 Campo di applicazione
+ 1. La presente regola tecnica verticale reca disposizioni di prevenzione incendi ri-
+ guardanti le attività commerciali, ove sia prevista la vendita e l’esposizione di
+ beni, con superficie lorda superiore a 400 m2 comprensiva di servizi, depositi e
+ spazi comuni coperti.
+V.8.2 Definizioni
+ 1. Attività commerciale: attività costituita da una o più aree di vendita comunicanti
+ anche afferenti a responsabili diversi, comprensiva di servizi, depositi e spazi
+ comuni coperti.
+ 2. Spazio comune: area a servizio di più aree di vendita (es. atrii, gallerie, sistemi
+ di collegamento quali corridoi, scale, …).
+ 3. Mall: galleria interna all’attività commerciale anche su più piani su cui si affac-
+ ciano le aree di vendita, i relativi servizi e depositi.
+ 4. Vendita da retrobanco: attività commerciale con limitati spazi aperti al pubblico
+ per la vendita e l’esposizione dei beni.
+ Nota In queste attività la vendita viene effettuata al banco, ordinando i beni che vengono prelevati dagli
+ addetti dell’attività commerciale (es. autoricambi, ferramenta, distributori di materiale elettrico,
+ idraulico, …).
+ 5. Articoli pirotecnici NSL: articoli pirotecnici non soggetti a licenza per la minu-
+ ta vendita di esplosivi ai sensi del Regio Decreto 18 giugno 1931, n. 773.
+V.8.3 Classificazioni
+ 1. Ai fini della presente regola tecnica, le attività commerciali sono classificate co-
+ me segue:
+ a. in relazione alla superficie lorda utile A:
+ AA: A ≤ 1500 m2;
+ AB: 1500 m2 < A ≤ 3000 m2;
+ AC: 3000 m2 < A ≤ 5000 m2;
+ AD: 5000 m2 < A ≤ 10000 m2;
+ AE: A > 10000 m2.
+ Nota Nel computo della superficie lorda utile A, oltre alle aree destinate alla vendita, devono essere
+ considerate solo le aree destinate a servizi, depositi e spazi comuni coperti direttamente funzionali
+ all’attività commerciale, così come definite al successivo comma 2. Ad esempio, non si considera-
+ no aree direttamente funzionali quelle delle attività produttive o artigianali eventualmente presenti
+ nell’opera da costruzione, anche se comunicanti con l’attività commerciale.
+ Nota La superficie lorda utile A è impiegata per l’individuazione delle misure di sicurezza e non ai fini
+ del campo di applicazione della presente regola tecnica.
+ b. in relazione alla quota dei piani h:
+ HA: -1 m ≤ h ≤ 6 m;
+ HB: -5 m ≤ h ≤ 12 m;
+ HC: -10 m ≤ h ≤ 24 m;
+Capitolo V.8 Attività commerciali Pagina V.8-2
+ HD: tutti gli altri casi non rientranti nella classificazione precedente.
+ Nota Per la classificazione in relazione alla quota dei piani h possono essere omesse le quote dei piani
+ dei percorsi di collegamento dell’attività commerciale con altre attività (es. autorimesse, locali di
+ pubblico spettacolo, …).
+ 2. Le aree dell’attività direttamente funzionali sono classificate come segue:
+ TA: aree di vendita ed esposizione comprensive di spazi comuni, accessibili al
+ pubblico;
+ TB1: aree di vendita ed esposizione comprensive di spazi comuni, accessibili al
+ pubblico in numero limitato ed accompagnato da addetti;
+ Nota Ad esempio: showroom aziendale inserito in un’attività produttiva, artigianale o di servizio.
+ Nota Fanno parte delle aree TA eventuali showrooms inseriti in un centro commerciale.
+ TB2: aree per vendita da retrobanco comprensive di spazi comuni, accessibili al
+ pubblico, di superficie ≤ 100 m2;
+ Nota Ad esempio: punti vendita di ricambi o componenti, …
+ TC: aree non aperte al pubblico, adibite ad uffici e servizi, di superfi-
+ cie > 200 m2;
+ TK1: aree collegate ad aree TA ove si effettuano lavorazioni pericolose ai fini
+ dell’incendio o dell’esplosione, aventi superficie > 150 m2;
+ Nota Ad esempio: aree di taglio legno, officine di montaggio o riparazione di parti, aree per la miscela -
+ zione di vernici, …
+ TK2: aree esterne all’opera da costruzione, coperte o scoperte, destinate anche
+ temporaneamente allo stoccaggio, alla movimentazione ed al carico/scarico del-
+ le merci, al deposito dei materiali di scarto e degli imballaggi;
+ TM1: depositi con carico di incendio specifico q f > 600 MJ/m2, aventi superfi-
+ cie > 200 m2;
+ TM2: depositi con carico di incendio specifico qf > 1200 MJ/m2;
+ TM3: depositi di articoli pirotecnici NSL, con quantitativi netti di manufatti
+ ≤ 150 kg;
+ TT1: locali in cui siano presenti quantità significative di apparecchiature elettri-
+ che ed elettroniche, locali tecnici rilevanti ai fini della sicurezza antincendio;
+ Nota Ad esempio: CED, sala server, cabine elettriche, …
+ TT2: aree destinate alla ricarica di accumulatori elettrici di trazione;
+ Nota Ad esempio muletti, transpallet, macchine per la pulizia con uomo a bordo, …
+a21 TZ: altre aree.
+ 3. Sono considerate aree a rischio specifico (capitolo V.1) almeno le seguenti aree:
+ aree TK1, TK2, TM2, TM3, TT2.
+ V.8.4 Valutazione del rischio di incendio
+ 1. La progettazione della sicurezza antincendio deve essere effettuata attuando la
+ metodologia di cui al capitolo G.2.
+ 2. I profili di rischio sono determinati secondo la metodologia di cui al capito-
+ lo G.3.
+ Capitolo V.8 Attività commerciali Pagina V.8-3
+V.8.5 Strategia antincendio
+ 1. Devono essere applicate tutte le misure antincendio della regola tecnica oriz-
+ zontale attribuendo i livelli di prestazione secondo i criteri in esse definiti, fer -
+ mo restando quanto indicato al successivo comma 3.
+ 2. Devono essere applicate le prescrizioni del capitolo V.1 in merito alle aree a ri-
+ schio specifico e le prescrizioni delle altre regole tecniche verticali, ove perti-
+ nenti.
+ 3. Nei paragrafi che seguono sono riportate indicazioni complementari o sostituti-
+ ve delle soluzioni conformi previste dai corrispondenti livelli di prestazione del-
+ la RTO.
+V.8.5.1 Reazione al fuoco
+ 1. Nelle vie d’esodo verticali, percorsi d’esodo (es. corridoi, atri, filtri, …) e spazi
+ calmi devono essere impiegati materiali appartenenti almeno al gruppo GM2 di
+ reazione al fuoco (capitolo S.1).
+ 2. Negli spazi di esposizione e vendita delle aree TA devono essere impiegati ma-
+ teriali almeno appartenenti al gruppo GM3, limitatamente ai materiali per rive-
+ stimento e completamento, per isolamento, per impianti (paragrafo S.1.5).
+V.8.5.2 Resistenza al fuoco
+ 1. La classe di resistenza al fuoco dei compartimenti (capitolo S.2) non può essere
+ inferiore a quanto previsto in tabella V.8-1.
+ Attività
+ Compartimenti
+ HA HB HC HD
+Fuori terra 30 [1] 60 90
+Interrati - 90
+[1] Per le attività classificate AA o AB, che occupino un unico piano a quota compresa fra -1 m e +1 m, in opere
+da costruzione destinate esclusivamente a tali attività e compartimentate rispetto ad altre opere da costruzione,
+senza comunicazioni, è ammessa classe di resistenza al fuoco ≥ 15.
+Tabella V.8-1: Classe di resistenza al fuoco
+Capitolo V.8 Attività commerciali Pagina V.8-4
+V.8.5.3 Compartimentazione
+ 1. Le aree di tipo TA devono rispettare le quote di piano, le limitazioni e le misure
+ antincendio della tabella V.8-2.
+ 2. Le aree dell’attività devono avere le caratteristiche di compartimentazione (ca-
+ pitolo S.3) previste in tabella V.8-3
+ 3. Per le attività con controllo dell’incendio (capitolo S.6) di livello di prestazio-
+ ne IV, la quota 12 m dei piani del paragrafo S.3.6.2 per la compartimentazione
+ multipiano è riferibile a 15 m.
+ 4. Le aree TA devono essere compartimentate rispetto alle aree TK2, oppure devo-
+ no essere interposte distanze di separazione (capitolo S.3) assumendo il carico
+ d’incendio specifico delle aree TK2 qf ≥ 600 MJ/m2.
+ 5. Sono ammesse le seguenti comunicazioni tra diverse attività (capitolo S.3):
+ a. di tipo protetto e chiusure almeno E 30-Sa tra le attività commerciali con aree
+ di tipo TB1 o TB2 ed altre attività, con sistemi d’esodo indipendenti;
+ Nota Si ammettono comunicazioni delle aree TB1 o TB2 anche verso attività industriali produttive o
+ artigianali.
+ b. di tipo a prova di fumo tra le attività commerciali classificate AA+HA o
+ AA+HB ed altre attività civili con sistemi d’esodo comuni;
+ c. senza requisiti di compartimentazione tra le attività commerciali classificate
+ AA+HA o AA+HB ed altre attività con δ occ = E (capitolo G.3) con sistemi di
+ esodo comuni;
+ d. senza requisiti di compartimentazione tra le attività commerciali dotate di
+ controllo dell’incendio (capitolo S.6) di livello di prestazione V e controllo
+ di fumo e calore (capitolo S.8) di livello di prestazione III ed altre attività
+ con δocc = E (capitolo G.3) con sistemi d’esodo comuni;
+ e. di tipo protetto tra le attività commerciali ed altre attività civili con sistemi
+ d’esodo indipendenti;
+ f. di tipo a prova di fumo tra le attività commerciali ed altre attività con sistemi
+ d’esodo indipendenti.
+Capitolo V.8 Attività commerciali Pagina V.8-5
+ Quote dei piani Limitazioni Misure antincendio aggiuntive
+ -1 m ≤ h ≤ 12 m Nessuna Nessun requisito aggiuntivo
+ ● Rivelazione ed allarme (capitolo S.7) di livello di prestazione IV;
+ h > 12 m Nessuna
+ ● Tutte le vie d’esodo verticali di tipo protetto [1].
+ AA con Nessun requisito aggiuntivo
+ -5 m ≤ h < -1 m [3]
+ qf ≤ 600 MJ/m2
+ ● Controllo dell’incendio (capitolo S.6) di livello di prestazione IV [2];
+ -5 m ≤ h < -1 m [3] Nessuna ● Rivelazione ed allarme (capitolo S.7) di livello di prestazione IV;
+ ● Controllo di fumi e calore (capitolo S.8) di livello di prestazione III.
+[1] Per attività con quota dei piani h > 24 m, vie di esodo verticali di tipo a prova di fumo.
+[2] Per attività con carico d’incendio specifico q f ≤ 600 MJ/m2 è ammesso il livello di prestazione III per il control-
+lo dell’incendio (capitolo S.6).
+[3] Nel caso di un solo piano interrato è ammessa quota dei piani h sino a -7,5 m.
+Tabella V.8-2: Quote di piano, limitazioni e misure antincendio delle aree di tipo TA
+ Attività
+ Area
+ HA HB HC HD
+ TA, TB1, TB2 Nessun requisito aggiuntivo
+TC, TM1, TM3, TT1, TT2 Di tipo protetto [1]
+ Resto dell’attività a prova di fumo
+ TK1, TM2 Di tipo protetto [2]
+ proveniente dalle aree TK1, TM2
+ TZ Secondo valutazione del rischio
+[1] Nessun requisito aggiuntivo per le aree TM1 rispetto alle aree TB2.
+[2] Per attività HB, se le aree TK1 o TM2 sono ubicate a quota < -1 m, il resto dell’attività accessibile al pubblico
+deve essere a prova di fumo proveniente dalle medesime aree.
+Tabella V.8-3: Compartimentazione
+Capitolo V.8 Attività commerciali Pagina V.8-6
+V.8.5.4 Esodo
+ 1. La progettazione dell’esodo (capitolo S.4) deve prevedere densità di affollamen-
+ to almeno pari a 0,2 persone/m2 per gli spazi comuni aperti al pubblico conside-
+ rando, inoltre, gli eventuali ulteriori affollamenti provenienti da altre attività.
+ Nota Ad esempio, si considerano affollamenti provenienti da altre attività quelli provenienti dalle ban-
+ chine delle stazioni, aerostazioni, dagli alberghi, autorimesse, impianti sportivi, che eventualmen-
+ te adducano negli spazi comuni aperti al pubblico.
+ 2. Ai fini della determinazione dell’affollamento (capitolo S.4) si considerano:
+ a. aree di vendita di piccole attività commerciali al dettaglio con settore ali-
+ mentare o misto le aree TA delle attività AA o AB;
+ b. aree di vendita di piccole attività commerciali al dettaglio con specifica gam-
+ ma merceologica non alimentare le aree TA delle attività AA;
+ 3. Le vie d’esodo (capitolo S.4) delle aree TA non devono attraversare le altre tipo-
+ logie di aree.
+ 4. Ai fini del computo della lunghezza di esodo, la mall può essere assimilata a
+ luogo sicuro temporaneo se sono verificate tutte le condizioni di cui alla tabel-
+ la V.8-4.
+Carico di incendio specifico nella mall qf ≤ 50 MJ/m2, anche in presenza di allestimenti a carattere temporaneo.
+Distanza minima L fra facciate contrapposte che si affacciano sulla mall pari a √(7 H) con H altezza della fac-
+ciata più alta ed L comunque ≥ 7 m.
+Controllo dell’incendio (capitolo S.6) di livello di prestazione IV, esteso a tutti gli ambiti non compartimentati che
+si affacciano nella mall.
+Rivelazione e allarme (capitolo S.7) di livello di prestazione IV, esteso alla mall e a tutti gli ambiti non comparti-
+mentati che vi si affacciano.
+Controllo fumo e calore (capitolo S.8) di livello di prestazione III, esteso alla mall e a tutti gli ambiti non comparti-
+mentati che vi si affacciano.
+Tabella V.8-4: Condizioni per assimilare la mall a luogo sicuro temporaneo
+V.8.5.5 Gestione della sicurezza antincendio
+ 1. Le attività commerciali con sistemi d’esodo comuni rispetto ad altre attività (ca-
+ pitolo S.3) devono adottare la GSA (capitolo S.5) di livello di prestazione III.
+ 2. La GSA in condizione ordinarie (capitolo S.5) deve prevedere specifiche proce-
+ dure per la verifica e l’osservanza delle limitazioni e delle condizioni di eserci-
+ zio previste nella progettazione delle singole aree dell’attività.
+ Nota Le limitazioni e le condizioni previste nella progettazione (es. per i gruppi di materiali ai fini della
+ reazione al fuoco, i valori del carico d’incendio specifico, le larghezze utili delle vie d’esodo, …)
+ devono essere garantiti anche durante le fasi di approvvigionamento e movimentazione delle mer-
+ ci o in occasione di allestimenti temporanei promozionali o di spettacolo viaggiante.
+ 3. Le attività classificate AD+HB, AD+HC, AE o HD devono prevedere il centro
+ di gestione delle emergenze in apposito locale (capitolo S.5).
+Capitolo V.8 Attività commerciali Pagina V.8-7
+V.8.5.6 Controllo dell’incendio
+ 1. L’attività deve essere dotata di misure di controllo dell’incendio (capitolo S.6)
+ secondo i livelli di prestazione previsti in tabella V.8-5.
+ 2. Per la scelta del tipo di estintori, nella aree TA, TB1 e TB2, è necessario tener
+ conto degli effetti causati sugli occupanti dall’erogazione dell’agente estinguen-
+ te.
+ Nota Al fine dell’efficacia nei confronti dei principi di incendio di classe A o classe B, è preferibile
+ l’utilizzo di estintori a base d’acqua (estintori idrici).
+ 3. Nella aree TK2 con qf > 1200 MJ/m2 deve essere prevista la protezione median-
+ te una rete idranti all’aperto. Ai fini della eventuale applicazione della norma
+ UNI 10779, devono essere adottati i parametri riportati in tabella V.8-6.
+ 4. Ai fini della eventuale applicazione della norma UNI 10779 per le reti idranti
+ ordinarie, devono essere adottati i parametri riportati in tabella V.8-7.
+ 5. Per la progettazione dell’eventuale impianto automatico di controllo o estinzio-
+ ne dell’incendio di tipo sprinkler secondo norma UNI EN 12845 devono essere
+ adottati i parametri riportati in tabella V.8-8.
+ Attività
+ Attività Area
+ HA HB HC HD
+ AA II [1] III IV
+ AB III [2], [3] III [3] IV
+ TA, TB1
+ AC III [3] IV V [5]
+ AD III [3] IV V [4], [5] V [5]
+ AE Qualsiasi V [5]
+ Qualsiasi TK1, TM1, TM3 III [3] IV
+ Qualsiasi TM2 IV
+ Qualsiasi TZ Secondo valutazione del rischio
+[1] Livello di prestazione III per le attività con carico d’incendio specifico qf > 600 MJ/m2.
+[2] Livello di prestazione II per le attività con carico d’incendio specifico qf < 100 MJ/m2.
+[3] Livello di prestazione IV con carico d’incendio specifico q f > 900 MJ/m2, oppure con carico d’incendio specifi-
+co qf > 600 MJ/m2 se ubicate in opere da costruzione con presenza di altre attività (fabbricato o edificio di tipo
+misto).
+[4] Livello di prestazione IV con carico d’incendio specifico qf ≤ 600 MJ/m2.
+[5] Per le aree TK2, livello di prestazione III
+Tabella V.8-5: Livelli di prestazione per il controllo dell’incendio
+ Livello di pericolosità Tipo di protezione Alimentazione idrica
+ 2 Capacità ordinaria Singola
+Tabella V.8-6: Parametri progettuali per rete idranti all’aperto secondo UNI 10779 e caratteristiche
+ minime alimentazione idrica UNI EN 12845
+Capitolo V.8 Attività commerciali Pagina V.8-8
+ Attività Livello di Protezione Alimentazione
+ Superficie Quota dei piani pericolosità esterna idrica
+ AA Qualsiasi 1 [1] Non richiesta Singola [2]
+ AB, AC HA, HB, HC 2 Non richiesta Singola
+ AB, AC HD 2 [3] Sì Singola superiore
+ AD Qualsiasi 2 [3] Sì Singola superiore
+ AE Qualsiasi 3 Sì Singola superiore [4]
+[1] Per le attività HC o HD si indica il livello di pericolosità 2.
+[2] Per le attività AA+HA è ammessa alimentazione idrica di tipo promiscuo; per le attività HD si indica alimenta-
+zione idrica di tipo singola superiore.
+[3] Per le attività con carico di incendio specifico qf > 1200 MJ/m2 si indica il livello di pericolosità 3.
+[4] Per le attività AE con superficie lorda utile > 50000 m2 si indica alimentazione doppia.
+Tabella V.8-7: Parametri progettuali per rete idranti ordinarie secondo UNI 10779 e caratteristiche
+ minime alimentazione idrica UNI EN 12845
+ Attività Alimentazione idrica
+ AA, AB, AC, AD Singola superiore [1], [2]
+ AE Singola superiore [3]
+[1] Per le eventuali aree TK1 o TM inserite in attività AA o AB si indica alimentazione idrica di tipo singolo.
+[2] Per le eventuali aree TZ secondo valutazione del rischio.
+[3] Per le attività AE con superfici lorda utile > 50000 m2 si indica alimentazione doppia.
+Tabella V.8-8: Parametri progettuali impianto sprinkler e caratteristiche minime alimentazione idrica
+ secondo UNI EN 12845
+V.8.5.7 Rivelazione ed allarme
+ 1. L’attività deve essere dotata di misure di rivelazione ed allarme (capitolo S.7)
+ secondo i livelli di prestazione di cui alla tabella V.8-9.
+ 2. Per il livello di prestazione IV deve essere previsto il sistema EVAC esteso al-
+ meno alle aree TA.
+ Attività
+ Superficie HA HB HC HD
+ AA III [1], [2] III [2] IV
+ AB, AC III [2] IV
+ AD, AE IV
+[1] Per attività con carico d’incendio specifico qf ≤ 600 MJ/m o ubicata in un’opera da costruzione monopiano è
+ 2
+consentito il livello di prestazione II.
+[2] Le eventuali funzioni E, F, G ed H devono essere automatiche su comando della centrale o con centrali auto-
+nome di azionamento asservite alla centrale master.
+Tabella V.8-9: Livelli di prestazione per rivelazione ed allarme
+Capitolo V.8 Attività commerciali Pagina V.8-9
+V.8.5.8 Controllo di fumi e calore
+ 1. Le aree TA devono essere dotate di misure per il controllo di fumi e calore (ca-
+ pitolo S.8) secondo i livelli di prestazione di cui alla tabella V.8-10.
+ Attività Condizioni Livello di prestazione
+ AA Nessuna II
+ Carico d’incendio specifico qf < 600 MJ/m e velocità caratteristica
+ 2
+ AB, AC II
+ prevalente di crescita dell’incendio δa < 3 (capitolo G.3)
+AB, AC, AD, AE Nessuna III
+Tabella V.8-10: Livelli di prestazione per il controllo di fumi e calore per le aree TA
+V.8.5.9 Operatività antincendio
+ 1. Le attività di tipo HC e HD devono essere dotate di almeno un ascensore antin-
+ cendio (capitolo S.9 e capitolo V.3) a servizio di tutti i piani dell’attività.
+V.8.5.10 Sicurezza impianti tecnologici e di servizio
+ 1. I gas refrigeranti negli impianti centralizzati di climatizzazione e condiziona-
+ mento (capitolo S.10) e di refrigerazione alimentare, inseriti in aree TA, devono
+ essere classificati A1 o A2L secondo ISO 817.
+V.8.6 Altre indicazioni
+ 1. All’interno delle aree TA, TB1 e TB2 non è ammesso l’impiego di apparecchia-
+ ture alimentate a combustibile liquido o gassoso.
+ Nota Ad esempio, è ammesso l’impiego di apparecchi di cottura a combustibile solido (es. forni di cot-
+ tura, …) o alimentati ad energia elettrica (es. piastre di cottura, …).
+ 2. All’interno delle aree TA, TB1 e TB2 sono comunque ammessi, per ciascun
+ compartimento antincendio:
+ a. fluidi combustibili o prodotti contenuti in recipienti a pressione (es. insettici-
+ da, prodotti spray in genere, cosmetici, alcooli in concentrazione > 60% in
+ volume, olii lubrificanti, …) ≤ 1 m3 di cui massimo 0,3 m3 di liquidi con
+ punto di infiammabilità < 21°C;
+ b. recipienti di GPL di singola capacità ≤ 5 kg, in quantitativi ≤ 75 kg, in locali
+ posti a quota h ≥ -1 m;
+ c. articoli pirotecnici NSL, con quantitativi netti di manufatti ≤ 50 kg.
+Capitolo V.8 Attività commerciali Pagina V.8-10
+V.8.7 Riferimenti
+ 1. Si indicano i seguenti riferimenti:
+ a. Instruction technique n°263 relative à la construction et au désenfumage des
+ volumes libres intérieurs dans les établissements recevant du public, France.
+ b. ISO 817 “Refrigerants - Designation and safety classification”.
+ c. “Fire safety management of shopping centres with covered malls”, Issue No.
+ 1 – November 2012, Dublin Fire Brigade.
+ d. “Fire safety design of a large shopping mall using extended quantitative risk
+ analysis”, The Swedish Case Study for the 3rd International Conference on
+ Performance Based Codes and Fire Safety Design Methods, Lund, Sweden,
+ June 15th-17th, 2000.
+ e. I D Bennetts, K W Poh, I R Thomas, “Design of sprinklered shopping centre
+ buildings for fire safety”, OneSteel, Australia, November 2000.
+ f. McMillan, Jenny, “A guideline for the fire design of shopping centres”, Fire
+ Engineering Research Report 00/16, University of Canterbury, New Zeland.
+Capitolo V.8 Attività commerciali Pagina V.8-11
+

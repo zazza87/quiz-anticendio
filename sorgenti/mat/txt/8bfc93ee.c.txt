@@ -1,0 +1,808 @@
+ RTO SEZIONE S.7 – RIVELAZIONE ED ALLARME
+ Esempio di progettazione RTV 5 – ATTIVITÀ RICETTIVE TURISTICO-ALBERGHIERE
+Relatore: Alessandro Cattaneo – Fire Specialist di Comelit Group S.p.A.
+S.7 – RIVELAZIONE ED ALLARME
+Gli impianti di rivelazione incendio e segnalazione allarme incendi (IRAI) sono realizzati con l’Obiettivo di sorvegliare gli
+ambiti di una attività, rivelare precocemente un incendio e lanciare l'allarme al fine di:
+• attivare le misure protettive (impianti automatici di controllo o estinzione, compartimentazione, evacuazione fumi e calore, …)
+• attivare le misure gestionali (piano e procedure di emergenza e d’esodo, …)
+S.7 – RIVELAZIONE ED ALLARME
+PRINCIPALI NORME
+• Serie delle norme UNI EN 54 "Sistemi di rivelazione e di segnalazione d'incendio" (Fire detection and fire
+ alarm systems), in particolare UNI EN 54-1 Sistemi di rivelazione e di segnalazione d'incendio - Parte 1:
+ Introduzione:
+ ▪ Definisce i termini e definizioni utilizzate nella serie UNI EN 54;
+ ▪ Fornisce i principi su cui ogni norma della serie UNI EN 54 è basata e descrive le funzioni dei
+ componenti di un sistema.
+• Norma UNI 9795 Sistemi fissi automatici di rivelazione e di segnalazione allarme d’incendio:
+ Progettazione, installazione ed esercizio:
+ ▪ Prescrive i criteri per la progettazione, l’installazione e l’esercizio dei sistemi fissi automatici di
+ rivelazione e di segnalazione allarme d’incendio.
+S.7 – RIVELAZIONE ED ALLARME
+COMPOSIZIONE DI UN IRAI
+La norma europea UNI EN 54-1 e la norma italiana UNI 9795
+fissano la configurazione base di un IRAI, stabilendo che sia A D 1
+sempre costituita dagli elementi che assolvono alle 5 funzioni
+principali:
+ L M B 2
+➢ A Rivelazione automatica dell’incendio
+➢ B Centrale di controllo e segnalazione
+ P C N E J G 3
+➢ C Allarme incendio
+➢ D Rivelazione manuale dell’incendio
+ O F K H 4
+➢ L Alimentazione di sicurezza
+S.7 – RIVELAZIONE ED ALLARME
+COMPOSIZIONE DI UN IRAI
+A Rivelatore d'incendio
+ Funzioni
+B Centrale controllo e segnalazione
+ principali A D 1
+C Dispositivi allarme incendio
+D Segnalazione manuale Funzioni
+E Trasmissione allarme incendio secondarie
+ L M B 2
+F Stazione ricevimento allarme incendio
+G Comando del sistema automatico antincendio
+H Sistema automatico antincendio
+J Dispositivo di trasmissione dei segnali di guasto
+ P C N E J G 3
+K Stazione di ricevimento dei segnali di guasto
+L Apparecchiatura di alimentazione
+M Controllo e segnalazione di allarmi vocali
+N Ingresso e uscita ausiliaria
+O Gestione ausiliaria O F K H 4
+P Dispositivi di allarme incendio (altoparlanti)
+S.7 – RIVELAZIONE ED ALLARME
+COMPOSIZIONE DI UN IRAI – COMPONENTI PRINCIPALI
+ A – RIVELATORE D'INCENDIO
+Contiene un sensore che costantemente o a intervalli frequenti sorveglia un fenomeno fisico/chimico associato all'incendio e
+fornisce un corrispondente segnale alla centrale di controllo e segnalazione.
+Vengono classificati in base a:
+• Fenomeno chimico-fisico sorvegliato,
+• Modo in cui il rivelatore risponde al fenomeno sorvegliato,
+• Configurazione del rivelatore,
+• Possibilità di ripristino del rivelatore,
+• Possibilità di rimozione del rivelatore,
+• Tipo di segnale trasmesso.
+S.7 – RIVELAZIONE ED ALLARME
+COMPOSIZIONE DI UN IRAI – COMPONENTI PRINCIPALI
+ B – CENTRALE DI CONTROLLO E SEGNALAZIONE
+• Riceve i segnali dai rivelatori determinando se corrispondono alla condizione di allarme incendio, localizzando (per alcuni tipi
+ di impianti) la zona di pericolo.
+• Sorveglia il corretto funzionamento del sistema e segnala con mezzi ottici e acustici eventuali anomalie.
+• Inoltra il segnale di allarme ai dispositivi di allarme, alla stazione di ricevimento dell'allarme incendio e al sistema
+ automatico antincendio.
+S.7 – RIVELAZIONE ED ALLARME
+COMPOSIZIONE DI UN IRAI – COMPONENTI PRINCIPALI
+ C – DISPOSITIVI DI ALLARME INCENDIO
+Sono dispositivi installati all'esterno della centrale di controllo che forniscono un allarme incendio, es. sirene, campane,
+indicatori visivi, pannelli ottico-acustici, ecc.
+S.7 – RIVELAZIONE ED ALLARME
+COMPOSIZIONE DI UN IRAI – COMPONENTI PRINCIPALI
+ D – PUNTO DI SEGNALAZIONE MANUALE
+L'azionamento del punto di segnalazione richiede la rottura o lo spostamento di un elemento frangibile, facente parte della
+superficie frontale.
+S.7 – RIVELAZIONE ED ALLARME
+COMPOSIZIONE DI UN IRAI – COMPONENTI PRINCIPALI
+ L – APPARECCHIATURA DI ALIMENTAZIONE
+Fornisce l’alimentazione per la centrale di controllo e segnalazione e i componenti alimentati.
+L'impianto di rivelazione deve essere dotato di una doppia alimentazione (norma UNI EN 54-4):
+• Alimentazione principale: derivata da rete pubblica tramite linea riservata, dotata di organi di sezionamento, manovra e
+ protezione.
+• Alimentazione di riserva: può essere costituita da batteria di accumulatori o derivata da rete elettrica di sicurezza
+ indipendente dalla principale.
+S.7 – RIVELAZIONE ED ALLARME
+COMPOSIZIONE DI UN IRAI – COMPONENTI SECONDARI
+ G – COMANDO DEL SISTEMA AUTOMATICO ANTINCENDIO
+Dispositivo automatico utilizzato per attivare il sistema automatico di lotta contro l'incendio, dopo il ricevimento di un segnale
+emesso dalla centrale di controllo e segnalazione.
+ H – SISTEMA AUTOMATICO ANTINCENDIO
+Apparecchiature di lotta contro l'incendio, es.:
+• impianto fisso di spegnimento
+• fermi elettromagnetici di porte e serrande tagliafuoco
+• attivazione sistemi EFC
+• disattivazione impianti tecnici
+• azionamento illuminazione di emergenza
+S.7 – RIVELAZIONE ED ALLARME
+COMPOSIZIONE DI UN IRAI – COMPONENTI SECONDARI
+ E – DISPOSITIVO DI TRASMISSIONE DELL’ALLARME INCENDIO
+Apparecchiatura intermedia (ad esempio combinatore telefonico o modem) che trasmette il segnale di allarme dalla centrale di
+controllo e segnalazione ad una stazione di ricevimento dell'allarme stesso.
+ F – STAZIONE DI RICEVIMENTO DELL'ALLARME INCENDIO
+Centro dal quale possono essere avviate in qualsiasi momento le necessarie misure di protezione o di lotta all'incendio.
+S.7 – RIVELAZIONE ED ALLARME
+COMPOSIZIONE DI UN IRAI – COMPONENTI SECONDARI
+ J – DISPOSITIVO DI TRASMISSIONE DEL SEGNALE DI GUASTO
+Apparecchiatura intermedia (ad esempio combinatore telefonico o modem) che trasmette il segnale di guasto dalla centrale di
+controllo e segnalazione ad una stazione di ricevimento del segnale di guasto.
+ K – STAZIONE DI RICEVIMENTO DEL SEGNALE DI GUASTO
+Centro dal quale possono essere prese le necessarie misure correttive.
+S.7 – RIVELAZIONE ED ALLARME
+COMPOSIZIONE DI UN IRAI – COMPONENTI SECONDARI
+ M – CONTROLLO E SEGNALAZIONE DI ALLARMI VOCALI
+Centrale di controllo e segnalazione di allarme vocale (centrale EVAC).
+ P – DISPOSITIVI DI ALLARME INCENDIO (ALTOPARLANTI)
+Altoparlanti dell’impianto EVAC.
+S.7 – RIVELAZIONE ED ALLARME
+COMPOSIZIONE DI UN IRAI – COMPONENTI SECONDARI
+ N – INGRESSO E USCITA AUSILIARIA
+Interfaccia di comunicazione dei dati.
+ O – GESTIONE AUSILIARIA
+Sistema di visualizzazione e/o gestione dell’edificio.
+S.7 – RIVELAZIONE ED ALLARME
+COMPOSIZIONE DI UN IRAI
+ Legenda
+ A Rivelatore(i) d'incendio
+ A D 1
+ B Funzione di controllo e segnalazione
+ C Funzione di allarme incendio
+ D Funzione di segnalazione manuale
+ E Funzione di trasmissione dell'allarme incendio
+ F Funzione di ricezione dell'allarme incendio
+ L M B 2
+ G Funzione di comando del sistema o attrezzatura di protezione contro l’incendio
+ H Sistema automatico o attrezzatura di protezione contro l’incendio
+ J Funzione di trasmissione dei segnali di guasto
+ K Funzione di ricezione dei segnali di guasto
+ L Funzione di alimentazione
+ M Funzione di controllo e segnalazione degli allarmi vocali
+ P C N E J G 3 N Funzione di ingresso e uscita ausiliaria
+ O Funzione di gestione ausiliaria
+ P Funzione di allarme incendio (altoparlanti)
+ Scambio di informazioni tra funzioni
+ 1 Funzione di rivelazione e attivazione
+ 2 Funzione di comando per segnalazioni ed attivazioni
+ O F K H 4
+ 3 Funzioni associate locali
+Note 4 Funzioni associate remote
+1 Le linee che collegano i diversi componenti indicano i flussi di informazione e non le interconnessioni fisiche.
+2 Per i collegamento agli elementi G è necessaria la segnalazione di guasto sulla centrale per corto circuito o interruzione di linea come previsto dalla EN 54-2.
+ Nel caso non sia possibile realizzare quanto indicato sopra è necessario un controllo indiretto (ad es. fermo elettromagnetico con contatto di stato porta).
+3 Le funzioni incluse all’interno dell’area «tratto-punto» fanno parte dell’impianto di rivelazione incendio (soggette alle norme EN 54 pubblicate di pertinenza).
+4 Le funzioni A, B, C, D e L sono considerati componenti principali dell’impianti IRAI e devono sempre essere presenti in ogni impianto ad esclusione della funzione A che può essere assente nei sistemi
+ fissi di sola segnalazione manuale
+S.7 – RIVELAZIONE ED ALLARME
+LIVELLI DI PRESTAZIONE E CRITERI DI ATTRIBUZIONE
+ Liv.
+ Descrizione Criteri di attribuzione
+Prest.
+ • Rvita = A1, A2; Rbeni = 1; Rambiente = non significativo;
+ • attività non aperta al pubblico;
+ • densità di affollamento ≤ 0,2 pers/m2;
+ • non prevalentemente destinata ad occupanti con disabilità;
+ Rivelazione ed allarme demandata
+ I agli occupanti
+ • tutti i piani dell'attività situati a quota compresa tra -5 m e 12 m;
+ • carico di incendio specifico qf ≤ 600 MJ/m2;
+ • superficie lorda di ciascun compartimento ≤ 4000 m2;
+ • non si detengono o trattano sostanze o miscele pericolose in quantità significative;
+ • non si effettuano lavorazioni pericolose ai fini dell'incendio.
+ • Rvita = A1, A2, B1, B2; Rbeni = 1; Rambiente = non significativo;
+ • densità di affollamento ≤ 0,7 pers/m2;
+ Segnalazione manuale e sistema • tutti i piani dell'attività situati a quota compresa tra -10 m e 54 m;
+ II d'allarme su tutta l'attività • carico di incendio specifico qf ≤ 600 MJ/m2;
+ • non si detengono o trattano sostanze o miscele pericolose in quantità significative;
+ • non si effettuano lavorazioni pericolose ai fini dell'incendio.
+ Rivelazione automatica su
+ porzioni di attività, segnalazione
+ III manuale e sistema d'allarme su
+ Attività non ricomprese negli altri criteri di attribuzione.
+ tutta l’attività
+ Rivelazione automatica, In relazione alle risultanze della valutazione del rischio nell'ambito e in ambiti limitrofi della stessa attività (es. attività
+ con elevato affollamento, attività con geometria complessa o piani interrati, elevato carico di incendio specifico qf, presenza di
+ IV segnalazione manuale e sistema sostanze o miscele pericolose in quantità significative, presenza di lavorazioni pericolose ai fini dell'incendio, presenza di
+ d'allarme su tutta l’attività inneschi significativi, ...).
+S.7 – RIVELAZIONE ED ALLARME
+LIVELLI DI PRESTAZIONE E SOLUZIONI CONFORMI
+ Funzioni minime degli IRAI Funzioni di avvio impianti
+ Liv.
+ Aree sorvegliate Funzioni di evacuazione ed allarme protezione attiva e arresto
+Prest. Principali Secondarie altri impianti
+ Allarme con segnali convenzionali codificati in Demandate a procedure
+ Non sono previste funzioni, la rivelazione e
+ I - l’allarme sono demandate agli occupanti
+ procedure d'emergenza (a voce, suono di operative in pianificazione
+ campana, accensione di segnali luminosi, …) d'emergenza.
+ Con dispositivi di diffusione visuale e sonora o
+ Demandate a procedure
+ altri dispositivi adeguati alle capacità percettive
+ II - B, D, L, C -
+ degli occupanti e alle condizioni ambientali
+ operative in pianificazione
+ d'emergenza.
+ (es. segnalazione di allarme ottica, a vibrazione)
+ E, F, G, H, J, K, N Demandate a procedure
+ Spazi comuni, vie Non previste dove l'avvio dei Con dispositivi di diffusione visuale e sonora o operative in pianificazione
+ d'esodo e spazi sistemi di protezione attiva e
+ altri dispositivi adeguati alle capacità percettive d'emergenza o automatiche
+ III limitrofi, aree dei beni A, B, D, L, C l’arresto degli altri impianti è
+ degli occupanti e alle condizioni ambientali su comando della centrale o
+ da proteggere, aree a demandato a procedure
+ operative in pianificazione (es. segnalazione di allarme ottica, a vibrazione) mediante centrali autonome
+ rischio specifico
+ d'emergenza di azionamento
+ Con dispositivi di diffusione visuale e sonora o
+ altri dispositivi adeguati alle capacità percettive
+ Automatiche su comando
+ degli occupanti e alle condizioni ambientali
+ della centrale o mediante
+ IV Tutte A, B, D, L, C E, F, G, H, J, K, M, N, O, P (es. segnalazione di allarme ottica, a vibrazione)
+ centrali autonome di
+ o, per elevati affollamenti e/o geometrie
+ azionamento
+ complesse previsto sistema EVAC secondo
+ norme UNI 11988 o UNI CEN/TS 54-32
+S.7 – RIVELAZIONE ED ALLARME
+SOLUZIONI PROGETTUALI
+ LIVELLO I
+La rivelazione e l'allarme è demandata agli occupanti.
+Attualmente, in alcune regole tecniche ove non è prescritto un IRAI, sono previsti “Sistemi di allarme” con cui si demanda la
+rivelazione dell'incendio agli occupanti e si prescrive che siano diffusi gli allarmi attraverso segnali codificati.
+Le condizioni per poter demandare sorveglianza e diffusione allarmi agli occupanti
+sono molto rigorose e di tipo “And” (tutti i requisiti devono essere verificati).
+Consente occupanti in stato di veglia e che conoscono l'edificio (A1, A2).
+Attività non aperta al pubblico, non molto affollata (0,2 pers/m2), non troppo “profonda’’ né ‘‘alta” (-5 ÷ 12 m), con poco materiale
+combustibile e senza lavorazioni pericolose.
+Compartimenti limitati (4000 m2) e carico d’incendio non troppo elevato (600 MJ/m2).
+S.7 – RIVELAZIONE ED ALLARME
+SOLUZIONI PROGETTUALI
+ LIVELLO II
+Solo segnalazione manuale e sistema d'allarme.
+Anche in questo caso sono previste condizioni (un po’ meno rigorose) di tipo “And”.
+Consente anche occupanti in stato di veglia che non conoscono l’edificio (A1, A2, B1, B2).
+Consente l'apertura al pubblico, moderato affollamento (0,7 pers/m2) e ubicazione piani interrati e fuori terra (-10 ÷ 54 m).
+Stesso limite per il carico d’incendio (600 MJ/m2), ma nessun limite per i compartimenti.
+S.7 – RIVELAZIONE ED ALLARME
+SOLUZIONI PROGETTUALI
+ LIVELLO III
+La rivelazione è automatica per porzioni di attività ed è possibile avviare automaticamente i sistemi di protezione attiva.
+Il livello è attribuito per esclusione, per le attività non ricomprese negli altri criteri.
+S.7 – RIVELAZIONE ED ALLARME
+SOLUZIONI PROGETTUALI
+ LIVELLO IV
+La rivelazione è automatica ed estesa a tutta l’attività ed è necessario avviare automaticamente i sistemi di protezione attiva.
+Il livello è attribuito con la valutazione del rischio in base a:
+• elevato affollamento;
+• tipologia occupanti (es. elevata presenza di persone disabili, soggette a cure mediche, ecc.);
+• geometria complessa (piani molto interrati o a quote elevate);
+• carico d’incendio elevato;
+• sostanze pericolose in quantità significative;
+• luoghi dove si effettuano lavorazioni pericolose.
+Dati principali
+In questo esempio di progettazione si prende come campione un albergo costituito da una piccola autorimessa al piano
+interrato, la reception e locale direzione al piano terra, 7 piani di camere suddivise in diverse tipologie: monolocali, bilocali e
+camere e un soggiorno con solarium e servizi tecnici al piano copertura.
+Sono previste zone controsoffittate negli spazi comuni (rappresentate in violetto nelle tavole), con altezza interna di 30 cm.
+Viste in pianta dell’edificio
+ Piano interrato
+Viste in pianta dell’edificio
+ Piano terra
+Viste in pianta dell’edificio
+ Piano primo
+Viste in pianta dell’edificio
+ Piani dal secondo al settimo
+Viste in pianta dell’edificio
+ Piano copertura
+Classificazione secondo RTV 5 – ALBERGHI
+Ai fini della presente regola tecnica verticale, le attività ricettive turistico-alberghiere sono classificate come segue:
+a) In relazione al numero dei posti letto p:
+ • PA: 25 < p ≤ 50
+ • PB: 50 < p ≤ 100
+ • PC: 100 < p ≤ 500
+ • PD: 500 < p ≤ 1000
+ • PE: p > 1000
+b) In relazione alla massima quota dei piani h:
+ • HA: h ≤ 12 m
+ • HB: 12 m < h ≤ 24 m
+ • HC: 24 m < h ≤ 32 m
+ • HD: 32 m < h ≤ 54 m
+ • HE: h > 54 m
+Nel nostro caso in ogni piano ci sono 9 stanze suddivise in camere, monolocali e bilocali per un totale di 126 posti letto per
+cui ci troviamo nel caso PC e l’altezza massima fuori terra è di circa 33 mt quindi siamo nel caso HD.
+Classificazione secondo RTV 5 – ALBERGHI
+Con questi dati verifichiamo il livello di prestazione necessario secondo la tabella V.5-6.
+Dall’intersezione dei valori risulta il livello IV.
+Nello stesso paragrafo è indicato che per il livello di prestazione IV deve essere sempre previsto il sistema EVAC.
+Progettazione impianto IRAI secondo UNI 9795
+Scopo della normativa
+La norma prescrive i criteri per la progettazione, l’installazione e l’esercizio dei sistemi fissi automatici di rivelazione e di
+segnalazione allarme d’incendio. Si applica ai sistemi fissi automatici di rivelazione, di segnalazione manuale e di allarme
+d’incendio, collegati o meno ad impianti di estinzione o ad altro sistema di protezione (sia di tipo attivo che di tipo passivo), di
+nuova progettazione e successivamente installati in edifici e relative pertinenze, indipendentemente dalla destinazione d’uso.
+Progettazione impianto IRAI secondo UNI 9795
+La finalità della norma
+Lo scopo dei sistemi è quello di:
+• Favorire un tempestivo esodo delle persone
+• Attivare i piani di intervento
+• Attivare i sistemi di protezione contro l’incendio
+Per raggiungere tale fine è indispensabile progettare e realizzare sistemi in grado di rilevare ogni principio di incendio in forma
+tempestiva ed organizzare un piano di intervento efficace.
+Le variabili da rilevare per individuare tempestivamente una fonte di pericolo sono:
+▪ Fumo
+▪ Temperatura
+▪ Fiamma
+Progettazione impianto IRAI secondo UNI 9795
+Progettazione e installazione dei sistemi fissi automatici
+La norma ha lo scopo di fornire i criteri per la realizzazione e l’esercizio dei sistemi di rivelazione e dei sistemi segnalazione
+d’incendio, in particolare:
+• Estensione della sorveglianza
+• Suddivisione dell’area in zone
+• Criteri di installazione
+• Centrale di controllo e segnalazione
+• Alimentazioni
+Progettazione impianto IRAI secondo UNI 9795
+Estensione della sorveglianza
+Le aree sorvegliate devono essere interamente tenute sotto controllo dal sistema di rivelazione su tutta la loro estensione.
+La sorveglianza all’interno di una area deve comprendere (con le eccezioni previste nella prossima slide):
+• vani e locali tecnici per ascensori e montacarichi
+• cortili interni coperti
+• cunicoli, cavedi e passerelle per cavi elettrici
+• condotti di condizionamento dell’aria
+• spazi nascosti sopra i controsoffitti e sotto i sottopavimenti sopraelevati
+Progettazione impianto IRAI secondo UNI 9795
+Estensione della sorveglianza
+Possono non essere direttamente sorvegliate dai rivelatori le seguenti parti, qualora non contengano sostanze infiammabili,
+rifiuti, materiali combustibili e cavi elettrici (ad eccezione di quelli strettamente indispensabili all’utilizzazione dell’illuminazione dei locali o
+quando la posa dei cavi elettrici avviene ‘‘sotto traccia’’):
+• Piccoli locali utilizzati per servizi igienici (la protezione può essere omessa oltre che per la presenza di cavi per l’illuminazione,
+ anche per la presenza di cavi per l’alimentazione di utenze elettriche dei servizi medesimi; ad esempio asciugacapelli, asciugamano, …)
+• Banchine di carico scoperte
+• Spazi nascosti, compresi quelli sopra i controsoffitti e sotto i pavimenti flottanti (come da note riportate più avanti)
+• Vani scale compartimentati
+• Vani corsa di elevatori, ascensori e montacarichi (se fanno parte di un compartimento sorvegliato dal sistema di rivelazione)
+Progettazione impianto IRAI secondo UNI 9795
+Suddivisione dell’area in zone
+I criteri per la suddivisione di un’area in zone devono rispettare i seguenti punti:
+• Garantire rapida individuazione della zona di appartenenza (non più di un piano per zona esclusi dei vani scala ed ascensori)
+• Massimo 1600 m2 per zona
+• Massimo 10 locali attigui per zona con superficie max. di 600 m2 in cui gli accessi danno sul medesimo disimpegno
+• Massimo 20 locali attigui per zona con superficie max. di 1000 m2 e con ripetitori ottici posti fuori dai singoli accessi
+ NOTA: Nei locali per i quali è richiesta la segnalazione visibile fuori porta questa può essere cumulativa di tutto ciò che vi è all’interno
+• I rivelatori installati in spazi nascosti devono appartenere a zone distinte (per i rivelatori non visibili si deve prevedere
+ localmente un ripetitore ottico visibile)
+• Se una linea di rivelazione serve più zone o più di 32 punti, deve essere ad anello chiuso e dotata di isolatori in grado
+ di assicurare che un corto circuito o una interruzione, non impedisca la segnalazione di allarme per più di una zona
+• In una zona possono essere compresi rivelatori sensibili a fenomeni differenti purché i rispettivi segnali siano
+ univocamente identificabili dalla centrale (sistema di tipo indirizzato)
+• I dispositivi di segnalazione (funz. C), i punti di segnalazione manuale (funz. D), i moduli di attivazione (funz. G), e le
+ segnalazioni tecnologiche (funz. H) devono essere gestite su zone logiche differenti e possono essere collegati alle
+ linee dei rivelatori solo se la centrale è in grado di riconoscere i segnali (sistema di tipo indirizzato).
+Progettazione impianto IRAI secondo UNI 9795
+Criteri di installazione
+I rivelatori devono essere installati in modo che possano individuare ogni tipo d’incendio prevedibile nell’area sorvegliata, fin
+dal suo stadio iniziale e in modo da evitare falsi allarmi. La determinazione del numero di rivelatori necessari e della loro
+posizione deve essere effettuata in funzione di quanto segue:
+• Tipo del rivelatore
+• Superficie ed altezza del locale
+• Forma del soffitto o della copertura quando questa costituisce il soffitto
+• Condizioni di aerazione del locale
+• Temperatura e umidità
+Progettazione impianto IRAI secondo UNI 9795
+Rivelatori puntiformi di calore – EN 54-5
+ Altezza (h)(1) dei locali [m] h ≤ 7,5 h > 7,5
+ Raggio di copertura [m] 4,5 NU(2)
+(1) Altezza massima di 7,5 m per i rivelatori in classe A1 (temp. di intervento 58°C);
+ Altezza massima di 6 m per i rivelatori in classe A2 (temp. di intervento 60°C);
+ Solo protezione ad oggetto per le altre classi
+(2) NU = Non Utilizzabile
+N.B. Il rivelatore deve essere posto in posizione perpendicolarmente al pavimento e non parallela alla falda al fine di preservare il grado di
+ protezione IP
+Progettazione impianto IRAI secondo UNI 9795
+Rivelatori puntiformi di fumo e calore – Note generali
+La distanza tra i rivelatori e le pareti del locale deve essere maggiore di 0,5 m, a meno che siano installati in ambienti aventi
+larghezza minore di 1 m; allo stesso modo deve esserci ameno 0,5 m tra i rivelatori e la superficie laterale di travi posti al
+disotto del soffitto, oppure elementi sospesi se lo spazio compreso tra il soffitto e tali strutture è minore di 30 cm.
+ <30 cm
+ ≥0,5 m
+ ≥0,5 m
+Progettazione impianto IRAI secondo UNI 9795
+Rivelazione di calore in ambiente
+ Piano interrato
+Progettazione impianto IRAI secondo UNI 9795
+Rivelazione di calore in ambiente
+ Piano primo
+Progettazione impianto IRAI secondo UNI 9795
+Rivelazione di calore in ambiente
+ Piani dal secondo al settimo
+Progettazione impianto IRAI secondo UNI 9795
+Rivelatori puntiformi di fumo in ambiente – EN 54-7
+ Altezza (h) dei locali [m] h ≤ 12 h > 12
+ Raggio di copertura [m] 6,5 NU(1)
+(1) NU = Non Utilizzabile
+N.B. Il rivelatore deve essere posto in posizione perpendicolare al pavimento e non parallela alla falda al fine di preservare il grado di
+ protezione IP e facilitare l’ingresso ed il suo permanere del fumo nella camera ottica
+Progettazione impianto IRAI secondo UNI 9795
+Rivelazione di fumo in ambiente
+ Piano interrato
+Progettazione impianto IRAI secondo UNI 9795
+Rivelazione di fumo in ambiente
+ Piano terra
+Progettazione impianto IRAI secondo UNI 9795
+Rivelazione di fumo in ambiente
+ Piano primo
+Progettazione impianto IRAI secondo UNI 9795
+Rivelazione di fumo in ambiente
+ Piani dal secondo al settimo
+Progettazione impianto IRAI secondo UNI 9795
+Rivelazione di fumo in ambiente
+ Piano copertura
+Progettazione impianto IRAI secondo UNI 9795
+Rivelatori puntiformi di fumo in controsoffitto – EN 54-7
+Nei controsoffitti e pavimenti sopraelevati non ventilati con altezza inferiore ad 1,5 m, se devono essere protetti, il raggio
+di copertura massimo diventa di 4,5 m; per altezze maggiori di 1,5 m si applicano le condizioni standard (6,5 m).
+In caso di controsoffitti o pavimenti sopraelevati con altezza inferiore ad 1,5 m in cui la circolazione d’aria risulta elevata,
+se devono essere protetti, il raggio di copertura massimo diventa di 4,5 m se senza ripresa d’aria oppure 3 m se con
+ripresa d’aria (controsoffitti o pavimenti sopraelevati di locali in cui la circolazione d’aria risulta elevata devono essere direttamente sorvegliati
+se contengono cavi elettrici e/o rete dati e/o presentano rischio d’incendio).
+Si parla tipicamente di centri elaborazione dati (CED), dove la turbolenza dell’aria è molto più significativa rispetto ad altri ambienti; in questi
+locali i controsoffitti e i pavimenti sopraelevati potrebbero essere utilizzati come condotte d’aria. In questo caso si applica il raggio di copertura
+pari a 3 m, altrimenti 4,5 m.
+N.B. I ribassamenti (per esempio le travi), i canali, le cortine, ecc. esistenti nella metà superiore di detti spazi devono essere
+ considerati come muri se la loro altezza è maggiore del 50% di quella dello spazio stesso o inesistenti nel caso sia
+ inferiore, ma ponendo attenzione alla distanza di 0,5 m che i rivelatori devono avere da tali ostacoli.
+Progettazione impianto IRAI secondo UNI 9795
+Rivelatori puntiformi di fumo in controsoffitto – EN 54-7
+ CONTROSOFFITTI E PAVIMENTI SOPRAELEVATI
+possono non essere controllati se TUTTE le seguenti condizioni sono vere:
+• Siano rivestiti totalmente all’interno o costituiti con materiali di classe A2/A2FL secondo la UNI EN 13501-1
+• Non contengano cavi che abbiano a che fare con sistemi di emergenza (a meno che siano resistenti al fuoco minimo PH30)
+N.B. Si intendono controsoffitti e sottopavimenti sino ad un’altezza massima di 1,5 m. Per altezze maggiori di 1,5 m si
+ intende locale.
+Nel nostro caso dobbiamo proteggere gli spazi all’interno dei controsoffitti in quanto non sono ne rivestiti ne costituiti da
+materiali di classe A2.
+Progettazione impianto IRAI secondo UNI 9795
+Rivelazione in controsoffitto
+ Piano terra
+Progettazione impianto IRAI secondo UNI 9795
+Rivelazione in controsoffitto
+ Piano primo
+Progettazione impianto IRAI secondo UNI 9795
+Rivelazione in controsoffitto
+ Piani dal secondo al settimo
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+I rivelatori di fumo ad aspirazione utilizzano delle tubazioni per campionare l’atmosfera dell’area da loro protetta.
+Le tubazioni trasportano il campione di aria aspirata ad un sensore, che si può trovare in posizione remota rispetto all’area
+protetta.
+Sulla tubazione di campionamento, solitamente si praticano diversi fori di aspirazione, oppure si posizionano speciali
+raccordi con degli innesti per tubi (solitamente di tipo flessibile) di diametro minore rispetto al collettore principale di aspirazione,
+denominati “capillari”.
+Scopo dei capillari, è la traslazione del foro di aspirazione entro una distanza massima ammessa (indicata dal fabbricante) dal
+collettore di aspirazione (i capillari, per esempio, si usano quando il tubo è installato all’interno del controsoffitto, ma deve proteggere
+l’ambiente sottostante).
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+I rivelatori di fumo ad aspirazione possono operare su diversi livelli di sensibilità (classi A, B e C determinate dalle norme UNI
+EN 54-20) e per tecnologia di rivelazione utilizzata (effetto Tyndall, camera laser, ecc.) ed è quindi necessario definire a livello di
+progettazione la tipologia di sistema più opportuna all’ambiente da proteggere:
+• Classe A Sistemi ad alta sensibilità, utilizzati per ambienti dove sono presenti impianti di ventilazione forzata atti al
+ raffreddamento delle apparecchiature/dei processi, edifici di altezza elevata, oppure ove è richiesta la più
+ precoce soglia d’intervento per la protezione di attività critiche o per protezione ad oggetto (CED, camere bianche,
+ locali tecnici o di processo, magazzini di stoccaggio di altezze elevate, cinema, teatri, macchinari di elevato valore, quadri
+ elettrici, ecc.).
+• Classe B Sistemi a sensibilità aumentata, utilizzati per ambienti o applicazioni dove la gestione delle fasi di evacuazione
+ degli occupanti presenti è particolarmente complessa, oppure dove la rivelazione dell’incendio è necessaria
+ nella fase incipiente per la protezione dei beni e per la continuità operativa (scelta tipicamente prestazionale adottata
+ ad esempio in magazzini ad altezza superiore alla norma).
+• Classe C Sistemi a sensibilità normale, equivalenti ai rivelatori puntiformi di fumo. Ogni foro interviene quando la densità
+ del fumo aspirato è analoga a quelli riscontrata nei fuochi campione dei rivelatori di fumo puntiformi.
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Il fabbricante nei dati tecnici del prodotto, per ognuna delle classi di sensibilità, dichiara la lunghezza massima delle
+tubazioni e il numero massimo di fori previsto su ogni tubazione. Alcuni rivelatori di fumo ad aspirazione permettono di
+configurare lo stesso rivelatore in classe A, B, o C rispettivamente incrementando il numero dei fori (e quindi il valore della
+diluzione dell’aria aspirata) e la lunghezza delle tubazioni.
+Il tempo di trasporto rappresenta il tempo impiegato dall’aria proveniente dal foro più distante per raggiungere il
+rivelatore ad aspirazione; la determinazione di tale tempo avviene attraverso il calcolo flussometrico e non deve
+eccedere i 120 s.
+In funzione dell’altezza del locale si possono utilizzare una o più classi di risposta secondo il prospetto seguente:
+ Altezza (h) dei locali [m]
+ h≤8 8 < h ≤ 12 h > 12
+Rivelatori ASD (UNI EN 54-20) Classe A, B, C Classe A, B Classe A*
+* Quando l’altezza del locale è maggiore di 12 m è necessario che sia eseguita una prova specifica comprovante l’efficacia e
+ l’adeguata risposta del sistema ASD mentre per altezze superiori ai 20 metri si deve ricorrere a più livelli intermedi di
+ rivelazione oltre ad avere l’obbligo di effettuare una prova specifica
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Le principali applicazioni dei rivelatori di fumo ad aspirazione sono le seguenti:
+• Ambienti ad alta diluzione del fumo:
+ locali in cui l’effetto di diluizione in aria rende difficoltosa la rivelazione a causa della bassa concentrazione di fumo
+ (ambienti con elevata circolazione d’aria o ambienti con soffitti di altezza elevata)
+• Condizioni ambientali sfavorevoli:
+ ▪ ambienti in cui esistono contaminanti in sospensione (polveri), in queste condizioni può rendersi necessaria
+ l’installazione di un filtro esterno ed è necessario prevedere una maggiore frequenza delle operazioni di manutenzione
+ ▪ ambienti con presenza di temperature estreme ed elevata umidità (celle frigorifere), in tali applicazioni occorre
+ intraprendere opportuni accorgimenti installativi della rete di tubazioni e l’utilizzo di accessori (raccolta della condensa)
+• Accesso difficoltoso alle aree protette:
+ aree protette che risultano difficilmente accessibili per le operazioni di controllo e manutenzione degli impianti (attenzione a
+ predisporre opportuni punti di ispezione per la manutenzione)
+• Ambienti pregevoli per arte e storia e/o esigenze di carattere estetico:
+ locali di interesse storico, artistico ed architettonico nei quali si richiede una rivelazione di incendio di tipo discreto
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+In fase di progetto di un sistema di aspirazione è obbligatorio avere individuato la classe di sensibilità da applicare,
+l’aspetto principale da considerare è la progettazione del sistema comprensiva della rete di tubazioni con in allegato uno
+specifico calcolo che mostri i valori dei parametri di calcolo:
+• lunghezza delle tubazioni, numero di fori e diametro di ciascun foro;
+• classe di sensibilità raggiunta e soglie di intervento;
+• flussi e pressioni d’aria;
+• tempo massimo di trasporto e tempo di trasporto relativo all’ultimo foro di ciascun ramo di tubazione;
+• valore di velocità della ventola di aspirazione.
+Il sistema di aspirazione deve rispettare i parametri già definiti in termini di zona di copertura (massimo 1600 m2), di
+numero di fori di campionamento (massimo 32 fori ad eccezione del ‘‘campionamento ad oggetto’’ e ‘‘campionamento in quadri elettrici’’,
+sale CED o locali quadri elettrici con dimensioni inferiori a 20 m2 e rivelazione multi-livello) e di zona facilmente localizzabile (in quanto
+assimilabile a rivelazione di tipo collettivo); analogamente ogni segnalazione di guasto nel sistema di aspirazione (per ventola di
+aspirazione o CPU o alimentazione) non deve pregiudicare la protezione di più di una zona.
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+La rete di tubazioni deve essere in materiale plastico o qualsiasi materiale approvato dal costruttore, ma sempre e
+comunque in conformità alla EN 54-20.
+Come riportato nella norma, la tubazione deve avere classe minima 1131 in accordo alla CEI EN 61286-1.
+ Proprietà Classe Requisiti
+ Resistenza alla compressione 1 125N
+ Resistenza all’urto 1 Caduta oggetto 0,5 Kg da 100 mm di altezza
+ Classe di temperatura 31 Da -15°C a +60°C
+Le installazioni che prevedono tubazioni in materiale plastico hanno la colorazione rossa come applicazione tipica. In
+taluni casi le tubazioni potrebbero essere adattate all’estetica dell’ambiente e avere colori e materiali differenti.
+La tubazione del sistema di aspirazione deve essere chiaramente identificata mediante dicitura stampata oppure mediante
+etichette adesive (ad esempio con la scritta “sistema di rivelazione incendio”).
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Le seguenti parti di un sistema di rivelazione incendio ad aspirazione fumi devono essere chiaramente identificate o
+etichettate:
+• tubazione di aspirazione;
+• fori di campionamento;
+• rivelatore di fumo ad aspirazione.
+L'etichetta deve indicare chiaramente lo scopo e, dove necessario, la zona di protezione del sistema ASD.
+Nel caso in cui, per motivi estetici occorra un’installazione discreta, l’etichettatura sul foro e sul tubo di campionamento
+può essere omessa a patto che sia presente in sito la documentazione dell’impianto che rappresenti chiaramente in
+pianta la posizione dei fori di campionamento e della tubazione di aspirazione.
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Sistemi di rivelazione di fumo ad aspirazione – EN 54-20
+Progettazione impianto IRAI secondo UNI 9795
+Rivelazione in vano ascensore
+ Piano copertura
+Progettazione impianto IRAI secondo UNI 9795
+Rivelazione in vano ascensore
+ Sezione vano ascensore
+ e scala di emergenza
+Progettazione impianto IRAI secondo UNI 9795
+Pulsanti manuali di allarme – EN 54-11
+In ogni zona devono essere installati:
+• Almeno 2 punti di segnalazione manuale
+• In prossimità di tutte le uscite di sicurezza
+• Alcuni lungo le vie di esodo
+• In posizione chiaramente visibile e facilmente accessibile
+• Altezza compresa tra 1 m e 1,6 m
+In ciascuna zona deve essere installato un numero di pulsanti tale che almeno uno di essi possa essere raggiunto da ogni
+parte della zona stessa con un percorso non maggiore di:
+• 15 metri per attività a rischio d’incendio elevato
+• 30 metri per attività a rischio d’incendio medio/basso
+I punti di segnalazione manuale devono essere protetti contro l’azionamento accidentale.
+È obbligatoria l’installazione di apposita cartellonistica di segnalazione (UNI EN ISO 7010).
+Progettazione impianto IRAI secondo UNI 9795
+Pulsanti di segnalazione manuale
+ Piano interrato
+Progettazione impianto IRAI secondo UNI 9795
+Pulsanti di segnalazione manuale
+ Piano terra
+Progettazione impianto IRAI secondo UNI 9795
+Pulsanti di segnalazione manuale
+ Piano primo
+Progettazione impianto IRAI secondo UNI 9795
+Pulsanti di segnalazione manuale
+ Piani dal secondo al settimo
+Progettazione impianto IRAI secondo UNI 9795
+Pulsanti di segnalazione manuale
+ Piano copertura
+Progettazione impianto IRAI secondo UNI 9795
+Avvisatori acustici di allarme incendio – EN 54-3
+Il segnale generato da un dispositivo acustico deve avere intensità sufficiente per raggiungere tutti gli occupanti presenti
+nell’edificio al fine di allertarli del pericolo indipendentemente dalla posizione in cui essi si possano trovare.
+In tutte le aree in cui il segnale acustico di allarme deve allertare gli occupanti, il livello di pressione sonora e la frequenza
+devono essere adeguati e il tono deve essere chiaramente riconoscibile e non confuso con altri.
+N.B. Nella norma UNI 11744 sono stati definiti i toni da utilizzare in Italia per il preallarme e per l’allarme/evacuazione
+Progettazione impianto IRAI secondo UNI 9795
+Avvisatori acustici di allarme incendio – EN 54-3
+Si devono rispettare i seguenti criteri in merito al valore di pressione sonora:
+• il livello acustico percepibile deve essere maggiore di 5 dB al di sopra del rumore ambientale;
+• la percezione acustica da parte degli occupanti dei locali deve essere compresa fra 65 dB e 118 dB;
+• negli ambienti dove è previsto che gli occupanti dormano, la percezione alla testata del letto deve essere di 75 dB in
+ modo da provocarne il risveglio, fatta eccezione per i casi in cui gli occupanti (per esempio i pazienti degli ospedali o in case
+ di cura) debbano essere assistiti da personale appositamente addestrato a condurre un’evacuazione.
+Progettazione impianto IRAI secondo UNI 9795
+Avvisatori luminosi di allarme incendio – EN 54-23
+La norma distingue due tipologie di dispositivi luminosi di allarme incendio:
+• se l’apparato luminoso viene utilizzato come dispositivo primario per la segnalazione dell’incendio, quindi ad esso
+ viene affidato il compito di avviare un’evacuazione in sostituzione od in contemporanea agli apparati acustici, il dispositivo
+ viene definito come VAD (Visual Alarm Device);
+• se invece l’apparato luminoso ha lo scopo di un’indicazione supplementare all’allarme e non è demandato ad esso la
+ funzione di dispositivo primario ai fini di evacuazione dell’edificio, il dispositivo viene definito come VID (Visual Indication
+ Device).
+L’uso di dispositivi ottici VAD e acustici contemporaneamente è anche possibile ed ammesso, dovendo soddisfare comunque i
+requisiti di entrambe le segnalazioni.
+Progettazione impianto IRAI secondo UNI 9795
+Avvisatori luminosi di allarme incendio – EN 54-23
+Il dispositivo ottico VAD è particolarmente indicato nei seguenti casi:
+• ambienti in cui il livello di rumore è superiore a 90 dB;
+• ambienti in cui gli occupanti utilizzano protezioni acustiche individuali o possiedano disabilità dell’udito;
+• ambienti con presenza di occupanti utilizzanti dispositivi quali audio guide (per esempio nei musei);
+• installazioni dove le segnalazioni acustiche siano controindicate o non efficaci (per esempio ambienti industriali dove sono
+ presenti segnalazioni acustiche equivocabili);
+• edifici in cui il segnale acustico interessi solo un limitato numero di occupanti (per esempio ambienti visibili otticamente ma
+ isolati acusticamente);
+• ambienti quali studi radiofonici o televisivi, cinema, teatri nei quali un dispositivo acustico potrebbe provocare una
+ interruzione dell’attività di registrazione in caso di allarme intempestivo;
+• ambienti dove occupanti con disabilità uditiva possono trovarsi momentaneamente isolati (ad esempio servizi igienici di
+ centri commerciali).
+Progettazione impianto IRAI secondo UNI 9795
+Avvisatori luminosi di allarme incendio – EN 54-23
+I dispositivi ottici VAD, dove previsti, devono essere in numero sufficiente e omogeneamente distribuiti in modo da
+essere visibili dagli occupanti e devono avere una segnalazione ottica di colore rosso o bianco.
+È ammesso l’utilizzo opzionale di cartelli segnalatori al fine di distinguere adeguatamente i dispositivi ottici VAD utilizzati per la
+segnalazione di allarme incendio da segnalazioni di altra natura.
+Gli avvisatori luminosi VAD sono classificati in ragione del volume di copertura entro il quale vengono rispettati i requisiti
+illuminotecnici minimi di 0,4 lm/m².
+Sono identificate tre categorie in ragione del volume di copertura specificato dal produttore:
+• C = Ceiling mounted (montaggio a soffitto)
+• W = Wall mounted (montaggio a parete)
+• O = Open class
+Progettazione impianto IRAI secondo UNI 9795
+Avvisatori acustici e luminosi
+ Piano interrato
+Progettazione impianto IRAI secondo UNI 9795
+Avvisatori acustici e luminosi
+ Piano terra
+Progettazione impianto IRAI secondo UNI 9795
+Avvisatori acustici e luminosi
+ Piano primo
+Progettazione impianto IRAI secondo UNI 9795
+Avvisatori acustici e luminosi
+ Piani dal secondo al settimo
+Progettazione impianto IRAI secondo UNI 9795
+Avvisatori acustici e luminosi
+ Piano copertura
+Progettazione impianto IRAI secondo UNI 9795
+Centrale di controllo e segnalazione – EN 54-2
+L’ubicazione della centrale deve essere scelta in modo da garantire la massima sicurezza di funzionamento del sistema
+stesso.
+La centrale deve essere ubicata in luogo permanentemente e facilmente accessibile, protetto dal pericolo d’incendio diretto,
+tale inoltre da consentire il controllo continuo in loco della centrale da parte del personale di sorveglianza, il controllo a
+distanza in luogo presidiato o il controllo in remoto (con dispositivi di trasmissione remota certificati EN 54-21).
+In ogni caso il locale dove è installata la centrale deve essere sorvegliato da rivelatori automatici d’incendio.
+Progettazione impianto IRAI secondo UNI 9795
+Centrale di controllo e segnalazione – EN 54-2
+Quando la centrale non è sotto costante controllo da parte del personale addetto, deve essere previsto un sistema di
+trasmissione tramite il quale le segnalazioni di allarmi di incendio e di guasto sono trasferiti ad una o più centrali di ricezione
+allarmi e intervento e/o luoghi presidiati, dalle quali gli addetti possano dare inizio in ogni momento e con tempestività alle
+necessarie misure di intervento.
+Il collegamento con dette centrali di ricezione allarmi e guasto deve essere tenuto costantemente sotto controllo, pertanto i
+dispositivi impiegati sono soggetti alle seguenti norme:
+• UNI EN 54-21 per quanto riguarda il dispositivo di trasmissione,
+• UNI EN 50136-1 per quanto riguarda i requisiti del sistema e della rete di trasmissione,
+• UNI EN 50518 per quanto riguarda la conformità della stazione ricevitrice nel ricevere e gestire la comunicazione
+ dell’allarme e/o del guasto al responsabile dell’attività.
+Progettazione impianto IRAI secondo UNI 9795
+Alimentazioni – EN 54-4
+Il sistema di rivelazione incendi deve essere dotato di un’apparecchiatura di alimentazione costituita da due diverse sorgenti
+in conformità alla UNI EN 54-4.
+L’alimentazione primaria deve essere derivata da una rete di distribuzione pubblica tramite una linea riservata
+esclusivamente a tale scopo, dotata di propri organi di sezionamento, di manovra e di protezione, immediatamente a valle
+dell’interruttore generale del quadro primario dell’edificio.
+L’alimentazione di riserva, invece, è solitamente costituita da una batteria di accumulatori elettrici; deve essere in grado di
+assicurare il corretto funzionamento dell’intero sistema ininterrottamente per non meno di 24 h; dopo le 24 h, deve assicurare
+in ogni caso il funzionamento di tutto il sistema per almeno 30 min, a partire dalla segnalazione del primo allarme.
+Progettazione impianto IRAI secondo UNI 9795
+Centrale di controllo e segnalazione, alimentatori e moduli di IN/OUT
+In questo progetto:
+• è stato scelto di utilizzare 1 loop per gestire 2 / 3 piani dell’edificio (loop 1 per i piani interrato, terra e primo; loop 2 per i piani
+ secondo e terzo; loop 3 per i piani quarto e quinto; loop 4 per i piani sesto, settimo e copertura); quindi è stata installata 1 centrale a 4
+ loop per un totale di 4 loop disponibili e tutti utilizzati;
+• è stato previsto un alimentatore certificato EN 54-4 installato nelle vicinanze della macchina di aspirazione per alimentare
+ la macchina stessa;
+• sono stati previsti tutti i moduli IN/OUT necessari per interfacciarsi con la centrale EVAC, per reperire gli stati della
+ macchina di aspirazione e i guasti dell’alimentatore.
+Progettazione impianto IRAI secondo UNI 9795
+Centrale di controllo e segnalazione, alimentatori e moduli di IN/OUT
+ Piano terra
+Progettazione impianto IRAI secondo UNI 9795
+Centrale di controllo e segnalazione, alimentatori e moduli di IN/OUT
+ Piano copertura
+Progettazione impianto IRAI secondo UNI 9795
+Elementi di connessione – Cavi per loop e per alimentazioni 24Vdc
+Per il collegamento di apparati aventi tensioni di esercizio uguali o minori di 100 V è richiesto l’impiego di cavi resistenti al
+fuoco conformi alla CEI 20-105, con caratteristica di reazione al fuoco non inferiore all’Euroclasse minima Cca-s1b,d1,a1.
+Il requisito minimo di resistenza al fuoco è pari a PH30 ma, nell’ipotesi di esistenza di distinte zone o distinti compartimenti,
+il valore di resistenza al fuoco (PH) richiesto potrà essere superiore (PH120) per garantire il mantenimento delle funzioni
+per un periodo non inferiore a quello prescritto da specifiche regole tecniche di prevenzione incendi.
+Questi cavi devono essere realizzati con conduttori flessibili (non sono ammessi conduttori rigidi), sezione minima 0,5 mm2,
+2 conduttori (coppia) con isolamento di colore rosso e nero.
+Al fine di distinguere agevolmente le linee del sistema di rilevazione fumi è richiesto l’impiego di cavi con rivestimento
+esterno di colore ROSSO.
+Progettazione impianto IRAI secondo UNI 9795
+Elementi di connessione – Cavi per alimentazione 230Vac
+Per il collegamento di apparati aventi tensioni di esercizio maggiori di 100 V è richiesto l’impiego di cavi resistenti al fuoco
+conformi alla CEI 20-45, con caratteristica di reazione al fuoco non inferiore all’Euroclasse B2ca-s1a,d1,a1.
+Questi cavi devono essere realizzati con conduttori flessibili (non sono ammessi conduttori rigidi), sezione minima 1,5 mm2.
+Il requisito minimo di resistenza al fuoco è pari a PH120.
+Al fine di distinguere agevolmente le linee del sistema di alimentazione primaria è richiesto l’impiego di cavi con
+rivestimento esterno di colore BLU.
+Progettazione impianto IRAI secondo UNI 9795
+Elementi di connessione – Cavi per scambio di informazioni
+Lo scambio di informazioni tra funzioni all’interno della UNI EN 54-1 con connessioni tipo LAN, WAN, RS232, RS485,
+PSTN devono essere realizzate con cavi dati resistenti al fuoco, a bassa emissione di fumo, zero alogeni, non propaganti
+l’incendio, conformi alla CEI EN 50200 e CEI EN 50289-4-16 con caratteristica di reazione al fuoco non inferiore
+all’Euroclasse Cca-s1b,d1,a1.
+Il requisito minimo di resistenza al fuoco è pari a PH30 o comunque adeguatamente protetti per tale periodo ma nell’ipotesi
+di esistenza di distinte zone o distinti compartimenti, il valore di resistenza al fuoco (PH) richiesto potrà essere superiore
+(PH120), per garantire il mantenimento delle funzioni per un periodo non inferiore a quello prescritto da specifiche regole
+tecniche di prevenzione incendi.
+Per garantire l’identificabilità di queste linee all’interno del sistema stesso, è preferibile che il cavo LAN per il
+collegamento delle basi microfoniche del sistema EVAC abbia la guaina esterna di colore VIOLA e il cavo BUS (RS232 e
+RS485) per il collegamento tra centrali e pannelli ripetitori abbia il rivestimento di colore ROSSO.
+Progettazione impianto IRAI secondo UNI 9795
+Elementi di connessione – Posa dei cavi
+Nei casi in cui sia utilizzato un sistema di connessione ad anello chiuso (loop), il percorso dei cavi deve essere realizzato in
+modo tale che possa essere danneggiato un solo ramo dell’anello; pertanto, per uno stesso anello il percorso cavi in uscita
+dalla centrale deve essere differenziato rispetto al percorso di ritorno (per esempio: canalina portacavi con setto separatore o
+doppia tubazione o distanza minima di 30 cm tra andata e ritorno) in modo tale che il danneggiamento (taglio accidentale) di uno dei due
+rami non coinvolga anche l’altro ramo. Quanto indicato può non essere effettuato nel caso in cui la diramazione non colleghi
+più di 32 punti di rivelazione o più di una zona o più di una tecnica di rivelazione.
+È consentita la posa in coesistenza di cavi per sistemi incendio ed elettrici (sistemi di Cat. I aventi tensione di esercizio fino a 400 V)
+a condizione che sul cavo per sistemi incendio sia visibile la stampigliatura U0=400 V e che le altre linee differenti da quelle
+del sistema di rivelazione e di segnalazione allarme d’incendio abbiano caratteristica di reazione al fuoco non inferiore.
+Eventuali giunzioni delle linee del sistema di rivelazione e segnalazione incendio, devono essere realizzate mediante l’impiego
+di appositi accessori (per esempio scatole di derivazione PH30 o PH120, morsetti ceramici, ecc.) in modo da garantire la continuità di
+esercizio in condizioni di incendio.
+Progettazione impianto IRAI secondo UNI 9795
+Impianto IRAI completo
+ Piano interrato
+Progettazione impianto IRAI secondo UNI 9795
+Impianto IRAI completo
+ Piano terra
+Progettazione impianto IRAI secondo UNI 9795
+Impianto IRAI completo
+ Piano primo
+Progettazione impianto IRAI secondo UNI 9795
+Impianto IRAI completo
+ Piani secondo e quinto
+Progettazione impianto IRAI secondo UNI 9795
+Impianto IRAI completo
+ Piani terzo, quarto, sesto e settimo
+Progettazione impianto IRAI secondo UNI 9795
+Impianto IRAI completo
+ Piano copertura
+ GRAZIE
+Relatore: Alessandro Cattaneo – Fire Specialist di Comelit Group S.p.A.
+

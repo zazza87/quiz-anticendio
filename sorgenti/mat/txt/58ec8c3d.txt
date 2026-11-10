@@ -1,0 +1,3302 @@
+         TECNOLOGIA DEI SISTEMI E DEGLI IMPIANTI DI PROTEZIONE ATTIVA
+                  DEGLI IMPIANTI TECNOLOGICI CAP. S6 RTO
+
+
+Collegio Geometri e Geometri Laureati Avellino – Piattaforma Streaming
+Finalizzato all’iscrizione negli elenchi del Ministero dell’Interno dei professionisti antincendio (Art. 4 D.M. 05.08.2011)
+CORSO BASE DI 120 h IN MATERIA DI PREVENZIONE INCENDI per l’iscrizione negli elenchi
+del Ministero dell’Interno ai sensi art 4 del D.M. 5 agosto 2011
+“Procedure e requisiti per l'autorizzazione e l'iscrizione dei professionisti negli elenchi del
+Ministero dell'Interno di cui all'articolo 16 del decreto legislativo 8 marzo 2006, n. 139”
+
+
+
+
+  Rel: Ing. Marco Montanari
+ 25 Ottobre 2023
+ AULA VIRTUALE - MODALITA' STREAMING VIDEOCONFERENZA
+UNA EVOLUZIONE DI STRATEGIA NATA DAL DM 20/12/2012
+
+
+
+
+ Il capitolo S.6 del DM 18/10/2019
+                    «Il controllo dell’incendio»
+
+ Le strategie per gli impianti
+ • Reti di idranti
+ • Impianti automatici sprinkler
+ • Soluzioni conformi ed alternative nella progettazione
+Il capitolo S.6 del RTO
+Il capitolo S.6 del RTO: livelli di prestazione
+Il capitolo S.6 : criteri di attribuzione
+Il capitolo S.6.8 del RTO: soluzioni progettuali
+Il capitolo S.6.8 del RTO: soluzioni alternative
+Il capitolo S.6.8 del RTO: soluzioni conformi
+Il capitolo S.6.8 del RTO: classi dei fuochi
+Il capitolo S.6.8 del RTO: estintori
+Il capitolo S.6.8 del RTO: estintori
+Il capitolo S.6.8 del RTO: estintori classe A
+Il capitolo S.6.8 del RTO: estintori classe B
+Il capitolo S.6.8 del RTO: estintori classe B
+Il capitolo S.6.8 del RTO: estintori classe F
+Il capitolo S.6.8 del RTO: estintori altri fuochi
+Il capitolo S.6.8 del RTO: estintori carrellati
+Il capitolo S.6.8 del RTO: estintori carrellati
+Il capitolo S.6.8 del RTO: Reti di idranti
+Il capitolo S.6.9 del RTO: sprinkler
+                       NORME E TR /TS
+ UNI EN 12845-2026 Installazioni fisse antincendio - Sistemi
+  automatici a sprinkler- Progettazione, installazione e
+  manutenzione
+ UNI EN 12845-2 2025 Installazioni fisse antincendio - Sistemi
+  automatici a sprinkler - Parte 2: Progettazione e installazione di
+  sistemi sprinkler ESFR e CMSA
+ UNI EN 12845-3 2024 Installazioni fisse antincendio - Sistemi
+  automatici a sprinkler - Parte 3: Guida per la protezione
+  antisismica
+ UNI 10779-2021 Impianti di estinzione incendi - Reti di idranti -
+  Progettazione, installazione ed esercizio
+ UNI TS 11559-2014 Impianti di reti Idranti a secco
+ UNI 11443-2012 Sistemi fissi antincendio - Sistemi di tubazioni –
+  Valvole antincendio
+ UNI TR 11438-2016 Gruppi di pompaggio - Istruzioni
+  complementari per l’applicazione della UNI EN 12845 (sprinkler)
+ UNI 11292-2019 Locali destinati ad ospitare gruppi di pompaggio
+  per impianti antincendio
+      Alimentazioni Idriche
+Sistemi di Pompaggio Antincendio
+
+        UNI 10779-2021
+
+
+
+     UNI EN 12845-2020
+           Rinaldo Cavenati
+ Possibili standard per soluzioni alternative
+NFPA STANDARDS
+
+• NFPA 20 - STANDARD FOR THE INSTALLATION OF STATIONARY
+  PUMPS FOR FIRE PROTECTION
+• NFPA 13 - STANDARD FOR THE INSTALLATION OF
+  SPRINKLER SYSTEMS
+
+FM GLOBAL PROPERTY LOSS PREVENTION DATA SHEETS
+
+• FM 3-7 FIRE PROTECTION PUMPS
+• FM 2-0 INSTALLATION GUIDE LINES FOR AUTOMATIC
+  SPRINKLERS
+
+                                                          3
+                                                          0
+ STRUTTURA STANDARD UNI 10779 IDRANTI
+
+
+
+           UNI 10779 rev 2021
+
+
+
+NORME DI       NORME            ALTRE NORME
+PRODOTTO    MANUTENZIONE         RICHIAMATE
+               STRUTTURA STANDARD UNI EN 12845
+
+         NORMADI PROGETTAZIONE E MANUTENZIONE
+                                 UNI EN 12845
+
+                         NORME DI PRODOTTO
+                                (UNI EN 12259-…)
+       Fixed firefighting systems - Components for sprinkler and water spray systems
+
+                  UNI EN 12259-2     UNI EN 12259-3     UNI EN 12259-4      UNI EN 12259-5
+UNI EN 12259-1        Part 2:             Part 3:
+                                                            Part 4:            Part 5 :
+   Part 1:          Wet alarm          Dry alarm
+  Sprinklers           valve              valve          Water motor         Water flow
+                    assemblies         assemblies          alarms            detectors
+
+14/10/2026                                                                             32
+                 STRUTTURA STANDARD NFPA
+
+                                     STANDARD DI PROGETTAZIONE IMPIANTI
+   EVENTUALE STANDARD PER                 SPRINKLER O ALTRI IMPIANTI
+  REGOLARE SPECIFICA ATTIVITA’
+                                           esempio : NFPA 13
+
+
+
+
+STANDARD RICHIAMATI PER SPECIFICHE
+PARTI:                                  RICHIAMO DI LISTINGS E APPROVALS
+                                        PER LA QUALITA’ E CARATTERISTICHE
+NFPA 20 (STAZIONI POMPE)                 MINIME DI ALCUNE COMPONENTI
+NFPA 22 (RISERVA IDRICHE)
+NFPA 25 (MANUTENZIONE)
+                     STRUTTURA STANDARD FM
+  EVENTUALE DATA SHEET SPECIFICA
+            ATTIVITA’                    DATA SHEETS SPRINKLER O ALTRI IMPIANTI
+             ESEMPIO :                           esempio : DS 2-0
+              DS 8-9
+                                              INSTALLATION GUIDELINES FOR
+   STORAGE OF CLASS 1, 2, 3, 4 AND               AUTOMATIC SPRINKLERS
+       PLASTIC COMMODITIES
+
+
+
+
+                                                       APPROVALS
+DS RICHIAMATI PER SPECIFICHE PARTI:
+DS 3-7 FIRE PROTECTION PUMPS                  STANDARDS PER COMPONENTI
+DS 3-2 WATER TANKS FOR FIRE PROTECTION
+DS 3-2 EARTHQUAKE PROTECTION FOR
+WATER-BASED FIRE PROTECTION SYSTEMS
+                                                DATABASE COMPONENTI
+                                                     APPROVATE
+           IMPIANTI NORMATIVI OBSOLETI
+Nel luglio 2007 state ritirate le vecchie norme UNI:
+•UNI 9489
+•UNI 9490
+
+SOSTITUITE DALLA:
+UNI EN 12845 “FIXED FIREFIGHTING SYSTEMS –
+AUTOMATIC SPRINKLER SYSTEMS – DESIGN,
+INSTALLATION AND MAINTENANCE”
+    CHE E’ LA NUOVA NORMA EUROPEA GIA’ IN VIGORE DAL 2005
+               L’ULTIMA REVISIONE ITALIANA E’ 2020
+
+   MA IN FASE DI COLLAUDO E’ ANCORA POSSIBILE INCAPPARE IN
+    IMPIANTI PROGETTATI E REALIZZATI CON LE PREESISTENTI
+                         NORMATIVE
+
+                                                             35
+           D.M. 20 dicembre 2012
+Regola tecnica di prevenzione incendi per gli
+impianti di protezione attiva contro l’incendi
+
+
+
+
+Quindi posso realizzare un impianto sprinkler
+            sec NFPA 13 /F.M. 2.0 con
+relativa alimentazione idrica sec NFPA 20/F.M.
+
+ e le reti idranti saranno realizzate secondo
+                UNI 10779-2021
+   con i relativi componenti certificati CE
+                                                 36
+STANDARD SUI LOCALI ANTINCENDIO – UNI 11292
+•E’ STATA PUBBLICATA NELL’AGOSTO 2008 POI REVISIONATA NEL
+FEBBRAIO 2019 LA NORMA TECNICA CHE RIGUARDA I REQUISITI
+DEI LOCALI ADIBITI A STAZIONE DI POMPAGGIO ANTINCENDIO IN
+PARTICOLARE PER QUANTO RIGUARDA:
+ACCESSIBILITA’ E POSIZIONAMENTO
+REQUISITI GEOMETRICI MINIMI
+RESISTENZA AL FUOCO
+DRENAGGIO E SISTEMI ANTIALLAGAMENTO
+AERAZIONE E VENTILAZIONE
+IMPIANTO DI ILLUMINAZIONE
+ALIMENTAZIONE ELETTRICA AUSILIARIA
+RISCALDAMENTO
+SISTEMA SCARICO FUMI
+STAFFAGGI, CARATTERISTICHE VASCHE, ALIMENTAZIONE
+MOTORI A COMBUSTIONE INTERNA
+
+ANCHE IN QUESTO CASO E’ COMUNE DOVER ASSEVERARE
+IMPIANTI PROGETTATI E REALIZZATI PRIMA DELLA SUA ENTRATA    37
+IN VIGORE
+                                 RETI IDRANTI
+
+
+
+
+RETI DI IDRANTI
+•Standard Tecnici di riferimento
+•Definizioni
+•Caratteristiche principali presidi e marcature CE
+•Idranti soprassuolo e sottosuolo, Idranti DN 45,Naspi DN 25
+•Caratteristiche altri materiali costruttivi (tubazioni …) ammessi dagli standard
+tecnici
+•Contemporaneità e prestazioni in funzione del livello di rischio
+•Prioncipali novità della revisione 2021 della UNI 10779
+•Tempo previsto : 50 minuti
+    IMPIANTO NORMATIVO DI RIFERIMENTO
+
+
+
+            UNI 10779 rev 2021
+
+
+
+NORME DI        NORME            ALTRE NORME
+PRODOTTO     MANUTENZIONE         RICHIAMATE
+                       UNI 10779-2021
+
+                    COS’E’ UNA RETE IDRANTI
+ Alimentazione idrica
+ Rete di tubazioni fisse, preferibilmente chiuse ad anello, ad uso esclusivo
+  antincendio
+NB: Nella revisione 2014 è specificato che se la rete di idranti è realizzata con
+    tubazioni chiuse ad anello è possibile considerare nel calcolo idraulico
+    tutte le tubazioni percorribili dal flusso dell’acqua.
+
+ Attacco/attacchi di mandata per autopompa
+ Valvole
+ Apparecchi erogatori
+
+Per i componenti principali delle reti di idranti a secco, vedere UNI/TS 11559 …
+Rete di tubazioni fisse
+ Tubazioni fuori terra
+    In merito alle tubazioni in acciaio non legato, siano esse zincate oppure no, si
+     precisa che le stesse devono avere gli spessori minimi conformi alla UNI EN 10255
+     serie Leggera (lavorazioni senza asportazione del materiale) o UNI EN 10255 serie
+     Media (lavorazioni con asportazione di materiale)
+    In merito ad «altri sistemi di tubazioni», viene precisato che gli stessi devono
+     essere in acciaio legato, rame o altri metalli con elevata resistenza alla
+     corrosione e comunque rispettando gli spessori minimi indicati dalla norma
+               QUINDI, LE TUBAZIONI ZINCATE A PARETE SOTTILE
+                             NON SONO AMMESSE!
+                   Aree al chiuso:
+              compartimento antincendio
+
+Precisazione del concetto di Compartimento
+
+In tutta la nuova edizione il concetto di compartimento è stato
+ulteriormente chiarito sostituendo il termine assai meno equivoco
+di “compartimento antincendio”. Questo per tutte le reti interne.
+Il compartimento antincendio è nuova definizione della norma, e
+consiste nella
+“Parte della costruzione organizzata per rispondere alle esigenze
+della sicurezza in caso di incendio e delimitata da elementi
+costruttivi idonei a garantire, sotto l’azione del fuoco e per un dato
+intervallo di tempo, la capacità di compartimentazione.”
+            Aree al chiuso da proteggere
+
+Definizione di area al chiuso
+Aree da proteggere
+Un fabbricato o un’area al chiuso, per i quali è richiesta la
+protezione contro l’incendio, sono considerati protetti se la rete
+idranti ordinaria è estesa all’intero fabbricato o area al
+chiuso, con le limitazioni di cui ai punti 4.3.1. e 4.3.2, e se ogni
+parte del fabbricato o dell’area protetta, è raggiungibile con il getto
+d’acqua di almeno un apparecchio erogatore secondo i criteri nel
+seguito specificati (vedere punto 7.5).
+L’area al chiuso protetta deve avere le caratteristiche di
+compartimento antincendio.
+           Aree all’ aperto da proteggere
+
+Area protetta e criteri di distribuzione idranti reti all’aperto
+
+L’ultima revisione ha meglio precisati i criteri di distribuzione con
+riferimento al concetto di area protetta e percorso reale
+
+a) Tra idranti a colonna soprasuolo o sottosuolo ad ogni punto
+   dell’area protetta MAX 45 m dall’apparecchio più vicino;
+
+b) Tra idranti a muro o naspi ed ogni punto dell’area protetta
+   MAX 30 m dall’apparecchio più vicino;
+Alloggiamento tubazioni fuori terra
+Le tubazioni (metalliche) fuori terra devono essere installate a vista o in spazi
+nascosti accessibili per la manutenzione.
+Possono anche essere o in spazi nascosti, purché:
+- siano accessibili per eventuali interventi di manutenzione
+- non devono attraversare locali e/o aree che presentano
+significativo pericolo di incendio, non protetti dalla rete di idranti
+(abbandonato il criterio dei 100 MJ/m²) o da altri impianti automatici di
+estinzione ad acqua;
+-Se questo accade e non sono protette  protezione della rete carico
+d’incendio del locale /area attraversato (esempi o coppelle)
+L’installazione incassata è consentita per stacchi che collegano un numero un massimo di 2 presidi
+antincendio.
+
+Attraversamenti di strutture verticali ed orizzontali
+Nell’attraversamento di strutture verticali ed orizzontali, quali pareti e solai, devono essere valutati gli
+accorgimenti atti a prevenire il danneggiamento di strutture o viceversa. Buon criterio costruttivo potrebbe
+essere quello della NFPA che tiene conto anche dell’interferenza per azione degli effetti sismici. Questa
+prevede che spazi liberi per il movimento debbono essere mantenuti all’intorno delle tubazioni di distribuzione
+nell’attraversamento di murature, fondazioni, solette, pavimenti ed altri elementi strutturali.
+
+Posa tubazioni in zona sismica
+Nelle zone definite sismiche secondo la legislazione vigente in materia, la rete di tubazioni deve essere
+realizzata in modo da evitare rotture per effetto dei movimenti tellurici.
+Devono essere prevenuti eccessivi spostamenti od oscillazioni dei tubi mediante appositi sostegni ed
+ancoraggi: i movimenti inevitabili devono tuttavia essere consentiti senza pregiudizio della integrità e
+funzionalità dell’impianto.
+Negli attraversamenti di fondazioni, pareti, solai, ecc. devono essere lasciati attorno ai tubi giochi adeguati …
+
+
+                                                            Esempio giunto
+                                                            snodato per
+                                                            attraversamenti sismici
+                                                            a 4 gomiti
+Rete di tubazioni fisse
+ Tubazioni fuori terra
+    Le tubazioni devono essere ancorate tramite sostegni direttamente fissati
+     all’edificio o ad altre strutture fisse.
+    In caso di verifica analitica, il singolo sostegno deve essere verificato per un carico
+     pari a 5 volte il peso della tubazione piena d’acqua, al quale deve essere sommato
+     un carico accidentale di 120 Kg.
+      Indicativamente: 200 Kg per tubazioni fino a DN 50
+                       350 Kg per tubazioni fino a DN 100
+                       500 Kg per tubazioni fino a DN 150
+    In caso di impossibilità di ancorarsi direttamente all’edificio (rete idranti all’aperto),
+     gli apparecchi erogatori e le relative dotazioni devono essere fissati ad appositi
+     sostegni adeguati (resistenza corrosione, vento, ecc.)
+               Tubazioni – sollecitazioni sismiche
+La norma UNI 10779 prevede che nelle zone
+sismiche lo staffaggio delle tubazioni sia
+realizzato prevedendo gli accorgimenti
+necessari.
+Come criterio guida, oltre al Decreto costruzioni
+e alla classificazione del territorio, esistono i
+criteri progettuali di cui alla NFPA 13 e materiali
+certificati alle sollecitazioni.
+Trattasi in sostanza di dosare opportunamente
+gradi di libertà agli spostamenti angolari
+(ottenibili con giunzioni scanalate morbide)
+compensati da vincoli (laterali / longitudinale o a
+4 vie) dimensionate in base alla sollecitazione
+sismica prevedibile.
+Naturalmente in corrispondenza dei giunti
+sismici, andranno utilizzati giunti a certificabili
+uso antincendio in base a normativa estera
+accoppiati a vincoli a 4 vie.
+La norma prevede una quota minima di interramento (filo tubo
+superiore) di 0.80 cm o in alternativa sistemi equivalenti per la
+protezione meccanica e dal gelo.
+
+E’ fatto divieto di sottopasso di edifici, criterio già recepito da
+molti anni dalla NFPA, quando non sia possibile mantenere
+ispezionabilità, ovvero altri accorgimenti che consentano interventi
+manutentivi e di riparazione senza operare demolizioni di parti
+strutturali dell’edificio.
+Rete di tubazioni fisse
+ Tubazioni interrate
+    Si precisa che le tubazioni di polietilene devono essere posate e collaudate in
+     accordo alla UNI 11149 (2005)
+
+
+ NB: La norma UNI 11149 tratta anche della posa delle tubazioni di
+    polietilene a vista, tipologia di installazione che non può essere
+    applicata nelle reti idriche antincendio secondo la UNI 10779,
+    che per la realizzazione dei circuiti fuori terra, ammette solo
+    l’impiego di tubazioni metalliche
+            Apparecchio di erogazione
+
+
+Apparecchiatura antincendio impiegata per l’erogazione idrica
+ permanentemente collegata ad un sistema di tubazioni fisse
+UNI 10779
+                       UNI 10779
+                    Pressione di esercizio
+
+
+Pressione massima riscontrabile in qualsiasi punto della rete, in ogni
+                  condizione di funzionamento
+                        UNI 10779
+
+                   Rete di tubazioni a secco
+
+
+
+Sistema di tubazioni fisse per l’alimentazione di uno o più apparecchi di
+ erogazione, non permanentemente in pressione, che viene riempita e
+      messa in pressione al momento dell’attivazione della rete
+                              NORME RICHIAMATE
+
+            • UNI EN 671-1 - Naspi….
+ PRESIDI    • UNI EN 671-2 - Idranti a muro….
+            • UNI EN 14339 - Idranti antincendio sottosuolo
+            • UNI EN 14384 - Idranti antincendio a colonna soprasuolo
+
+
+          • UNI 804 Apparecchiature per estinzione incendi - Raccordi per tubazioni
+            flessibili
+          • UNI 810 Apparecchiature per estinzione incendi - Attacchi a vite
+RACCORDI • UNI 811 Apparecchiature per estinzione incendi - Attacchi a madrevite
+   ED     • UNI 814 Apparecchiature per estinzione incendi - Chiavi per la manovra dei
+ATTACCHI raccordi, attacchi e tappi per tubazioni flessibili
+          • UNI 7421 Apparecchiature per estinzione incendi - Tappi per valvole e raccordi
+UNIFICATI
+            per tubazioni flessibili
+          • UNI 7422 Apparecchiature per estinzione incendi. Requisiti delle legature per
+            tubazioni flessibili
+                                     Norme richiamate
+       • METALICHE
+       • UNI EN 10224 Tubi e raccordi di acciaio non legato per il convogliamento di acqua … (sostituisce 6363)
+       • UNI EN 10255 Tubi di acciaio non legato adatti alla saldatura e alla filettatura … (sostituisce 8863)
+       • UNI EN 545 Tubi, raccordi ed accessori in ghisa sferoidale e loro assemblaggi
+       • per condotte d'acqua - Prescrizioni e metodi di prova
+       • PLASTICHE
+       • UNI 11149 Posa in opera e collaudo di sistemi di tubazioni di polietilene per il trasporto di liquidi in
+          pressione
+       • UNI 9032 Tubi di resine termoindurenti rinforzate con fibre di vetro (PRFV)
+TUBI   • con o senza cariche. Tipi, dimensioni e requisiti
+       • UNI EN 1452 Sistemi di tubazioni di materia plastica per adduzione d'acqua - Policloruro di vinile non
+         plastificato (PVC-U)
+       • UNI EN 12201 Sistemi di tubazioni di materia plastica per la distribuzione dell'acqua - Polietilene (PE)
+       • UNI EN 13244 Sistemi di tubazioni di materia plastica in pressione interrati e non per il trasporto di acqua per
+         usi generali, per fognature e scarichi - Polietilene (PE)
+       • UNI EN ISO 15493 Sistemi di tubazioni di materia plastica per applicazioni industriali - Acrilonitrile - Butadiene -
+         Stirene (ABS), policloruro di vinile non plastificato (PVC-U) e clorurato (PVC-C)
+       • UNI EN ISO 15494 Sistemi di tubazioni di materia plastica per applicazioni industriali - Polibutene (PB),
+         polietilene (PE) e polipropilene (PP)
+       • UNI EN ISO 14692 Industrie del petrolio e del gas naturale - Tubazioni in plastica vetro-rinforzata
+                           VALVOLE
+          • UNI EN 1074-1 Valvole per la fornitura di acqua - Requisiti di
+            attitudine all'impiego e prove idonee di verifica - Parte 1:
+            Requisiti generali
+          • UNI EN 1074-2 Valvole per la fornitura di acqua - Requisiti di
+            attitudine all'impiego e prove idonee di verifica - Parte 2:
+            Valvole di intercettazione
+          • UNI 11443-2012 Valvole di intercettazione antincendio
+          •
+VALVOLE
+                              UNI 11443-2012
+                     Valvole di intercettazione antincendio
+
+ La presente norma tratta le valvole realizzate in
+  materiale termoplastico, acciaio, ghisa e lega di
+  rame utilizzabili per il sezionamento degli
+  impianti di estinzione d’incendio fissi.
+ La valvola deve essere dotata di un sistema
+  d’identificazione dello stato di
+  funzionamento, apertura/chiusura,
+  chiaramente visibile ed interpretabile dal
+  personale operante sull’impianto.
+
+ Dal DN 125 mm, compreso, la valvola deve
+  essere dotata di un meccanismo di riduzione
+  dello sforzo di apertura, attuatore. Questo
+  attuatore può essere ad azionamento manuale,
+  elettrico, pneumatico, ecc. e deve essere dotato
+  di un sistema d’identificazione dello stato di
+  funzionamento della valvola, apertura/chiusura,
+  chiaramente visibile ed interpretabile dal
+  personale operante sull’impianto.
+                    UNI 11443-2012
+             Valvole di intercettazione antincendio
+
+ Le valvole di intercettazione devono essere conformi alla UNI
+  11443      (… devono essere         dotate  di un sistema
+  d’identificazione dello stato di apertura/chiusura,
+  chiaramente visibile ed interpretabile dal personale operante
+  sull’impianto … )
+    UNI 11443-2012
+ Le valvole devono essere
+  smontabili senza interventi sulla
+  tubazione.
+
+ Qualora richiesto, la colorazione
+  della valvola deve essere
+  conforme a quanto previsto
+  nella UNI 5634.
+ Le valvole devono poter essere
+  supportate mediante staffe o
+  supporti al fine di proteggere
+  tratti di tubazione ad esse
+  collegati dall’azione di carichi
+  concentrati. I supporti devono
+  essere in grado di resistere sia
+  al peso proprio della valvola, sia
+  alle sollecitazioni generate dalla
+  valvola stessa durante le fasi di
+  apertura e chiusura.
+                                       63
+Attacco di mandata per autopompa VVF
+ Il dispositivo costituente l’attacco di mandata per autopompa deve comprendere
+  almeno:
+   uno o più attacchi di immissione … ≥ DN 70
+   nel caso di più attacchi, ciascuno di essi deve essere sezionabile
+   viene specificato il numero minimo di attacchi ed il diametro minimo della tubazione
+    nella quale sono inseriti, ed in particolare:
+    -   almeno 1 attacco DN 70 per le reti con soli idranti a muro o naspi,
+    -   almeno 2 attacchi DN 70 su tubazione ≥ DN 80 per reti di idranti con protezione
+        esterna o di reti di idranti a grande capacità (600-1200 l/min)
+    -   almeno 3 attacchi DN 70 su tubazione ≥           DN 100 per reti di idranti con
+        protezione esterna (1800 l/min)
+                  ATTACCHI AUTOPOMPA VVF
+
+A volte capita di imbattersi in installazioni errate dove l’attacco VVF
+prefabbricato, precedentemente inserito in linea, viene recuperato tale e quale e
+collegato in derivazione, tappando l’estremità adiacente le bocche di immissione
+ma lasciando inalterato il senso di flusso della valvola di non ritorno che
+impedisce di fatto l’immissione dell’acqua nell’impianto …
+
+                                                                            Ciecatura del
+                                                                              terminale
+
+
+
+
+          Collegamento in linea                        Riallacciamento in
+                                                          derivazione
+               ATTACCHI PER AUTOPOMPA VV.FF.
+Esiste ancora una certa confusione nel merito.
+L’attacco premente per autopompa VVF NON è una apparecchiatura «certificata»
+e NON è soggetta a marcatura CE, ma è un insieme di componenti prodotti in
+conformità alle rispettive norme di riferimento, che devono essere opportunamente
+assemblati ed installati, nel rispetto della norma UNI 10779, al fine di consentire
+l’immissione di acqua nella rete di idranti in condizioni di emergenza.
+
+
+• Si compone di :
+• Uno o più Attacchi DN 70 con girello UNI 804
+• Valvola di sicurezza
+• Dispositivo di drenaggio (necessario se esiste
+  pericolo di gelo)
+• Valvola di ritegno (orientata verso l’impianto)
+• Valvola di intercettazione (solitamente aperta)
+• Collettore
+• Valvola di sezionamento (in presenza di più
+  attacchi)
+ATTACCHI IN LINEA PER AUTOPOMPA VV.FF.
+Prima della revisione 2007 della UNI 10779 erano ancora in uso
+attacchi in linea, ovvero inserito di modo tale intervenendo sulla
+saracinesca di intercettazione si isolava l’impianto dalla sua
+alimentazione originaria.
+Tale tipologia di attacco oggi non è più prevista.
+
+                  NO, solo                Attenzione tuttavia che simili
+
+                  ricambio
+                                          dispositivi sono tuttora in
+                                          commercio per esigenze
+                                          prevalentemente di ricambio.
+                                          Sono diversi da quelli in
+                                          derivazione perché la valvola
+                                          di ritegno è montata in senso
+                                          opposto e non è agevole
+                                          rimuoverla.
+                                          Quindi all’ordine e nelle
+                                          specifiche tecniche
+                                          precisare che si intende il
+                                          modello per attacco in
+                                          DERIVAZIONE.
+ NORME PRODOTTO – PRESIDI ANTINCENDIO
+
+              • UNI EN 671-1 (naspi con tubazioni semirigide)
+              • UNI EN 671-2 (Idranti a muro con tubazioni
+                flessibili)
+              • UNI EN 14339 - Idranti antincendio sottosuolo
+              • UNI EN 14384 Idranti antincendio a colonna
+  PRESIDI       soprasuolo
+              • UNI 11423:2011 - Lance erogatrici di DN 70 a
+                corredo di idranti per pressioni di esercizio fino a
+ANTINCENDIO     1,2 MPa
+Apparecchi erogatori
+ Idranti a muro:
+   conformi a UNI EN 671/2 con le attrezzature permanentemente collegate alla
+     valvola di intercettazione
+
+ Idranti a colonna:
+   Lancia erogatrice conforme alla UNI 11423
+   Possibilità di dotare l’idrante di «carenatura di sicurezza» antivandalismo,
+    conforme alla UNI EN 14384
+
+  A proposito di attrezzature DN 45
+  permanentemente collegate …
+   TIPICI PRESIDI RETE IDRANTI
+
+  Idranti a muro DN 45
+  UNI EN 671-2
+• CASSETT
+  Naspo DN 25
+  UNI EN 671-1
+
+  Idrante a colonna soprasuolo
+  UNI EN 14384
+
+  Idrante sottosuolo
+  UNI EN 14339
+             Idranti soprassuolo
+DEVONO ESSERE CONFORMI ALLA NORMA - UNI EN 14384
+(VECCHIA NORMA – UNI 9485 - CE DAL MAGGIO 2007 * )
+DN 80          CON 2 ATTACCHI DN 70
+
+DN 100
+               CON 2 ATTACCHI DN 70
+               CON 2 ATTACCHI DN 70 + 1 DN 100
+
+DN 150         CON 2 ATTACCHI DN 70
+               CON 2 ATTACCHI DN 70 + 1 DN 100
+               CON 3 ATTACCHI DN 70 + 1 DN 100
+
+
+LA PROFONDITA’ DI INTERRO DEVE ESSERE DEFINITA       DAL
+PROGETTISTA E COMUNQUE NON INFERIORE A 300 mm
+                        Idranti sottosuolo
+CONFORMI ALLA NORMA –
+ UNI EN 14339
+(VECCHIA NORMA – UNI 9486 CE
+DAL MAGGIO 2007 *)
+              LANCE DN 70 UNI 11423:2011
+ PER PRESSIONI SINO A 1,2 MPa
+Corredate da Dichiarazione Conformità Costruttore alla norma
+nazionale UNI 11423:2011
+Dotate di congegno per chiusura / getto pieno / getto frazionato
+(non è previsto il velo delle professionali)
+
+
+
+
+                A ROTAZIONE                   A LEVA
+                        Equazione di efflusso
+OGNI PRESIDIO ANTINCENDIO CHE EROGA ACQUA E’ CARATTERIZZATO DA UN
+COEFFICIENTE DI EFFLUSSO K IN FUNZIONE DELLA PRESSIONE P E ED E’
+NECESSARIO PER IL CALCOLO DELLA PORTATA Q. LA FORMULA CHE FORNISCE LA
+PORTATA Q DATA LA PRESSIONE P E’ LA SEGUENTE :
+
+
+
+P : Pressione espressa in MPa
+Q : Portata erogata espressa in l/min
+Oppure in modo equivalente esprimendo la pressione in bar:
+
+
+
+IL COEFFICIENTE K DEVE ESSERE DICHIARATO DAL FABBRICANTE
+            DN 25 – prestazioni normali - pressioni
+                             PRESTAZIONE NORMALE : 35 l/min – P >= 2
+                             bar
+                                 de eq. (mm)  K            Pressione
+                                                         Richiesta (bar)
+                                     4             9         15,11 (NA)
+                                     5             13           7,25
+                                     6             17           4,24
+                                     7             22           2,53
+  (*) la pressione minima non        8             28         1,56 (*)
+deve essere comunque inferiore
+ a 2 bar, pertanto selezionando
+                                     9             33         1,12 (*)
+           un presidio               10            42         0,70 (*)
+ k > 24,75 si otterrà comunque
+un eccesso di portata rispetto al    12            64         0,30 (*)
+     minimo richiesto dalla
+            UNI 10779
+              DN 25 – coefficienti di efflusso 671-1
+Portate minime e coefficiente k minimo
+
+               d. eq (mm)    0,2 MPa     0,4 MPa   0,6MPa    K
+                             (l/min)     (l/min)   (l/min)
+                    4           12         18        22      9
+                    5           18         26        31      13
+                    6           24         34        41      17
+DN                  7           31         44        53      22
+
+25                  8
+                    9
+                                39
+                                46
+                                           56
+                                           66
+                                                     68
+                                                     80
+                                                             28
+                                                             33
+                   10           59         84       102      42
+                   12           90        128       156      64
+        DN 25 – prestazioni normali - pressioni
+                          PRESTAZIONE ELEVATA: 60 l/min P >= 3 bar
+
+                               d. eq. (mm)   K         Pressione
+                                                     Richiesta (bar)
+                                   4         9         44,44 (NA)
+                                   5         13        21,30 (NA)
+                                   6         17        12,46 (NA)
+                                   7         22           7,44
+(*) la pressione minima non
+   deve essere comunque            8         28           4,59
+ inferiore a 3 bar, pertanto       9         33           3,30
+  selezionando presidio un
+                                   10        42         2,04 (*)
+      k > 34,65 si otterrà
+  comunque un eccesso di           12        64         0,88 (*)
+ portata rispetto al minimo
+         richiesto dalla
+           UNI 10779
+              DN 45 – coefficienti di efflusso 671-2
+Portate minime e coefficiente k minimo
+
+               d. eq (mm)    0,2 MPa     0,4 MPa   0,6MPa    K
+                             (l/min)     (l/min)   (l/min)
+                    9           68         92       112      46
+                   10           78        110       135      55
+                   11           93        131       162      68
+DN                 12           100       140       171      72
+
+45                 13           120       170       208      85
+            DN 45 – prestazioni normali - pressioni
+
+                                               120 l/min P >= 2 bar
+
+                                     d. eq. (mm)        K          Pressione
+                                                                 Richiesta (bar)
+                                         9              46            6,81
+                                         10             55            4,76
+                                         11             68            3,12
+
+ La portata minima è 120 l/min,          12             72            2,78
+pertanto selezionando presidio           13             85            2,00
+                un
+K < 85 sarà necessario operare a
+pressioni di scarica superiori del
+     minimo richiesto dalla
+           UNI 10779
+         DN 45 – prestazioni normali - verifica
+In prossimità dell’ultimo idrante/naspo di ogni diramazione aperta su cui siano installati 2
+o più idranti/naspi deve essere installato un manometro, completo di valvola porta manometro,
+atto ad indicare la presenza di pressione nella diramazione ed a misurare la pressione residua
+durante la prova dell’idrante/naspo.
+
+
+
+                                                    Purtroppo ben poche cassette DN 45
+                                                    del parco installato presentano un
+                                                    coefficiente efflusso K = 85, pertanto
+                                                    molte installazioni eseguite con
+                                                    allacciamento diretto all’acquedotto o
+                                                    in situazioni di bassa pressione
+                                                    disponibile risultano insufficienti in
+                                                    portata, ancorché sia possibile rilevare
+                                                    pressioni superiori ai 2 bar !
+                                                    Senza la certificazione del presidio
+                                                    installato, disponibile normalmente
+                                                    solo se marcato CE, è impossibile
+                                                    ricavare la portata erogata se non con
+                                                    appositi strumenti di misura.
+         DN 70 e parametri prestazionali
+
+     • La norma UNI 10779-rev 007 prevedeva misure di
+       pressione residua eseguite in corrispondenza
+       dell’attacco all’idrante sottosuolo o su uno dei due
+DN     raccordi DN 70 dell’idrante soprassuolo. Oggi…
+
+70
+       Lance UNI 70 e parametri prestazionali
+In realtà come si evince anche dalla NFPA 24 (C 4.7) e da un banale
+bilancio idraulico di conversione della pressione statica in dinamica, è
+da attendersi che la portata erogata da un orifizio valga:
+
+
+
+
+Dove:
+Pm = pressione in kPa
+Qm = portata attesa in l/min
+C= coefficiente variabile tra 0.70 a 0.90 in funzione del tipo di smusso (e
+quindi di perdita di carico del bocchello) e 1 nel caso teorico di lancia
+perfetta
+d = diametro interno in mm del bocchello
+Pm = la pressione misura col pitot posto a ½ D o alla base della lancia
+Con acqua di mare il coeff. 0,066 è sostituito da 0,065 che equivale a circa
+all’1% di perdita
+  Lance 70 e parametri prestazionali UNI 11423
+     de (mm)                       Portata minima l/min                 Coefficiente K
+
+                     P = 0,2 MPa       P = 0,4 MPa        P = 0,6 MPa
+        16              198                280               343             140
+        17              226                320               392             160
+        18              255                360               441             180
+        19              283                400               490             200
+        20              304                430               527             215
+
+
+
+
+Si suggerisce, di tener conto dei valori progettuali della UNI 11423-2011 che
+rappresentano i coeff. di efflusso minimi per i vari diametri equivalenti (testati dal
+vero).
+    La UNI 11423-2011 è oggi richiamata dalla UNI 10779
+   0,7 MPa per gli idranti a muro
+   1,0 Mpa per i naspi
+In caso di utilizzo di apparecchi riduttori della pressione a servizio di due o
+più apparecchi di erogazione, si devono installare appositi indicatori della
+pressione in prossimità di ogni apparecchio, a meno che l’impianto non sia
+dotato di idoneo dispositivo di sicurezza contro le sovrappressioni
+
+
+
+
+In prossimità dell’ultimo apparecchio di erogazione di ogni diramazione
+aperta con due o più apparecchi, si deve predisporre un attacco per
+manometro di prova, completo di valvola porta manometro.
+                   UNI EN 10779-2021
+    LIVELLI DI PRESTAZIONE RETI ORDINARIE SECONDO UNI 10779
+LIVELLO         PROTEZIONE                                    PROTEZIONE ESTERNA           DURATA
+PERICOLOSITA’   INTERNA                                                                    EROGAZIONE
+
+
+
+
+1
+                2 idranti con 120 l/min cadauno e pressione   Generalmente non prevista    ≥ 30 min
+                residua non minore di 0,2 MPa
+                •4 naspi con 35 l/min cadauno e pressione
+                residua
+                non minore di 0,2 MPa
+
+2
+                3 idranti con 120 l/min cadauno e pressione   4 attacchi di uscita DN 70   ≥ 60 min
+                residua                                       con 300 l/min
+                non minore di 0,2 MPa oppure ≥ 60 min         cadauno e pressione
+                4 naspi con 60 l/min cadauno e pressione      residua non
+                residua                                       minore di 0,3 MPa
+                non minore di 0,3 MPa
+
+3               4 idranti con 120 l/min cadauno e pressione
+                residua
+                                                              6 attacchi di uscita DN 70
+                                                              con 300 l/min
+                                                                                           ≥ 120 min
+
+                non minore di 0,2 MPa                         cadauno e pressione
+                oppure ≥ 120 min                              residua non
+                6 naspi con 60 l/min cadauno e pressione      minore di 0,4 Mpa
+                residua non minore di 0,4 MPa
+     LIVELLI DI PRESTAZIONE RETI ORDINARIE SECONDO UNI 10779
+La protezione interna è esplicitamente                servita    al
+compartimento antincendio cui è destinata.
+
+La protezione esterna è invece riferita all’edificio nel suo
+complesso.
+La presenza di una rete esterna (acquedotto), pubblica o privata
+può essere ritenuta sufficiente per il servizio antincendio, sempre
+che soddisfi i criteri di ubicazione e portata
+
+Questo può risultare molto utile in edifici che hanno la parete di
+confine sulla pubblica via e non sia possibile ottenere servitù.
+     LIVELLI DI PRESTAZIONE RETI ORDINARIE SECONDO UNI 10779
+1)   Se il numero di presidi è inferiore a quello massimo si conteggiano solo i presidi
+     effettivamente installati nello specifico compartimento antincendio (per gli idranti
+     adibiti alla protezione interna) o quelli a servizio dell’edificio (per la protezione
+     esterna).
+2)   Nelle attività a livello di pericolosità 3 la durata di scarica può essere ridotta a 90
+     min (anziché 120 )e il numero massimo di bocche DN 70 a 4 (anziché 6) se è
+     prevista la protezione con impianti automatici di spegnimento.
+3)   In compartimenti antincendio di superficie > 4000 m², in assenza di protezione
+     esterna, il numero di presidi interni contemporaneamente attivi deve essere
+     raddoppiato. (Il riferimento ad edifici a più piani della precedente revisione è
+     andato perso; il solo concetto rilevante è quello di compartimento antincendio)
+4)   Non esiste contemporaneità tra protezione interna ed esterna.
+     LIVELLI DI PRESTAZIONE RETI ORDINARIE SECONDO UNI 10779
+
+5)   Per i livelli 2 e 3 di pericolosità sprovvisti di protezione esterna deve essere
+     previsto >=1 idrante soprassuolo o sottosuolo UNI 70 a standard UNI EN 14384 o
+     UNI EN 14339 per il rabbocco mezzi VVF in posizione accessibile e sicura, con
+     portata almeno 300 l/min cadauno per la durata di 60 min
+
+La revisione 2021 precisa che tale idrante aggiuntivo per le reti all’aperto di capacità
+     ordinaria:
+ Deve essere conforme a UNI EN 14384 e UNI EN 14339 a seconda sia soprassuolo o
+  sottosuolo;
+ La portata minima di 300 l/min cadauno per tutta la durata di 60’
+ Può essere derivato alla rete pubblica o privata o – in subordine – derivato dalla stessa
+  rete idranti : In questo caso lo scenario idraulico di calcolo e la riserva idrica dovranno
+  essere adeguatamente dimensionati prevedendo il contemporaneo funzionamento con la
+  protezione interna.
+                      UNI EN 10779-2021
+                LIVELLI DI PRESTAZIONE RETI ALL’APERTO SECONDO UNI 10779
+LIVELLO              PROTEZIONE                                  PROTEZIONE ESTERNA        DURATA
+PERICOLOSITA’        CAPACITA’ ORDINARIA                         DI GRANDE CAPACITA’       EROGAZIONE
+
+
+
+
+1
+                     2 idranti con 120 l/min cadauno e           2 attacchi DN 70 con      ≥ 30 min
+                     pressione residua non minore di 0,2 MPa     300 l/min
+                     •4 naspi con 35 l/min cadauno e pressione   cadauno e pressione
+                     residua                                     residua non
+                     non minore di 0,2 MPa                       minore di 0,3 MPa
+
+
+2
+                     3 idranti con 120 l/min cadauno e           3 attacchi di uscita DN   ≥ 60 min
+                     pressione residua                           70 con 300 l/min
+                     non minore di 0,2 MPa oppure ≥ 60 min       cadauno e pressione
+                     4 naspi con 60 l/min cadauno e pressione    residua non
+                     residua                                     minore di 0,3 MPa
+                     non minore di 0,3 MPa
+
+3                    Generalmente non prevista                   4 attacchi di uscita DN
+                                                                 70 con 300 l/min
+                                                                                           ≥ 120 min
+
+                                                                 cadauno e pressione
+                                                                 residua non
+                                                                 minore di 0,4 MPa
+LIVELLI DI PRESTAZIONE RETI ALL’APERTO SECONDO UNI 10779
+
+1)   Per livello 1 e 2 di pericolosità nel caso di progettazione a capacità
+     ordinaria deve essere previsto >=1 idrante soprassuolo o sottosuolo UNI 70
+     per il rabbocco mezzi VVF, portata almeno 300 l/min cadauno collegato alla
+     rete (acquedotto) pubblica o privata, o in subordine derivato dalla stessa rete
+     idranti..
+ La revisione 2021 precisa che tale idrante aggiuntivo per le reti all’aperto di
+      capacità ordinaria:
+  Deve essere conforme a UNI EN 14384 e UNI EN 14339 a seconda sia soprassuolo o
+   sottosuolo;
+  La portata minima di 300 l/min cadauno per tutta la durata del livello di
+   contemporaneità deve essere considerata in contemporaneo funzionamento con la
+   rete idranti
+  Può essere derivato alla rete pubblica o privata o – in subordine – derivato dalla
+   stessa rete idranti. In questo caso lo scenario idraulico di calcolo e la riserva idrica
+   dovranno essere adeguatamente dimensionati.
+                        UNI 10779 : 2021
+                           FASI DI PROGETTAZIONE
+                                (elenco non esaustivo)
+
+Definire e/o acquisire il Livello di Pericolosità corrispondente all’attività
+Definire e/o acquisire la tipologia di protezione (interna e/o esterna)
+Acquisire la Classificazione Sismica della zona interessata dall’installazione
+ Definire le prestazioni idrauliche nominali dell’impianto corrispondenti al
+ Livello di Pericolosità previsto per l’attività, con le eventuali riduzioni
+ consentite in presenza di impianti automatici.
+Individuare la posizione dell’alimentazione idrica, in funzione del
+fabbisogno idrico nominale richiesto dal sistema
+NB: L’eventuale utilizzo dell’acquedotto come alimentazione idrica dovrà
+    essere verificato in funzione del fabbisogno idrico richiesto dal sistema
+    e delle prestazioni disponibili, rilasciate per iscritto dall’Ente Erogatore
+Verificare l’esistenza di problematiche relative al gelo
+                        UNI 10779 : 2021
+                            FASI DI PROGETTAZIONE
+                                 (elenco non esaustivo)
+
+Identificare il perimetro e le superfici dei compartimenti
+Identificare posizione P.T. / Filtri / Vie di fuga
+Definire la tipologia e la disposizione delle apparecchiature di erogazione
+e dell’attacco autopompa VVF
+Definire il percorso dei circuiti idraulici di distribuzione
+Definire la disposizione delle valvole di intercettazione (interne ed
+esterne)
+Effettuare il calcolo idraulico in funzione dei parametri progettuali e
+delle caratteristiche prestazionali delle apparecchiature di erogazione
+precedentemente scelte
+Scegliere l’alimentazione idrica idonea, in funzione del livello di
+affidabilità richiesto per la protezione dell’attività
+                      UNI 10779 : 2021
+                             SPECIFICA IMPIANTO
+                         CAPANNONE INDUSTRIALE
+Attività: Produzione e stoccaggio materiale incombustibile
+Temperatura minima ambiente: + 5 °C
+Livello di pericolosità: 2
+Tipologia protezione idranti prevista: interna + esterna
+Alimentazione idrica: Vasca e sistema di pompaggio sotto battente
+Tipologia alimentazione idrica: Singola superiore
+Tipologia pompe: Vertical Turbine Pump
+Portata nominale minima (protezione interna): 3 idranti x 120 l/min
+Pressione minima all’idrante a muro sfavorito: 2,0 bar l/min
+Portata nominale minima (protezione esterna): 4 attacchi x 300 l/min
+Pressione minima all’attacco DN 70 idrante sfavorito: 3,0 bar l/min
+UNI 10779 : 2021
+FASI DI PROGETTAZIONE …
+   UNI 10779 : 2021
+INDIVIDUAZIONE COMPARTIMENTI
+UNI 10779 : 2021
+                       UNI 10779 : 2021
+                     COPERTURA GEOMETRICA
+
+
+
+
+Distanza geometrica = Segmento rettilineo che connette due punti
+UNI 10779 : 2021
+           UNI 10779 : 2021
+VERIFICA COPERTURA CON LA REGOLA DEL FILO TESO
+UNI 10779 : 2021
+UNI 10779 : 2021
+                UNI 10779 : 2021
+COMPLETAMENTO LAY-OUT APPARECCHIATURE PROTEZ. INTERNA
+           UNI 10779 : 2021
+DEFINIZIONE PERCORSO TUBAZIONI RETE INTERNA
+                    UNI 10779 : 2021
+        DIMENSIONAMENTO IDRAULICO RETE INTERNA
+Fattore K – Complesso idrante
+I complessi idrante conformi alle norme di riferimento UNI EN 671/2, sono
+caratterizzati dal coefficiente di efflusso dichiarato dal costruttore
+dell’apparecchiatura
+                    Portata minima: Q = 120 l/min
+                     Pressione minima: 2,0 bar
+
+
+                           Q = K P^0,5
+                          K min (2 bar)
+                               84,9
+                          UNI 10779 : 2021
+                DIMENSIONAMENTO TUBAZIONI INTERNE
+
+
+
+
+Per un dimensionamento preliminare, si considera solitamente una velocità
+massima di 3 m/s, fermo restando il rispetto dei valori minimi riportati nel prospetto
+sopra citato, dal quale ci si può discostare per validi motivi, che devono comunque
+essere ben specificati dal Progettista nella relazione tecnica dell’impianto.
+In ogni caso, la velocità nelle tubazioni non deve superare i 10 m/s.
+                       UNI 10779 : 2021
+DEFINIZIONE PERCORSO E DIMENSIONAM. TUBAZ. RETE INTERNA
+PERDITE CONCENTRATE
+
+
+
+
+   Le perdite concentrate dovute ai raccordi o ai pezzi speciali, si traducono
+   in perdite distribuite attraverso lunghezze di tubazione «equivalenti»
+   (prospetto C1), da inserire nella formula di Hazen-Williams.
+                        UNI 10779 : 2021
+DEFINIZIONE PERCORSO E DIMENSIONAM. TUBAZ. RETE INTERNA
+PERDITE DISTRIBUITE
+
+FORMULA DI HAZEN-WILLIAMS
+
+
+
+
+P = Perdita di pressione per metro lineare (mm c.a.)
+Q = Portata (l/min)
+D = Diametro Interno della tubazione (mm)
+C = coefficiente di scabrezza della tubazione
+    C = 100 Ghisa
+    C = 120 Acciaio
+    C = 140 Acciaio Inox, Rame, Ghisa Rivestita
+    C = 150 Plastica e analoghi
+                         UNI 10779 : 2021
+                         FASI I PROGETTAZIONE …
+
+Tutti abbiamo assai chiaro, norma UNI 10779, inclusa che lo scenario di
+calcolo vada riferito alla situazione idraulicamente sfavorita.
+Il problema è comprendere bene che cosa si intenda per presidi antincendi
+nella posizione idraulicamente più sfavorita.
+Nella normalità delle situazioni, escluse le aree di livello 1, è dato riscontrare
+la presenza di una protezione interna ed una protezione esterna, da non
+computare contemporaneamente.
+In questa situazione la situazione più sfavorita idraulicamente da un punto di
+vista della portata è sicuramente quella corrispondente
+ai 4 o 6 idranti DN 70 contemporaneamente attivi.
+
+Non è detto lo sia anche dal punto di vista della pressione richiesta, dal
+momento che la stessa rete potrebbe alimentare una colonna di elevata
+altezza di idranti DN 45, o DN 25 magari installati o selezionati con un K
+piccolo.
+    UNI 10779 : 2021
+POSIZIONAMENTO VALVOLE INTERNE
+          UNI 10779 : 2021
+DEFINIZIONE PERCORSO TUBAZIONI RETE ESTERNA
+                    UNI 10779 : 2021
+        DIMENSIONAMENTO IDRAULICO RETE ESTERNA
+
+
+                 Q = K * √(10 P)
+  K = Coefficiente di efflusso
+  P = Mpa
+  Q = l/min
+
+A parità di pressione, ad un coefficiente di efflusso K più elevato
+corrisponde una erogazione di acqua maggiore.
+         UNI 10779 : 2021
+DIMENSIONAMENTO IDRAULICO RETE ESTERNA
+                      UNI 10779 : 2021
+DEFINIZIONE PERCORSO E DIMENSIONAM. TUBAZ. RETE ESTERNA
+ E’ importante optare per le scelte che garantiscano l’affidabilità
+ dell’impianto.
+
+ L’anello è sempre preferibile, per quanto possibile.
+
+ La rete esterna dovrebbe essere sempre separabile da quella interna,
+ per poter essere sezionata in caso di danneggiamento o collasso,
+ mantenendo l’efficienza e la funzionalità della protezione esterna.
+
+ Nel dimensionamento della rete occorre tenere conto che la perdita di
+ carico nel circuito aumenta esponenzialmente col diminuire del
+ diametro della tubazione.
+
+ Poiché il costo del tubo interrato ha solitamente un impatto economico
+ molto basso rispetto ai costi di scavo, rinterro e ripristino della
+ pavimentazione, la scelta di una tubazione con diametro interno
+ maggiore, consente spesso di poter ridurre sensibilmente la prevalenza
+ della pompa e di conseguenza il costo dell’apparecchiatura e dei
+ sistemi ad essa collegati (sistema di ventilazione, sistema di
+ alimentazione, consumo elettrico/carburante, ecc.).
+                       UNI 10779 : 2021
+DEFINIZIONE PERCORSO E DIMENSIONAM. TUBAZ. RETE ESTERNA
+PERDITE DISTRIBUITE
+
+FORMULA DI HAZEN-WILLIAMS
+
+
+
+
+P = Perdita di pressione per metro lineare (mm c.a.)
+Q = Portata (l/min)
+D = Diametro Interno della tubazione (mm)
+C = coefficiente di scabrezza della tubazione
+    C = 100 Ghisa
+    C = 120 Acciaio
+    C = 140 Acciaio Inox, Rame, Ghisa Rivestita
+    C = 150 Plastica e analoghi
+                       UNI 10779 : 2021
+DEFINIZIONE PERCORSO E DIMENSIONAM. TUBAZ. RETE ESTERNA
+PERDITE CONCENTRATE
+
+
+
+
+    Le perdite concentrate dovute ai raccordi o ai pezzi speciali, si traducono
+    in perdite distribuite attraverso lunghezze di tubazione «equivalenti»
+    (prospetto C1), da inserire nella formula di Hazen-Williams.
+Software di calcolo idraulico
+Output di calcolo
+         IL NOSTRO PROGETTO
+La Curva dell’impianto e la riserva Idrica
+                   Riserva Idrica:
+                       Q = 77 m3
+             Durata riserva idrica 60 min
+       Capacità utile riserva idrica : 77 m3
+ UNI 10779 : 2021
+
+SPECIFICA DELL’IMPIANTO
+     D.M. 20.12.2012
+       Norma UNI 10779 : 2021
+
+Pressione di rating delle componenti
+La pressione non deve essere inferiore a 1.2 MPa
+
+La novità consiste che la pressione nominale delle componenti
+e la sua modalità di individuazione devono essere indicate in
+relazione tecnica
+Norma UNI/TS 11559
+Reti di idranti a secco
+     Progettazione,
+installazione ed esercizio
+Entrata in vigore il 06 Novembre 2014
+Norma UNI/TS 11559 : 2014
+    … le principali caratteristiche …
+     UNI 10779 – responsabilità e conduzione
+
+                           Responsabile del sistema
+
+  Persona responsabile di predisporre le misure di sicurezza antincendio appropriate
+                       per l’attività e supervisionarne il rispetto
+
+
+
+ Il responsabile del sistema deve provvedere al mantenimento delle condizioni di funzionamento
+  dell’impianto previste dal progetto che rimangono sotto la sua responsabilità anche esistendo il
+     servizio di ispezione periodica da parte della ditta installatrice o di altro organismo autorizzato
+
+
+
+
+Spetta al manutentore di rendere edotto il responsabile del sistema sulla condizione dell’impianto
+ con apposita comunicazione scritta, affinché il responsabile del sistema, consapevolmente,
+                     possa attendere alla messa in efficienza dell’impianto
+                           IMPIANTI SPRINKLER
+
+
+
+
+IMPIANTI SPRINKLER
+- Definizioni
+- Elementi principali
+- Standard di riferimento e congruenza normativa
+- Efficacia e Disponibilità degli impianti sprinkler: impieghi tipici
+- Lo standard armonìzzato UNI EN 12845
+- Gli altri standard internazionali (NFPA – FM)
+- Classificazione del rischio e delle prestazioni
+-Stazioni di controllo ed allarme ad umido, secco e preallarme
+- Tipologia e classificazione erogatori
+- Cenni principali criteri di posizionamento
+- Segnalazioni ed allarmi
+- Sorveglianza e manutenzione impianti sprinkler
+                     Definizione
+
+Un sistema automatico sprinkler è progettato ed installato per
+rilevare la presenza di un incendio ed estinguerlo nello stadio
+iniziale, oppure tenere sotto controllo le fiamme in modo che
+l’estinzione possa essere completata con altri mezzi
+                 Un sistema sprinkler tipico
+Sistema di distribuzione   Valvola di controllo/allarme   Alimentazione
+Elementi principali
+
+
+                      Montante
+Elementi principali
+
+                      Collettore
+                      principale
+Elementi principali
+                      Collettore di
+                      distribuzione
+Elementi principali
+                      Nippli
+                      montante
+          Elementi principali
+
+Discesa
+              Elementi principali
+
+Diramazioni
+           Elementi principali
+
+
+Tubo di
+raccordo
+               Elementi principali
+                                     Sprinkler in
+                                     alto (upright)
+
+
+
+
+Sprinkler in
+basso
+(pendent)
+                 Elementi principali
+
+Dispositivo di
+prova
+impianto
+  Estensione della protezione sprinkler
+Tutte le aree dell’edificio da proteggere saranno considerate nella
+                   progettazione, ad eccezione di:
+
+-servizi igienici ma non spogliatoi (non adibiti a deposito)
+-vani scala e cavedi chiusi verticali (es. ascensori)
+-locali protetti da altri impianti (es. sistemi a gas, polvere)
+-processi ad umido (es. parte umida delle macchine di cartiera)
+-silos o contenitori di stoccaggio per sostanze espandibili con acqua
+-prossimità di forni indus., bagni salini (aumento del pericolo)
+-locali o aree dove la scarica d’acqua potrebbe risultare pericolosa
+  Estensione della protezione sprinkler
+                               segue
+-depositi all’aperto (opportune distanze della merce dall’edificio: min.
+10 mt o 1,5 volte H del materiale depositato)
+-per locali separati da compartimentazione con REI > 60 o con porte
+automatiche di sezionamento
+-spazi nascosti, soffitto o pavimento, con H< 0,8 mt. che non
+contengano materiali combustibili o cavi con tensione < 250 V
+monofase (max 15 cavi per ogni canalina).
+L’ eventuale protezione quando necessaria sarà classificata come LH o
+OH1.
+ Classificazione delle attività e dei rischi d’incendio
+
+HH pericolo alto
+Depositi HHS
+Il pericolo d’incendio complessivo delle merci è in funzione della
+combustibilità dei materiali depositati, compresi i loro imballaggi e la
+configurazione del deposito (modalità di stoccaggio)
+            CLASSI DI PERICOLO (sottoclassi OH e HHP)
+
+                                             ORDINARY HAZARDS
+
+
+            OH 1                      OH 2                         OH 3                      OH 4
+
+
+          esempi:                    esempi:                      esempi:                     esempi:
+         OSPEDALI                  PARCHEGGI               STAZIONI FERROVIARIE     IMPIANTI CARTA RICICLATA
+          HOTELS                     MUSEI                 CENTRI COMMERCIALI             DISTILLERIE
+          SCUOLE                                                 CARTIERE               CINEMA E TEATRI
+
+
+
+
+                                               HIGH PROCESS HAZARDS
+
+
+         HHP 1                         HHP 2                          HHP 3                         HHP 4
+
+
+           esempi:                    esempi:                         esempi:                       esempi:
+        COLORIFICI             FABBRICHE FIAMMIFERI                PRODUZIONE                 FABBRICHE FUOCHI
+I .TESSILI LANA E COTONE   PRODUZIONE PLASTICI CLASSE M3        NITRATO CELLULOSA                DI ARTIFICIO
+ LAVORAZIONE LINOLEUM
+                 CLASSI PERICOLO: AREE STORAGE (HHS)
+                                 SOTTOCLASSI HHS
+
+                                HIGH HAZARDS STORAGE
+
+
+           HHS 1                HHS 2              HHS 3                HHS 3
+      HHS CATEGORY I       HHS CATEGORY II    HHS CATEGORY III     HHS CATEGORY IV
+
+La classificazione delle aree Storage si esegue nel seguente modo:
+
+                                         si                      Usare criteri specifici
+E’ un rischio speciale ?
+                                                                        (ALL G)
+            no
+  Contiene plastica                      si                         Metodo di cate-
+      o gomma ?                                                  gorizzazione (ALL B)
+             no
+                                         si                      Lista in ordine alfabe-
+ Consultare l’elenco
+                                                                      tico (ALL C)
+                                                                                      141
+    DEFINIZIONE DELLA CATEGORIA HHS APPENDICE B
+
+Dalla Tabella B.1 dell’ APP. B
+
+   Material Factor
+
+                              CATEGORIA HHS
+
+    Configurazione
+      deposito
+                         Pressioni
+Pressioni minime di scarica all’erogatore
+• 0,70 bar per LH
+• 0,35 bar per OH
+• 0,50 bar per HHP e HHS
+ (eccetto livelli intermedi)
+• 2,00 bar per HHS livelli intermedi
+                         Tubazioni
+Diametri minimi delle tubazioni
+• DN 20 per LH
+• DN 20 per OH e HH
+Limitatamente a connessioni orizz. e verticali ad uno solo spk con
+   K < 80
+• DN 25 tutte le altre
+              Alimentazioni idriche
+Durata minima che dovrà garantire l’alimentazione
+• LH 30 min.
+• OH 60 min.
+• HHP 90 min.
+• HHS 90 min.
+
+Massima pressione di esercizio 12 bar
+• Ad eccezione del collaudo
+• Ad eccezione di edifici di grande altezza (oltre i 45 mt.
+  tra spk basso e più alto)
+        Tipo di alimentazione idrica
+• Acquedotto
+• Serbatoio di accumulo
+• Sorgenti inesauribili
+• Serbatoi a pressione
+Volume min. d’acqua per sistemi precalcolati
+
+LH e OH da 9 a 200 m³, in funzione della differenza di
+  altezza tra spk basso e più alto
+HHP e HHS da 225 a 1090 m³, in funzione della densità di
+  scarica e del tipo d’impianto
+       Massima area protetta e dimensioni
+ Massima area protetta da un sistema sprinkler ad umido o
+  a preallarme
+   -classe di rischio LH                  10.000 m²
+   -classe di rischio OH                  12.000 m²
+   -classe di rischio HH                   9.000 m²
+Massima dimensione dell’installazione (contenuto
+impianto) sprinkler per impianti a secco o combinati
+
+   -senza acceleratore LH e OH          max 1,5 m³
+   -con acceleratore   LH e OH          max 4,0 m³
+                       HH               max 3,0 m³
+     Protezione contro il gelo
+
+
+La tubazione a servizio degli erogatori e la valvola
+di controllo ed allarme dovranno essere
+mantenute ad una temperatura minima di 4°C
+           Protezione contro il gelo
+Per gli impianti ad umido:
+-le parti dell’installazione soggette a congelamento
+potranno essere protette con liquido antigelo, cavi
+scaldanti o estensioni della rete a secco.
+-il numero di spk di ogni sezione d’impianto protetto dal
+gelo non sarà maggiore di 20
+-quando più di due sezioni sono gestite da una sola vlv il
+n. totale di spk della zona protetta dal gelo non sarà
+maggiore di 100
+                             Sistemi ad umido
+La valvola di allarme ha due principali funzioni:
+1) Controllare la pressione d’acqua nel sistema
+    sprinkler
+2) Fornire un allarme di flusso, sia elettrico
+    che meccanico
+
+Una valvola d’allarme ha un trim, richiesto per fornire
+gli allarmi.
+Può essere del tipo verticale o orizzontale
+(verticale nella figura a fianco)
+Il trim è composto da piccole tubazioni collegate alla valvola,
+da manometri, e da una linea di scarico e prova allarmi
+Non raccomandato per edifici ed aree soggette
+a congelamento!
+                         Sistemi ad umido
+
+                                              Campana idraulica d’allarme
+
+                                             Pressostato d’allarme
+
+                                     Camera di ritardo
+
+
+Manometri                              Valvola test allarme
+
+
+
+                                      Drenaggio principale
+Valvola di controllo e
+allarme
+Sistemi ad umido
+  Sistemi a secco
+I sistemi a secco sono installati in aree soggette
+a congelamento. Quando la temperatura dell’edificio
+o dell’area non può essere garantita oltre i 4°C,
+Si dovrà installare un sistema a secco.
+
+
+
+I sistemi a secco, con erogatori chiusi, utilizzano
+tubazioni in pressione d’aria o gas inerte garantendo
+in questo modo la separazione tra zona umida e zona secco.
+
+Un differenziale di pressione permette di mantenere chiuso
+Il clapet della valvola a secco
+Sistemi a secco
+  La richiesta dei sistemi a secco è quella di distribuire l’acqua
+                                                                                   acceleratore
+  in 1 minuto all’erogatore più remoto. Un sistema che non
+  lo garantisce dovrà essere dotato di acceleratore.
+
+
+
+
+   Senza acceleratore                                                Con acceleratore
+Sistemi a secco
+In caso d’incendio…
+ Sistemi a secco
+Caduta di pressione aria…
+
+
+
+
+Vista in sezione della valvola
+Sistemi a secco
+Il clapet si apre e l’acqua
+inizia a fluire…
+Sistemi a secco
+Scarica d’acqua sul fuoco.
+                    Sistemi alternativi
+•Comprendono una valvola di allarme alternativa o un gruppo
+ composito (valvola a umido + valvola a secco)
+
+•Funzionamento:
+ durante i mesi invernali, sarà caricato con aria o gas inerte
+ con le limitazioni di un impianto a secco (volume interno
+ tubazioni)
+ durante i mesi estivi, sarà caricato con acqua
+                   Sistemi a preallarme
+•Gli sprinklers, che costituiscono il “sistema di erogazione”,
+hanno l’elemento termosensibile (bulbo o fusibile).
+
+•Costituito da una valvola a diluvio e da una valvola di
+ assemblate in serie.
+
+•La rete sprinkler è riempita con aria compressa
+ad una pressione 1,5 bar ÷ 2,5 bar
+
+•Il sistema si interfaccia con un impianto di rilevazione
+(pneumatico, elettrico, idraulico)
+                            Sistemi a preallarme
+   Singolo Interblocco                           Senza Interblocco
+   Installazione tipo A                          Installazione tipo B
+
+
+
+  E’ il sistema di rilevazione             L’intervento del sistema di rilevazione o
+  che comanda l’apertura                   del sistema di erogazione (rete sprinkler),
+  della valvola a diluvio ,                attivano l’apertura della valvola a diluvio
+  indipendentemente che si sia
+  rotto, oppure no, il bulbo
+  (o il fusibile) di uno sprinkler.
+
+
+
+
+Aperta la valvola il sistema si comporta   Il sistema viene utilizzato come alternativa
+come se fosse un sistema ad umido.         al sistema a secco (ridotto tempo di risp.)
+                              Singolo interblocco
+Sistema a                     attuazione elettrica
+preallarme
+TIPO A
+
+
+
+
+    = direzione flusso aria
+    compressa
+                                                      La valvola si apre solamente
+                                                      quando la solenoide riceve il
+                                                      segnale dal circuito di rilevazione
+                                                      (tensione alla solenoide NC =
+                                                      apertura)
+
+
+
+
+                                                            Pressostato con sola funzione
+                                                            di monitoraggio (il pannello
+                                                            darà un allarme, esempio:
+                                                            rottura accidentale di uno
+                                                            sprinkler)
+
+Preallarme singolo interblocco attuazione Elettrica
+Sistema a
+preallarme
+TIPO B
+
+
+
+
+        = direzione flusso aria compressa
+
+ Preallarme senza interblocco attuazione Elettrica
+ Attivazione del
+ rilevatore
+
+ Il pannello alimenta la
+ solenoide NC, la
+ quale aprendosi
+ scarica la linea in
+ pressione
+
+
+
+
+Preallarme senza interblocco attuazione Elettrica
+                                                     Lo sprinkler
+                                                     attivato crea una
+                                                     riduzione di
+                                                     pressione
+
+
+
+
+                                                     L’attuatore
+                                                     pneumatico scarica la
+                                                     linea in pressione
+
+
+Preallarme senza interblocco attuazione pneumatica
+                       Sistemi a preallarme
+    Doppio Interblocco Installazione (tipo “C”?)
+
+
+
+Caso particolare dei sistemi a preazione a interblocco e l’azionamento a doppio
+interblocco; non rientrano in quelli di tipo A della UNI EN 12845 perchè non è
+sufficiente l’attivazione del sistema di rivelazione per attuare in apertura la valvola a
+diluvio. Deve anche verificarsi una perdita di pressione dell’impianto provocata ad
+esempio dalla rottura di una testina Sprinkler. La NFPA distingue questo
+funzionamento dal singolo interblocco e dal non-interblocco.
+
+
+
+
+         Una volta aperta la valvola il sistema è già in scarica.
+               Sistemi a preallarme
+Differenza schematica singolo e Doppio Interblocco
+         Sistemi a preallarme differenze concettuali
+•Singolo interblocco: per evitare scariche accidentali in ambienti dove laddove la
+suddetta scarica potrebbe comportare gravi danni (si pensi ad esempio ad una sala
+CED o a una sala operatoria)
+
+•Senza interblocco: funziona nella peggiore delle ipotesi come una valvola a secco, ma
+il caricamento d’acqua può risultare anticipato dall’intervento del sistema di rivelazione.
+E’ quindi soluzione sostitutiva degli impianti a secco che può consentire una parziale
+accelerazione delle scarse tempistiche di intervento tipiche di questi.
+
+•Doppio interblocco: è un caso estremo di tutela della situazione singolo interblocco,
+ovvero si deve evitare non solo di avere la scarica in assenza di consenso del sistema
+rivelazione ma anche il caricamento dei tubi con acqua senza che la condizione di
+scarica sia già stata raggiunta (caduta della pressione di gas di precaricamento). E’
+questa l’applicazione tipica di protezione di freezer o vani corsa ascensore, dove le
+conseguenze di una scarica accidentale possono risultare critiche.
+
+Naturalmente in ordine alla valutazione della velocità di intervento:
+              Senza >= Singolo Interblocco > Doppio Interblocco
+Gli erogatori sprinkler
+Quando il bulbo
+raggiunge la sua
+temperatura d’intervento
+esplode.
+La molla belleville
+proietta il complesso
+otturatore fuori dalla sede
+dell’orifizio di scarica.
+
+
+        Molla
+        Belleville
+
+
+
+                      Viking Corporation- Confidential
+               Area di copertura
+
+
+
+
+                                               130ft2 (11.4x11.4)
+                              100ft2 (10x10)
+RISCHIO:
+
+
+   Elevato
+
+
+
+
+                                                                    225ft2 (15x15)
+               9m2 (3x3)
+   Ordinario      12m2 (3.5x3.5)
+
+   Lieve               21m2 (4.6x4.6)
+      Cosa identifica uno sprinkler?
+• Tipo
+• Temperatura
+• Tempo di risposta
+• Dimensione
+• Finitura
+• Materiale
+                           Tipologia
+
+• da semi-incasso (ceiling o flush)
+• nascosto (concealed)
+• spray a getto piatto (spray flat)
+• aperto (open)
+• da incasso (recessed)
+•convenzionale
+Spray Upright & Pendent sprinklers
+Getto di un Pendent sprinkler
+
+                                ½”/15mm
+
+                                A – 0.5 bar
+                                B – 1 bar
+                                C – 2 bar
+Getto di un Upright sprinkler
+
+                                ½”/15mm
+
+                                A – 0.5 bar
+                                B – 1 bar
+                                C – 2 bar
+Nascosti, incassati e semi-incasso
+       •
+
+                                   da incasso
+Semi-incasso                                                Semi-incasso
+
+
+
+
+               Nascosti a parete                Nascosti a soffitto
+(Sidewall) sprinklers a getto laterale
+        Getto di uno sprinkler laterale
+Must meet average distribution requirements over area between two
+sprinklers and provide wetting to all walls
+
+
+
+                                                   ½”/15mm
+
+                                                   A – 7 psi
+                                                   B – 15 psi
+                                                   C – 30 psi
+                     Intermedio                  UltraA
+     Ordinario                         Alto
+                                                   lto
+
+
+
+
+Arancio    Rosso    Giallo    Verde      Blu     Viola
+ 57º C     68 oC    79 oC     93 oC     141 oC   182 oC
+ 135 oF    155 oF   175 oF    200 oF    286o F   360o F
+  Fattore - K
+K-factor (US Imperial)   1.4   1.9   2.8   4.2   5.6   8     11.2   14    16.8   22.4   25.2
+
+
+K-factor (Metrico)       20    27    40    57    80    115   160    200   242    322    360
+
+
+% of 5.6/80              25%   33%   50%   75%   100   140   200    250   300    350    400
+                                                  %     %     %      %     %      %      %
+          Sensibilità dello sprinkler
+• Risposta standard
+• Risposta speciale
+• Risposta rapida
+
+Il fattore RTI stabilisce la velocità di risposta
+(response time index)
+< 50 risposta rapida
+> 80 risposta normale
+Plunge Oven
+ Sprinkler resistenti alla corrosione
+
+  Disponibili in :
+  1) Poliestere
+  2) Rivestimento in cera
+  3) Cera su poliestere
+  4) Teflon
+tIl5)     Acciaio
+    trattamento        inox
+                anti-corrosione non deve
+ essere applicato ai bulbi degli sprinkler
+gram per NFPA 25!
+Upright, Pendent, a getto laterale
+   Sprinkler a secco
+
+
+
+
+Disponibili con orifizi da 1/2” (15mm) e 17/32” (13.5mm) risposta standard, risposta
+rapida
+                  Scaffali con merce
+
+
+
+
+Carta in rotoli
+                  Imballi autoportanti
+      Stoccagio di palletts
+
+
+
+
+interno                   esterno
+Pneumatici   Balle di cotone
+Protezione a soffitto (ceiling)
+
+
+
+                      Protezione a soffitto
+  Protezione a soffitto e negli scaffali
+Gli erogatori idonei a questo tipo d’installazione sono:
+
+Convenzionali, spray e a getto piatto (spray flat)
+Con K = 80 o 115
+Livelli intermedi (in rack)
+
+                         Protezione a
+                         soffitto
+
+
+
+
+                       Livelli intermedi
+Livelli intermedi (in rack)
+Livelli intermedi (in rack)
+                      Segnalazioni e allarmi
+• Allarmi ed accessori per allarmi
+
+
+  Ogni valvola di controllo e allarme dovrà essere dotata di:
+  •campana idraulica d’allarme
+  •un accessorio elettrico/visivo per l’indicazione remota intervento
+  •Una singola campana può servire un gruppo di valvole situate nel     medesimo
+  locale tecnico
+  La valvola d’intercettazione deve essere supervisionata (es.micro)
+Segnalazioni e allarmi
+
+
+
+        Il microinterruttore di posizione può essere
+        anche installato sulle manovre verticali
+        e/o orizzontali di saracinesche interrate
+        o a muro, a vite interna
+ Segnalazioni e allarmi
+
+
+
+
+              Indicatore visivo
+
+Valvole a farfalla, scanalate o wafer, per intercettazione o sezionamento.
+Dispongono di un indicatore di posizione visivo (targa gialla) e di due
+microinterruttori di segnalazione a distanza
+       Segnalazioni e allarmi
+                                  I micro indicatori di posizione sono
+                                  installati sul corpo della saracinesca
+Staffa di             Switch      e segnalano il movimento dello stelo
+montaggio                         grazie alle scanalature profonde del
+                                  filetto.
+
+
+
+
+Leva
+                    Saracinesca
+              Indicatore di flusso
+
+
+Microinterruttore di posizione
+         ALIMENTAZIONE SINGOLE (ORDINARIE)
+Alimentazioni singole sono ammesse per impianti LH ed
+     OH salvo diversamente disposto (es. Norme di
+     Prevenzione Incendi) e possono essere costituite
+     da:
+1.   Un tronco di acquedotto
+2.   Un tronco di acquedotto con pompe di
+     surpressione
+3.   Un serbatoio a pressione (LH e OH1 solamente)
+4.   Un serbatoio a gravità
+5.   Un serbatoio di accumulo con una o più pompe
+6.   Una riserva inesauribile con una o più pompe
+
+     I POZZI NON SONO PREVISTI DALLA ENTRATA IN
+     VIGORE DELLA UNI EN 12845, MENTRE LO
+     ERANO IN CASO DI “GARANZIA” DI FALDA CON
+     LA UNI 9490.
+
+
+                                                        211
+ POMPE IN ALIMENTAZIONE SINGOLA ORDINARIA
+
+La norma EN 12845 non richiede una pompa di
+   riserva (sempre bene installarla per non
+   fermare l’attività in caso di guasti e
+   irreperibilità di ricambi)
+La norma accetta una pompa elettrica con
+   alimentazione elettrica che sia garantita in
+   ogni tempo (rete con derivazione a monte
+   interruttore generale). Non prevede il
+   gruppo elettrogeno (lo richiede tuttavia per il
+   sostegno degli ausiliari ed in particolare le
+   pompe di sentina delle centrali interrate, la
+   norma sui locali antincendio UNI 11292)
+Ridondanza di alimentazione può essere
+   richiesta cmq in zone sismiche ai sensi delle
+   Linee di Indirizzo
+                                                     212
+                         UNI EN 12845
+
+• Fare clic per modificare stili del testo dello
+  schema                                   Dove vengono installate
+                                              due pompe, ognuna
+
+   – Secondo livello                                     deve essere in grado
+                                                               di fornire
+                                                        indipendentemente le
+       • Terzo livello                                   portate e le pressioni
+                                                              specificate
+           – Quarto livello                              ( 2 X 100 m3/h).
+              » Quinto livello
+                                       Dove sono installate tre pompe, ogni
+                                           pompa deve essere in grado di
+                                           fornire almeno il 50% della
+                                           portata richiesta alla pressione
+                                           specificata.
+                                       [(in parallelo 50 m3/h x 2 + 1 scorta
+                                           da 50m3/h (riserva ???)]
+
+                                 ?
+                                                                        213
+                        UNI EN 12845
+
+• Fare clic per modificare stili del testo dello
+  schema
+   – Secondo livello
+      • Terzo livello
+          – Quarto livello
+             » Quinto livello
+
+
+
+
+                                                   214
+           ALIMENTAZIONI SUPERIORI
+Sono ammesse come alimentazioni superiori:
+1.   Una tronco di acquedotto alimentato ad
+     entrambe le estremità, che soddisfi le
+     seguenti condizioni:
+    Ciascun ramo soddisfa singolarmente le
+     richieste di alimentazione (portata e
+     pressione)
+    E’ alimentato da due sorgenti diverse
+    Pompe di surpressione se richieste
+     devono almeno essere doppie
+2.   Un serbatoio a gravità senza pompe, o un
+     serbatoio di accumulo con almeno due
+     pompe con le seguenti caratteristiche:
+
+                                                215
+              UNI EN 12845
+  Alimentazioni idriche singole SUPERIORI
+un serbatoio di accumulo con due o più pompe
+                                               Dove vengono
+          Una elettropompa                      installate due
+          da 100 m3/h.                          pompe, ognuna
+          Una motopompa                         deve essere in
+              diesel                            grado di fornire
+          Da 100 m3/h                           indipendenteme
+                                                nte le portate e
+                                                le pressioni
+                                                specificate
+                                                (n.2 da 100
+                                                m3/h cadauna).
+
+                             Dove sono installate tre pompe, ogni
+                                 pompa deve essere in grado di
+                                 fornire almeno il 50% della
+                                 portata richiesta alla pressione
+                                 specificata.
+                             (in parallelo 50 m3/h x 2 + 1 riserva
+                                 attiva da 50 m3/h)
+
+                                                             216
+                        UNI EN 12845
+
+• Fare clic per modificare stili del testo dello
+  schema
+   – Secondo livello
+      • Terzo livello
+          – Quarto livello
+             » Quinto livello
+
+
+
+
+                                                   217
+                   POMPE ANTINCENDIO
+              UNI EN 12845 – UNI TR 11438-2016
+
+ Tipi di pompe in rapporto all’installazione
+
+ La norma UNI EN 12845 indica chiaramente
+  che dovunque sia possibile devono essere
+  utilizzate pompe centrifughe ad asse
+  orizzontale, installate sottobattente: se ciò
+  non è fattibile, le stesse pompe possono
+  essere installate soprabattente.
+
+ Le uniche pompe ad asse verticale
+  ammesse dalla UNI EN 12845 ad uso
+  antincendio sono le “vertical turbine pumps”,
+  descritte nel seguito.
+ Peraltro la norma esplicitamente consiglia di
+  evitare le installazione soprabattente e le
+  installazioni con pompe sommerse.
+ Si ricorda che le “vertical turbine pumps” e le
+  pompe sommerse non possono essere
+  installate in pozzi come alimentazione idrica,
+  dato che questi non sono previsti nella
+  UNIEN 12845.
+                                                    218
+      SOPRA E SOTTO BATTENTE e VERTICAL SHAFT TURBINE
+La Norma UNI EN 12845 prevede che l’impianto sia
+considerabile sottobattente anche quando l’asse della
+pompa sopra il livello minimo X alle seguenti condizioni:
+-almeno 2/3 del volume effettivo della vasca o del serbatoio
+sia al di sopra dell’asse della pompa
+-La distanza fra l’asse della pompa e il livello minimo X sia
+inferiore a 2 m
+La norma precisa inoltre che quando l’asse della pompa
+si trovi al di sopra del livello minimo debba essere
+installata una valvola di fondo.
+LA SITUAZIONE SI PRESENTA QUINDI MOLTO
+DIVERSA RISPETTO ALLA NORMA UNI 9490 (min
+0,60m) . NON ESISTONO SOLO UN IMPIANTO
+SOTTOBATTENTE E UN IMPIANTO
+SOPRABATTENTE, MA ANCHE SITUAZIONI MISTE
+IN CUI L’IMPIANTO E’ CONSIDERABILE
+SOPRABATTENTE ANCHE SE L’ASSE DELLA POMPA
+E’ POSTO AL DI SOPRA DEL LIVELLO MINIMO.
+                                                                219
+.
+                      TIPI DI INSTALLAZIONE
+                     CONDIZIONI DI ASPIRAZIONE
+• Pompe centrifughe ad asse orizzontale, installate …sottobattente UNI EN
+  12845/NFPA20
+
+
+
+
+npompe centrifughe ad asse verticale
+installate sottobattente UNI EN
+12845/NFPA20
+
+NFPA 20/F.M.
+pompe centrifughe asse
+orizzontali NON possono essere
+istallate soprabattente
+                                                                            220
+TIPICO SCHEMA SOTTOBATTENTE CON DISCO ANTIVORTICE
+
+
+
+
+                                                221
+TIPICO SCHEMA SOPRABATTENTE
+CON SERBATOIO ADESCAMENTO
+
+
+
+
+                         222
+TIPICO SCHEMA SOTTOBATTENTE VERTICAL TURBINE PUMP
+
+
+
+
+                                                    223
+              UNI TR 11438-2012
+ Le tipologie di pompa contemplate
+  dalla UNI EN 12845 sono:
+ pompe ad asse orizzontale tipo
+  end-suction : sono tipicamente
+  pompe normalizzate (per esempio
+  secondo UNI EN 733 oppure
+  secondo UNI EN ISO 2858): per
+  esse la Norma prescrive la
+  costruzione “back pull-out”, cioè
+  con la possibilità di estrarre il
+  gruppo rotante dal lato del motore,
+  mantenendo connesse le tubazioni
+  di aspirazione e mandata;
+
+ pompe ad asse orizzontale tipo
+  axial split-case: sono pompe con
+  il corpo diviso in due metà secondo
+  un piano orizzontale; rimuovendo
+  la parte superiore si accede alle
+  parti rotanti;
+
+
+                                        224
+                      UNI TR 11438-2012
+ pompe multistadio : citate esclusivamente
+  nell’appendice E della UNI EN 12845–
+  “REQUISITI PARTICOLARI PER SISTEMI AD
+  ELEVATO SVILUPPO VERTICALE”: trovano
+  unico impiego negli impianti ove sono richieste
+  pressioni elevate, non ottenibili con pompe end-
+  suction o axial split-case.
+ La costruzione ad asse orizzontale ad
+  “aspirazione laterale” è la più rispondente alle
+  richiesta normativa nelle sue varie parti;
+ pompe ad asse verticale tipo “vertical turbine”
+  sono pompe ad asse verticale con parti idrauliche
+  immerse nella riserva idrica, nelle quali il motore è
+  però collocato in superficie e collegato al corpo
+  pompante tramite un albero motore, sia
+  direttamente sia tramite un rinvio angolare.
+ pompe sommerse sono tipicamente
+  elettropompe con pompa e motore direttamente
+  connessi ed ambedue immersi nella riserva idrica.
+  La norma considera le pompe sommerse una
+  eccezione, raccomanda di evitarne l’utilizzo e
+  ne limita le applicazioni.
+
+                                                          225
+POMPA END SUCTION
+
+
+
+
+                     VALVOLA OS&J
+
+
+
+                    MANOVUOTOMETRO
+
+
+
+
+                      RIDUZIONE
+                      ECCENTRICA
+                      GIUNTO
+                      ELEASTICO
+
+
+
+
+                              226
+POMPA Split case
+
+
+
+
+                   227
+            POMPE PER ANTINCENDIO
+
+
+                                     UNI EN 12845
+
+                EUROPEO
+                                        prEN 12259 -
+                                       Components for
+                                     sprinkler and water
+                                    spray system - part 12
+ IMPIANTO
+NORMATIVO                                NFPA 20
+                  NFPA
+
+                                           DS 3.7
+                FM Global            FIRE PROTECTION
+                                          PUMPS
+
+
+                                                        228
+                   POMPE PER ANTINCENDIO
+
+                                            END SUCTION
+                                              (DIN 24255
+                                             ISO 2858/5199)
+                          ORIZZONTALI
+                                             AXIAL SPLIT
+                                                CASE
+ LAYOUT
+                                           VERTICAL TURBINE
+
+      (*)
+  FORTEMENTE               VERTICALI
+SCONSIGLIATE UNI
+  12845 – NON
+AMMMESSE NFPA                              SOMMERSE(*)
+    20 / FM
+
+                                                        229
+                RENDIMENTI E PUNTI GARANTITI POMPE
+
+IN CASO DI NON SODDISFACIMENTO DELLE PRESTAZIONI ANALIZZARNE LE CAUSE PER INDICARE
+    EVENTUALI CONTROMISURE:
+
+CAUSA PRINCIPALE PER IMPIANTI SOTTOBATTENTE: LE TOLLERANZE ISO 9906-2002
+
+
+
+
+                                                                                 230
+               La tolleranze della curva caratteristica
+                                  ISO 9906 gr 2
+Verifica della portata, della
+   prevalenza e del
+   rendimento garantiti
+Sul punto garantito QG, HG è
+   tracciata una croce di
+   tolleranza fra la retta
+   orizzontale ±tQ · QG e la
+   retta verticale ±tH · HG. La
+   garanzia sulla prevalenza e
+   sulla portata è stata
+   rispettata se la curva H(Q)
+   taglia o almeno tocca la
+   retta verticale e/o
+   orizzontale
+
+
+
+
+                                                          231
+      UNI EN 12845
+Le Tolleranze della pompa in “caduta”
+
+
+
+
+                                        232
+           RENDIMENTI E PUNTI GARANTITI POMPE
+
+Le tolleranze previste sono un grave rischio progettuale e funzionale se, come
+    prevede la norma ISO 9906, contrattualmente non si impone nulla di differente
+    (ad esempio accettabilità solo in POSITIVO).
+OGGI CON LA ISO 9906-2012 LA SITUAZIONE POTREBBE MIGLIORARE SE….
+MA….TUTTO IL VECCHIO?
+  IN SOSTANZA NON E’ ACCETTABILE UN MARGINE IN DIMINUIZIONE RISPETTO ALLE
+  PRESTAZIONI MINIME RICHIESTE DALL’ IMPIANTO.
+  SE QUESTO E’ CONTRATTUALMENTE DI DEFAULT SULLA POMPA AI SENSI DI NORMA , IL
+  SOVRADIMENSIONAMENTO LO DEVE ESEGUIRE CHI ALLESTISCE IL GRUPPO O LO FA IL
+  PROGETTISTA ASSUMENDO UN CORRETTO SAFETY FACTOR.
+
+   ALTRA CAUSA TIPI DELLA DIMINUZIONE PRESTAZIONALE E’ L’USURA O LA CORROSIONE NEL
+   TEMPO DELLE GIRANTI  CONSIGLIARE / RICHIEDERE SEMPRE GIRANTI DI MATERIALI NON
+   CORRODIBILI
+
+
+
+
+                                                                                    233
+             NFPA CONCETTI BASE
+
+
+
+
+“SHOULD” NON EQUIVALE ALL’ITALIANISSIMO DOVREBBE:
+“DOVREBBE ESSERE FATTO COSÌ MA VISTO CHE NON E’
+OBBLIGATORIO … ME NE FREGO ABBONDANTEMENTE”
+
+
+
+
+                                               234
+              NFPA CONCETTI BASE
+
+
+
+
+CHI E’ NEI VOSTRI LAVORI ?
+
+
+
+
+                                   235
+               NFPA 20 CONCETTI BASE
+
+
+
+
+LA CANTINA NON E’ POSTO PER LE CERTIFICAZIONI … MAGARI LO
+E’ PER UN OTTIMO PROSECCO ?
+NELLA CULTURA ANGLOSSASSONE IL CONCETTO DI
+AUTOCERTIFICAZIONE LASCIA IL PASSO A QUELLO DI ENTE TERZO
+CERTIFICATORE ACCETTABILE PER L’ AHJ.
+
+MORALE: LE POMPE UNLISTED O NON APPROVED NON ESISTONO E
+IL PROGETTISTA DIVIENE DI FATTO L’UNICO ASSUNTORE DEL
+RISCHIO QUANDO CERTIFICA AI SENSI DEL DM 20/12/2012
+
+
+
+
+                                                        236
+                               N.P.S.H.
+                   Net Positive Suction Head
+
+La differenza fra la pressione totale in ingresso alla pompa e la tensione di
+vapore prende il nome di Net Positive Suction Head (NPSH) espressa in [m]
+
+                p0 − pv           P0=       pressione totale in ingresso
+         NPSH =                   Pv=       pressione o tensione di vapore
+                 ρ⋅g              ρ=        densità del fluido
+
+
+Tale parametro viene utilizzato per determinare le condizioni di cavitazione della
+pompa. Se il suo valore, dettato dall’impianto in cui si trova la pompa (NPSHd
+disponibile), scende al di sotto di un certo limite (NPSHR o NPSH richiesto)
+caratteristico dalla pompa stessa, si innesca il processo di cavitazione.
+La curva del NPSHR deve essere fornita dal costruttore della pompa.
+ l’ NPSHd è invece definito dalla tipologia di impianto in cui si trova la pompa
+
+  N.P.S.H.d disponibile >N.P.S.H.r richiesto
+                                                                                237
+                    NPSH
+          Net Positive Suction Head
+       UNI EN 12845
+La tubazione di aspirazione,
+comprese tutte le valvole e
+raccordi, deve essere
+progettata in modo da
+assicurare che l'NPSHd
+disponibile (calcolato alla
+massima temperatura prevista
+dell'acqua) all'ingresso della
+pompa superi l'NPSHr
+richiesto di almeno 1 m …
+
+                                      238
+Le curve di NPSHr (richiesto)
+        delle pompe
+
+
+
+
+                                239
+          NPSH
+Net Positive Suction Head
+
+
+
+
+                            240
+          NPSH
+Net Positive Suction Head
+
+
+
+
+                            241
+DIFFETTI PRESTAZIONALI E PROBLEMATICHE ESECUZIONI SOPRABATTENTE
+Nelle installazioni soprabattente, UNA VERA SCIAGURA IMPIANTISTICA
+tollerata ancorché sconsigliata dalla UNI EN 12845 e non prevista affatto
+da NFPA, si aggiunge come causa preferenziale di problematiche e non
+soddisfacimento delle prestazioni la problematica dell’NPSH.
+
+
+
+
+                                                                      242
+           Pompe Verticali Immerse ….
+• Se ciò non è fattibile, (cioè
+  una INSTALLAZIONE
+  SOTTOBATTENTE) la pompa
+  può essere installata in
+  condizioni di soprabattente
+  oppure si possono utilizzare
+  le pompe verticali immerse a
+  flusso assiale (vertical
+  turbine pumps).
+
+• NOTA Le istallazioni
+  soprabattente e con pompe
+  sommerse dovrebbero
+  essere evitate e usate
+  solamente dove non è
+  praticabile un’istallazione
+  sottobattente
+                  LA CURVA SEC UNI EN 12845
+
+A) per le pompe con curve
+    caratteristiche crescente
+    senza sovraccarico, la
+    potenza massima richiesta è
+    quella massima del picco della
+    curva di potenza;
+
+B ) per le pompe con curve
+     caratteristiche di potenza
+     crescenti, la potenza massima
+     sarà il valore maggiore tra la
+     potenza richiesta per qualsiasi
+     condizione del carico della
+     pompa, dalla portata nulla al
+     flusso corrispondente ad una
+     pompa con NPSHr di 16 m o
+     la massima prevalenza di
+     aspirazione più 11 metri.
+
+ TALE CURVA VA FORNITA AL
+      PROGETTISTA
+LA CURVA SEC NFPA 20 e F.M.
+
+
+
+
+                              245
+                AUTONOMIA RISERVA IDRICA
+La Norma UNI EN 12845 prevede, laddove non esplicitamente escluso dalla
+definizione di alimentazione singola superiore, che la vasca possa avere un volume
+RIDOTTO alle esigenze degli impianti sprinkler, purché la quota in difetto sia
+rincalzabile da altro sistema (un classico esempio è l’acquedotto cittadino) e prevede
+per le diverse classi di rischio il volume minimo della vasca.
+Vediamo la differenza tra UNI EN 12845 e UNI 9489.
+LA NORMA UNI EN 12845 TUTTAVIA PREVEDE TASSATIVAMENTE CHE
+NEI CASI IN CUI L’ALIMENTAZIONE DEGLI SPRINKLER SIA COMUNE
+CON QUELLA DEGLI IDRANTI (ALIMENTAZIONE COMBINATA)
+L’ALIMENTAZIONE ABBIA I SEGUENTI REQUISITI:
+-ALIMENTAZIONE SIA SINGOLA SUPERIORE O UNA ALIMENTAZIONE
+DOPPIA
+-IL SISTEMA DEVE ESSERE CALCOLATO COL METODO DEL CALCOLO
+IDRAULICO INTEGRALE assumendo la massima contemporaneità di
+funzionamento prevista di entrambi gli impianti
+-LA DURATA del servizio deve essere scelta fra quella maggiore fra i due
+impianti.
+                                                                                     246
+      VERIFICA REQUISITI PER ADOZIONE DI VASCHE A
+                  CAPACITA’ RIDOTTA
+La Tabella 11 della UNI EN 12845 identifica per le varie classi di
+  rischio leggero ed ordinario sprinkler i volumi minimi delle
+  vasche.
+La differenza tra il volume minimo e il volume richiesto deve
+  essere fornito dal RINCALZO.
+Per poter usufruire del rincalzo è necessario:
+ Che il rincalzo sia automatico
+ Che le valvole di rincalzo siano almeno due e posizionate in
+  modo tale da non risentire della turbolenza dell’aspirazione
+ Che il sistema sia ispezionabile
+ Sia possibile testare la portata del rincalzo
+
+                                                                     247
+          VOLUMI MINIMI VASCHE A CAPACITA’ RIDOTTA
+UNI EN              V              V        UNI 9489                  V
+12845              (m³)           (m³)      UNI 9490                 (m³)
+UNI 10779         umido         Secco o
+                               preallarme
+Idranti        50 % richiesta impianto        Fino a caso limite del serbatoio di
+                                            disgiunzione (5 minuti funzionamento
+Liv 1 e 2                                             con almeno 1 m³)
+Idranti          100 % richiesta impianto      100 % richiesta impianto
+Liv 3            Alimentazione superiore       Alimentazione superiore
+LH                  5               -             A                   2.5
+OH1                 10              5             B1                  25
+OH2                 20             10             B2                  50
+OH3                 30             20         B3 (D0)                 75
+OH4                 50             30             B4                  100
+HHP e HHS      70 ma > 10 % Capacità        CeD               > 1/3 V utile
+               totale richiesta
+                                                                                    248
+        VOLUMI MINIMI VASCHE SECONDO NFPA 20
+Il criterio stabilito da NFPA 20 è differente.
+La vasca può essere selezionata:
+- Al 150 % del rating della pompa x tempo funzionamento (criterio
+     conservativo)
+- Verificando la portata richiesta fra i vari impianti alimentati
+     contemporaneamente ed assumendone il 100 %
+Limitare la riserva significa limitare la portata massima. Non è previsto il
+rincalzo. Ciò deve risultare ben evidente con cartello in stazione pompe.
+
+
+
+
+                                                                               249
+ESEMPIO RETE IDRANTI
+
+
+
+
+    Marco Montanari
+UNI 10779 : 2021
+LAY-OUT RETE IDRANTI
+ UNI 10779 : 2021
+
+SPECIFICA DELL’IMPIANTO
+     D.M. 20.12.2012
+                   IL NOSTRO PROGETTO
+Rete idranti per Requisiti      Alimentazione
+                 livello di pericolosità 2       Idrica
+(UNI 10779:2014)
+Requisiti
+n. 4 attacchi DN70 -
+ 300 l/min cad @ 3 bar
+Durata Riserva Idrica : 60 min
+Risultati alla pompa antincendio
+Anello Aperto: 1224 l/min (73,5 m3/h) @ 4,6 bar +0,5 bar *= 5,1 bar =
+52 m
+
+Alimentazione di tipo
+ singola superiore
+•Elettropompa
+•Motopompa
+•jockey
+
+
+-*req UNI EN 12845
+  IL NOSTRO PROGETTO
+        La Pompa
+Tipologia di soluzione:
+Pompa verticale immersa
+(VTP):
+Q = 73,5 m3/h
+H = 52 m
+Max potenza non
+sovraccaricabile : 14,9 kW
+
+Composizione alimentazione
+singola superiore:
+•Elettropompa da 73,5 m3/h a 52
+m a 2900 rpm con Mot. El. 15 Kw
+
+•Motopompa da 73,5 m3/h a 52 m
+a 2900 rpm con Mot. Diesel 15 Kw
+
+•Jockey sommersa da 2-4 m3/h a
+90-70m
+         IL NOSTRO PROGETTO
+La Curva dell’impianto e la riserva Idrica
+              Riserva Idrica:
+                  Q = 77 m3
+        Durata riserva idrica 60 min
+    Capacità utile riserva idrica : 77
+                   m3
+256
+
+
+
+      Il manuale del costruttore
+  IL NOSTRO PROGETTO
+Verifica del livello X che sarà
+la
+Sommergenza minima della
+pompa= 475 mm
+
+Profondità della camera
+di aspirazione
+475+100 dal fondo+
+griglia 232 mm ≥ 807
+mm
+                                              Altezza s.l.m.
+
+
+
+
+        (m)
+
+
+200
+                                         Pressione barometrica
+
+
+
+
+1,009
+        98.945
+                                                PB
+
+
+
+
+10,11
+                                           Temperatura fluido
+
+
+
+
+20
+        °C
+                                       Peso specifico acqua
+
+
+
+
+0,998
+                                                                                     (9,9+0,475)
+                                        Tensione di vapore
+
+
+
+
+0,024
+                                                                                     UNI EN 12845
+                                                PV
+
+
+
+
+0,238
+                                                                                     NPSHd = 10,38 m
+
+
+
+                                                 Portata
+
+
+
+
+73,5
+        (m3/h)
+                                                                                     10,38 – 4,4= 5,98 m
+
+                         DN
+
+
+
+
+200
+        (mm)
+                                                           Tubazione
+                                                                                     NPSHd -NPSHr ≥ 1 m
+                       D. Int.
+
+
+
+
+        (mm)
+
+
+
+207,3
+                                                                                     NPSHr = 4,4 m ( <8,9 m)
+
+
+
+
+                                             Velocità acqua
+
+
+
+
+        m/s
+
+
+
+0,60
+                                       Lunghezza reale tubazione
+
+
+
+
+        (m)
+
+
+
+0,0
+                                                                                     CALCOLO NPSH
+                                                                                                             VERIFICA DELL’NPSH
+
+
+
+
+        nr
+                                                                                                           IL NOSTRO PROGETTO
+
+
+
+
+                      Curva 45
+
+
+
+
+0
+        nr
+                      Curva 90
+
+
+
+
+        nr
+                    Saracinesca
+
+
+
+
+0
+        nr
+                  Valvola a farfalla
+                                                                Numero Accessori
+
+
+
+
+        nr
+                  Valvola di fondo
+
+
+
+                                 Totale lunghezza equivalente raccordi
+
+
+
+
+0,0
+        (m)
+                                   Lunghezza equivalente aggiunta
+        (m)
+                                                                                     m
+
+
+
+
+                                 Lunghezza totale circuito aspirazione
+        (m)
+
+
+
+0,00
+                                                                                     4,4
+
+
+
+
+                      Pp/m lin.
+0,23
+        (mbar)
+                                                                Perdita
+
+
+
+
+                      Pp Totale
+        (m)
+
+
+
+0,00
+
+
+
+
+                                       Perdita localizzata aggiunta
+        (m)
+
+
+
+
+                                        Totale perdita aspirazione
+        (m)
+
+
+
+0,00
+
+
+
+
+                 Dislivello tra livello minimo acqua e asse pompa (negativo se più
+        (m)
+
+
+
+0,0
+
+
+
+
+                                         basso dell'asse pompa)
+
+
+
+                                       NPSH DISPONIBILE
+9,87
+
+
+
+
+                         MASSIMO NPSHr POMPA (UNI EN 12845)
+8,87
+          PERCHÉ LA VERIFICA DELL’NPSH?
+NPSHd = 10,38 m
+(9,9+0,475)
+NPSHr = 11 m
+UNI EN 12845
+NPSHd -NPSHr ≥ 1 m
+10,38 - 11 = - 0,62 m
+Quindi alla sommergenza
+andrà aggiunto 1,62m, ovvero        11 m
++0,62m per eguagliare l’ NPSHd
+e + 1 m per il rispetto della UNI
+EN 12845
+Quindi devo avere almeno
+     12 m di NPSHd
+  620+1000+100+232 =
+   COSA DICE NFPA 20-2016 FIRE PUMP HANDBOOK?
+I requisiti di SOMMERGENZA della pompa
+devono essere rivisti per ogni
+applicazione.
+I produttori di pompe pubblicano i
+requisiti minimi di sommergenza per
+prevenire i vortici di superficie.
+Inoltre, l’Hydraulic Institute ha pubblicato le
+linee guida per la sommergenza minima
+per le pompe a turbina verticali in
+Hydraulic Institute Standards for
+Centrifugal, Rotary & Reciprocating
+Pumps.
+Questa sommergenza minima ha lo
+scopo di prevenire solo i vortici
+superficiali e non è intesa a prevenire la
+cavitazione.
+Il progettista deve rivedere i requisiti
+operativi della pompa e controllare la
+prevalenza netta positiva in aspirazione
+(NPSHR) al runout per assicurarsi che la
+pompa non caviti. L'NPSHR può
+               E UNA POMPA SEC NFPA20/F.M.?
+
+
+
+
+Lo standard dell'American National Standards Institute (ANSI)/Hydraulic
+Institute (HI) ANSI/HI 9.6.1 "Rotodynamic Pumps Guideline for NPSH
+Margin" fornisce raccomandazioni su quanto margine utilizzare in base al
+servizio della pompa. Inoltre, alcuni studi di ingegneria applicano margini
+specifici del sistema in base alla loro esperienza.
+Per esempio, quando si dimensiona una pompa FM, si potrebbe utilizzare un
+margine di 1,8 per il punto di progetto e di 1,5 al runout.
+LA CURVA DI UNA VERTICAL TURBINE PUMP F.M.
+
+
+     Somm min 0,813
+     m
+
+
+
+
+           5,9          10,1
+           m            m
+
+
+                  Rated        150%
+
+                                             262
+   VERIFICA NPSH DI UNA POMPA SEC NFPA20/F.M.
+NPSHd        = 10,71 m (9,9+0,813)
+NPSHr (150%) =10,1 m
+NFPA 20/FM (ANSI/HI 9.6.1 )=
+NPSHd -NPSHr ≥ 1 m
+10,71- 10,1 = 0,61 m
+Quindi alla sommergenza andrà aggiunto
+0,61 m, ovvero +0,61 m per eguagliare l’
+NPSHd e + 1 m per il rispetto della ANSI/HI
+9.6.1
+ MA… AL 150% DELLA PORTATA
+RATED!!!
+264
+
+        LA SOMMERGENZA DELLE POMPE
+             VERTICALI IMMERSE
+
+
+
+
+      Min
+      Sommergenza
+LA SOMMERGENZA DELLE POMPE ORIZZONTALI -NFPA20 – H.I.
+ LA PIASTRA ANTIVORTICE
+ANCHE CON LA UNI EN 12845
+
+
+
+
+                                                                                                    265
+                            https://pdfslide.net/download/link/ansi-hi-98-1998-pump-intake-design
+266
+                                                             LA SOMMERGENZA DELLE POMPE
+         LA SOMMERGENZA E’ UN VALORE EMPIRICO ED E’ IL RISULTATO DI
+                         ANALISI SPERIMENTALI.
+                 UNA SOMMERGENZA NON CORRETTA, DARA’ LUOGO
+                        ALLA FORMAZIONE DI VORTICI.
+
+
+
+
+      https://ibisgroupcfd.com/services/pump-sump-analysis-design/
+267
+
+      LA SOMMERGENZA NON PUO’ ESSERE RIDOTTA O
+       ELIMINATA MA SI POSSONO MINIMIZZARE GLI
+         EFFETTI DELLA TURBOLENZA E DEI VORTICI
+                            METODI CHE NON RIDUCONO I VORTICI
+  Soluzioni posticce o
+    improvvisate non
+  saranno in grado di
+ minimizzare i vortici.
+ Occorre conoscere il
+  comportamento dei
+  vortici superficiali e                                                                                                                                                                                               vortici superficiale
+      sommersi, ed
+ affrontare il problema
+    con un approccio
+        tecnico e
+   ingegneristico per
+ studiare la soluzione
+      più consona.
+                                                                                                                                                                                                                             vortici sommersi
+                                                                                                                                                                                                                                                                                26
+https://www.linkedin.com/feed/ ; https://www.climatecpg.com/gruppi-antincendio-con-motopompa-verticale-ed-elettropompa-pilota.html; http://www.famgroup.it/commerciale/gruppi-pressurizzazione-antincendio.html; https://ibisgroupcfd.com/services/pump-sump-analysis-design/
+                                                                                                                                                                                                                                                                                8
+  Le Fondazione
+pericolose (NFPA 25)
+
+
+
+
+                       269
+             LE FONDAZIONI
+L’ALLINEAMENTO E LE VIBRAZIONI NFPA 20- FM
+
+
+
+
+                                             270
+LE FONDAZIONI E
+     I CARICHI
+(Statici,Dinamici e
+  …Tangenziali)
+
+
+
+
+               271
+2500 USGPM Vertical Turbine Pump FM appr.
+Si parte dalla submission d’offerta
+Si parte dalla submission d’offerta
+ LE FONDAZIONI E I
+      CARICHI
+ (Statici,Dinamici e
+    …Tangenziali)
+
+Essendo un esecuzione
+in due pezzi senza telaio,
+il motore era su suo
+basamento anche per
+garantire la linea d’asse
+
+Sulla piastra di
+fondazione, carichi
+accidentali a parte
+7965, 4 lbf = 3620 kgf
+LE SOLLECITAZIONI TRASMESSE ALLA PIASTA DI FONDAZIONE
+       IL NOSTRO PROGETTO
+Geometrie a capacità della Riserva Idrica
+Esempio layout
+Esempio layout
+Esempio layout
+NFPA 20 RINVIO AD ANGOLO
+
+
+
+
+                           281
+QUADRI ED AVVIAMENTI
+
+
+
+
+                       282
+QUADRI ED AVVIAMENTI
+
+
+
+
+                       283
+MOTORI RAFFREDDATI A LIQUIDO
+
+
+
+
+                               284
+MOTORI RAFFREDDATI A LIQUIDO
+
+
+
+
+                       ATTACCHI GASOLIO
+
+
+
+
+                                          285
+CIRCUITO RAFFREDDAMENTO
+
+
+
+
+                          286
+MOTORI RAFFREDDATI A LIQUIDO
+
+
+
+
+                               287
+CRITERI BASE DI SELEZIONE
+
+
+
+
+                            288
+CRITERI BASE DI SELEZIONE
+
+
+
+
+                            289
+CRITERI BASE DI SELEZIONE
+
+
+
+
+                            290
+Tipico VTP
+
+
+
+
+             291
+  VERIFICHE DI CONFORMITA’ DEI LOCALI
+       LA NORMA UNI 11292 - 2019
+Locali destinati ad ospitare gruppi di pompaggio per impianti
+                          antincendio
+            Caratteristiche costruttive e funzionali
+   REQUISITI LOCALE STAZIONE POMPAGGIO SI APPLICA A:
+
+ CENTRALI PER IMPIANTI AUTOMATICI A NORMA UNI EN 12845
+
+       CENTRALI PER RETI IDRANTI A NORMA UNI 10779
+
+
+
+
+                                                                292
+                              Piano di
+                            riferimento
+
+
+
+
+                Piano
+           Di riferimento
+
+
+
+
+Norma UNI 11292
+                                          293
+Ubicazione fuori terra:
+Con il pavimento i locali
+fuori terra devono essere
+posizionati alla stessa
+quota del piano di             ≤ 7,5 m
+riferimento e al di sopra di   Piano di riferimento
+esso per un’altezza non
+maggiore di 7,5 m.
+
+
+
+Norma UNI 11292
+                                           294
+ Ubicazione interrata:
+ I locali interrati devono essere
+ posizionati con il pavimento del
+ locale ad una profondità non           Piano di riferimento
+
+ maggiore di 7,5 m dal piano di
+ riferimento.
+ (*) E’ consentita la quota 10 m fino
+ al max 3° interrato se l’accesso
+ può avvenire da strada pubblica o
+                                            ≤ 7,5 m
+ privata a mezzo eventualmente              (*)
+ intercapedine antincendio ad uso
+ e esclusivo di larghezza
+ trasversale non inferiore a 0.90 m
+ Non è ammessa la realizzazione
+ di locali interrati nelle aree a
+ rischio di inondazione e nelle
+ zone comunque esposte al
+Norma  UNI di
+ rischio    11292
+               allagamento                                     295
+                  Accesso al locale
+
+
+
+
+                              ≥ 2,0 m
+
+
+
+
+Norma UNI 11292
+                                        296
+Norma UNI 11292
+                  297
+Norma UNI 11292
+                  298
+DIMENSIONI DEI LOCALI
+ L’altezza del locale, misurata
+   dall’intradosso del solaio al piano di
+   calpestio, deve essere non minore di
+   2,4 m. Sono ammessi ribassamenti
+   dell’altezza miniima utile fino a 2 m in
+   corrispondenza di elementi
+   impiantistici                                 d         d       d
+
+
+ Le dimensioni minime dello spazio di
+   lavoro devono essere uguali o maggiori
+   di 0,80 m su almeno tre lati in pianta di         d         d
+   ciascuna unità di pompaggio (misura
+   presa nel punto di massimo ingombro).
+                                               d ≥ 0,8 m
+
+Norma UNI 11292
+                                                                       299
+ Il pavimento deve essere piano, uniforme, antiscivolo ed eventuali
+   attraversamenti realizzati per le connessioni elettro-idrauliche, nelle zone di
+   calpestio, devono essere adeguatamente protetti e segnalati.
+
+ Nello spazio di passaggio delle persone addette all’esercizio e alla
+   manutenzione non sono ammessi ostacoli dovuti ad elementi strutturali,
+   portanti del locale o di supporto dell'unità di pompaggio. Il pavimento deve
+   avere pendenza verso il punto di drenaggio al fine di evitare ristagni di
+   acqua nel locale.
+
+
+
+
+Norma UNI 11292
+                                                                               300
+                          AERAZIONE
+  AERAZIONE DEI LOCALI CHE OSPITANO MOTORI DIESEL CON RADIATORE
+
+
+
+
+                   Si ≥ 2 x Sr
+
+                                           Se
+                                  Sr
+
+
+                         Se ≥ 1,5 x Sr
+
+
+
+
+Norma UNI 11292
+                                                              301
+    AERAZIONE DEI LOCALI CHE OSPITANO MOTORI DIESEL
+
+ MOTORI RAFFREDDATI A LIQUIDO CON SCAMBIATORE DI CALORE
+
+
+
+                                       S
+
+
+
+
+                     S
+
+
+
+                         S ≥ 0,15 m2
+
+
+ Norma UNI 11292
+                                                       302
+ DRENAGGI
+ IN GENERALE
+
+
+
+
+ Norma UNI 11292
+                   303
+ DRENAGGI
+ LOCALI INTERRATI
+
+
+
+
+ Norma UNI 11292
+                     304
+ DRENAGGI
+ LOCALI INTERRATI
+
+
+
+
+ Norma UNI 11292
+                     305
+     Fare clic per modificare lo stile del
+    RISCALDAMENTO   titolo
+
+
+
+•     In particolare per la temperatura si
+      devono seguire le indicazioni della
+      UNI EN 12845 e si deve prevedere un
+      sistema adeguato per evitare
+      formazioni di condense e rugiade
+
+
+
+
+    Norma UNI 11292
+                                             306
+        SISTEMA DI SCARICO DEI FUMI
+
+
+    •     La tubazione di scarico deve essere dotata di
+          collegamento flessibile al motore
+
+    •     La condotta deve essere isolata termicamente.
+    •     Con materiali isolanti di classe A1 di reazione al
+          fuoco
+•        Scarico in atmosfera, a distanza maggiore
+         di 1,5 da finestre, porte o aperture
+         praticabili, percorsi di transito o prese
+         d’aria di ventilazione e portata e situati in
+         modo da non investire persone o cose
+         (raccomandato almeno 2,4 m dal piano di
+         riferimento).
+•        I terminali di scarico devono essere
+         opportunamente protetti dagli eventi
+         atmosferici e dotati di griglia di protezione.
+•        Negli attraversamenti di pareti o solai la
+         tubazione di scarico dei gas combusti deve
+         essere opportunamente isolata.
+        Norma UNI 11292
+                                                               307
+            CARATTERISTICHE FUNZIONALI
+
+
+•   il dimensionamento deve tener conto della massima contropressione
+    del motore ammissibile tenendo conto della lunghezza e dei cambi di
+    direzione presenti sul circuito.
+•   Nel punto più basso della tubazione di scarico fumi deve essere
+    previsto un sistema di drenaggio della condensa e dell’eventuale acqua
+    comunque proveniente dagli agenti atmosferici.
+FISSAGGIO
+
+
+
+
+                  • - normalmente l’ancoraggio è
+                    rigido e garantisce anche il
+                    mantenimento dell’allineamento
+                    della linea d’asse
+Norma UNI 11292
+                                                 309
+  IMPIANTO DI ILLUMINAZIONE
+
+
+ ILLUMINAZIONE NORMALE:
+  prospetti
+  5.3 (N° riferimento 5.3.1) e
+
+  5.20 (N° riferimento 5.20.4) della UNI EN 12646-1
+
+
+
+
+ ILLUMINAZIONE DI SICUREZZA
+
+  25 lux (UNI EN 1838)
+  per almeno 60 minuti
+
+
+  Norma UNI 11292
+                                                      310
+  SERBATOI
+
+
+
+
+• Si considera accettabile l’uso di
+  un serbatoio a doppia parete, di un
+  serbatoio dotato di bacino di
+  raccolta di eventuali spargimenti
+  di capacità uguale al 100% della
+  capacità geometrica del serbatoio
+  o altre soluzioni equivalenti.
+
+
+
+
+  Norma UNI 11292
+                                        311
+SISTEMA DI RIEMPIMENTO DEI SERBATOI
+
+
+
+
+• Il sistema di riempimento fisso
+  è comunque obbligatorio per
+  serbatoi di capacità maggiore
+  di 50 l.
+
+
+ Norma UNI 11292
+                                      312
+                       Grazie per l’attenzione
+
+
+
+
+STM - Ing. Marco Montanari
+Via Camurri 18
+42124 Reggio Emilia
+marcomontanari@essetiemme.it
+
+COPYRIGHT ING. MARCO MONTANARI
+RIPRODUZIONE ED OGNI DIRITTO D’USO VIETATI
+DOCUMENTO CONCESSO IN USO GRATUITO A PR.O.FIRE.
+PER LO SCOPO DIDATTICO CONNESSO AD ATTIVITA’ FORMATIVE
+CONFORMI DM 5/8/2011
+                                                         313
+

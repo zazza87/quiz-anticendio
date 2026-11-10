@@ -1,0 +1,512 @@
+                             CODICE DI PREVENZIONE INCENDI
+                                       Capitolo S.9.
+                                 Operatività antincendio
+
+
+
+
+                                                            LORENZO
+                                                            PECORELLA
+                                                            MINISTERO
+                                                            DELL'INTERNO
+                                                            18.10.2026
+                                                            15:25:38
+                                                                                               •     Lorenzo Pecorella
+                                                            GMT+02:00                     •    Corpo Nazionale Vigili del Fuoco
+21 ottobre 2026                                                                           •    lorenzo.pecorella@vigilfuoco.it
+
+
+                                                                                                                                  1
+           Legge 22/4/1941 n. 633 smi. Non è consentito l’utilizzo, anche parziale, senza il consenso dell'autore.
+                                  Obiettivi
+
+
+
+
+        Approfondimento del Capitolo S.9 del D.M. 3 agosto 2015
+
+Approvazione di norme tecniche di prevenzione incendi, ai sensi dell'articolo 15
+                 del decreto legislativo 8 marzo 2006, n. 139.
+                     (GU n. 192 del 20/8/2015 - S.O. n. 51)
+
+                           In vigore dal 18.11.15
+
+
+
+
+                                                                         2
+                 D.M. 3 agosto 2015
+
+
+Il decreto rappresenta una regola tecnica orizzontale, ossia
+    una regola tecnica che uniforma i diversi aspetti della
+   progettazione antincendio, definendo criteri operativi e
+             progettuali valevoli per più attività.
+
+  Molte attività infatti, non sono dotate di regola tecnica
+verticale e rientrano nel gruppo delle attività non normate,
+  per le quali vanno seguiti in linea di principio i criteri di
+                    prevenzione incendi.
+
+
+
+
+                                                                  3
+                    Struttura dell’ allegato 1 al D.M. 03.08.2015
+Sezione G - Generalità
+G.1 Termini, definizioni e simboli grafici
+G.2 Progettazione per la sicurezza antincendio
+G.3 Determinazione dei profili di rischio delle attività
+Sezione S - Strategia antincendio
+S.1 Reazione al fuoco
+S.2 Resistenza al fuoco
+S.3 Compartimentazione
+S.4 Esodo
+S.5 Gestione della sicurezza antincendio
+S.6 Controllo dell'incendio
+S.7 Rivelazione ed allarme
+S.8 Controllo di fumi e calore
+S.9 Operatività antincendio
+S.10 Sicurezza degli impianti tecnologici e di servizio
+Sezione V - Regole tecniche verticali
+V.1 Aree a rischio specifico
+V.2 Aree a rischio per atmosfere esplosive
+V.3 Vani degli ascensori
+Sezione M - Metodi
+M.1 Metodologia per l'ingegneria della sicurezza antincendio
+M.2 Scenari di incendio per la progettazione prestazionale
+M.3 Salvaguardia della vita con la progettazione prestazionale
+
+                                                                    4
+                              S.9.1. PREMESSA
+
+L’operatività antincendio ha lo scopo di agevolare l’effettuazione degli interventi di
+soccorso dei Vigili del Fuoco, garantendo condizioni che consentano alle squadre di
+operare in modo efficace, tempestivo e sicuro durante la gestione di un’emergenza.
+
+
+
+           FASE 1                                            FASE 1
+
+ prevenzione dell’incendio                capacità di affrontare un evento incidentale
+                                              una volta che questo si è verificato
+
+
+
+
+                                                                                     5
+S.9.2 LIVELLI DI PRESTAZIONE
+
+
+
+
+Livelli di prestazione per il controllo o l’estinzione dell’incendio
+
+
+                                                                       6
+                    S.9.2 LIVELLI DI PRESTAZIONE
+
+    Pronta disponibilità di agenti estinguenti                 da livello III in poi
+
+
+                                  Quali soluzioni possono garantire questa disponibilità?
+                                  In funzione delle caratteristiche dell’attività e della
+                                  soluzione progettuale adottata, si possono considerare,
+                                  ad esempio:
+                                  •la presenza di una rete idranti utilizzabile dai
+                                  soccorritori;
+                                  •la disponibilità di attacchi di mandata per autopompa,
+                                  collegati a sistemi di protezione idrica antincendio;
+possibilità per le squadre dei    •la presenza di riserve idriche e sistemi di alimentazione
+  Vigili del Fuoco di disporre    adeguati, quando necessari;
+tempestivamente di sostanze
+  estinguenti adeguate per        •la disponibilità di altri agenti estinguenti, qualora
+    contrastare l’incendio        richiesti dalla natura dei rischi presenti.
+
+
+
+
+                                                                                       7
+S.9.3 CRITERI DI ATTRIBUZIONE DEI LIVELLI DI PRESTAZIONE
+
+
+
+
+ Criteri generalmente accettati per l’attribuzione all’attività dei singoli livelli di prestazione della presente strategia antincendio
+
+
+
+
+                                                                                                                                    8
+                      S.9.4 SOLUZIONI PROGETTUALI
+       S.9.4.1 Soluzioni conformi per il livello di prestazione II
+                 Deve essere permanentemente assicurata la possibilità
+                   di avvicinare i mezzi di soccorso antincendio,
+                 adeguati al rischio d’incendio, a distanza ≤ 50 m dagli
+                          accessi per soccorritori dell’attività.
+
+
+
+
+   In caso di attività progettata per i livelli di prestazione I o II di resistenza al fuoco, la
+    distanza deve comunque essere inferiore alla massima altezza dell’opera da costruzione. Tale
+distanza deve essere segnalata mediante un cartello UNI EN ISO 7010-M001 riportante il messaggio
+     “Costruzione progettata per livello di prestazione di resistenza al fuoco inferiore a III” di cui
+                                         all’illustrazione S.9-1.
+                              S.9.4
+                              D.M. 3SOLUZIONI
+                                     agosto 2015 PROGETTUALI
+                                                 - Capitolo S.9.
+
+            S.9.4.2 Soluzioni conformi per il livello di prestazione III
+
+
+                                                            In assenza di protezione interna della rete idranti, nelle
+  Devono essere rispettate le prescrizioni del               attività a più piani fuori terra o interrati, deve essere
+         livello di prestazione II.                                        prevista la colonna a secco
+
+
+
+
+ In assenza di protezione esterna della rete idranti            I sistemi di controllo e comando dei servizi di
+propria dell’attività, deve essere disponibile almeno          sicurezza destinati a funzionare in caso di incendio
+un idrante raggiungibile con un percorso massimo                 ubicati nel centro di gestione delle emergenze, se
+   di 500 m dai confini dell’attività; (erogazione                 previsto, e comunque in posizione segnalata e
+  minima di 300 litri/minuto per una durata ≥ 60            facilmente raggiungibile durante l’incendio. La posizione
+                        minuti)                             e le logiche di funzionamento devono essere considerate
+                                                                                     nella G.S.A.
+
+
+
+
+    Gli organi di intercettazione, controllo, arresto e manovra degli impianti tecnologici e di processo al
+     servizio dell’attività rilevanti ai fini dell’incendio ubicati in posizione segnalata e facilmente raggiungibile
+      durante l’incendio. La posizione e le logiche di funzionamento devono essere considerate nella G.S.A.
+            S.9.4 SOLUZIONI PROGETTUALI
+S.9.4.3 Soluzioni conformi per il livello di prestazione IV
+                  Devono essere rispettate le prescrizioni
+                       livello di prestazione III
+
+
+Deve essere assicurata almeno una delle seguenti soluzioni :
+1. accostabilità a tutti i piani dell’autoscala o mezzo equivalente dei VV.F.;
+2. presenza di percorsi d’accesso ai piani per soccorritori almeno di tipo
+   protetto;
+3. In funzione della geometria dell’attività, devono essere soddisfatte le
+   prescrizioni di cui alla tabella S.9-3. (ascensore)
+4. Per consentire l’eventuale accesso dei soccorritori dall’alto, nelle attività con
+   massima quota dei piani > 54 m almeno una scala d’esodo deve condurre
+   anche al piano di copertura dell’edificio, qualora praticabile.
+                     S.9.4 SOLUZIONI PROGETTUALI
+                        S.9.4.4 Soluzioni alternative
+ In tabella S.9-4 sono riportate alcune modalità generalmente accettate per la progettazione di
+soluzioni alternative. Il progettista può comunque impiegare modalità diverse da quelle elencate.
+  S.9.5
+D.M.     Accostabilità
+     3 agosto           autoscala
+              2015 - Capitolo S.9.
+  D.M.Accesso
+S.9.6  3 agosto ai
+                2015  - Capitolo
+                   piani         S.9.
+                         per soccorritori
+       agosto
+D.M. 3 S.9.7    2015 -ACapitolo
+             COLONNA   SECCO
+                S.9.
+  S.9.7
+D.M.     COLONNA
+     3 agosto        A SECCO
+              2015 - Capitolo S.9.
+D.M. 3 agosto
+  S.9.7       2015 - Capitolo
+         COLONNA     A SECCO  S.9.
+                             CODICE DI PREVENZIONE INCENDI
+                                       Capitolo S.9.
+                                 Operatività antincendio
+
+
+
+
+                                                                                               •     Lorenzo Pecorella
+                                                                                          •    Corpo Nazionale Vigili del Fuoco
+21 ottobre 2026                                                                           •    lorenzo.pecorella@vigilfuoco.it
+
+
+                                                                                                                                  18
+           Legge 22/4/1941 n. 633 smi. Non è consentito l’utilizzo, anche parziale, senza il consenso dell'autore.
+                                   S.10.1 Premessa
+
+  Ai fini della sicurezza antincendio devono essere considerati almeno i
+  seguenti impianti tecnologici e di servizio:
+
+
+
+
+* ascensori, montacarichi, montalettighe, scale mobili, marciapiedi mobili, …
+**comprese le opere di evacuazione dei prodotti della combustione, e di ventilazione ed aerazione
+
+
+
+
+                                                                                       19
+S.10.2 – S.10.3 Livelli di prestazione ed attribuzione
+
+
+
+
+                                                         20
+                            Soluzioni progettuali
+                                                 Solo per le sole prescrizioni del paragrafo S.10.6.
+
+
+
+                                                          Soluzioni alternative
+       Soluzioni conformi
+                                                        il progettista deve dimostrare il
+progettati, installati, verificati, eserciti e
+                                                                 soddisfacimento
+                manutenuti
+                                                            degli obiettivi di sicurezza
+              a regola d’arte
+                                                        impiegando uno dei metodi del
+ e garantire degli obiettivi di sicurezza
+                                                                 paragrafo G.2.7.
+
+
+                         Obiettivi di sicurezza antincendio
+a. limitare la probabilità di costituire causa di incendio o di esplosione;
+b. limitare la propagazione di un incendio all’interno degli ambienti di
+   installazione e contigui;
+c. non rendere inefficaci le altre misure antincendio, con particolare
+   riferimento agli elementi di compartimentazione;
+d. consentire agli occupanti di lasciare gli ambienti in condizione di sicurezza;
+e. consentire alle squadre di soccorso di operare in condizioni di sicurezza;
+f. essere disattivabili, o altrimenti gestibili, a seguito di incendio.
+
+
+
+                                                                                          21
+                S.10.6 Prescrizioni aggiuntive di sicurezza antincendio
+     «Sono ammesse soluzioni alternative alle sole prescrizioni riportate al paragrafo S.10.6.»
+
+   possedere caratteristiche strutturali e         utilizzare cavi realizzati con materiali in grado di ridurre
+    possibilità di intervento, individuate                       al minimo l’emissione di fumo,
+     nel piano di emergenza, tali da                          la produzione di gas acidi e corrosivi.
+     non costituire pericolo durante le
+   operazioni di estinzione dell’incendio                     I quadri elettrici possono essere installati
+    e di messa in sicurezza dell’attività.                  lungo le vie di esodo a condizione che non
+                                                          costituiscano ostacolo al deflusso degli occupanti
+
+
+  circuiti di sicurezza devono essere                       Gli apparecchi di manovra dovranno sempre
+      chiaramente identificati                                     riportare chiare indicazioni
+                                                                    dei circuiti a cui si riferiscono
+        “Non manovrare in caso
+             d’incendio”.
+                                                                 Se hanno funzione ai fini della gestione
+                                                                   dell’emergenza, devono disporre di
+        quadri elettrici siano installati in                     alimentazione elettrica di sicurezza
+          ambienti aperti al pubblico,                         con le caratteristiche minime tabella S.10-2
+         devono essere protetti almeno
+con una porta frontale con chiusura a chiave.
+
+
+
+
+                                                                                                 22
+         S.10.6 Prescrizioni aggiuntive di sicurezza antincendio
+«Sono ammesse soluzioni alternative alle sole prescrizioni riportate al paragrafo S.10.6.»
+
+    In presenza di impianti fotovoltaici installati sulle coperture e sulle facciate degli edifici, devono
+    essere utilizzati materiali, adottate soluzioni progettuali ed accorgimenti tecnici che limitino la
+     probabilità di innesco dell’incendio e la successiva propagazione dello stesso anche
+                      all’interno dell’opera da costruzione e ad altre limitrofe.
+
+
+
+
+    L’installazione degli impianti fotovoltaici deve garantire la sicurezza degli operatori addetti alle
+                   operazioni di manutenzione nonché la sicurezza dei soccorritori.
+
+   Utili riferimenti sono costituiti dalle circolari:
+   DCPST n° 1324 del 7 febbraio 2012 (guida installazione impianti FV);
+   DCPST n° 6334 del 4 maggio 2012 (chiarimenti);
+   DCPST n° 14030 del 1 settembre 2025 (guida progettazione, installazione, esercizio, manutenzione
+   impianti FV)
+
+
+                                                                                                       23
+            S.10.6 Prescrizioni aggiuntive di sicurezza antincendio
+«Sono ammesse soluzioni alternative alle sole prescrizioni riportate al paragrafo S.10.6.»
+
+In presenza di infrastrutture per la ricarica dei veicoli elettrici devono essere utilizzati materiali, adottate
+soluzioni progettuali ed accorgimenti tecnici che limitino la probabilità di innesco dell’incendio e la
+       successiva propagazione dello stesso anche all’interno dell’opera da costruzione
+                                            e ad altre limitrofe.
+
+
+
+
+        L’installazione di tali infrastrutture deve garantire la sicurezza degli operatori addetti alle
+                     operazioni di manutenzione nonché la sicurezza dei soccorritori.
+
+
+    Utile riferimento è costituito dalla circolari:
+    DCPST n° 2 del 5 novembre 2018 (linea guida installazione infrastrutture ricarica veicoli elettrici)
+
+
+
+
+                                                                                                          24
+         S.10.6 Prescrizioni aggiuntive di sicurezza antincendio
+«Sono ammesse soluzioni alternative alle sole prescrizioni riportate al paragrafo S.10.6.»
+
+
+      Per tutte le attività deve essere eseguita una valutazione del rischio dovuto ai fulmini.
+
+
+
+
+    Sulla base dei risultati della valutazione di tale rischio, gli impianti di protezione contro le scariche
+          atmosferiche devono essere realizzati nel rispetto delle relative norme tecniche
+
+
+
+
+                                                                                                        25
+         S.10.6 Prescrizioni aggiuntive di sicurezza antincendio
+«Sono ammesse soluzioni alternative alle sole prescrizioni riportate al paragrafo S.10.6.»
+
+        Tutti gli impianti di sollevamento e trasporto di cose e persone non specificatamente
+    progettati per funzionare in caso di incendio, devono essere dotati di accorgimenti gestionali,
+           organizzativi e tecnici che ne impediscano l’utilizzo in caso di emergenza.
+
+
+
+
+Ad esempio: ascensori, montacarichi, montalettighe, scale mobili, marciapiedi mobili, …
+N.B. - Capitolo V.3 Vani degli ascensori
+
+
+                                                                                                      26
+        S.10.6 Prescrizioni aggiuntive di sicurezza antincendio
+«Sono ammesse soluzioni alternative alle sole prescrizioni riportate al paragrafo S.10.6.»
+
+                   Le condutture principali dei gas combustibili a valle dei
+                     punti di consegna quando raggiungono un’opera da
+                  costruzione (es. edificio civile, fabbricato industriale, …),
+                     devono essere installate a vista ed all’esterno
+                             dell’opera da costruzione servita
+
+
+
+
+                                                                              È consentita l’installazione delle
+                                                                             condutture all’interno delle opere
+                                                                             da costruzione, a condizione che
+                                                                             sia effettuata la valutazione del
+                                                                             rischio di atmosfere esplosive
+                                                                                        (capitolo V.2).
+
+
+
+
+                                In caso di eventuali brevi
+                 attraversamenti di locali, le tubazioni devono essere
+                    poste in guaina di classe europea A1 di reazione al
+                   fuoco, aerata alle due estremità verso l’esterno e di
+                    diametro superiore di almeno 20 mm rispetto alla
+                                    tubazione interna.
+
+
+
+
+                                                                                                   27
+             S.10.6 Prescrizioni aggiuntive di sicurezza antincendio
+  «Sono ammesse soluzioni alternative alle sole prescrizioni riportate al paragrafo S.10.6.»
+
+
+                                                              misure al fine di evitare la propagazione
+misure al fine di evitare la dispersione del combustibile     dell’incendio e di mitigarne gli effetti ad esempio:
+ad esempio:
+ 1. bacino di contenimento impermeabile, protetto
+    dagli agenti atmosferici, di volume pari alla           1. impianti di protezione attiva;
+    capacità complessiva dei serbatoi di combustibili       2. interposizione di idonee distanze di separazione
+    liquidi;                                                   tra lo stoccaggio del combustibile e l’impianto
+ 2. dispositivi di intercettazione delle linee con             servito;
+    comando in posizione accessibile, protetta e            3. inserimento del deposito di combustibile e del
+    segnalata;                                                 relativo impianto servito in compartimenti distinti;
+ 3. dispositivi di arresto delle pompe di                   4. qualora lo stoccaggio del combustibile non
+    alimentazione;                                             avvenga all’aperto o in compartimento distinto, la
+ 4. dispositivi di rivelazione ed allarme;                     quantità di combustibile stoccato sia limitata al
+ 5. protezione contro gli urti accidentali da parte            minimo indispensabile per la funzionalità delle
+    di veicoli o altri elementi;                               attività servite.
+ 6. protezione dei serbatoi e delle linee contro la
+    corrosione;
+ 7. predisposizione di aree dedicate, attacchi
+    idonei per il carico e scarico in sicurezza dei
+    serbatoi;
+ 8. dispositivi automatici per impedire il sovra-
+    riempimento dei serbatoi procedure ordinarie e
+    d’emergenza.
+
+
+
+
+                                                                                                        28
+          S.10.6 Prescrizioni aggiuntive di sicurezza antincendio
+«Sono ammesse soluzioni alternative alle sole prescrizioni riportate al paragrafo S.10.6.»
+
+1. La distribuzione dei gas medicali deve avvenire, di norma, mediante impianti centralizzati.
+2. Detti impianti devono essere rispondenti ai seguenti criteri:
+   a. la disposizione geometrica delle tubazioni della rete primaria deve essere tale da garantire
+       l’alimentazione di altri compartimenti non interessati dall’incendio. L’impianto di un
+       compartimento non deve essere derivato da un altro compartimento, ma direttamente dalla rete
+       di distribuzione primaria;
+   b. l’impianto deve essere compatibile con il sistema di compartimentazione antincendio e deve
+       permettere l’interruzione della erogazione dei gas mediante dispositivi di intercettazione manuale
+       posti all’esterno di ogni compartimento in posizione accessibile, protetta e segnalata; idonea
+       segnaletica, inoltre, devono indicare i tratti di impianto sezionabili a seguito delle manovre di
+       intercettazione;
+   c. le reti di distribuzione dei gas medicali devono essere disposte in modo tale da non
+       interferire in alcun modo con reti di altri impianti tecnologici e di servizio.
+   d. i cavedi attraversati dagli impianti di gas medicali devono essere ventilati con aperture la cui
+       posizione sarà funzione della densità dei gas interessati
+
+
+
+
+                                                                                                  29
+         S.10.6 Prescrizioni aggiuntive di sicurezza antincendio
+«Sono ammesse soluzioni alternative alle sole prescrizioni riportate al paragrafo S.10.6.»
+
+  Nel caso in cui le canne fumarie attraversino o lambiscano materiali combustibili le stesse dovranno
+                                 essere opportunamente distanziate.
+          Utili indicazioni in merito sono fornite nel paragrafo S.2.12 (resistenza al fuoco).
+
+
+
+
+                                                                                                 30
+         S.10.6 Prescrizioni aggiuntive di sicurezza antincendio
+«Sono ammesse soluzioni alternative alle sole prescrizioni riportate al paragrafo S.10.6.»
+   1. Gli impianti di condizionamento o di ventilazione devono possedere requisiti che garantiscano il
+   raggiungimento dei seguenti ulteriori specifici obiettivi:
+        a. evitare il ricircolo dei prodotti della combustione o di altri gas ritenuti pericolosi;
+        b. non produrre, a causa di avarie o guasti propri, fumi che si diffondano nei locali serviti;
+        c. non costituire elemento di propagazione di fumi o fiamme, anche nella fase iniziale degli
+        incendi.
+
+
+
+
+      Negli ambiti dell’attività ove gli occupanti possano essere esposti agli effetti dei gas refrigeranti,
+        dovrebbero essere impiegati gas refrigeranti classificati A1 (non infiammabili) o A2L
+       (debolmente infiammabili) secondo norma ISO 817 «Refrigerants - Designation and safety
+                                         classification»66 a bassa tossicità
+
+
+
+                                                                                                      31
+
