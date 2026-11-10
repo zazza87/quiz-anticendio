@@ -254,6 +254,15 @@ button.hrow:hover { border-color: var(--muted); }
 .ans.good { color: var(--ok); font-weight: 500; }
 
 /* Archivio */
+.login { max-width: 460px; margin: 6vh auto 0; display: flex; flex-direction: column; gap: 18px; }
+.login form label { display: flex; }
+.userbar { display: flex; align-items: center; gap: 10px; margin-top: 6px; }
+.userbar .avatar { width: 34px; height: 34px; border-radius: 50%; background: var(--fg); color: var(--bg); display: grid; place-items: center; font-weight: 600; flex: none; }
+.userbar .un { flex: 1; min-width: 0; display: flex; flex-direction: column; line-height: 1.25; }
+.userbar .un strong { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.netst { font-size: .76rem; color: var(--muted); }
+.netst.ok { color: var(--ok); }
+.netst.offline { color: var(--warn); }
 .search { width: 100%; padding: 10px 12px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--fg); font: inherit; min-height: 44px; }
 details.topic { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); }
 details.topic > summary { padding: 12px 14px; cursor: pointer; display: flex; gap: 10px; align-items: center; list-style: none; }
@@ -309,7 +318,7 @@ details.topic[open] > summary::after { content: "−"; }
   const ESAME_N = 50, ESAME_MIN = 60;          // formato dell'esame
   const PRATICA_ARG_N = 20;                     // domande dell'esercitazione dalla scheda argomento
   const STORICO_MAX = 300;                      // test conservati nello storico
-  const KEY = "qpa.v1";                         // chiave di localStorage
+  const KEY = "qpa.v1";                         // dati salvati prima del login (vengono portati nel primo account)
   const LET = ["A", "B", "C", "D", "E"];
   const PDFJS = "https://cdn.jsdelivr.net/npm/pdfjs-dist@4.10.38/build/";
 
@@ -330,31 +339,143 @@ details.topic[open] > summary::after { content: "−"; }
   }));
 
   // =====================================================================
-  // Memoria locale (solo su questo dispositivo)
+  // Utente e memoria: ogni nome ha il suo storico, salvato sul dispositivo
+  // e online su Firebase (Firestore, collezione «utenti», un documento per nome)
   // =====================================================================
-  function load() {
-    try {
-      const s = JSON.parse(localStorage.getItem(KEY) || "{}");
-      // le versioni precedenti salvavano solo le simulazioni, senza correzione
-      const hist = s.hist || (s.sims || []).map(x => ({ t: x.t, mode: "esame", label: "Simulazione d'esame", ok: x.ok, tot: x.tot, secs: x.secs, items: null }));
-      // le sessioni salvate dalle versioni precedenti possono non avere l'etichetta
-      const label = x => x.label || (x.mode === "esame" ? "Simulazione d'esame" : "Esercitazione");
-      hist.forEach(h => { h.label = label(h); });
-      let sess = s.sess || null;
-      if (sess) {
-        sess.label = label(sess);
-        sess.items = (sess.items || []).filter(i => byId[i.id]);
-        if (!sess.items.length) sess = null;     // niente da riprendere né da correggere
-        else sess.cur = Math.min(Math.max(0, sess.cur || 0), sess.items.length - 1);
-      }
-      return { stats: s.stats || {}, hist, sess };
-    } catch (e) {
-      return { stats: {}, hist: [], sess: null };
+  const FS_DOC = "https://firestore.googleapis.com/v1/projects/quiz-anticendio/databases/(default)/documents/utenti/";
+  const K_UTENTE = "qpa.utente", K_NOMI = "qpa.nomi", K_DATI = id => "qpa.u." + id;
+  const lsGet = k => { try { return localStorage.getItem(k); } catch (e) { return null; } };
+  const lsSet = (k, v) => { try { localStorage.setItem(k, v); } catch (e) { /* storage non disponibile */ } };
+  const lsDel = k => { try { localStorage.removeItem(k); } catch (e) { /* storage non disponibile */ } };
+  const jsonOr = (s, d) => { try { return s ? JSON.parse(s) : d; } catch (e) { return d; } };
+
+  // nome -> identificativo del documento: minuscole, senza accenti, solo lettere, cifre e trattini
+  const slug = n => n.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 40);
+
+  // porta i dati salvati (anche da versioni precedenti) nel formato attuale
+  function parseDb(s) {
+    s = s && typeof s === "object" ? s : {};
+    // le versioni precedenti salvavano solo le simulazioni, senza correzione
+    const hist = Array.isArray(s.hist) ? s.hist : (s.sims || []).map(x => ({ t: x.t, mode: "esame", label: "Simulazione d'esame", ok: x.ok, tot: x.tot, secs: x.secs, items: null }));
+    // le sessioni salvate dalle versioni precedenti possono non avere l'etichetta
+    const label = x => x.label || (x.mode === "esame" ? "Simulazione d'esame" : "Esercitazione");
+    hist.forEach(h => { h.label = label(h); });
+    let sess = s.sess || null;
+    if (sess) {
+      sess.label = label(sess);
+      sess.items = (sess.items || []).filter(i => byId[i.id]);
+      if (!sess.items.length) sess = null;     // niente da riprendere né da correggere
+      else sess.cur = Math.min(Math.max(0, sess.cur || 0), sess.items.length - 1);
     }
+    return { stats: s.stats || {}, hist, sess, upd: s.upd || 0 };
   }
-  const db = load();
-  function save() { try { localStorage.setItem(KEY, JSON.stringify(db)); } catch (e) { /* storage non disponibile */ } }
-  save();   // riscrive subito i dati nel formato attuale (migrazione dalle versioni precedenti)
+  const isEmpty = d => !d.hist.length && !d.sess && !Object.keys(d.stats).length;
+
+  let utente = jsonOr(lsGet(K_UTENTE), null);           // { id, nome } oppure null
+  if (utente && !(utente.id && utente.nome)) utente = null;
+  let db = utente ? parseDb(jsonOr(lsGet(K_DATI(utente.id)), {})) : parseDb({});
+  const legacy = () => { const d = parseDb(jsonOr(lsGet(KEY), {})); return isEmpty(d) ? null : d; };   // dati di prima del login
+
+  // stato del salvataggio online: "off" (non ancora), "sync", "ok", "offline"
+  const net = { state: "off", timer: null, busy: false, again: false };
+
+  async function remoteGet(id) {
+    const r = await fetch(FS_DOC + id, { cache: "no-store" });
+    if (r.status === 404) {
+      const j = await r.json().catch(() => ({}));
+      // documento inesistente = nome nuovo; database non creato = errore
+      if (/does not exist/i.test((j.error && j.error.message) || "")) throw new Error("database");
+      return null;
+    }
+    if (!r.ok) throw new Error("http " + r.status);
+    const j = await r.json();
+    const f = j.fields || {};
+    return { nome: f.nome && f.nome.stringValue, dati: jsonOr(f.dati && f.dati.stringValue, {}) };
+  }
+  async function remotePut() {
+    if (!utente) return;
+    const r = await fetch(FS_DOC + utente.id, {
+      method: "PATCH", headers: { "content-type": "application/json" },
+      body: JSON.stringify({ fields: { nome: { stringValue: utente.nome }, dati: { stringValue: JSON.stringify(db) }, agg: { timestampValue: new Date().toISOString() } } }),
+    });
+    if (!r.ok) throw new Error("http " + r.status);
+  }
+  function setNet(st) {
+    net.state = st;
+    const el = document.getElementById("netst");
+    if (el) { el.className = "netst " + st; el.textContent = NET_LABEL[st]; }
+  }
+  const NET_LABEL = { off: "", sync: "salvataggio…", ok: "salvato online", offline: "non connesso · salvato sul dispositivo" };
+
+  // invio online, uno alla volta; le modifiche arrivate nel frattempo partono subito dopo
+  async function push() {
+    clearTimeout(net.timer);
+    if (!utente) return;
+    if (net.busy) { net.again = true; return; }
+    net.busy = true; setNet("sync");
+    try { await remotePut(); setNet("ok"); } catch (e) { setNet("offline"); }
+    net.busy = false;
+    if (net.again) { net.again = false; push(); }
+  }
+  function save() {
+    db.upd = Date.now();
+    if (!utente) return;
+    lsSet(K_DATI(utente.id), JSON.stringify(db));
+    clearTimeout(net.timer);
+    net.timer = setTimeout(push, 1500);
+  }
+
+  // allinea con la copia online: vince la più recente
+  async function pull() {
+    if (!utente) return;
+    const id = utente.id;
+    try {
+      const r = await remoteGet(id);
+      if (!utente || utente.id !== id) return;
+      if (r && (r.dati.upd || 0) > (db.upd || 0)) {
+        db = parseDb(r.dati);
+        lsSet(K_DATI(id), JSON.stringify(db));
+        setNet("ok");
+        if (!(ui.view === "quiz" && ui.confirm)) render();
+      } else if (!r || (db.upd || 0) > (r.dati.upd || 0)) push();
+      else setNet("ok");
+    } catch (e) { setNet("offline"); }
+  }
+  window.addEventListener("online", () => { if (utente) pull(); });
+  document.addEventListener("visibilitychange", () => {
+    if (!utente) return;
+    if (document.visibilityState === "hidden") { if (net.timer) push(); }
+    else pull();
+  });
+
+  async function login(nome, importa) {
+    nome = nome.trim().replace(/\s+/g, " ").slice(0, 40);
+    const id = slug(nome);
+    if (!id) return;
+    let remoto, errore = false;
+    try { remoto = await remoteGet(id); } catch (e) { errore = true; }
+    const locale = parseDb(jsonOr(lsGet(K_DATI(id)), {}));
+    utente = { id, nome: remoto && remoto.nome ? remoto.nome : nome };
+    if (remoto && (remoto.dati.upd || 0) >= (locale.upd || 0)) db = parseDb(remoto.dati);
+    else db = locale;
+    const vecchi = importa ? legacy() : null;
+    if (vecchi && isEmpty(db)) { db = vecchi; db.upd = Date.now(); lsDel(KEY); }   // risultati di prima del login portati nel nuovo account
+    lsSet(K_UTENTE, JSON.stringify(utente));
+    const nomi = jsonOr(lsGet(K_NOMI), []).filter(n => slug(n) !== id);
+    lsSet(K_NOMI, JSON.stringify([utente.nome, ...nomi].slice(0, 6)));
+    lsSet(K_DATI(id), JSON.stringify(db));
+    // senza rete non si sovrascrive la copia online: ci pensa pull() quando torna la connessione
+    if (errore) setNet("offline");
+    else if (!remoto || (db.upd || 0) > (remoto.dati.upd || 0)) push();
+    else setNet("ok");
+    ui.view = "home"; avvio();
+  }
+  async function logout() {
+    while (net.busy) await new Promise(r => setTimeout(r, 100));
+    if (net.timer) await push();
+    utente = null; db = parseDb({}); lsDel(K_UTENTE); setNet("off");
+    go("login");
+  }
 
   // =====================================================================
   // Utilità
@@ -457,7 +578,7 @@ details.topic[open] > summary::after { content: "−"; }
   // Stato dell'interfaccia e navigazione
   // =====================================================================
   const ui = {
-    view: "home",
+    view: utente ? "home" : "login",
     topics: new Set(Object.keys(ARGOMENTI)), nPrat: 20,   // allenamento
     allTopics: false, multiOpen: false, discardAsk: false,
     showGrid: false, confirm: false,                      // quiz
@@ -478,7 +599,8 @@ details.topic[open] > summary::after { content: "−"; }
   function render() {
     clearInterval(timerH);
     const sess = db.sess;
-    if (ui.view === "quiz" && sess && !sess.done) renderQuiz();
+    if (!utente) { ui.view = "login"; renderLogin(); }
+    else if (ui.view === "quiz" && sess && !sess.done) renderQuiz();
     else if (ui.view === "result" && sess) renderResult(sess, false);
     else if (ui.view === "dettaglio" && db.hist[ui.hIdx] && db.hist[ui.hIdx].items) renderResult(histSess(db.hist[ui.hIdx]), true);
     else if (ui.view === "risultati") renderRisultati();
@@ -547,6 +669,44 @@ details.topic[open] > summary::after { content: "−"; }
   }
 
   // =====================================================================
+  // Vista: Accesso con il solo nome
+  // =====================================================================
+  function renderLogin(msg) {
+    const nomi = jsonOr(lsGet(K_NOMI), []);
+    const vecchi = legacy();
+    paint(`
+      <div class="login">
+        <header class="mast" style="border-bottom:0;padding-bottom:0;margin-bottom:6px">
+          <span class="eyebrow">Corso base 120 ore · D.M. 5 agosto 2011</span>
+          <h1>Quiz Professionista Antincendio</h1>
+        </header>
+        <form class="panel" id="flogin" autocomplete="on">
+          <label for="nome"><strong>Come ti chiami?</strong></label>
+          <input class="search" id="nome" name="name" autocomplete="name" maxlength="40" placeholder="Nome e cognome" required>
+          <p class="small muted" style="margin:0">Con lo stesso nome ritrovi risultati e storico su qualsiasi telefono o computer. Non c'è password: usa nome e cognome.</p>
+          ${vecchi ? `<label class="small row" style="gap:8px;flex-wrap:nowrap;align-items:flex-start"><input type="checkbox" id="importa" checked style="width:18px;height:18px;margin:1px 0 0;flex:none"><span>Porta nel mio account i risultati già fatti su questo dispositivo (${vecchi.hist.length} test)</span></label>` : ""}
+          ${msg ? `<p class="small" style="margin:0;color:var(--ko)">${esc(msg)}</p>` : ""}
+          <button class="btn primary" type="submit" id="entra" style="min-height:52px;border-radius:12px">Entra</button>
+        </form>
+        ${nomi.length ? `<div class="stack" style="gap:8px">
+          <span class="small muted">Usati su questo dispositivo</span>
+          <div class="row">${nomi.map(n => `<button class="btn" data-nome="${esc(n)}">${esc(n)}</button>`).join("")}</div>
+        </div>` : ""}
+      </div>`);
+    const f = document.getElementById("flogin"), inp = document.getElementById("nome");
+    const entra = async nome => {
+      if (!slug(nome)) return renderLogin("Scrivi un nome con almeno una lettera o una cifra.");
+      const b = document.getElementById("entra");
+      b.disabled = true; b.textContent = "Accesso…";
+      const imp = document.getElementById("importa");
+      await login(nome, imp ? imp.checked : false);
+    };
+    f.onsubmit = e => { e.preventDefault(); entra(inp.value); };
+    onClick = b => { if (b.dataset.nome) entra(b.dataset.nome); };
+    if (!nomi.length) try { inp.focus(); } catch (e) { /* ignorato */ }
+  }
+
+  // =====================================================================
   // Vista: Allenamento (cruscotto)
   // =====================================================================
   function renderHome() {
@@ -570,6 +730,7 @@ details.topic[open] > summary::after { content: "−"; }
       <header class="mast" style="border-bottom:0;padding-bottom:4px;margin-bottom:14px">
         <span class="eyebrow">Corso base 120 ore · D.M. 5 agosto 2011</span>
         <h1>Quiz Professionista Antincendio</h1>
+        <div class="userbar"><span class="avatar" aria-hidden="true">${esc(utente.nome.trim()[0] || "?").toUpperCase()}</span><span class="un"><strong>${esc(utente.nome)}</strong><span id="netst" class="netst ${net.state}">${NET_LABEL[net.state]}</span></span><button class="linkbtn small" data-act="logout">Cambia nome</button></div>
       </header>
       <div class="stack">
         ${sess ? `<div class="confirm" role="status">
@@ -634,7 +795,7 @@ details.topic[open] > summary::after { content: "−"; }
           </div>
         </details>
 
-        <p class="footer">${tot} domande tratte dai test e dal materiale del corso${VERSIONE ? " · versione del " + VERSIONE : ""}. I risultati restano salvati solo su questo dispositivo e browser.</p>
+        <p class="footer">${tot} domande tratte dai test e dal materiale del corso${VERSIONE ? " · versione del " + VERSIONE : ""}. I risultati sono legati al tuo nome e salvati online.</p>
       </div>
       ${tabs("home")}`);
 
@@ -648,6 +809,7 @@ details.topic[open] > summary::after { content: "−"; }
       if (b.dataset.n !== undefined) { ui.nPrat = +b.dataset.n; return keep(); }
       switch (b.dataset.act) {
         case "exam": return startExam();
+        case "logout": return logout();
         case "resume":
           if (sess.mode === "esame" && Date.now() > sess.end) return finish();   // tempo scaduto mentre era in pausa
           return go("quiz");
@@ -888,7 +1050,7 @@ details.topic[open] > summary::after { content: "−"; }
 
     paint(`
       <header class="mast">
-        <span class="eyebrow">Storico su questo dispositivo</span>
+        <span class="eyebrow">Storico di ${esc(utente.nome)}</span>
         <h1>Risultati</h1>
       </header>
       ${tabs("risultati")}
@@ -918,8 +1080,8 @@ details.topic[open] > summary::after { content: "−"; }
           ${barsHtml(ts, (v, q) => `${q}% · ${v.n}`)}
         </section>` : ""}
 
-        ${db.hist.length || hasStats ? `<div class="row"><button class="linkbtn small" data-act="reset">Azzera tutti i risultati</button></div>` : ""}
-        ${ui.resetAsk ? confirmBox("Cancellare lo storico dei test e le statistiche salvate su questo dispositivo?", "resetyes", "Azzera", "resetno", "Annulla") : ""}
+        ${db.hist.length || hasStats ? `<div class="row"><button class="linkbtn small" data-act="reset">Azzera i miei risultati</button></div>` : ""}
+        ${ui.resetAsk ? confirmBox(`Cancellare lo storico dei test e le statistiche di ${esc(utente.nome)}, anche online?`, "resetyes", "Azzera", "resetno", "Annulla") : ""}
       </div>`);
 
     onClick = b => {
@@ -1174,9 +1336,13 @@ details.topic[open] > summary::after { content: "−"; }
   });
 
   // =====================================================================
-  // Avvio: una simulazione scaduta mentre la pagina era chiusa viene consegnata
+  // Avvio: accesso, poi una simulazione scaduta mentre la pagina era chiusa viene consegnata
   // =====================================================================
-  if (db.sess && !db.sess.done && db.sess.mode === "esame" && Date.now() > db.sess.end) finish();
-  else render();
+  function avvio() {
+    if (db.sess && !db.sess.done && db.sess.mode === "esame" && Date.now() > db.sess.end) finish();
+    else render();
+  }
+  avvio();
+  pull();
 })();
 </script>

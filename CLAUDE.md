@@ -12,7 +12,8 @@ Versione di prova su Claude: https://claude.ai/artifact/STYXQGvszpSuCrFaPJA8Tg
 
 ## Struttura
 - `public/` → ciò che va online: `index.html` (generato) e `materiale/<id>.pdf` (PDF compressi, max 15 MB l'uno).
-- `sorgenti/quiz/app.html` → interfaccia (HTML/CSS/JS in un file, dati salvati in localStorage `qpa.v1`).
+- `sorgenti/quiz/app.html` → interfaccia (HTML/CSS/JS in un file).
+- Accesso con il solo nome (niente password, scelta dell'utente): lo storico di ogni nome sta in Firestore, collezione `utenti`, documento = nome normalizzato (`slug`), campi `nome`, `dati` (JSON), `agg`; chiamate REST senza SDK. Copia locale in localStorage `qpa.u.<id>`, utente attivo in `qpa.utente`; vince la copia con `upd` più recente. I dati di prima del login (`qpa.v1`) passano nel primo account. Regole Firestore: solo get/create/update su `utenti/{id}`, niente list/delete.
 - `sorgenti/quiz/domande.js` → `ARGOMENTI` (chiave → nome) e helper `D(id, argomento, [fonti], domanda, [opzioni], extra)`: la PRIMA opzione è la corretta, le opzioni vengono mescolate.
 - `sorgenti/quiz/dNN_*.js` → un file per blocco di materiale. Id unici; costanti con nomi unici fra i file.
 - `sorgenti/tools/fonti.json` → nome fonte → id dei PDF in `public/materiale`; `sorgenti/mat/manifest.txt` → id|pagine|dimensione|nome originale.
