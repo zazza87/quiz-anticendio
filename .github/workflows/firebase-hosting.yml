@@ -1,0 +1,23 @@
+# Pubblica il sito su Firebase Hosting a ogni modifica del ramo main
+name: Pubblica su Firebase
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # l'ID del progetto Firebase si ricava dalla chiave salvata nei segreti
+      - name: ID del progetto
+        id: prj
+        env:
+          SA: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: echo "id=$(echo "$SA" | jq -r .project_id)" >> "$GITHUB_OUTPUT"
+      - uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          projectId: ${{ steps.prj.outputs.id }}
+          channelId: live
