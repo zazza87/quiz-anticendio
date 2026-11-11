@@ -343,7 +343,7 @@ details.topic[open] > summary::after { content: "−"; }
   const jsonOr = (s, d) => { try { return s ? JSON.parse(s) : d; } catch (e) { return d; } };
 
   // nome -> identificativo del documento: minuscole, senza accenti, solo lettere, cifre e trattini
-  const slug = n => n.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 40);
+  const slug = n => n.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 40);
 
   // porta i dati salvati (anche da versioni precedenti) nel formato attuale
   function parseDb(s) {
@@ -360,8 +360,26 @@ details.topic[open] > summary::after { content: "−"; }
       if (!sess.items.length) sess = null;     // niente da riprendere né da correggere
       else sess.cur = Math.min(Math.max(0, sess.cur || 0), sess.items.length - 1);
     }
-    return { stats: s.stats || {}, hist, sess, upd: s.upd || 0 };
+    return { stats: s.stats || {}, hist, sess, upd: s.upd || 0, azz: s.azz || 0 };
   }
+
+  // unisce la copia del dispositivo e quella online, così un test fatto senza rete
+  // non cancella quelli fatti nel frattempo su un altro dispositivo
+  function merge(a, b) {
+    const newer = (a.upd || 0) >= (b.upd || 0) ? a : b, older = newer === a ? b : a;
+    if ((newer.azz || 0) > (older.upd || 0)) return newer;          // azzerato dopo l'ultima modifica dell'altra copia
+    const seen = new Set(), hist = [];
+    [...newer.hist, ...older.hist].forEach(h => {
+      const k = h.t + "|" + h.mode + "|" + h.tot;
+      if (h.t > (newer.azz || 0) && !seen.has(k)) { seen.add(k); hist.push(h); }
+    });
+    hist.sort((x, y) => y.t - x.t);
+    hist.length = Math.min(hist.length, STORICO_MAX);
+    const stats = (older.azz || 0) >= (newer.azz || 0) ? { ...older.stats } : {};   // l'altra copia aveva visto l'azzeramento
+    Object.entries(newer.stats).forEach(([id, st]) => { const o = stats[id]; if (!o || st.n >= o.n) stats[id] = st; });
+    return { stats, hist, sess: newer.sess, upd: Math.max(a.upd || 0, b.upd || 0), azz: Math.max(a.azz || 0, b.azz || 0) };
+  }
+  const same = (a, b) => JSON.stringify([a.stats, a.hist, a.sess, a.azz]) === JSON.stringify([b.stats, b.hist, b.sess, b.azz]);
   const isEmpty = d => !d.hist.length && !d.sess && !Object.keys(d.stats).length;
 
   let utente = jsonOr(lsGet(K_UTENTE), null);           // { id, nome } oppure null
@@ -387,9 +405,13 @@ details.topic[open] > summary::after { content: "−"; }
   }
   async function remotePut() {
     if (!utente) return;
+    let dati = JSON.stringify(db);
+    for (let i = db.hist.length - 1; dati.length > 850000 && i >= 0; i--) {
+      if (db.hist[i].items) { db.hist[i].items = null; dati = JSON.stringify(db); }
+    }
     const r = await fetch(FS_DOC + utente.id, {
       method: "PATCH", headers: { "content-type": "application/json" },
-      body: JSON.stringify({ fields: { nome: { stringValue: utente.nome }, dati: { stringValue: JSON.stringify(db) }, agg: { timestampValue: new Date().toISOString() } } }),
+      body: JSON.stringify({ fields: { nome: { stringValue: utente.nome }, dati: { stringValue: dati }, agg: { timestampValue: new Date().toISOString() } } }),
     });
     if (!r.ok) throw new Error("http " + r.status);
   }
@@ -402,7 +424,7 @@ details.topic[open] > summary::after { content: "−"; }
 
   // invio online, uno alla volta; le modifiche arrivate nel frattempo partono subito dopo
   async function push() {
-    clearTimeout(net.timer);
+    clearTimeout(net.timer); net.timer = null;
     if (!utente) return;
     if (net.busy) { net.again = true; return; }
     net.busy = true; setNet("sync");
@@ -425,13 +447,14 @@ details.topic[open] > summary::after { content: "−"; }
     try {
       const r = await remoteGet(id);
       if (!utente || utente.id !== id) return;
-      if (r && (r.dati.upd || 0) > (db.upd || 0)) {
-        db = parseDb(r.dati);
+      if (!r) return push();
+      const remoto = parseDb(r.dati), unito = merge(db, remoto);
+      if (!same(unito, db)) {
+        db = unito;
         lsSet(K_DATI(id), JSON.stringify(db));
-        setNet("ok");
-        if (!(ui.view === "quiz" && ui.confirm)) render();
-      } else if (!r || (db.upd || 0) > (r.dati.upd || 0)) push();
-      else setNet("ok");
+        if (!(ui.view === "quiz" && ui.confirm)) { const y = window.scrollY; render(); window.scrollTo(0, y); }
+      }
+      if (!same(unito, remoto)) push(); else setNet("ok");
     } catch (e) { setNet("offline"); }
   }
   window.addEventListener("online", () => { if (utente) pull(); });
@@ -449,8 +472,8 @@ details.topic[open] > summary::after { content: "−"; }
     try { remoto = await remoteGet(id); } catch (e) { errore = true; }
     const locale = parseDb(jsonOr(lsGet(K_DATI(id)), {}));
     utente = { id, nome: remoto && remoto.nome ? remoto.nome : nome };
-    if (remoto && (remoto.dati.upd || 0) >= (locale.upd || 0)) db = parseDb(remoto.dati);
-    else db = locale;
+    const online = remoto ? parseDb(remoto.dati) : null;
+    db = online ? merge(locale, online) : locale;
     const vecchi = importa ? legacy() : null;
     if (vecchi && isEmpty(db)) { db = vecchi; db.upd = Date.now(); lsDel(KEY); }   // risultati di prima del login portati nel nuovo account
     lsSet(K_UTENTE, JSON.stringify(utente));
@@ -459,7 +482,7 @@ details.topic[open] > summary::after { content: "−"; }
     lsSet(K_DATI(id), JSON.stringify(db));
     // senza rete non si sovrascrive la copia online: ci pensa pull() quando torna la connessione
     if (errore) setNet("offline");
-    else if (!remoto || (db.upd || 0) > (remoto.dati.upd || 0)) push();
+    else if (!online || !same(db, online)) push();
     else setNet("ok");
     ui.view = "home"; avvio();
   }
@@ -834,7 +857,7 @@ details.topic[open] > summary::after { content: "−"; }
         <p class="small">${exam || !exit ? (blank ? `Hai ${blank} ${blank === 1 ? "domanda" : "domande"} senza risposta${exam ? ", che contano come errate" : ""}.` : "Hai risposto a tutte le domande.") + (flagged ? ` ${flagged} segnate per dopo.` : "") : `Hai risposto a ${answered} ${answered === 1 ? "domanda" : "domande"} su ${N}.`}${exit ? ` Se esci, ${exam ? "il tempo continua a scorrere e " : ""}la ritrovi nella pagina iniziale.` : ""}</p>
         <div class="stack" style="gap:8px">
           ${canEnd ? `<button class="btn primary" data-act="endyes">${exam ? "Consegna ora" : "Termina e vedi la correzione"}</button>` : ""}
-          ${exit ? `<button class="btn" data-act="home">Esci e riprendi dopo</button>` : ""}
+          ${exit || !canEnd ? `<button class="btn" data-act="home">Esci e riprendi dopo</button>` : ""}
           <button class="btn ghost" data-act="endno">Continua</button>
         </div>
       </div></div>`;
@@ -1051,7 +1074,7 @@ details.topic[open] > summary::after { content: "−"; }
       switch (b.dataset.act) {
         case "reset": ui.resetAsk = true; return renderRisultati();
         case "resetno": ui.resetAsk = false; return renderRisultati();
-        case "resetyes": db.stats = {}; db.hist = []; ui.resetAsk = false; save(); return renderRisultati();
+        case "resetyes": db.stats = {}; db.hist = []; db.azz = Date.now(); ui.resetAsk = false; save(); return renderRisultati();
       }
     };
   }
@@ -1267,10 +1290,10 @@ details.topic[open] > summary::after { content: "−"; }
     }
     // quiz: 1-4 o A-D per rispondere, frecce per spostarsi
     const s = db.sess;
-    if (ui.view !== "quiz" || !s || s.done || e.target.tagName === "INPUT") return;
+    if (ui.view !== "quiz" || !s || s.done || e.target.tagName === "INPUT" || e.ctrlKey || e.metaKey || e.altKey) return;
     const key = e.key.toUpperCase();
     let idx = "1234".indexOf(key); if (idx < 0) idx = "ABCD".indexOf(key);
-    if (e.key.length === 1 && idx >= 0 && idx < s.items[s.cur].order.length) {
+    if (e.key.length === 1 && idx >= 0 && idx < s.items[s.cur].order.length && !ui.confirm) {
       const b = app.querySelector(`[data-opt="${idx}"]`);
       if (b && !b.disabled) b.click();
     } else if (e.key === "ArrowRight" && s.cur < s.items.length - 1) { s.cur++; ui.confirm = false; save(); render(); }

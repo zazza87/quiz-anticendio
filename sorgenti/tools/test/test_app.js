@@ -48,7 +48,19 @@ srv.listen(8766, async () => {
   offline = true;
   await p.click('[data-nome="Mario Rossi"]'); await p.waitForSelector('.userbar');
   ok(await badge() === '1' && (await p.$eval('#netst', e => e.textContent)).startsWith('non connesso'), 'accesso senza rete con i dati del dispositivo');
-  offline = false;
+  // 1a3) test fatto senza rete: tornata la connessione si unisce allo storico online, non lo sostituisce
+  await p.evaluate(() => { const s = JSON.parse(localStorage.getItem('qpa.u.mario-rossi')); s.hist.unshift({ t: Date.now(), mode: 'pratica', label: 'Offline', ok: 1, tot: 1, secs: 5, items: null }); s.upd = Date.now(); localStorage.setItem('qpa.u.mario-rossi', JSON.stringify(s)); });
+  // nel frattempo un altro dispositivo ha aggiunto un test online
+  { const r = remoto('mario-rossi'); r.hist.unshift({ t: Date.now() - 5000, mode: 'esame', label: 'Altro', ok: 40, tot: 50, secs: 3000, items: null }); r.upd = Date.now() - 4000; store['mario-rossi'].dati.stringValue = JSON.stringify(r); }
+  offline = false; await p.reload(); await p.waitForTimeout(2500);
+  ok(remoto('mario-rossi').hist.length === 3 && await badge() === '3', 'test offline e test dell\'altro dispositivo uniti (' + remoto('mario-rossi').hist.length + ')');
+  // 1a4) azzeramento: non torna indietro con la copia di un altro dispositivo
+  const vecchia = JSON.parse(JSON.stringify(store['mario-rossi']));
+  await p.click('[data-nav="risultati"]'); await p.click('[data-act="reset"]'); await p.click('[data-act="resetyes"]'); await p.waitForTimeout(2000);
+  ok(remoto('mario-rossi').hist.length === 0, 'azzeramento salvato online');
+  await p.evaluate(v => localStorage.setItem('qpa.u.mario-rossi', v), vecchia.dati.stringValue); await p.reload(); await p.waitForTimeout(2000);
+  ok(remoto('mario-rossi').hist.length === 0 && await badge() === '0', 'copia vecchia del dispositivo non annulla l\'azzeramento');
+  await p.click('[data-nav="home"]');
   const setU = s => p.evaluate(s => localStorage.setItem('qpa.u.mario-rossi', JSON.stringify(Object.assign(s, { upd: Date.now() + 1e6 }))), s);
   // 1b) sessione con una domanda non più in archivio: viene tolta, la sessione resta utilizzabile
   await p.evaluate(() => { const id = DOMANDE[0].id; localStorage.setItem('qpa.u.mario-rossi', JSON.stringify({ upd: Date.now() + 1e6, stats: {}, hist: [], sess: { mode: 'pratica', label: 'X', items: [{ id: 'zz999', order: [0, 1, 2], ans: null, flag: false }, { id, order: [0, 1, 2], ans: null, flag: false }], cur: 1, start: Date.now(), end: null, done: false } })); });
@@ -76,6 +88,7 @@ srv.listen(8766, async () => {
   await p.click('[data-act="exit"]'); ok(await p.$('[data-act="endyes"]') === null && await p.$('.sheet [data-act="home"]') !== null, 'X senza risposte: esci o continua');
   await p.click('[data-act="endno"]');
   // 3) quiz pratica: risposte, correzione immediata, ripassa nel visore
+  await p.keyboard.press('Control+c'); ok(await p.$('.sheet .vhead') === null, 'Ctrl+C non risponde');
   await p.keyboard.press('1');
   ok(await p.$('.sheet .vhead') !== null, 'tasto 1 risponde e apre il pannello di correzione');
   const rl = await p.$('.sheet a.matcard');
