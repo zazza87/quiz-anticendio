@@ -90,6 +90,12 @@ srv.listen(8766, async () => {
   // 3) quiz pratica: risposte, correzione immediata, ripassa nel visore
   await p.keyboard.press('Control+c'); ok(await p.$('.sheet .vhead') === null, 'Ctrl+C non risponde');
   await p.keyboard.press('1');
+  { const h0 = await p.$eval('.qhead strong', e => e.textContent);
+    const hasCard = await p.$('.sheet a.matcard') !== null;
+    if (hasCard) { await p.keyboard.press('r'); await p.waitForSelector('.pv.open', { timeout: 15000 }); ok(true, 'tasto R apre la scheda'); await p.keyboard.press('Escape'); }
+    await p.keyboard.press('Enter'); const h1 = await p.$eval('.qhead strong', e => e.textContent);
+    ok(h0 !== h1 && await p.$('.sheet .vhead') === null, 'Invio dopo la risposta passa alla successiva (' + h0 + ' -> ' + h1 + ')');
+    await p.keyboard.press('ArrowLeft'); }
   ok(await p.$('.sheet .vhead') !== null, 'tasto 1 risponde e apre il pannello di correzione');
   const rl = await p.$('.sheet a.matcard');
   if (rl) { await rl.click(); await p.waitForSelector('#pv-body canvas', { timeout: 15000 }).catch(() => {}); ok(await p.$('#pv-body canvas') !== null, 'visore apre il PDF: ' + await p.$eval('#pv-pg', e => e.textContent)); await p.keyboard.press('Escape'); ok(!(await p.$eval('#pv', e => e.classList.contains('open'))), 'Esc chiude il visore'); }

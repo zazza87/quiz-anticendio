@@ -256,6 +256,10 @@ button.hrow:hover { border-color: var(--muted); }
 .netst { font-size: .76rem; color: var(--muted); }
 .netst.ok { color: var(--ok); }
 .netst.offline { color: var(--warn); }
+kbd { display: none; font-family: var(--font-mono); font-size: .7rem; font-weight: 600; padding: 1px 5px; border-radius: 4px; border: 1px solid currentColor; opacity: .7; margin-left: 6px; }
+.keyhint { display: none; margin: 0; }
+.keyhint kbd { margin-left: 0; }
+@media (hover: hover) and (pointer: fine) { kbd { display: inline-block; } .keyhint { display: block; } }
 .search { width: 100%; padding: 10px 12px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--fg); font: inherit; min-height: 44px; }
 details.topic { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); }
 details.topic > summary { padding: 12px 14px; cursor: pointer; display: flex; gap: 10px; align-items: center; list-style: none; }
@@ -884,10 +888,10 @@ details.topic[open] > summary::after { content: "−"; }
         <div class="vhead"><span class="vicon ${right ? "ok" : "ko"}">${icon(right ? "ok" : "close", 2.4)}</span>${right ? "Risposta corretta" : `Risposta sbagliata: la corretta è la ${okLetter}`}</div>
         <p class="small muted">Fonte: ${esc(d.f.join(", "))}</p>
         ${d.dubbia ? `<div class="note"><strong>Risposta da verificare.</strong> ${esc(d.n || "")}</div>` : ""}
-        ${p ? `<a class="matcard" href="${pdfUrl(p[0], p[1])}" target="_blank" rel="noopener"><span class="doc">${icon("doc", 1.8)}</span><span class="t"><strong>Ripassa sulla scheda</strong><small>${esc(FID2SRC[p[0]] || "")}${p[1] ? " · pagina " + p[1] : ""}</small></span><span class="muted" aria-hidden="true">›</span></a>` : ""}
+        ${p ? `<a class="matcard" href="${pdfUrl(p[0], p[1])}" target="_blank" rel="noopener"><span class="doc">${icon("doc", 1.8)}</span><span class="t"><strong>Ripassa sulla scheda <kbd>R</kbd></strong><small>${esc(FID2SRC[p[0]] || "")}${p[1] ? " · pagina " + p[1] : ""}</small></span><span class="muted" aria-hidden="true">›</span></a>` : ""}
         <div class="row" style="flex-wrap:nowrap">
           <button class="iconbtn" style="width:52px;height:52px;border-radius:12px" data-act="prev" aria-label="Domanda precedente" ${s.cur === 0 ? "disabled" : ""}>${icon("prev")}</button>
-          <button class="btn primary" style="flex:1" data-act="${last ? "end" : "next"}">${last ? endLabel : "Continua"}</button>
+          <button class="btn primary" style="flex:1" data-act="${last ? "end" : "next"}">${last ? endLabel : "Continua"} <kbd>Invio</kbd></button>
         </div>
       </div></section>`;
     } else {
@@ -935,6 +939,7 @@ details.topic[open] > summary::after { content: "−"; }
             }).join("")}
           </div>
         </article>
+        <p class="keyhint small muted"><strong>Con la tastiera:</strong> 1–4 o A–D per rispondere${exam ? "" : " · <kbd>Invio</kbd> dopo la risposta per passare alla successiva · <kbd>R</kbd> per aprire la scheda di ripasso"}${exam ? " · <kbd>Invio</kbd> dopo la risposta per passare alla successiva" : ""} · <kbd>←</kbd> <kbd>→</kbd> per spostarti tra le domande.</p>
       </div>
       ${bottom}`);
 
@@ -1259,6 +1264,7 @@ details.topic[open] > summary::after { content: "−"; }
     pv.body.scrollTop = 0;
   }
   async function openPdf(fid, pg) {
+    pv.prevFocus = document.activeElement;
     Object.assign(pv, { fid, page: Math.max(1, pg || 1), zoom: 1, doc: null });
     $("pv-title").textContent = FID2SRC[fid] || TIT[fid] || "Documento";
     pv.el.classList.add("open");
@@ -1281,6 +1287,10 @@ details.topic[open] > summary::after { content: "−"; }
     pv.task++;
     pv.body.replaceChildren();
     document.body.style.overflow = "";
+    // il cursore torna dove era prima di aprire il documento (Invio e i tasti del quiz restano utilizzabili)
+    const f = pv.prevFocus; pv.prevFocus = null;
+    if (f && f !== document.body && f.isConnected && !pv.el.contains(f)) f.focus();
+    else if (pv.el.contains(document.activeElement)) document.activeElement.blur();
   }
   const pvGo = delta => { if (pv.doc && pv.page + delta >= 1 && pv.page + delta <= pv.doc.numPages) { pv.page += delta; pvRender(); } };
   const pvZoom = f => { pv.zoom = Math.min(3, Math.max(.5, pv.zoom * f)); pvRender(); };
@@ -1301,10 +1311,21 @@ details.topic[open] > summary::after { content: "−"; }
       if (k) { e.preventDefault(); k(); }
       return;
     }
-    // quiz: 1-4 o A-D per rispondere, frecce per spostarsi
+    // quiz: 1-4 o A-D per rispondere, Invio per andare avanti dopo la risposta,
+    // R per aprire la scheda di ripasso, frecce per spostarsi
     const s = db.sess;
     if (ui.view !== "quiz" || !s || s.done || e.target.tagName === "INPUT" || e.ctrlKey || e.metaKey || e.altKey) return;
     const key = e.key.toUpperCase();
+    if (e.key === "Enter" && !ui.confirm && !/^(BUTTON|SUMMARY)$/.test(e.target.tagName) && s.items[s.cur].ans !== null) {
+      const b = app.querySelector('.sheet [data-act="next"], .sheet [data-act="end"], .actbar [data-act="next"], .actbar [data-act="end"]');
+      if (b) { e.preventDefault(); b.click(); }
+      return;
+    }
+    if (key === "R" && !ui.confirm) {
+      const a = app.querySelector(".sheet a.matcard");
+      if (a) { e.preventDefault(); a.click(); }
+      return;
+    }
     let idx = "1234".indexOf(key); if (idx < 0) idx = "ABCD".indexOf(key);
     if (e.key.length === 1 && idx >= 0 && idx < s.items[s.cur].order.length && !ui.confirm) {
       const b = app.querySelector(`[data-opt="${idx}"]`);
