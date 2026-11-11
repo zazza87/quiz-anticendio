@@ -8,6 +8,7 @@ Versione di prova su Claude: https://claude.ai/artifact/STYXQGvszpSuCrFaPJA8Tg
 - Le domande si creano SOLO dal materiale che fornisce l'utente (lezioni, slide, dispense, test). Niente ricerche su internet.
 - Esame: 50 domande in 60 minuti (`ESAME_N`, `ESAME_MIN` in `sorgenti/quiz/app.html`).
 - Gli argomenti esistenti non vanno ristrutturati (niente divisioni o accorpamenti); se ne possono aggiungere di nuovi man mano che il corso va avanti.
+- Pubblicazione: la versione di prova su Claude si aggiorna subito senza chiedere; per il sito Firebase (`git push` su `main`) chiedere SEMPRE prima il via all'utente. Niente immagini di anteprima.
 - Domande con risposta incerta: `dubbia:true` e nota `n`; ricordarle all'utente (ancora aperte: g02, e01, g07).
 
 ## Struttura
