@@ -10,7 +10,7 @@ python3 ../tools/pagine.py
 python3 - <<'PY'
 import glob, re, subprocess, sys, json, os, tempfile
 
-parts = ["domande.js"] + sorted(glob.glob("d[0-9][0-9]_*.js")) + ["pagine.js"]
+parts = ["domande.js"] + sorted(glob.glob("d[0-9][0-9]_*.js")) + ["doppie.js", "pagine.js"]
 problemi = []
 
 # nomi di costanti dichiarati due volte in file diversi rompono tutto lo script
@@ -45,6 +45,11 @@ for (const d of DOMANDE) {
   if (testi[k]) out.warn.push("stesso testo " + testi[k] + " / " + d.id); testi[k] = d.id;
   out.per[d.s] = (out.per[d.s] || 0) + 1;
 }
+const inGruppo = {};
+(typeof DOPPIE === "undefined" ? [] : DOPPIE).forEach(g => g.forEach(id => {
+  if (!ids.has(id)) out.bad.push("doppie.js: id inesistente " + id);
+  if (inGruppo[id]) out.bad.push("doppie.js: " + id + " in più gruppi"); inGruppo[id] = 1;
+}));
 console.log(JSON.stringify(out));
 '''
 if not problemi:

@@ -128,10 +128,22 @@ srv.listen(8766, async () => {
   ok(await p.$('.hero') !== null, 'ricerca in attesa non riporta all\'archivio'); await p.click('[data-nav="archivio"]');
   await p.fill('#cerca', ''); await p.waitForTimeout(400);
   ok(await p.$('[data-ag]') === null, 'archivio senza raggruppamento per documento');
-  await p.click('details.topic summary'); await p.click('details.topic [data-tv]'); await p.click('.mitem a.matlink');
+  await p.click('details.topic summary'); await p.click('details.topic [data-tv]');
+  ok(!(await p.$eval('#mat', e => e.open)), 'materiale di riferimento chiuso a tendina'); await p.click('#mat summary'); await p.click('.mitem a.matlink');
   await p.waitForSelector('#pv-body canvas', { timeout: 15000 }).catch(() => {});
   ok(await p.$('#pv-body canvas') !== null, 'apri PDF dalla scheda argomento'); await p.click('#pv-next'); await p.waitForTimeout(800);
   ok((await p.$eval('#pv-pg', e => e.textContent)).startsWith('pag. 2'), 'pagina successiva nel visore'); await p.click('#pv-close');
+  // 7b) domande doppie: negli errori da ripassare contano una volta sola
+  const setStats = async st => {   // stessa copia sul dispositivo e online, così l'unione non aggiunge altro
+    const d = await p.evaluate(st => { const k = 'qpa.u.test-e2e', d = JSON.parse(localStorage.getItem(k)); d.stats = st; d.upd = Date.now() + 9e6; localStorage.setItem(k, JSON.stringify(d)); return d; }, st);
+    store['test-e2e'] = { nome: { stringValue: 'Test e2e' }, dati: { stringValue: JSON.stringify(d) } };
+  };
+  await setStats({ w74: { n: 1, ok: 0, last: 0, t: 1 }, in47: { n: 1, ok: 0, last: 0, t: 2 }, q55: { n: 1, ok: 0, last: 0 }, a01: { n: 1, ok: 0, last: 0 } });
+  await p.reload(); await p.waitForSelector('.tile');
+  const w1 = await p.$eval('[data-act="wrong"] b', e => e.textContent); ok(w1 === '2', 'doppie contate una volta negli errori (' + w1 + ')');
+  await setStats({ w74: { n: 1, ok: 0, last: 0, t: 1 }, in47: { n: 1, ok: 1, last: 1, t: 2 } });
+  await p.reload(); await p.waitForSelector('.tile');
+  ok((await p.$eval('[data-act="wrong"] b', e => e.textContent)) === '0', 'doppia risolta se la più recente è giusta');
   // 8) footer versione
   await p.click('[data-nav="home"]'); ok((await p.$eval('.footer', e => e.textContent)).includes('versione del'), 'versione in fondo alla pagina');
   ok(errs.length === 0, 'nessun errore JS ' + JSON.stringify(errs));

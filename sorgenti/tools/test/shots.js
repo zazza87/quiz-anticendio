@@ -32,7 +32,7 @@ srv.listen(8767, async () => {
   await p.click('[data-act="mix"]'); await p.click('[data-opt="0"]'); await shot('4correzione');
   await p.click('[data-act="exit"]'); await p.click('[data-act="endyes"]'); await shot('5risultato');
   await p.click('[data-nav="risultati"]'); await shot('6risultati');
-  await p.click('.bar'); await shot('7argomento');
+  await p.click('[data-nav="home"]'); await p.click('.trow'); await shot('7argomento');
   await p.click('[data-nav="archivio"]'); await shot('8archivio');
   await b.close(); srv.close();
 });

@@ -507,7 +507,20 @@ details.topic[open] > summary::after { content: "−"; }
 
   const isRight = it => it.ans !== null && it.order[it.ans] === byId[it.id].c;
   const lastResult = id => { const x = db.stats[id]; return !x ? "na" : x.last === 1 ? "ok" : "ko"; };
-  const wrongIds = () => Object.entries(db.stats).filter(([id, s]) => byId[id] && s.last === 0).map(([id]) => id);
+  // errori da ripassare: per le domande «doppie» (doppie.js) conta una volta sola il gruppo,
+  // secondo la risposta più recente data a una qualsiasi delle domande del gruppo
+  const GRUPPO = {};
+  (typeof DOPPIE === "undefined" ? [] : DOPPIE).forEach(g => g.forEach(id => { GRUPPO[id] = g[0]; }));
+  function wrongIds() {
+    const best = {};
+    Object.entries(db.stats).forEach(([id, st]) => {
+      if (!byId[id]) return;
+      const g = GRUPPO[id] || id, b = best[g];
+      const t = st.t || 0, bt = b ? b[1].t || 0 : -1;
+      if (!b || t > bt || (t === bt && st.last === 0)) best[g] = [id, st];
+    });
+    return Object.values(best).filter(([, st]) => st.last === 0).map(([id]) => id);
+  }
 
   function makeItems(ids) {
     return ids.map(id => {
@@ -599,7 +612,7 @@ details.topic[open] > summary::after { content: "−"; }
     showGrid: false, confirm: false,                      // quiz
     filter: "ko",                                         // correzione
     hIdx: null, resetAsk: false,               // risultati
-    tk: null, tf: "auto", prev: "home",                   // scheda argomento
+    tk: null, tf: "auto", prev: "home", matOpen: false,   // scheda argomento
     q: "",                                                // archivio
   };
   let timerH = null;
@@ -608,7 +621,7 @@ details.topic[open] > summary::after { content: "−"; }
   function go(view) { ui.view = view; ui.resetAsk = false; ui.discardAsk = false; render(); }
   function openTopic(k) {
     if (ui.view !== "argomento") ui.prev = ui.view;
-    ui.tk = k; ui.tf = "auto"; go("argomento");
+    ui.tk = k; ui.tf = "auto"; ui.matOpen = false; go("argomento");
   }
 
   function render() {
@@ -663,6 +676,7 @@ details.topic[open] > summary::after { content: "−"; }
       const st = db.stats[it.id] || { n: 0, ok: 0, last: null };
       st.n++;
       if (isRight(it)) { st.ok++; st.last = 1; } else st.last = 0;
+      st.t = s.stop;
       db.stats[it.id] = st;
     });
     if (counted.length) {
@@ -1024,8 +1038,7 @@ details.topic[open] > summary::after { content: "−"; }
     const sims = db.hist.filter(h => h.mode === "esame");
     const media = sims.length ? Math.round(sims.reduce((a, h) => a + h.ok / h.tot, 0) / sims.length * 100) : null;
     const best = sims.length ? sims.reduce((a, h) => h.ok / h.tot > a.ok / a.tot ? h : a) : null;
-    const ts = topicStats();
-    const hasStats = Object.keys(ts).length > 0;
+    const hasStats = Object.keys(db.stats).length > 0;
 
     const histRow = ({ h, i }) => {
       const p = pct(h.ok, h.tot), exam = h.mode === "esame";
@@ -1059,12 +1072,6 @@ details.topic[open] > summary::after { content: "−"; }
           ? `<div class="hlist">${rows.map(histRow).join("")}</div><p class="small muted">Tocca un test per rivedere domande, risposte date e correzione.</p>`
           : `<p class="muted">Non hai ancora concluso nessun test. Le simulazioni e le esercitazioni compariranno qui.</p>`}
 
-        ${hasStats ? `<section class="panel">
-          <h3>Risposte corrette per argomento</h3>
-          <p class="small muted">Tutte le risposte date, in simulazioni ed esercitazioni. Argomenti ordinati dal più debole; a destra la percentuale e il numero di risposte. Tocca un argomento per aprire domande e materiale.</p>
-          ${barsHtml(ts, (v, q) => `${q}% · ${v.n}`)}
-        </section>` : ""}
-
         ${db.hist.length || hasStats ? `<div class="row"><button class="linkbtn small" data-act="reset">Azzera i miei risultati</button></div>` : ""}
         ${ui.resetAsk ? confirmBox(`Cancellare lo storico dei test e le statistiche di ${esc(utente.nome)}, anche online?`, "resetyes", "Azzera", "resetno", "Annulla") : ""}
       </div>`);
@@ -1087,7 +1094,8 @@ details.topic[open] > summary::after { content: "−"; }
     const qs = DOMANDE.filter(d => d.s === k);
     let n = 0, ok = 0;
     qs.forEach(d => { const x = db.stats[d.id]; if (x) { n += x.n; ok += x.ok; } });
-    const errs = qs.filter(d => lastResult(d.id) === "ko"), mai = qs.filter(d => lastResult(d.id) === "na");
+    const daRipassare = new Set(wrongIds());
+    const errs = qs.filter(d => daRipassare.has(d.id)), mai = qs.filter(d => lastResult(d.id) === "na");
     const fc = {};
     qs.forEach(d => d.f.forEach(f => { fc[f] = (fc[f] || 0) + 1; }));
     const fonti = Object.entries(fc).sort((x, y) => y[1] - x[1]);
@@ -1117,11 +1125,13 @@ details.topic[open] > summary::after { content: "−"; }
           </div>
         </section>
 
-        <h2>Materiale di riferimento</h2>
-        ${conPdf.length ? `<div class="mlist">${conPdf.map(([f, c]) => `<div class="mitem">
+        ${conPdf.length ? `<details class="topic" id="mat" ${ui.matOpen ? "open" : ""}>
+          <summary><strong>Materiale di riferimento</strong><span class="n">${conPdf.length} ${conPdf.length === 1 ? "documento" : "documenti"}</span></summary>
+          <div class="mlist" style="padding:0 14px 14px">${conPdf.map(([f, c]) => `<div class="mitem">
             <strong>${esc(f)}</strong><span class="small muted mono">${c} dom.</span>
             <div class="files">${sourceLinks(f)}</div>
-          </div>`).join("")}</div>` : `<p class="muted small">Nessun PDF collegato a questo argomento.</p>`}
+          </div>`).join("")}</div>
+        </details>` : `<p class="muted small">Nessun materiale PDF collegato a questo argomento.</p>`}
 
         <div class="row">
           <h2>Domande</h2><span class="spacer"></span>
@@ -1136,6 +1146,9 @@ details.topic[open] > summary::after { content: "−"; }
           return `<div class="ritem ${st}"><div class="row small"><span class="st ${st}">${stLabel[st]}</span></div>${answerBlock(d)}</div>`;
         }).join("")}</div>` : `<p class="muted">Nessuna domanda in questo elenco.</p>`}
       </div>`);
+
+    const mat = document.getElementById("mat");
+    if (mat) mat.addEventListener("toggle", () => { ui.matOpen = mat.open; });
 
     onClick = b => {
       if (b.dataset.tf) { ui.tf = b.dataset.tf; return renderTopic(); }

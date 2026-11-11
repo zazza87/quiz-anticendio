@@ -13,9 +13,10 @@ Versione di prova su Claude: https://claude.ai/artifact/STYXQGvszpSuCrFaPJA8Tg
 ## Struttura
 - `public/` → ciò che va online: `index.html` (generato) e `materiale/<id>.pdf` (PDF compressi, max 15 MB l'uno).
 - `sorgenti/quiz/app.html` → interfaccia (HTML/CSS/JS in un file).
-- Accesso con il solo nome (niente password, scelta dell'utente): lo storico di ogni nome sta in Firestore, collezione `utenti`, documento = nome normalizzato (`slug`), campi `nome`, `dati` (JSON), `agg`; chiamate REST senza SDK. Copia locale in localStorage `qpa.u.<id>`, utente attivo in `qpa.utente`; vince la copia con `upd` più recente. I dati di prima del login (`qpa.v1`) passano nel primo account. Regole Firestore: solo get/create/update su `utenti/{id}`, niente list/delete.
+- Accesso con il solo nome (niente password, scelta dell'utente): lo storico di ogni nome sta in Firestore, collezione `utenti`, documento = nome normalizzato (`slug`), campi `nome`, `dati` (JSON), `agg`; chiamate REST senza SDK. Copia locale in localStorage `qpa.u.<id>`, utente attivo in `qpa.utente`; le due copie si uniscono con `merge()` (storico unito, statistiche della copia più aggiornata; `azz` = data dell'ultimo azzeramento, che vale anche per le altre copie). I dati di prima del login (`qpa.v1`) passano nel primo account. Regole Firestore: solo get/create/update su `utenti/{id}`, niente list/delete.
 - `sorgenti/quiz/domande.js` → `ARGOMENTI` (chiave → nome) e helper `D(id, argomento, [fonti], domanda, [opzioni], extra)`: la PRIMA opzione è la corretta, le opzioni vengono mescolate.
 - `sorgenti/quiz/dNN_*.js` → un file per blocco di materiale. Id unici; costanti con nomi unici fra i file.
+- `sorgenti/quiz/doppie.js` → gruppi di domande «doppie» (stesso concetto da fonti diverse, controllati a mano): negli errori da ripassare ogni gruppo conta una volta, secondo la risposta più recente. Quando si aggiungono domande, controllare se ripetono concetti già presenti e aggiungere il gruppo.
 - `sorgenti/tools/fonti.json` → nome fonte → id dei PDF in `public/materiale`; `sorgenti/mat/manifest.txt` → id|pagine|dimensione|nome originale.
 - `sorgenti/tools/pagine.py` → pagina «Ripassa sulla scheda» per ogni domanda (override in `pagine_manuali.json`).
 - `sorgenti/tools/shrink.py <src> <dst> maxpx quality` → comprime un PDF prima di metterlo in `public/materiale`.
