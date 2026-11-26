@@ -35,6 +35,11 @@ srv.listen(8766, async () => {
   await p.waitForFunction(() => document.getElementById('netst').textContent === 'salvato online', null, { timeout: 8000 }).catch(() => {});
   ok(remoto('mario-rossi') && remoto('mario-rossi').hist.length === 1 && remoto('mario-rossi').sess === null, 'storico vecchio migrato e salvato online');
   ok(await p.evaluate(() => localStorage.getItem('qpa.v1') === null), 'dati vecchi spostati nell\'account');
+  ok(Object.values(remoto('mario-rossi').uso.giorni).reduce((x, n) => x + n, 0) >= 1, 'utilizzo contato e salvato online');
+  // console: fuori dal sito Firebase dice che funziona solo lì, e non mostra dati
+  await p.click('[data-nav="console"]'); await p.waitForFunction(() => /solo sul sito/.test(document.body.textContent), null, { timeout: 8000 }).catch(() => {});
+  { const tx = await p.textContent('#app'); ok(/solo sul sito/.test(tx) && await p.$('details[data-id]') === null, 'console riservata: fuori dal sito non si apre: ' + tx.replace(/\s+/g, ' ').slice(0, 160)); }
+  await p.click('[data-act="back"]'); await p.waitForSelector('.userbar');
   // 1a) altro dispositivo: stesso nome (maiuscole e accenti diversi) ritrova lo storico
   await p.evaluate(() => localStorage.clear()); await p.reload();
   ok(await p.$('#importa') === null, 'nessun import se non ci sono dati vecchi');
@@ -43,7 +48,7 @@ srv.listen(8766, async () => {
   await p.click('[data-act="logout"]'); await entra('Anna Bianchi');
   ok(await badge() === '0', 'un altro nome ha lo storico vuoto');
   await p.click('[data-act="logout"]');
-  ok((await p.$$('[data-nome]')).length === 2, 'nomi usati su questo dispositivo');
+  { const nn = (await p.$$('[data-nome]')).length; ok(nn === 2, 'nomi usati su questo dispositivo (' + nn + ')'); }
   // 1a2) senza rete: si entra lo stesso con la copia del dispositivo
   offline = true;
   await p.click('[data-nome="Mario Rossi"]'); await p.waitForSelector('.userbar');
@@ -150,6 +155,29 @@ srv.listen(8766, async () => {
   await setStats({ w74: { n: 1, ok: 0, last: 0, t: 1 }, in47: { n: 1, ok: 1, last: 1, t: 2 } });
   await p.reload(); await p.waitForSelector('.tile');
   ok((await p.$eval('[data-act="wrong"] b', e => e.textContent)) === '0', 'doppia risolta se la più recente è giusta');
+  // 7c) console con accesso Google simulato: elenco di chi ha usato l'app
+  await p.route(/__\/firebase\/init\.json/, rt => rt.fulfill({ status: 200, contentType: 'application/json', body: '{"apiKey":"x","authDomain":"x","projectId":"quiz-anticendio"}' }));
+  let admin = true;
+  await p.route(/gstatic\.com\/firebasejs\/.*firebase-app\.js/, rt => rt.fulfill({ status: 200, contentType: 'text/javascript', headers: { 'access-control-allow-origin': '*' }, body: 'export const initializeApp = () => ({});' }));
+  await p.route(/gstatic\.com\/firebasejs\/.*firebase-auth\.js/, rt => rt.fulfill({ status: 200, contentType: 'text/javascript', headers: { 'access-control-allow-origin': '*' }, body: `
+    const U = { email: 'proprietario@example.com', getIdToken: async () => 'tok' }; let cur = null;
+    export const getAuth = () => ({}); export class GoogleAuthProvider {}
+    export const onAuthStateChanged = (a, cb) => { setTimeout(() => cb(cur)); return () => {}; };
+    export const signInWithPopup = async () => { cur = U; return { user: U }; };
+    export const signOut = async () => { cur = null; };` }));
+  await p.route(/firestore\.googleapis\.com\/.*\/documents\/utenti\?/, (rt, req) => {
+    const h = { 'access-control-allow-origin': '*', 'access-control-allow-headers': 'authorization' };
+    if (req.method() === 'OPTIONS') return rt.fulfill({ status: 204, headers: h });
+    if (!admin || !req.headers()['authorization']) return rt.fulfill({ status: 403, headers: h, contentType: 'application/json', body: '{"error":{"message":"Missing or insufficient permissions."}}' });
+    rt.fulfill({ status: 200, headers: h, contentType: 'application/json', body: JSON.stringify({ documents: Object.entries(store).map(([id, f]) => ({ name: 'projects/x/databases/(default)/documents/utenti/' + id, fields: f, createTime: '2026-11-20T10:00:00Z', updateTime: '2026-11-26T10:00:00Z' })) }) });
+  });
+  await p.click('[data-nav="console"]'); await p.waitForSelector('[data-act="admin"]');
+  admin = false; await p.click('[data-act="admin"]'); await p.waitForFunction(() => /Accesso riservato/.test(document.body.textContent));
+  ok(await p.$('details[data-id]') === null, 'console: account non autorizzato non vede nulla');
+  await p.click('[data-act="admout"]'); admin = true; await p.click('[data-act="admin"]'); await p.waitForSelector('details[data-id]');
+  const nUt = (await p.$$('details[data-id]')).length;
+  ok(nUt === Object.keys(store).length && /utilizz/.test(await p.textContent('details[data-id] summary')), 'console: elenco di ' + nUt + ' persone con utilizzi');
+  await p.click('[data-act="back"]');
   // 8) footer versione
   await p.click('[data-nav="home"]'); ok((await p.$eval('.footer', e => e.textContent)).includes('versione del'), 'versione in fondo alla pagina');
   ok(errs.length === 0, 'nessun errore JS ' + JSON.stringify(errs));

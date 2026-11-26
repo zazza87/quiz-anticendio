@@ -366,26 +366,42 @@ details.topic[open] > summary::after { content: "−"; }
       if (!sess.items.length) sess = null;     // niente da riprendere né da correggere
       else sess.cur = Math.min(Math.max(0, sess.cur || 0), sess.items.length - 1);
     }
-    return { stats: s.stats || {}, hist, sess, upd: s.upd || 0, azz: s.azz || 0 };
+    const uso = s.uso && s.uso.giorni ? s.uso : { giorni: {} };   // aperture dell'app per giorno (AAAA-MM-GG)
+    return { stats: s.stats || {}, hist, sess, upd: s.upd || 0, azz: s.azz || 0, uso };
   }
 
   // unisce la copia del dispositivo e quella online, così un test fatto senza rete
   // non cancella quelli fatti nel frattempo su un altro dispositivo
   function merge(a, b) {
     const newer = (a.upd || 0) >= (b.upd || 0) ? a : b, older = newer === a ? b : a;
-    if ((newer.azz || 0) > (older.upd || 0)) return newer;          // azzerato dopo l'ultima modifica dell'altra copia
+    // utilizzi: per ogni giorno il conteggio più alto fra le due copie (l'azzeramento non li tocca)
+    const giorni = { ...((older.uso || {}).giorni || {}) };
+    Object.entries((newer.uso || {}).giorni || {}).forEach(([g, n]) => { giorni[g] = Math.max(giorni[g] || 0, n); });
+    if ((newer.azz || 0) > (older.upd || 0)) return { ...newer, uso: { giorni } };   // azzerato dopo l'ultima modifica dell'altra copia
+    const A = Math.max(a.azz || 0, b.azz || 0);   // ultimo azzeramento noto
     const seen = new Set(), hist = [];
     [...newer.hist, ...older.hist].forEach(h => {
       const k = h.t + "|" + h.mode + "|" + h.tot;
-      if (h.t > (newer.azz || 0) && !seen.has(k)) { seen.add(k); hist.push(h); }
+      if (h.t > A && !seen.has(k)) { seen.add(k); hist.push(h); }
     });
     hist.sort((x, y) => y.t - x.t);
     hist.length = Math.min(hist.length, STORICO_MAX);
     const stats = (older.azz || 0) >= (newer.azz || 0) ? { ...older.stats } : {};   // l'altra copia aveva visto l'azzeramento
     Object.entries(newer.stats).forEach(([id, st]) => { const o = stats[id]; if (!o || st.n >= o.n) stats[id] = st; });
-    return { stats, hist, sess: newer.sess, upd: Math.max(a.upd || 0, b.upd || 0), azz: Math.max(a.azz || 0, b.azz || 0) };
+    return { stats, hist, sess: newer.sess, upd: Math.max(a.upd || 0, b.upd || 0), azz: Math.max(a.azz || 0, b.azz || 0), uso: { giorni } };
   }
-  const same = (a, b) => JSON.stringify([a.stats, a.hist, a.sess, a.azz]) === JSON.stringify([b.stats, b.hist, b.sess, b.azz]);
+  const same = (a, b) => JSON.stringify([a.stats, a.hist, a.sess, a.azz, a.uso]) === JSON.stringify([b.stats, b.hist, b.sess, b.azz, b.uso]);
+  const oggi = () => { const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`; };
+  // un utilizzo = un'apertura dell'app (o un accesso) con il proprio nome.
+  // Non cambia «upd»: conta solo per i dati del quiz, e le copie si uniscono giorno per giorno.
+  function contaUtilizzo() {
+    if (!utente) return;
+    const g = oggi();
+    db.uso.giorni[g] = (db.uso.giorni[g] || 0) + 1;
+    lsSet(K_DATI(utente.id), JSON.stringify(db));
+    clearTimeout(net.timer);
+    net.timer = setTimeout(push, 1500);
+  }
   const isEmpty = d => !d.hist.length && !d.sess && !Object.keys(d.stats).length;
 
   let utente = jsonOr(lsGet(K_UTENTE), null);           // { id, nome } oppure null
@@ -485,11 +501,11 @@ details.topic[open] > summary::after { content: "−"; }
     lsSet(K_UTENTE, JSON.stringify(utente));
     const nomi = jsonOr(lsGet(K_NOMI), []).filter(n => slug(n) !== id);
     lsSet(K_NOMI, JSON.stringify([utente.nome, ...nomi].slice(0, 6)));
+    db.uso.giorni[oggi()] = (db.uso.giorni[oggi()] || 0) + 1;   // l'accesso conta come utilizzo
     lsSet(K_DATI(id), JSON.stringify(db));
     // senza rete non si sovrascrive la copia online: ci pensa pull() quando torna la connessione
     if (errore) setNet("offline");
-    else if (!online || !same(db, online)) push();
-    else setNet("ok");
+    else push();
     ui.view = "home"; avvio();
   }
   async function logout() {
@@ -633,7 +649,8 @@ details.topic[open] > summary::after { content: "−"; }
   function render() {
     clearInterval(timerH);
     const sess = db.sess;
-    if (!utente) { ui.view = "login"; renderLogin(); }
+    if (ui.view === "console") renderConsole();
+    else if (!utente) { ui.view = "login"; renderLogin(); }
     else if (ui.view === "quiz" && sess && !sess.done) renderQuiz();
     else if (ui.view === "result" && sess) renderResult(sess, false);
     else if (ui.view === "dettaglio" && db.hist[ui.hIdx] && db.hist[ui.hIdx].items) renderResult(histSess(db.hist[ui.hIdx]), true);
@@ -704,6 +721,133 @@ details.topic[open] > summary::after { content: "−"; }
   }
 
   // =====================================================================
+  // Vista: Console riservata (chi ha usato l'app e quante volte)
+  // Accesso con Google; le regole di Firestore permettono l'elenco degli
+  // utenti solo all'indirizzo del proprietario, quindi nessun indirizzo è scritto qui.
+  // =====================================================================
+  const FB = "https://www.gstatic.com/firebasejs/10.12.2/";
+  const adm = { auth: null, user: null, rows: null, err: "", busy: false, open: null };
+  // prepara l'accesso Google una volta sola (le chiamate successive riusano la stessa promessa)
+  function admAuth() {
+    if (!adm.ready) adm.ready = admInit().catch(e => { adm.ready = null; throw e; });
+    return adm.ready;
+  }
+  async function admInit() {
+    const r = await fetch("/__/firebase/init.json", { cache: "no-store" });
+    if (!r.ok) throw new Error("config");
+    const cfg = await r.json();
+    const { initializeApp } = await import(FB + "firebase-app.js");
+    const fa = await import(FB + "firebase-auth.js");
+    adm.fa = fa;
+    adm.auth = fa.getAuth(initializeApp(cfg, "console"));
+    await new Promise(res => { const off = fa.onAuthStateChanged(adm.auth, u => { adm.user = u; off(); res(); }); });
+    return adm;
+  }
+  async function admLoad() {
+    adm.busy = true; adm.err = ""; renderConsole();
+    try {
+      await admAuth();
+      if (!adm.user) { adm.busy = false; return renderConsole(); }
+      const tok = await adm.user.getIdToken();
+      let docs = [], next = "";
+      do {
+        const r = await fetch(FS_DOC.replace(/\/$/, "") + "?pageSize=300" + (next ? "&pageToken=" + encodeURIComponent(next) : ""), { headers: { Authorization: "Bearer " + tok }, cache: "no-store" });
+        if (r.status === 403 || r.status === 401) throw new Error("negato");
+        if (!r.ok) throw new Error("http " + r.status);
+        const j = await r.json();
+        docs = docs.concat(j.documents || []); next = j.nextPageToken || "";
+      } while (next);
+      adm.rows = docs.map(x => {
+        const f = x.fields || {}, d = parseDb(jsonOr(f.dati && f.dati.stringValue, {}));
+        const giorni = d.uso.giorni, aperture = Object.values(giorni).reduce((a, n) => a + n, 0);
+        const sims = d.hist.filter(h => h.mode === "esame");
+        return {
+          id: x.name.split("/").pop(), nome: (f.nome && f.nome.stringValue) || "?",
+          creato: x.createTime, ultimo: x.updateTime, aperture, nGiorni: Object.keys(giorni).length, giorni,
+          test: d.hist.length, sims: sims.length, prat: d.hist.length - sims.length,
+          media: sims.length ? Math.round(sims.reduce((a, h) => a + h.ok / h.tot, 0) / sims.length * 100) : null,
+          risposte: Object.values(d.stats).reduce((a, st) => a + (st.n || 0), 0), hist: d.hist,
+          inCorso: !!(d.sess && !d.sess.done),
+        };
+      }).sort((a, b) => (b.ultimo || "").localeCompare(a.ultimo || ""));
+    } catch (e) {
+      adm.err = e.message === "negato" ? "negato" : e.message === "config" ? "config" : "errore";
+      adm.rows = null;
+    }
+    adm.busy = false; if (ui.view === "console") renderConsole();
+  }
+  const quando = iso => iso ? new Date(iso).toLocaleString("it-IT", { day: "2-digit", month: "2-digit", year: "numeric", hour: "2-digit", minute: "2-digit" }) : "–";
+  function renderConsole() {
+    const back = utente ? tabs("") : "";
+    let body;
+    if (adm.busy || adm.pending) body = `<p class="muted">Caricamento…</p>`;
+    else if (adm.err === "config") body = `<div class="note">La console funziona solo sul sito <strong>quiz-anticendio.web.app</strong>, non nella versione di prova.</div>`;
+    else if (adm.err === "negato") body = `<div class="note"><strong>Accesso riservato.</strong> Questo account Google non è autorizzato a vedere la console.</div>
+      <div class="row"><button class="btn" data-act="admout">Esci da Google</button></div>`;
+    else if (adm.err) body = `<div class="note">Impossibile leggere i dati in questo momento. Controlla la connessione e riprova.</div><div class="row"><button class="btn" data-act="admload">Riprova</button></div>`;
+    else if (!adm.user) body = `<p class="small muted">Riservata al proprietario del quiz: accedi con il tuo account Google.</p>
+      <div class="row"><button class="btn primary" data-act="admin">Accedi con Google</button></div>`;
+    else if (!adm.rows) body = `<div class="row"><button class="btn primary" data-act="admload">Carica i dati</button></div>`;
+    else {
+      const R = adm.rows, tot = k => R.reduce((a, r) => a + r[k], 0);
+      body = `
+        <div class="facts">
+          <div class="fact"><b class="mono">${R.length}</b><span>${R.length === 1 ? "persona" : "persone"}</span></div>
+          <div class="fact"><b class="mono">${tot("aperture")}</b><span>utilizzi</span></div>
+          <div class="fact"><b class="mono">${tot("test")}</b><span>test conclusi</span></div>
+          <div class="fact"><b class="mono">${tot("risposte")}</b><span>risposte date</span></div>
+        </div>
+        <p class="small muted" style="margin:0">Utilizzi = aperture dell'app con il proprio nome, contate dal 26/11/2026. Test e risposte comprendono anche quelli fatti prima.</p>
+        <div class="stack" style="gap:8px">
+          ${R.length ? R.map((r, i) => `<details class="topic" ${adm.open === r.id ? "open" : ""} data-id="${esc(r.id)}">
+            <summary><strong>${esc(r.nome)}</strong><span class="n">${r.aperture} ${r.aperture === 1 ? "utilizzo" : "utilizzi"} · ${r.test} test</span></summary>
+            <div class="stack" style="padding:0 14px 14px;gap:8px">
+              <div class="small">Ultima attività: <strong>${quando(r.ultimo)}</strong> · primo accesso: ${quando(r.creato)}</div>
+              <div class="small">Giorni di utilizzo: ${r.nGiorni}${r.nGiorni ? " (" + Object.entries(r.giorni).sort((a, b) => b[0].localeCompare(a[0])).slice(0, 10).map(([g, n]) => `${g.split("-").reverse().join("/")}: ${n}`).join(", ") + (r.nGiorni > 10 ? ", …" : "") + ")" : ""}</div>
+              <div class="small">Simulazioni: ${r.sims}${r.media !== null ? ` (media ${r.media}%)` : ""} · esercitazioni: ${r.prat} · risposte date: ${r.risposte}${r.inCorso ? " · test in corso" : ""}</div>
+              ${r.hist.length ? `<div class="small muted">Ultimi test: ${r.hist.slice(0, 8).map(h => `${dateIt(h.t)} ${h.mode === "esame" ? "simulazione" : "esercitazione"} ${h.ok}/${h.tot}`).join(" · ")}</div>` : ""}
+            </div>
+          </details>`).join("") : `<p class="muted">Nessuno ha ancora fatto l'accesso.</p>`}
+        </div>
+        <div class="row"><button class="btn" data-act="admload">Aggiorna</button><span class="spacer"></span><span class="small muted">${esc(adm.user.email || "")}</span><button class="linkbtn small" data-act="admout">Esci da Google</button></div>`;
+    }
+    paint(`
+      <header class="mast">
+        <div class="row"><button class="btn ghost" data-act="back">‹ Indietro</button></div>
+        <span class="eyebrow">Riservata</span>
+        <h1>Console utilizzo</h1>
+      </header>
+      <div class="stack">${body}</div>
+      ${back}`);
+    app.querySelectorAll("details[data-id]").forEach(d => d.addEventListener("toggle", () => { if (d.open) adm.open = d.dataset.id; else if (adm.open === d.dataset.id) adm.open = null; }));
+    onClick = async b => {
+      switch (b.dataset.act) {
+        case "back": return go(utente ? "home" : "login");
+        case "admload": return admLoad();
+        case "admin":
+          try {
+            await admAuth();
+            const r = await adm.fa.signInWithPopup(adm.auth, new adm.fa.GoogleAuthProvider());
+            adm.user = r.user; return admLoad();
+          } catch (e) {
+            adm.err = e.message === "config" ? "config" : (e.code === "auth/popup-closed-by-user" ? "" : "errore"); return renderConsole();
+          }
+        case "admout":
+          try { if (adm.auth) await adm.fa.signOut(adm.auth); } catch (e) { /* ignorato */ }
+          adm.user = null; adm.rows = null; adm.err = ""; return renderConsole();
+      }
+    };
+    // all'apertura: se c'è già un accesso Google salvato, carica subito
+    if (!adm.busy && !adm.rows && !adm.err && !adm.checked) {
+      adm.checked = true; adm.pending = true;
+      const fine = () => { adm.pending = false; if (ui.view === "console") renderConsole(); };
+      admAuth().then(() => { adm.pending = false; if (adm.user) admLoad(); else fine(); })
+        .catch(e => { adm.err = e.message === "config" ? "config" : "errore"; fine(); });
+      renderConsole();
+    }
+  }
+
+  // =====================================================================
   // Vista: Accesso con il solo nome
   // =====================================================================
   function renderLogin(msg) {
@@ -727,6 +871,7 @@ details.topic[open] > summary::after { content: "−"; }
           <span class="small muted">Usati su questo dispositivo</span>
           <div class="row">${nomi.map(n => `<button class="btn" data-nome="${esc(n)}">${esc(n)}</button>`).join("")}</div>
         </div>` : ""}
+        <p class="footer" style="text-align:center"><button class="linkbtn small" data-nav="console">Console</button></p>
       </div>`);
     const f = document.getElementById("flogin"), inp = document.getElementById("nome");
     const entra = async nome => {
@@ -811,7 +956,7 @@ details.topic[open] > summary::after { content: "−"; }
         </div>
         ${rows.length > 8 ? `<div class="row"><button class="linkbtn small" data-act="alltopics">${ui.allTopics ? "Mostra meno" : `Mostra tutti gli argomenti (${rows.length})`}</button></div>` : ""}
 
-        <p class="footer">${tot} domande tratte dai test e dal materiale del corso${VERSIONE ? " · versione del " + VERSIONE : ""}. I risultati sono legati al tuo nome e salvati online.</p>
+        <p class="footer">${tot} domande tratte dai test e dal materiale del corso${VERSIONE ? " · versione del " + VERSIONE : ""}. I risultati sono legati al tuo nome e salvati online. <button class="linkbtn small" data-nav="console">Console</button></p>
       </div>
       ${tabs("home")}`);
 
@@ -1352,6 +1497,7 @@ details.topic[open] > summary::after { content: "−"; }
     if (db.sess && !db.sess.done && db.sess.mode === "esame" && Date.now() > db.sess.end) finish();
     else render();
   }
+  if (utente) contaUtilizzo();
   avvio();
   pull();
 })();
